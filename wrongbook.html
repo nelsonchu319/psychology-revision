@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wrong Book / 錯題簿 · Psych Revision</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="logo" href="index.html">Psych<span>Revision</span></a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="chapters/ch1.html">Ch 1</a>
+        <a href="chapters/ch2.html">Ch 2</a>
+        <a href="chapters/ch3.html">Ch 3</a>
+        <a href="chapters/ch4.html">Ch 4</a>
+        <a href="chapters/ch5.html">Ch 5</a>
+        <a href="chapters/ch6.html">Ch 6</a>
+        <a href="quiz.html">Random Quiz</a>
+        <a class="active" href="wrongbook.html">錯題簿 <span class="wrongbook-badge" hidden></span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <span class="badge">localStorage</span>
+      <h1>錯題簿 Wrong Book</h1>
+      <p>答錯的練習題會自動存在這個瀏覽器的 <code>localStorage</code>（不會上傳伺服器）。可篩選、重做、移除或清空。</p>
+      <p class="meta">目前共 <strong id="wb-total">0</strong> 題 · 篩選後 <strong id="wb-filtered">0</strong> 題</p>
+    </section>
+
+    <div class="wb-toolbar">
+      <label>Chapter
+        <select id="wb-ch">
+          <option value="all">All</option>
+          <option value="1">Ch 1</option>
+          <option value="2">Ch 2</option>
+          <option value="3">Ch 3</option>
+          <option value="4">Ch 4</option>
+          <option value="5">Ch 5</option>
+          <option value="6">Ch 6</option>
+        </select>
+      </label>
+      <label>Level
+        <select id="wb-lv">
+          <option value="all">All</option>
+          <option value="1">L1</option>
+          <option value="2">L2</option>
+          <option value="3">L3</option>
+          <option value="4">L4</option>
+        </select>
+      </label>
+      <button type="button" class="btn-primary" id="wb-practice-all">重做篩選中的全部</button>
+      <button type="button" class="btn-ghost" id="wb-clear">清空錯題簿</button>
+    </div>
+
+    <section class="section">
+      <h2>Saved wrongs</h2>
+      <div id="wb-list"></div>
+    </section>
+
+    <section class="section">
+      <h2>Re-practice</h2>
+      <div id="wb-practice"><p class="cmap-detail">點「重做這題」或「重做篩選中的全部」開始。</p></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    Wrong answers stay in your browser only. Clearing site data wipes the wrong book.
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>
+    PsychRevision.initWrongBookPage({
+      listEl: document.getElementById("wb-list"),
+      practiceEl: document.getElementById("wb-practice"),
+      chapterSelect: document.getElementById("wb-ch"),
+      levelSelect: document.getElementById("wb-lv"),
+      practiceAllBtn: document.getElementById("wb-practice-all"),
+      clearBtn: document.getElementById("wb-clear"),
+      countEl: document.getElementById("wb-total"),
+      filteredCountEl: document.getElementById("wb-filtered")
+    });
+  </script>
+</body>
+</html>

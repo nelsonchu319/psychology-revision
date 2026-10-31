@@ -1,0 +1,22 @@
+# Large OpenStax source PDFs / extracts (not needed to run the site)
+source/
+
+# Python
+tools/__pycache__/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local archives / logs
+*.log
+psychology-revision-site.tar.gz
