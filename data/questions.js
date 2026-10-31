@@ -236,699 +236,6 @@ window.PSYCH_QUESTIONS = [
     "id": "c1-l2-05"
   },
   {
-    "chapter": 2,
-    "level": 1,
-    "section": "2.1",
-    "question": "In the scientific method, a testable prediction derived from a theory is a:",
-    "options": [
-      "Placebo",
-      "IRB",
-      "Opinion",
-      "Hypothesis"
-    ],
-    "correct": 3,
-    "correctFeedback": "A hypothesis is a specific, testable prediction.",
-    "wrongFeedback": {
-      "0": "A placebo is an inactive treatment control, not a hypothesis.",
-      "1": "An IRB reviews ethics; it is not a prediction.",
-      "2": "Opinions are personal judgments, not necessarily testable predictions."
-    },
-    "page": 36,
-    "id": "c2-l1-01"
-  },
-  {
-    "chapter": 2,
-    "level": 1,
-    "section": "2.3",
-    "question": "Which design manipulates an independent variable and uses random assignment?",
-    "options": [
-      "Pure correlation study",
-      "Uncontrolled case study",
-      "Experiment",
-      "Archival study only"
-    ],
-    "correct": 2,
-    "correctFeedback": "Experiments manipulate the IV and typically randomly assign participants to conditions.",
-    "wrongFeedback": {
-      "0": "Correlations measure association without manipulation.",
-      "1": "Case studies usually lack experimental control/random assignment.",
-      "3": "Archival research uses existing records without manipulation."
-    },
-    "page": 54,
-    "id": "c2-l1-02"
-  },
-  {
-    "chapter": 2,
-    "level": 1,
-    "section": "2.3",
-    "question": "A correlation coefficient of -0.85 indicates:",
-    "options": [
-      "A perfect positive relationship",
-      "No relationship",
-      "A strong negative relationship",
-      "A weak positive relationship"
-    ],
-    "correct": 2,
-    "correctFeedback": "Values near -1 mean a strong inverse association.",
-    "wrongFeedback": {
-      "0": "+1 would be perfect positive; this is strong negative.",
-      "1": "Zero would mean no linear relationship.",
-      "3": "Negative sign means inverse, not positive; 0.85 magnitude is strong."
-    },
-    "page": 48,
-    "id": "c2-l1-03"
-  },
-  {
-    "chapter": 2,
-    "level": 1,
-    "section": "2.3",
-    "question": "Correlation alone cannot establish causation mainly because of:",
-    "options": [
-      "Directionality and possible third-variable (confound) problems",
-      "The impossibility of measuring two variables",
-      "IRBs banning all correlations — a common but inaccurate claim",
-      "Means always equaling medians"
-    ],
-    "correct": 0,
-    "correctFeedback": "We may not know what causes what, and uncontrolled variables may drive the link.",
-    "wrongFeedback": {
-      "1": "We can measure two variables; inference is the issue.",
-      "2": "Correlational work is commonly IRB-approved when ethical.",
-      "3": "Central tendency facts are unrelated to causal limits."
-    },
-    "page": 48,
-    "id": "c2-l1-04"
-  },
-  {
-    "chapter": 2,
-    "level": 1,
-    "section": "2.4",
-    "question": "Before most human research begins in universities, a proposal is reviewed by an:",
-    "options": [
-      "Advertising agency",
-      "IRB (Institutional Review Board)",
-      "Sports committee",
-      "IACUC only for humans"
-    ],
-    "correct": 1,
-    "correctFeedback": "IRBs review human-subjects research for ethical compliance.",
-    "wrongFeedback": {
-      "0": "Ads do not provide ethical scientific review.",
-      "2": "Irrelevant to research ethics review.",
-      "3": "IACUC oversees animal care/use, not typical human IRB review."
-    },
-    "page": 58,
-    "id": "c2-l1-05"
-  },
-  {
-    "chapter": 2,
-    "level": 1,
-    "section": "2.3",
-    "question": "Reliability refers to _____; validity refers to _____.",
-    "options": [
-      "Consistency; accuracy (measuring the intended construct)",
-      "Mean; mode",
-      "Sample size; population size",
-      "Accuracy; consistency"
-    ],
-    "correct": 0,
-    "correctFeedback": "Reliable measures are consistent; valid measures assess what they claim to assess.",
-    "wrongFeedback": {
-      "1": "Mean/mode are descriptive stats, not reliability/validity.",
-      "2": "Those are sampling concepts, not reliability/validity definitions.",
-      "3": "That reverses the definitions."
-    },
-    "page": 58,
-    "id": "c2-l1-06"
-  },
-  {
-    "chapter": 2,
-    "level": 2,
-    "section": "2.1",
-    "question": "Deductive reasoning in research typically moves:",
-    "options": [
-      "From general theory to specific hypothesis/predictions",
-      "From one anecdote to universal law with no test",
-      "From p-values to IRB approval automatically",
-      "From deception to omitting debriefing"
-    ],
-    "correct": 0,
-    "correctFeedback": "Deduction: theory to specific testable predictions; induction builds broader claims from data.",
-    "wrongFeedback": {
-      "1": "Anecdote-to-law without testing is not scientific deduction.",
-      "2": "Stats and ethics are separate processes.",
-      "3": "Deception requires justification and debriefing, not omission."
-    },
-    "page": 38,
-    "id": "c2-l2-01"
-  },
-  {
-    "chapter": 2,
-    "level": 2,
-    "section": "2.3",
-    "question": "Why does random assignment strengthen causal inference?",
-    "options": [
-      "It guarantees a representative national sample",
-      "It makes double-blind designs unnecessary",
-      "It balances confounds across groups on average",
-      "It eliminates the need for a control group"
-    ],
-    "correct": 2,
-    "correctFeedback": "Random assignment distributes known/unknown confounds across conditions stochastically.",
-    "wrongFeedback": {
-      "0": "Random sampling aids representativeness; assignment aids internal validity.",
-      "1": "Blinding still reduces expectancy effects.",
-      "3": "Control/comparison groups remain essential."
-    },
-    "page": 54,
-    "id": "c2-l2-02"
-  },
-  {
-    "chapter": 2,
-    "level": 2,
-    "section": "2.2",
-    "question": "Longitudinal designs are especially useful for studying development because they:",
-    "options": [
-      "Always avoid attrition",
-      "Are cheaper than one-shot surveys",
-      "Follow the same people over time, tracking within-person change",
-      "Eliminate cohort effects automatically in cross-sectional comparisons"
-    ],
-    "correct": 2,
-    "correctFeedback": "Repeated measures on the same individuals reveal change trajectories.",
-    "wrongFeedback": {
-      "0": "Attrition is a major risk in longitudinal work.",
-      "1": "Longitudinal studies are typically costlier/time-intensive.",
-      "3": "Cohort effects are a cross-sectional concern; longitudinal has other threats."
-    },
-    "page": 46,
-    "id": "c2-l2-03"
-  },
-  {
-    "chapter": 2,
-    "level": 2,
-    "section": "2.3",
-    "question": "A scale yields the same score every retest but tracks shoe size instead of depression. It is:",
-    "options": [
-      "Valid but unreliable",
-      "Neither reliable nor consistent",
-      "Perfectly construct-valid",
-      "Reliable but not valid for depression"
-    ],
-    "correct": 3,
-    "correctFeedback": "Consistency without measuring the intended construct = reliability without validity.",
-    "wrongFeedback": {
-      "0": "It is consistent (reliable) but wrong construct (invalid).",
-      "1": "It is consistent, so reliability is high.",
-      "2": "Wrong construct means poor validity for depression."
-    },
-    "page": 58,
-    "id": "c2-l2-04"
-  },
-  {
-    "chapter": 2,
-    "level": 2,
-    "section": "2.4",
-    "question": "Deception in experiments is ethically acceptable only when:",
-    "options": [
-      "The researcher finds consent forms annoying",
-      "Justified by significant scientific value, minimal harm, and followed by debriefing (per IRB rules)",
-      "Participants are never told the truth afterward",
-      "It is used to embarrass participants for fun"
-    ],
-    "correct": 1,
-    "correctFeedback": "IRBs allow limited deception with justification, risk limits, and debriefing.",
-    "wrongFeedback": {
-      "0": "Convenience is not an ethical justification.",
-      "2": "Debriefing is required after deception.",
-      "3": "Harmful humiliation violates beneficence/respect."
-    },
-    "page": 60,
-    "id": "c2-l2-05"
-  },
-  {
-    "chapter": 3,
-    "level": 1,
-    "section": "3.1",
-    "question": "Genotype refers to _____; phenotype refers to _____.",
-    "options": [
-      "Genetic makeup; expressed traits",
-      "Hormones only; neurons only",
-      "Only environment; only culture",
-      "Expressed traits; genetic makeup"
-    ],
-    "correct": 0,
-    "correctFeedback": "Genotype is genetic constitution; phenotype is observable/expressed characteristics.",
-    "wrongFeedback": {
-      "1": "Hormones/neurons are systems, not the genotype/phenotype distinction.",
-      "2": "Both genes and environment shape phenotype; terms are not culture synonyms.",
-      "3": "That reverses the terms."
-    },
-    "page": 74,
-    "id": "c3-l1-01"
-  },
-  {
-    "chapter": 3,
-    "level": 1,
-    "section": "3.2",
-    "question": "The part of the neuron that typically receives signals from other neurons is the:",
-    "options": [
-      "Dendrite",
-      "Heart valve",
-      "Adrenal cortex",
-      "Myelin only"
-    ],
-    "correct": 0,
-    "correctFeedback": "Dendrites receive synaptic input; axons typically send signals.",
-    "wrongFeedback": {
-      "1": "Irrelevant anatomy.",
-      "2": "Endocrine tissue, not a neuronal receiving branch.",
-      "3": "Myelin insulates axons; it is not the primary receiving structure."
-    },
-    "page": 78,
-    "id": "c3-l1-02"
-  },
-  {
-    "chapter": 3,
-    "level": 1,
-    "section": "3.2",
-    "question": "An action potential is best described as:",
-    "options": [
-      "A type of glial scar exclusively",
-      "An all-or-none electrochemical spike traveling down the axon",
-      "A permanent change in DNA sequence",
-      "A graded hormone drip only, contrary to the chapter definition"
-    ],
-    "correct": 1,
-    "correctFeedback": "Action potentials are all-or-none electrical events along the axon.",
-    "wrongFeedback": {
-      "0": "Glia support neurons; scars are not action potentials.",
-      "2": "DNA sequence changes are mutations, not spikes.",
-      "3": "Hormones are chemical messengers in blood; different mechanism."
-    },
-    "page": 80,
-    "id": "c3-l1-03"
-  },
-  {
-    "chapter": 3,
-    "level": 1,
-    "section": "3.3",
-    "question": "The CNS consists of the:",
-    "options": [
-      "Brain and spinal cord",
-      "Pituitary and thyroid only",
-      "Only spinal nerves outside the vertebrae",
-      "Sympathetic nerves alone"
-    ],
-    "correct": 0,
-    "correctFeedback": "Central nervous system = brain + spinal cord.",
-    "wrongFeedback": {
-      "1": "Those are endocrine glands.",
-      "2": "Peripheral nerves are PNS.",
-      "3": "Sympathetic is an autonomic PNS division."
-    },
-    "page": 84,
-    "id": "c3-l1-04"
-  },
-  {
-    "chapter": 3,
-    "level": 1,
-    "section": "3.3",
-    "question": "Fight-or-flight activation is primarily the job of the:",
-    "options": [
-      "Sympathetic nervous system",
-      "Parasympathetic nervous system",
-      "Occipital lobe alone",
-      "Schwann cells only"
-    ],
-    "correct": 0,
-    "correctFeedback": "Sympathetic branch mobilizes energy for emergencies; parasympathetic restores rest-and-digest.",
-    "wrongFeedback": {
-      "1": "Parasympathetic conserves/restores.",
-      "2": "Occipital lobe is visual cortex.",
-      "3": "Schwann cells myelinate PNS axons."
-    },
-    "page": 84,
-    "id": "c3-l1-05"
-  },
-  {
-    "chapter": 3,
-    "level": 1,
-    "section": "3.4",
-    "question": "Which lobe is most associated with visual processing?",
-    "options": [
-      "Frontal",
-      "Temporal only for vision exclusively",
-      "Parietal only for vision exclusively",
-      "Occipital"
-    ],
-    "correct": 3,
-    "correctFeedback": "Occipital cortex is the primary visual cortex region.",
-    "wrongFeedback": {
-      "0": "Frontal: motor, planning, prefrontal functions.",
-      "1": "Temporal: audition, memory, language aspects—not primary vision.",
-      "2": "Parietal: somatosensory/spatial—not primary vision."
-    },
-    "page": 86,
-    "id": "c3-l1-06"
-  },
-  {
-    "chapter": 3,
-    "level": 2,
-    "section": "3.1",
-    "question": "Range of reaction asserts that genes set boundaries for traits while:",
-    "options": [
-      "Environment has no effect once genes are fixed",
-      "Phenotype is identical to genotype for all traits",
-      "Environment determines where within that range a phenotype falls",
-      "Only identical twins can express phenotypes"
-    ],
-    "correct": 2,
-    "correctFeedback": "OpenStax describes range of reaction as genes setting potential limits, with environment influencing where the phenotype falls within that range.",
-    "wrongFeedback": {
-      "0": "Gene–environment interaction is central; environment still shapes expression.",
-      "1": "Phenotype reflects genes and environment together, not a simple copy of genotype.",
-      "3": "Range of reaction applies broadly, not only to identical twins."
-    },
-    "page": 76,
-    "id": "c3-l2-01"
-  },
-  {
-    "chapter": 3,
-    "level": 2,
-    "section": "3.2",
-    "question": "SSRIs are thought to relieve some depression symptoms primarily by:",
-    "options": [
-      "Cutting the corpus callosum — a common but inaccurate claim",
-      "Reducing serotonin reuptake, prolonging synaptic serotonin action",
-      "Blocking all GABA instantly like alcohol",
-      "Destroying all dopamine receptors permanently"
-    ],
-    "correct": 1,
-    "correctFeedback": "Many antidepressants inhibit serotonin reuptake at synapses.",
-    "wrongFeedback": {
-      "0": "Callosotomy is a surgical procedure, not an SSRI effect.",
-      "2": "Alcohol affects GABA systems differently; not SSRI action.",
-      "3": "That is not the SSRI mechanism of action."
-    },
-    "page": 82,
-    "id": "c3-l2-02"
-  },
-  {
-    "chapter": 3,
-    "level": 2,
-    "section": "3.4",
-    "question": "Damage to the hippocampus is most likely to impair:",
-    "options": [
-      "Basic reflex arcs in the spinal cord only",
-      "Pupil light reflexes exclusively",
-      "Myelin production by Schwann cells only",
-      "Formation of new declarative/episodic memories"
-    ],
-    "correct": 3,
-    "correctFeedback": "Hippocampus is critical for consolidating new explicit memories.",
-    "wrongFeedback": {
-      "0": "Spinal reflexes can remain intact with hippocampal damage.",
-      "1": "Light reflex involves midbrain pathways primarily.",
-      "2": "Schwann cells are PNS glia; not hippocampus function."
-    },
-    "page": 92,
-    "id": "c3-l2-03"
-  },
-  {
-    "chapter": 3,
-    "level": 2,
-    "section": "3.3",
-    "question": "After a stressful scare, heart rate slows and digestion resumes. Which system dominates this recovery?",
-    "options": [
-      "Only the somatic nervous system's motor neurons to limbs",
-      "Only the occipital lobe",
-      "Parasympathetic",
-      "Sympathetic"
-    ],
-    "correct": 2,
-    "correctFeedback": "Parasympathetic activity supports rest-and-digest recovery.",
-    "wrongFeedback": {
-      "0": "Somatic motor to limbs is voluntary movement, not visceral recovery.",
-      "1": "Vision lobe does not drive autonomic recovery.",
-      "3": "Sympathetic was dominant during the scare."
-    },
-    "page": 84,
-    "id": "c3-l2-04"
-  },
-  {
-    "chapter": 3,
-    "level": 2,
-    "section": "3.5",
-    "question": "Compared with fast synaptic signaling, endocrine messages typically:",
-    "options": [
-      "Never affect behavior, which is not the best account",
-      "Occur only inside one synaptic cleft",
-      "Travel via blood and often act more slowly/longer",
-      "Are electrical spikes on axons only"
-    ],
-    "correct": 2,
-    "correctFeedback": "Hormones circulate and can have prolonged widespread effects.",
-    "wrongFeedback": {
-      "0": "Hormones strongly affect motivation, stress, development, etc.",
-      "1": "Synaptic cleft signaling is neural, not the endocrine blood route.",
-      "3": "Electrical axonal spikes are neural action potentials."
-    },
-    "page": 96,
-    "id": "c3-l2-05"
-  },
-  {
-    "chapter": 4,
-    "level": 1,
-    "section": "4.1",
-    "question": "Consciousness is best defined as:",
-    "options": [
-      "Awareness of internal and external stimuli",
-      "A synonym for coma",
-      "Only deep sleep without dreaming",
-      "Exclusive to hypnosis"
-    ],
-    "correct": 0,
-    "correctFeedback": "Consciousness means awareness of internal and external stimuli.",
-    "wrongFeedback": {
-      "1": "Coma is a profound loss of awareness—not the definition of consciousness.",
-      "2": "Sleep is a state on the consciousness continuum, not the definition of consciousness.",
-      "3": "Hypnosis is one altered state, not the whole definition."
-    },
-    "page": 110,
-    "id": "c4-l1-01"
-  },
-  {
-    "chapter": 4,
-    "level": 1,
-    "section": "4.1",
-    "question": "The brain's master circadian clock is largely attributed to the:",
-    "options": [
-      "Broca's area",
-      "Suprachiasmatic nucleus (SCN)",
-      "Adrenal cortex exclusively",
-      "Occipital lobe alone"
-    ],
-    "correct": 1,
-    "correctFeedback": "The SCN in the hypothalamus is the primary circadian pacemaker.",
-    "wrongFeedback": {
-      "0": "Broca's area is language production.",
-      "2": "Adrenals participate in rhythms but are not the master neural clock.",
-      "3": "Occipital lobe processes vision, not the master clock."
-    },
-    "page": 112,
-    "id": "c4-l1-02"
-  },
-  {
-    "chapter": 4,
-    "level": 1,
-    "section": "4.3",
-    "question": "Sleep spindles and K-complexes are characteristic of:",
-    "options": [
-      "Wake with eyes open only",
-      "NREM Stage 2",
-      "Coma exclusively",
-      "REM only"
-    ],
-    "correct": 1,
-    "correctFeedback": "Stage 2 NREM features spindles and K-complexes.",
-    "wrongFeedback": {
-      "0": "Those waveforms define Stage 2 sleep, not ordinary wake.",
-      "2": "Not the definition of coma EEG.",
-      "3": "REM has different EEG/EOG/EMG signatures."
-    },
-    "page": 118,
-    "id": "c4-l1-03"
-  },
-  {
-    "chapter": 4,
-    "level": 1,
-    "section": "4.3",
-    "question": "REM sleep is associated with:",
-    "options": [
-      "Vivid dreaming and muscle atonia",
-      "Complete absence of brain activity",
-      "Peak slow-wave delta only",
-      "Only sleepwalking episodes"
-    ],
-    "correct": 0,
-    "correctFeedback": "REM: vivid dreams, rapid eyes, paralyzed major muscles, active EEG.",
-    "wrongFeedback": {
-      "1": "Brain is highly active in REM.",
-      "2": "Deep slow-wave is NREM Stage 3.",
-      "3": "Sleepwalking is typically an NREM parasomnia."
-    },
-    "page": 118,
-    "id": "c4-l1-04"
-  },
-  {
-    "chapter": 4,
-    "level": 1,
-    "section": "4.4",
-    "question": "Obstructive sleep apnea involves:",
-    "options": [
-      "Repeated breathing stops due to airway blockage during sleep",
-      "Excessive melatonin production as the sole cause",
-      "Irresistible daytime sleep attacks as the primary definition",
-      "Only night terrors in children"
-    ],
-    "correct": 0,
-    "correctFeedback": "OSA: airway collapse/obstruction interrupts breathing in sleep.",
-    "wrongFeedback": {
-      "1": "Melatonin is not the defining cause of OSA.",
-      "2": "That describes narcolepsy more than apnea.",
-      "3": "Night terrors are a different parasomnia."
-    },
-    "page": 124,
-    "id": "c4-l1-05"
-  },
-  {
-    "chapter": 4,
-    "level": 1,
-    "section": "4.5",
-    "question": "Needing more of a drug to get the same effect is called:",
-    "options": [
-      "Sleep spindle",
-      "Random assignment",
-      "Tolerance",
-      "Latent content"
-    ],
-    "correct": 2,
-    "correctFeedback": "Tolerance: diminished response with repeated use, often needing higher doses.",
-    "wrongFeedback": {
-      "0": "Spindles are Stage 2 EEG features.",
-      "1": "Random assignment is a research design tool.",
-      "3": "Latent content is Freudian dream theory."
-    },
-    "page": 126,
-    "id": "c4-l1-06"
-  },
-  {
-    "chapter": 4,
-    "level": 2,
-    "section": "4.2",
-    "question": "Restorative theories of sleep emphasize that sleep:",
-    "options": [
-      "Has no link to memory processes",
-      "Is identical to anesthesia mechanisms always",
-      "Supports physiological repair and neural/cognitive restoration",
-      "Exists only to waste time — a common but inaccurate claim"
-    ],
-    "correct": 2,
-    "correctFeedback": "Restorative/cognitive views stress recovery and plasticity/memory roles.",
-    "wrongFeedback": {
-      "0": "Much evidence links sleep and memory consolidation.",
-      "1": "Sleep is not the same as general anesthesia.",
-      "3": "Sleep is biologically regulated and functional."
-    },
-    "page": 114,
-    "id": "c4-l2-01"
-  },
-  {
-    "chapter": 4,
-    "level": 2,
-    "section": "4.3",
-    "question": "Activation-synthesis theory proposes dreams result from:",
-    "options": [
-      "Exact replay of repressed wishes only",
-      "EEG equipment creating stories",
-      "Cortex interpreting chaotic brainstem activation during sleep",
-      "Digestive gases exclusively, contrary to the chapter definition"
-    ],
-    "correct": 2,
-    "correctFeedback": "Hobson and McCarley's activation-synthesis: cortex makes sense of neural activation.",
-    "wrongFeedback": {
-      "0": "That is closer to classical Freudian wish fulfillment.",
-      "1": "Dreams occur without EEG machines.",
-      "3": "Not a serious modern dream theory."
-    },
-    "page": 120,
-    "id": "c4-l2-02"
-  },
-  {
-    "chapter": 4,
-    "level": 2,
-    "section": "4.5",
-    "question": "Alcohol is classified primarily as a:",
-    "options": [
-      "Stimulant that always increases GABA blockers",
-      "Depressant of CNS activity",
-      "Opioid receptor agonist like morphine exactly",
-      "Non-psychoactive vitamin"
-    ],
-    "correct": 1,
-    "correctFeedback": "Alcohol is a depressant (with complex pharmacology including GABA facilitation).",
-    "wrongFeedback": {
-      "0": "It is not classified as a stimulant.",
-      "2": "Opioids are a different drug class.",
-      "3": "Alcohol is psychoactive."
-    },
-    "page": 128,
-    "id": "c4-l2-03"
-  },
-  {
-    "chapter": 4,
-    "level": 2,
-    "section": "4.1",
-    "question": "Melatonin release from the pineal is typically:",
-    "options": [
-      "Highest at bright midday only",
-      "Produced by the cerebellum exclusively",
-      "Unrelated to light",
-      "Higher in darkness, promoting sleepiness, gated via SCN pathways"
-    ],
-    "correct": 3,
-    "correctFeedback": "Light suppresses melatonin; darkness permits rise—SCN-linked pathway.",
-    "wrongFeedback": {
-      "0": "Bright light suppresses melatonin.",
-      "1": "Pineal, not cerebellum, secretes melatonin.",
-      "2": "Light is a key zeitgeber for this system."
-    },
-    "page": 112,
-    "id": "c4-l2-04"
-  },
-  {
-    "chapter": 4,
-    "level": 2,
-    "section": "4.6",
-    "question": "Social-cognitive theories of hypnosis emphasize:",
-    "options": [
-      "That hypnosis deletes all memories permanently",
-      "That meditation is identical to Stage 3 sleep",
-      "Role expectations, imagination, and compliance—not a unique trance brain state alone",
-      "That hypnosis always requires opioids"
-    ],
-    "correct": 2,
-    "correctFeedback": "Social-cognitive view: hypnotic behavior reflects expectations and roles; dissociation views propose split awareness.",
-    "wrongFeedback": {
-      "0": "Hypnosis does not permanently erase all memory.",
-      "1": "Meditation is not deep slow-wave sleep by definition.",
-      "3": "Hypnosis is not opioid administration."
-    },
-    "page": 134,
-    "id": "c4-l2-05"
-  },
-  {
     "chapter": 1,
     "level": 3,
     "section": "1.1",
@@ -1242,6 +549,237 @@ window.PSYCH_QUESTIONS = [
     },
     "page": 15,
     "id": "c1-l3-15"
+  },
+  {
+    "chapter": 2,
+    "level": 1,
+    "section": "2.1",
+    "question": "In the scientific method, a testable prediction derived from a theory is a:",
+    "options": [
+      "Placebo",
+      "IRB",
+      "Opinion",
+      "Hypothesis"
+    ],
+    "correct": 3,
+    "correctFeedback": "A hypothesis is a specific, testable prediction.",
+    "wrongFeedback": {
+      "0": "A placebo is an inactive treatment control, not a hypothesis.",
+      "1": "An IRB reviews ethics; it is not a prediction.",
+      "2": "Opinions are personal judgments, not necessarily testable predictions."
+    },
+    "page": 36,
+    "id": "c2-l1-01"
+  },
+  {
+    "chapter": 2,
+    "level": 1,
+    "section": "2.3",
+    "question": "Which design manipulates an independent variable and uses random assignment?",
+    "options": [
+      "Pure correlation study",
+      "Uncontrolled case study",
+      "Experiment",
+      "Archival study only"
+    ],
+    "correct": 2,
+    "correctFeedback": "Experiments manipulate the IV and typically randomly assign participants to conditions.",
+    "wrongFeedback": {
+      "0": "Correlations measure association without manipulation.",
+      "1": "Case studies usually lack experimental control/random assignment.",
+      "3": "Archival research uses existing records without manipulation."
+    },
+    "page": 54,
+    "id": "c2-l1-02"
+  },
+  {
+    "chapter": 2,
+    "level": 1,
+    "section": "2.3",
+    "question": "A correlation coefficient of -0.85 indicates:",
+    "options": [
+      "A perfect positive relationship",
+      "No relationship",
+      "A strong negative relationship",
+      "A weak positive relationship"
+    ],
+    "correct": 2,
+    "correctFeedback": "Values near -1 mean a strong inverse association.",
+    "wrongFeedback": {
+      "0": "+1 would be perfect positive; this is strong negative.",
+      "1": "Zero would mean no linear relationship.",
+      "3": "Negative sign means inverse, not positive; 0.85 magnitude is strong."
+    },
+    "page": 48,
+    "id": "c2-l1-03"
+  },
+  {
+    "chapter": 2,
+    "level": 1,
+    "section": "2.3",
+    "question": "Correlation alone cannot establish causation mainly because of:",
+    "options": [
+      "Directionality and possible third-variable (confound) problems",
+      "The impossibility of measuring two variables",
+      "IRBs banning all correlations — a common but inaccurate claim",
+      "Means always equaling medians"
+    ],
+    "correct": 0,
+    "correctFeedback": "We may not know what causes what, and uncontrolled variables may drive the link.",
+    "wrongFeedback": {
+      "1": "We can measure two variables; inference is the issue.",
+      "2": "Correlational work is commonly IRB-approved when ethical.",
+      "3": "Central tendency facts are unrelated to causal limits."
+    },
+    "page": 48,
+    "id": "c2-l1-04"
+  },
+  {
+    "chapter": 2,
+    "level": 1,
+    "section": "2.4",
+    "question": "Before most human research begins in universities, a proposal is reviewed by an:",
+    "options": [
+      "Advertising agency",
+      "IRB (Institutional Review Board)",
+      "Sports committee",
+      "IACUC only for humans"
+    ],
+    "correct": 1,
+    "correctFeedback": "IRBs review human-subjects research for ethical compliance.",
+    "wrongFeedback": {
+      "0": "Ads do not provide ethical scientific review.",
+      "2": "Irrelevant to research ethics review.",
+      "3": "IACUC oversees animal care/use, not typical human IRB review."
+    },
+    "page": 58,
+    "id": "c2-l1-05"
+  },
+  {
+    "chapter": 2,
+    "level": 1,
+    "section": "2.3",
+    "question": "Reliability refers to _____; validity refers to _____.",
+    "options": [
+      "Consistency; accuracy (measuring the intended construct)",
+      "Mean; mode",
+      "Sample size; population size",
+      "Accuracy; consistency"
+    ],
+    "correct": 0,
+    "correctFeedback": "Reliable measures are consistent; valid measures assess what they claim to assess.",
+    "wrongFeedback": {
+      "1": "Mean/mode are descriptive stats, not reliability/validity.",
+      "2": "Those are sampling concepts, not reliability/validity definitions.",
+      "3": "That reverses the definitions."
+    },
+    "page": 58,
+    "id": "c2-l1-06"
+  },
+  {
+    "chapter": 2,
+    "level": 2,
+    "section": "2.1",
+    "question": "Deductive reasoning in research typically moves:",
+    "options": [
+      "From general theory to specific hypothesis/predictions",
+      "From one anecdote to universal law with no test",
+      "From p-values to IRB approval automatically",
+      "From deception to omitting debriefing"
+    ],
+    "correct": 0,
+    "correctFeedback": "Deduction: theory to specific testable predictions; induction builds broader claims from data.",
+    "wrongFeedback": {
+      "1": "Anecdote-to-law without testing is not scientific deduction.",
+      "2": "Stats and ethics are separate processes.",
+      "3": "Deception requires justification and debriefing, not omission."
+    },
+    "page": 38,
+    "id": "c2-l2-01"
+  },
+  {
+    "chapter": 2,
+    "level": 2,
+    "section": "2.3",
+    "question": "Why does random assignment strengthen causal inference?",
+    "options": [
+      "It guarantees a representative national sample",
+      "It makes double-blind designs unnecessary",
+      "It balances confounds across groups on average",
+      "It eliminates the need for a control group"
+    ],
+    "correct": 2,
+    "correctFeedback": "Random assignment distributes known/unknown confounds across conditions stochastically.",
+    "wrongFeedback": {
+      "0": "Random sampling aids representativeness; assignment aids internal validity.",
+      "1": "Blinding still reduces expectancy effects.",
+      "3": "Control/comparison groups remain essential."
+    },
+    "page": 54,
+    "id": "c2-l2-02"
+  },
+  {
+    "chapter": 2,
+    "level": 2,
+    "section": "2.2",
+    "question": "Longitudinal designs are especially useful for studying development because they:",
+    "options": [
+      "Always avoid attrition",
+      "Are cheaper than one-shot surveys",
+      "Follow the same people over time, tracking within-person change",
+      "Eliminate cohort effects automatically in cross-sectional comparisons"
+    ],
+    "correct": 2,
+    "correctFeedback": "Repeated measures on the same individuals reveal change trajectories.",
+    "wrongFeedback": {
+      "0": "Attrition is a major risk in longitudinal work.",
+      "1": "Longitudinal studies are typically costlier/time-intensive.",
+      "3": "Cohort effects are a cross-sectional concern; longitudinal has other threats."
+    },
+    "page": 46,
+    "id": "c2-l2-03"
+  },
+  {
+    "chapter": 2,
+    "level": 2,
+    "section": "2.3",
+    "question": "A scale yields the same score every retest but tracks shoe size instead of depression. It is:",
+    "options": [
+      "Valid but unreliable",
+      "Neither reliable nor consistent",
+      "Perfectly construct-valid",
+      "Reliable but not valid for depression"
+    ],
+    "correct": 3,
+    "correctFeedback": "Consistency without measuring the intended construct = reliability without validity.",
+    "wrongFeedback": {
+      "0": "It is consistent (reliable) but wrong construct (invalid).",
+      "1": "It is consistent, so reliability is high.",
+      "2": "Wrong construct means poor validity for depression."
+    },
+    "page": 58,
+    "id": "c2-l2-04"
+  },
+  {
+    "chapter": 2,
+    "level": 2,
+    "section": "2.4",
+    "question": "Deception in experiments is ethically acceptable only when:",
+    "options": [
+      "The researcher finds consent forms annoying",
+      "Justified by significant scientific value, minimal harm, and followed by debriefing (per IRB rules)",
+      "Participants are never told the truth afterward",
+      "It is used to embarrass participants for fun"
+    ],
+    "correct": 1,
+    "correctFeedback": "IRBs allow limited deception with justification, risk limits, and debriefing.",
+    "wrongFeedback": {
+      "0": "Convenience is not an ethical justification.",
+      "2": "Debriefing is required after deception.",
+      "3": "Harmful humiliation violates beneficence/respect."
+    },
+    "page": 60,
+    "id": "c2-l2-05"
   },
   {
     "chapter": 2,
@@ -1559,6 +1097,477 @@ window.PSYCH_QUESTIONS = [
     "id": "c2-l3-15"
   },
   {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.2+2.3",
+    "question": "Behaviorist Dr. Hale wants causal evidence that a token economy reduces classroom disruptions. Principal Lee offers a parent survey: “likes tokens” correlates with fewer office referrals (r = −0.35). A Freudian consultant urges interviewing each child’s latent motives instead. A structuralist intern proposes 1879-style introspection diaries as the DV. Two interpretations look tempting—treat the survey association as proof, or treat depth interviews as richer truth. Which next step actually supports a causal claim about the token system?",
+    "options": [
+      "Experimentally manipulate tokens and measure disruption rates",
+      "Keep the survey; any |r| above 0.20 proves classroom causation",
+      "Interview analysts about each child’s latent motives as proof",
+      "Switch outcomes to structuralist introspection diaries (1879)"
+    ],
+    "correct": 0,
+    "correctFeedback": "Causal claims about an intervention require experimental control/manipulation, not correlation or mismatched historical methods.",
+    "wrongFeedback": {
+      "1": "Correlation magnitude alone does not prove causation.",
+      "2": "Motive interviews may be clinically interesting but do not establish token causation.",
+      "3": "Introspection diaries are not a behaviorist disruption DV and do not fix causal design."
+    },
+    "id": "c2-l4-01"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.3+2.2",
+    "question": "An I-O psychologist emails a leadership survey only to executives at one wealthy tech firm, then writes that results reveal “universal laws of leadership across humankind.” A WEIRD-aware reviewer flags the sample. A second reviewer notes a slide from description into causal overclaim without manipulation. A third suggests replacing the survey with one CEO case study “for better generalizability.” Sampling bias and overclaim both need fixing—what revision answers both concerns?",
+    "options": [
+      "Add more executives from the same firm and call it global",
+      "Broaden roles/cultures sampled; temper universal causal wording",
+      "Replace the survey with one CEO case for higher generalizability",
+      "Drop informed consent because workplace studies never need IRBs"
+    ],
+    "correct": 1,
+    "correctFeedback": "Widen sampling and avoid universal causal language without appropriate design.",
+    "wrongFeedback": {
+      "0": "Same-firm executives still fail diversity/WEIRD concerns.",
+      "2": "A single case usually lowers, not raises, generalizability.",
+      "3": "Workplace human research can still require ethics review/consent norms."
+    },
+    "id": "c2-l4-02"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.1+2.1",
+    "question": "On a call-in show, the host says “science is just another opinion,” then cites a celebrity’s one-off sleep tip as equal to a peer-reviewed trial. A philosopher guest praises pure reason without observation. A behaviorist caller demands lever-press data for every claim. Using empiricism (Ch 1) and the scientific cycle (Ch 2), which reply best defends psychology as science without those distortions?",
+    "options": [
+      "Science means accepting authority quotes without observation",
+      "Science forbids theories, allowing only one-shot anecdotes",
+      "Science tests hypotheses via systematic observation/revision",
+      "Science equals private introspection labs with no public methods"
+    ],
+    "correct": 2,
+    "correctFeedback": "Scientific psychology tests hypotheses with systematic observation and revises with evidence.",
+    "wrongFeedback": {
+      "0": "Authority without observation is not empiricism.",
+      "1": "Science uses theories and does not privilege single anecdotes.",
+      "3": "Modern science emphasizes public, repeatable methods—not private-only introspection."
+    },
+    "id": "c2-l4-03"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.4+2.4",
+    "question": "A hospital IRB reviews a memory study that withholds the full hypothesis until debriefing. The PI cites Watson’s Little Albert–era work as historical precedent for skipping consent. A nurse on the board notes Belmont-style respect for persons and OpenStax ethics on deception. A physician wants to skip IRB because “psychology is soft science.” Which decision best aligns with contemporary research ethics while still allowing limited deception when justified?",
+    "options": [
+      "Waive all consent because Little Albert set permanent precedent",
+      "Ban every psychology study that uses any form of mild deception",
+      "Skip IRB review because soft-science fields never need oversight",
+      "Approve if consent, risk review, and debriefing standards hold"
+    ],
+    "correct": 3,
+    "correctFeedback": "Limited deception can be allowed with IRB oversight, consent where appropriate, and debriefing—not historical free-passes.",
+    "wrongFeedback": {
+      "0": "Historical abuses are warnings, not precedents for skipping consent.",
+      "1": "Ethics boards can allow carefully justified deception with safeguards.",
+      "2": "Human-subjects psychology research still needs ethics oversight."
+    },
+    "id": "c2-l4-04"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.2+2.3",
+    "question": "Cognitive researcher Mei compares two study strategies. She randomly assigns students to Strategy A or B, then measures exam scores. A Gestalt-oriented advisor says she must abandon randomization because “the whole classroom vibe” cannot be split. A correlational consultant says she should instead only survey how often students already use A vs B. A third voice claims random assignment is the same as random sampling. What is the best defense of Mei’s design?",
+    "options": [
+      "Random assignment supports causal inference on strategy effects",
+      "Random assignment equals random sampling of the whole population",
+      "Only surveys of existing habits can ever support causal claims",
+      "Gestalt “wholes” forbid any experimental splitting of conditions"
+    ],
+    "correct": 0,
+    "correctFeedback": "Random assignment to conditions supports causal claims about the manipulated strategy.",
+    "wrongFeedback": {
+      "1": "Assignment ≠ sampling; they answer different validity questions.",
+      "2": "Surveys of existing habits are typically correlational, not causal.",
+      "3": "Gestalt insights do not prohibit carefully controlled experiments."
+    },
+    "id": "c2-l4-05"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.3+2.5",
+    "question": "A clinical psychologist wants to publish a case series on therapy progress and also run a rodent fear-conditioning study. A colleague confuses IRB and IACUC, saying one board covers both. Another argues that because Freud’s case studies “built the field,” animal welfare rules are optional for rats. A third claims APA ethics apply only to surveys. Which statement is most accurate across people vs animals?",
+    "options": [
+      "IACUC alone covers human cases plus rodent protocols alike",
+      "IRB covers humans; IACUC covers vertebrate animal studies",
+      "Freud case studies permanently exempt animal welfare rules",
+      "APA ethics apply only to surveys, never to animal research"
+    ],
+    "correct": 1,
+    "correctFeedback": "IRB oversees human research; IACUC oversees many vertebrate animal studies—distinct pathways.",
+    "wrongFeedback": {
+      "0": "IACUC does not replace IRB for human participants.",
+      "2": "Historical case studies do not exempt modern animal welfare rules.",
+      "3": "APA ethics extend beyond surveys; animal work has dedicated oversight."
+    },
+    "id": "c2-l4-06"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.2+2.2",
+    "question": "A developmental psychologist observes playground aggression with a structured coding sheet (naturalistic observation). A humanistic teacher insists only self-actualization interviews are “real psychology.” A behaviorist visitor demands an immediate Skinner-box experiment with tokens. A correlationalist says observation can prove that recess length causes aggression if the r is large. Which evaluation is most accurate?",
+    "options": [
+      "Only humanistic interviews count as scientific psychology methods",
+      "Large observational r values prove recess length causes aggression",
+      "Observation can describe patterns but cannot alone prove causation",
+      "Structured coding is invalid unless done inside a Skinner box only"
+    ],
+    "correct": 2,
+    "correctFeedback": "Naturalistic observation is valuable for description but does not by itself establish causation.",
+    "wrongFeedback": {
+      "0": "Humanistic interviews are one approach, not the only scientific method.",
+      "1": "Large r still does not prove causation.",
+      "3": "Structured coding outside a Skinner box can still be valid observation."
+    },
+    "id": "c2-l4-07"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.1+2.4",
+    "question": "Undergrad team designs a deception study on bystander helping. They plan to stage a fake emergency without consent language, film faces for a viral teaching clip, and skip debriefing “to keep the illusion pure.” One member cites structuralism’s private mind as justification for secrecy. Another cites functionalism’s “practical outcomes” to justify posting faces. What ethics revision is required before any IRB would likely proceed?",
+    "options": [
+      "Post faces publicly; functionalism prioritizes practical viral clips",
+      "Skip debriefing forever so the illusion remains scientifically pure",
+      "Cite structuralism’s private mind as a blanket waiver of consent",
+      "Add consent where required, minimize harm, debrief, protect privacy"
+    ],
+    "correct": 3,
+    "correctFeedback": "Deception studies still need ethics safeguards: consent/debriefing norms and privacy protection.",
+    "wrongFeedback": {
+      "0": "Functionalism does not authorize posting identifiable faces.",
+      "1": "Debriefing is typically required after deception.",
+      "2": "Structuralism is not an ethics waiver."
+    },
+    "id": "c2-l4-08"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.4+2.3",
+    "question": "A sports psychologist claims a new visualization app “causes” faster race times after showing athletes who already bought the app run faster than non-buyers (self-selected). A critic notes missing random assignment. A fan argues buying proves motivation, so causation is settled. A historian says since Wundt timed reactions, any timing study is automatically causal. What is the core design flaw?",
+    "options": [
+      "Self-selection confounds the app with pre-existing differences",
+      "Any timing measure since Wundt automatically proves app causation",
+      "Motivation from buying removes all alternative explanations forever",
+      "Critics must accept causation whenever a commercial app is studied"
+    ],
+    "correct": 0,
+    "correctFeedback": "Self-selected app buyers differ in many ways; without assignment, causation is not established.",
+    "wrongFeedback": {
+      "1": "Historical reaction-time work does not make this comparison causal.",
+      "2": "Motivation is itself a confound, not proof the app caused speed.",
+      "3": "Commercial status does not settle causal inference."
+    },
+    "id": "c2-l4-09"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.2+2.1",
+    "question": "A podcast claims Freud “invented the scientific method” and that modern hypothesis testing is just psychoanalytic free association in disguise. A guest counters that Wundt’s lab and later empiricism emphasize measurement and public methods. Another guest says Skinner proved hypotheses are unnecessary. Bridging history of psychology and research methods, which statement is most accurate?",
+    "options": [
+      "Freud’s free association permanently replaced all hypothesis testing",
+      "Hypothesis testing is empirical and distinct from free association",
+      "Skinner proved that scientific psychology never needs any hypotheses",
+      "Wundt forbade measurement, so modern methods reject all empiricism"
+    ],
+    "correct": 1,
+    "correctFeedback": "Scientific hypothesis testing is systematic and empirical—not equivalent to free association.",
+    "wrongFeedback": {
+      "0": "Psychoanalytic free association is not a replacement for experimental methods.",
+      "2": "Behaviorism used hypotheses/predictions about behavior; it did not abolish them.",
+      "3": "Wundt’s program emphasized measurement/introspection under controlled conditions."
+    },
+    "id": "c2-l4-10"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.3+2.4",
+    "question": "A health psychologist plans a stress survey of nurses, plus a parallel mouse study of chronic noise. The hospital lawyer says one consent form covers humans and mice. An administrator wants to film nurses without telling them “for ecological validity.” A PI claims double-blind placebos are unethical in surveys. Which package of decisions is most defensible?",
+    "options": [
+      "One consent form legally covers both nurses and laboratory mice",
+      "Covertly film nurses without notice to maximize ecological validity",
+      "Separate human IRB/consent from animal IACUC; no covert filming",
+      "Ban placebos in all psychology because surveys make them unethical"
+    ],
+    "correct": 2,
+    "correctFeedback": "Humans and animals follow different oversight paths; covert filming without consent is ethically fraught.",
+    "wrongFeedback": {
+      "0": "Mice are not covered by a human consent form.",
+      "1": "Secret filming of workers raises serious consent/privacy issues.",
+      "3": "Placebos can be ethical in appropriate experimental contexts with oversight."
+    },
+    "id": "c2-l4-11"
+  },
+  {
+    "chapter": 2,
+    "level": 4,
+    "section": "1.2+2.3",
+    "question": "Two labs report opposite effects of a mindfulness app on test anxiety. Lab A used a waitlist control; Lab B compared app users who volunteered vs non-users. A structuralist blogger says replication is impossible because experience is private. A journal editor demands preregistration and clearer controls. Crossing schools-of-thought history with methods, what best explains Lab B’s weaker causal claim?",
+    "options": [
+      "Private experience means no study can ever be replicated or compared",
+      "Waitlist controls are always unethical, so Lab A must be discarded",
+      "Preregistration proves Lab B’s design is automatically causal/clean",
+      "Volunteer vs non-user comparisons leave selection confounds open"
+    ],
+    "correct": 3,
+    "correctFeedback": "Self-selected app users vs non-users introduce confounds; waitlist experiments are stronger for causation.",
+    "wrongFeedback": {
+      "0": "Private experience does not make all replication impossible.",
+      "1": "Waitlist controls are commonly used and can be ethical with oversight.",
+      "2": "Preregistration improves transparency; it does not fix selection confounds."
+    },
+    "id": "c2-l4-12"
+  },
+  {
+    "chapter": 3,
+    "level": 1,
+    "section": "3.1",
+    "question": "Genotype refers to _____; phenotype refers to _____.",
+    "options": [
+      "Genetic makeup; expressed traits",
+      "Hormones only; neurons only",
+      "Only environment; only culture",
+      "Expressed traits; genetic makeup"
+    ],
+    "correct": 0,
+    "correctFeedback": "Genotype is genetic constitution; phenotype is observable/expressed characteristics.",
+    "wrongFeedback": {
+      "1": "Hormones/neurons are systems, not the genotype/phenotype distinction.",
+      "2": "Both genes and environment shape phenotype; terms are not culture synonyms.",
+      "3": "That reverses the terms."
+    },
+    "page": 74,
+    "id": "c3-l1-01"
+  },
+  {
+    "chapter": 3,
+    "level": 1,
+    "section": "3.2",
+    "question": "The part of the neuron that typically receives signals from other neurons is the:",
+    "options": [
+      "Dendrite",
+      "Heart valve",
+      "Adrenal cortex",
+      "Myelin only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Dendrites receive synaptic input; axons typically send signals.",
+    "wrongFeedback": {
+      "1": "Irrelevant anatomy.",
+      "2": "Endocrine tissue, not a neuronal receiving branch.",
+      "3": "Myelin insulates axons; it is not the primary receiving structure."
+    },
+    "page": 78,
+    "id": "c3-l1-02"
+  },
+  {
+    "chapter": 3,
+    "level": 1,
+    "section": "3.2",
+    "question": "An action potential is best described as:",
+    "options": [
+      "A type of glial scar exclusively",
+      "An all-or-none electrochemical spike traveling down the axon",
+      "A permanent change in DNA sequence",
+      "A graded hormone drip only, contrary to the chapter definition"
+    ],
+    "correct": 1,
+    "correctFeedback": "Action potentials are all-or-none electrical events along the axon.",
+    "wrongFeedback": {
+      "0": "Glia support neurons; scars are not action potentials.",
+      "2": "DNA sequence changes are mutations, not spikes.",
+      "3": "Hormones are chemical messengers in blood; different mechanism."
+    },
+    "page": 80,
+    "id": "c3-l1-03"
+  },
+  {
+    "chapter": 3,
+    "level": 1,
+    "section": "3.3",
+    "question": "The CNS consists of the:",
+    "options": [
+      "Brain and spinal cord",
+      "Pituitary and thyroid only",
+      "Only spinal nerves outside the vertebrae",
+      "Sympathetic nerves alone"
+    ],
+    "correct": 0,
+    "correctFeedback": "Central nervous system = brain + spinal cord.",
+    "wrongFeedback": {
+      "1": "Those are endocrine glands.",
+      "2": "Peripheral nerves are PNS.",
+      "3": "Sympathetic is an autonomic PNS division."
+    },
+    "page": 84,
+    "id": "c3-l1-04"
+  },
+  {
+    "chapter": 3,
+    "level": 1,
+    "section": "3.3",
+    "question": "Fight-or-flight activation is primarily the job of the:",
+    "options": [
+      "Sympathetic nervous system",
+      "Parasympathetic nervous system",
+      "Occipital lobe alone",
+      "Schwann cells only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Sympathetic branch mobilizes energy for emergencies; parasympathetic restores rest-and-digest.",
+    "wrongFeedback": {
+      "1": "Parasympathetic conserves/restores.",
+      "2": "Occipital lobe is visual cortex.",
+      "3": "Schwann cells myelinate PNS axons."
+    },
+    "page": 84,
+    "id": "c3-l1-05"
+  },
+  {
+    "chapter": 3,
+    "level": 1,
+    "section": "3.4",
+    "question": "Which lobe is most associated with visual processing?",
+    "options": [
+      "Frontal",
+      "Temporal only for vision exclusively",
+      "Parietal only for vision exclusively",
+      "Occipital"
+    ],
+    "correct": 3,
+    "correctFeedback": "Occipital cortex is the primary visual cortex region.",
+    "wrongFeedback": {
+      "0": "Frontal: motor, planning, prefrontal functions.",
+      "1": "Temporal: audition, memory, language aspects—not primary vision.",
+      "2": "Parietal: somatosensory/spatial—not primary vision."
+    },
+    "page": 86,
+    "id": "c3-l1-06"
+  },
+  {
+    "chapter": 3,
+    "level": 2,
+    "section": "3.1",
+    "question": "Range of reaction asserts that genes set boundaries for traits while:",
+    "options": [
+      "Environment has no effect once genes are fixed",
+      "Phenotype is identical to genotype for all traits",
+      "Environment determines where within that range a phenotype falls",
+      "Only identical twins can express phenotypes"
+    ],
+    "correct": 2,
+    "correctFeedback": "OpenStax describes range of reaction as genes setting potential limits, with environment influencing where the phenotype falls within that range.",
+    "wrongFeedback": {
+      "0": "Gene–environment interaction is central; environment still shapes expression.",
+      "1": "Phenotype reflects genes and environment together, not a simple copy of genotype.",
+      "3": "Range of reaction applies broadly, not only to identical twins."
+    },
+    "page": 76,
+    "id": "c3-l2-01"
+  },
+  {
+    "chapter": 3,
+    "level": 2,
+    "section": "3.2",
+    "question": "SSRIs are thought to relieve some depression symptoms primarily by:",
+    "options": [
+      "Cutting the corpus callosum — a common but inaccurate claim",
+      "Reducing serotonin reuptake, prolonging synaptic serotonin action",
+      "Blocking all GABA instantly like alcohol",
+      "Destroying all dopamine receptors permanently"
+    ],
+    "correct": 1,
+    "correctFeedback": "Many antidepressants inhibit serotonin reuptake at synapses.",
+    "wrongFeedback": {
+      "0": "Callosotomy is a surgical procedure, not an SSRI effect.",
+      "2": "Alcohol affects GABA systems differently; not SSRI action.",
+      "3": "That is not the SSRI mechanism of action."
+    },
+    "page": 82,
+    "id": "c3-l2-02"
+  },
+  {
+    "chapter": 3,
+    "level": 2,
+    "section": "3.4",
+    "question": "Damage to the hippocampus is most likely to impair:",
+    "options": [
+      "Basic reflex arcs in the spinal cord only",
+      "Pupil light reflexes exclusively",
+      "Myelin production by Schwann cells only",
+      "Formation of new declarative/episodic memories"
+    ],
+    "correct": 3,
+    "correctFeedback": "Hippocampus is critical for consolidating new explicit memories.",
+    "wrongFeedback": {
+      "0": "Spinal reflexes can remain intact with hippocampal damage.",
+      "1": "Light reflex involves midbrain pathways primarily.",
+      "2": "Schwann cells are PNS glia; not hippocampus function."
+    },
+    "page": 92,
+    "id": "c3-l2-03"
+  },
+  {
+    "chapter": 3,
+    "level": 2,
+    "section": "3.3",
+    "question": "After a stressful scare, heart rate slows and digestion resumes. Which system dominates this recovery?",
+    "options": [
+      "Only the somatic nervous system's motor neurons to limbs",
+      "Only the occipital lobe",
+      "Parasympathetic",
+      "Sympathetic"
+    ],
+    "correct": 2,
+    "correctFeedback": "Parasympathetic activity supports rest-and-digest recovery.",
+    "wrongFeedback": {
+      "0": "Somatic motor to limbs is voluntary movement, not visceral recovery.",
+      "1": "Vision lobe does not drive autonomic recovery.",
+      "3": "Sympathetic was dominant during the scare."
+    },
+    "page": 84,
+    "id": "c3-l2-04"
+  },
+  {
+    "chapter": 3,
+    "level": 2,
+    "section": "3.5",
+    "question": "Compared with fast synaptic signaling, endocrine messages typically:",
+    "options": [
+      "Never affect behavior, which is not the best account",
+      "Occur only inside one synaptic cleft",
+      "Travel via blood and often act more slowly/longer",
+      "Are electrical spikes on axons only"
+    ],
+    "correct": 2,
+    "correctFeedback": "Hormones circulate and can have prolonged widespread effects.",
+    "wrongFeedback": {
+      "0": "Hormones strongly affect motivation, stress, development, etc.",
+      "1": "Synaptic cleft signaling is neural, not the endocrine blood route.",
+      "3": "Electrical axonal spikes are neural action potentials."
+    },
+    "page": 96,
+    "id": "c3-l2-05"
+  },
+  {
     "chapter": 3,
     "level": 3,
     "section": "3.1",
@@ -1874,6 +1883,477 @@ window.PSYCH_QUESTIONS = [
     "id": "c3-l3-15"
   },
   {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.3+3.2",
+    "question": "Dr. Ortiz randomly assigns rats to enriched vs standard cages, then measures dendritic spine density in cortex. A critic says correlation between cage type and spines is enough and randomization is unnecessary. A Freudian consultant wants dream reports from the rats. An IRB clerk wrongly files the protocol as human-only. What best defends the design’s causal goal about experience and neural structure?",
+    "options": [
+      "Random assignment lets cage enrichment be tested as a causal factor",
+      "Any cage–spine correlation alone proves enrichment causes all changes",
+      "Rat dream reports are required before claiming any neural plasticity",
+      "Human IRB review alone is the correct board for vertebrate rat work"
+    ],
+    "correct": 0,
+    "correctFeedback": "Manipulating enrichment with assignment supports causal claims about experience and neural structure.",
+    "wrongFeedback": {
+      "1": "Correlation without control does not prove causation.",
+      "2": "Dream reports are not required for this plasticity design.",
+      "3": "Vertebrate animal work typically needs IACUC-style oversight, not only human IRB."
+    },
+    "id": "c3-l4-01"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "1.2+3.4",
+    "question": "A patient after stroke speaks in short, effortful phrases with impaired production but relatively better comprehension. A behaviorist aide says only reinforcement history matters, so lesion location is irrelevant. A phrenologist visitor maps a bump over “talkativeness.” A cognitive neurologist suspects Broca-area damage. Integrating history of localization debates with modern biopsychology, which conclusion is best supported?",
+    "options": [
+      "Phrenology bumps remain the gold standard for localizing speech",
+      "Left frontal production networks (Broca’s) fit this aphasia pattern",
+      "Reinforcement history alone explains aphasia; lesions never matter",
+      "Comprehension-only Wernicke damage best fits effortful short phrases"
+    ],
+    "correct": 1,
+    "correctFeedback": "Nonfluent/effortful production with better comprehension fits a Broca-type pattern.",
+    "wrongFeedback": {
+      "0": "Phrenology is not modern localization science.",
+      "2": "Lesion location is highly relevant in aphasia.",
+      "3": "Wernicke-type patterns emphasize comprehension/fluent jargon issues differently."
+    },
+    "id": "c3-l4-02"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.4+3.5",
+    "question": "A drug trial for anxiety uses a double-blind placebo design (methods) while measuring amygdala BOLD responses (biopsych). A journalist claims placebos prove “the mind is not biological.” A dualist philosopher says brain scans cannot relate to anxiety. A Skinnerian says only lever presses count, so fMRI is meaningless. Which integrative reading is most accurate?",
+    "options": [
+      "Placebos prove anxiety is non-biological and scans are irrelevant",
+      "Dualism forbids any link between BOLD signals and reported anxiety",
+      "Placebo and drug effects can both involve measurable brain changes",
+      "Only lever presses are valid; fMRI can never inform anxiety research"
+    ],
+    "correct": 2,
+    "correctFeedback": "Psychological interventions and placebos can have biological correlates; methods and neuroscience connect.",
+    "wrongFeedback": {
+      "0": "Placebos do not prove the mind is non-biological.",
+      "1": "Contemporary biopsychology links brain measures with experience/behavior.",
+      "3": "Behavior matters, but neuroimaging can still inform emotion research."
+    },
+    "id": "c3-l4-03"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "1.3+3.3",
+    "question": "An evolutionary psychologist argues jealousy has adaptive functions. A critic says OpenStax biopsych’s nature–nurture and genetics sections prove genes alone fix jealousy with no environment. A behaviorist says only punishment histories matter. A survey finds WEIRD samples dominate the jealousy literature. What tempered conclusion fits best?",
+    "options": [
+      "Genes alone fix jealousy; environments never influence the trait",
+      "Only punishment histories can explain jealousy across all cultures",
+      "WEIRD samples prove evolutionary claims need no further testing",
+      "Genes and environments interact; sample diversity still matters"
+    ],
+    "correct": 3,
+    "correctFeedback": "Biopsychology emphasizes gene–environment interplay; sampling limits still constrain claims.",
+    "wrongFeedback": {
+      "0": "Environments matter; genes are not sole fixed causes.",
+      "1": "Behaviorist learning is one lens, not the only explanation.",
+      "2": "WEIRD limits increase—not remove—the need for careful testing."
+    },
+    "id": "c3-l4-04"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.2+3.1",
+    "question": "Students debate whether resting membrane potential is “just philosophy.” One cites empiricism: ion measures and recordings are observations. Another says structuralism’s introspection can replace electrophysiology. A third confuses correlation of neuron firing with proof that one thought caused the spike. Bridging scientific method and neural basics, which statement is sound?",
+    "options": [
+      "Membrane potentials are empirically measured, not mere speculation",
+      "Introspection alone replaces the need for electrophysiology measures",
+      "Any correlation of thoughts and spikes proves one thought caused them",
+      "Empiricism forbids measuring ions because they are not experiences"
+    ],
+    "correct": 0,
+    "correctFeedback": "Neural membrane phenomena are studied with empirical measurement techniques.",
+    "wrongFeedback": {
+      "1": "Introspection does not replace electrophysiology.",
+      "2": "Correlation of timing does not by itself prove a specific causal thought→spike story.",
+      "3": "Empiricism supports measurement of physical neural variables."
+    },
+    "id": "c3-l4-05"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.4+3.4",
+    "question": "A surgeon maps language areas before tumor removal using cortical stimulation while the patient names pictures. A historian likens this to phrenology. An ethicist asks about consent under surgical stress. A methods student asks whether this is an experiment with random assignment. What best captures the procedure’s scientific/ethical status?",
+    "options": [
+      "Phrenology bumps are being used as the primary mapping method",
+      "Clinical mapping with consent; not a randomized causal experiment",
+      "Random assignment to tumor sites is required for clinical mapping",
+      "Consent is unnecessary because intraoperative talk is not research"
+    ],
+    "correct": 1,
+    "correctFeedback": "Intraoperative mapping is clinical/neuroscientific practice needing consent—not classic randomized experiments or phrenology.",
+    "wrongFeedback": {
+      "0": "Modern mapping is not phrenology.",
+      "2": "Tumor location is not randomly assigned.",
+      "3": "Consent/ethics remain central in clinical research/practice contexts."
+    },
+    "id": "c3-l4-06"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "1.2+3.2",
+    "question": "A textbook figure shows action potentials as all-or-none. A student says this proves behaviorism wrong because “mind sparks.” Another says Gestalt wholes mean membrane thresholds cannot be studied in parts. A third confuses neurotransmitters with hormones traveling only in blood. Which clarification is most accurate?",
+    "options": [
+      "Gestalt theory forbids studying membrane thresholds in any reduced form",
+      "Neurotransmitters travel only in blood; hormones act only in one synapse",
+      "All-or-none spikes are cellular; they don’t refute behaviorism at root",
+      "Action potentials prove introspection is the only valid psychology method"
+    ],
+    "correct": 2,
+    "correctFeedback": "All-or-none action potentials describe neuron firing; they don’t by themselves settle school-of-thought debates.",
+    "wrongFeedback": {
+      "0": "Cellular physiology can be studied analytically alongside broader approaches.",
+      "1": "Neurotransmitters act at synapses; hormones typically travel in blood—roles are swapped in that option.",
+      "3": "Neural physiology does not make introspection the only method."
+    },
+    "id": "c3-l4-07"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.3+3.5",
+    "question": "Researchers test whether caffeine improves vigilance. They use a double-blind design and also record EEG. A sleep-deprived group is included. A critic says any arousal increase proves caffeine is a depressant “by paradox.” An ethicist worries about coercion of sleep-deprived students. A dualist says EEG cannot relate to vigilance reports. Best integrative judgment?",
+    "options": [
+      "Paradoxically, arousal increases prove caffeine must be a depressant",
+      "EEG is metaphysically barred from relating to any vigilance self-report",
+      "Sleep-deprived students may be coerced; ethics review can be ignored",
+      "Caffeine is a stimulant; link arousal measures with ethics oversight"
+    ],
+    "correct": 3,
+    "correctFeedback": "Caffeine is classified as a stimulant; combining behavioral/EEG measures is coherent with ethical oversight.",
+    "wrongFeedback": {
+      "0": "Increased arousal fits stimulant—not depressant—classification.",
+      "1": "Psychophysiology routinely links EEG with performance/reports.",
+      "2": "Vulnerable/fatigued participants heighten—not remove—ethics needs."
+    },
+    "id": "c3-l4-08"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "1.4+3.3",
+    "question": "A twin study reports higher concordance for a trait in identical than fraternal twins. A newspaper headline: “Gene for X found; environment irrelevant.” A behavior geneticist notes shared environments and epigenetics caveats. An IRB chair notes privacy of genetic data. A phrenologist offers skull measurements as replication. What is the soundest reading?",
+    "options": [
+      "Higher MZ concordance suggests genetic influence, not environment-zero",
+      "Headlines correctly prove environment never influences trait X whatsoever",
+      "Phrenology skull measures are the proper replication of twin designs",
+      "Genetic privacy rules never apply once any twin study gets published"
+    ],
+    "correct": 0,
+    "correctFeedback": "Twin concordance patterns suggest genetic influence but do not erase environment or ethics/privacy issues.",
+    "wrongFeedback": {
+      "1": "Environment remains relevant; headlines overclaim.",
+      "2": "Phrenology is not a twin-study replication.",
+      "3": "Genetic privacy remains important."
+    },
+    "id": "c3-l4-09"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.1+3.4",
+    "question": "A methods class critiques a blog that claims “one fMRI blob proves free will is false.” Students note reverse inference risks, small-N issues, and overclaim. A historian says James’s functionalism already settled free will. A cell physiologist says only single-neuron spikes count as data. What critique best combines research literacy with biopsych limits?",
+    "options": [
+      "James’s functionalism permanently settled all free-will neuroscience",
+      "One blob underdetermines free-will metaphysics; methods limits apply",
+      "Only single-neuron spikes can ever count as legitimate neural data",
+      "Reverse inference is always perfect whenever the blob looks colorful"
+    ],
+    "correct": 1,
+    "correctFeedback": "Imaging results are informative but do not by themselves settle metaphysical free-will claims; methodological limits matter.",
+    "wrongFeedback": {
+      "0": "Historical functionalism did not settle modern imaging debates.",
+      "2": "Multiple levels (systems imaging, cells) can be informative.",
+      "3": "Reverse inference is fallible, not perfect."
+    },
+    "id": "c3-l4-10"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "1.2+3.5",
+    "question": "A clinical team debates SSRIs for depression. A pure behaviorist says drugs are irrelevant because only reinforcement schedules matter. A dualist says chemicals cannot affect “mind.” A methods advisor asks for randomized controlled evidence. Integrating schools, biopsych, and methods, which stance is most consistent with OpenStax-style biopsychology?",
+    "options": [
+      "Reinforcement schedules alone make all drug trials scientifically void",
+      "Dualism proves neurochemistry can never influence reported mood",
+      "Brain chemistry can relate to mood; RCTs test treatment claims",
+      "RCTs are unnecessary once a school of thought prefers talk therapy"
+    ],
+    "correct": 2,
+    "correctFeedback": "Biopsychology links neurochemistry and behavior/experience; treatment claims still need rigorous tests.",
+    "wrongFeedback": {
+      "0": "Learning matters, but it does not void psychopharmacology.",
+      "1": "Contemporary biopsychology rejects strict dualist separation here.",
+      "3": "Preferred therapy schools do not erase the value of RCTs."
+    },
+    "id": "c3-l4-11"
+  },
+  {
+    "chapter": 3,
+    "level": 4,
+    "section": "2.4+3.2",
+    "question": "An experimenter measures reaction times after giving a supposed “smart drug,” but the bottle is placebo and both experimenter and participant know it (not blind). A neurotransmitter lecture earlier that day primes participants to expect faster times. Ethics are fine (consent), but validity is shaky. Crossing methods bias with biopsych expectations, what is the main threat?",
+    "options": [
+      "Consent alone guarantees the drug’s causal effect on reaction time",
+      "Knowing the bottle is placebo makes neurotransmitter priming impossible",
+      "Reaction time cannot be a DV in any psychology experiment at all",
+      "Expectancy/placebo and lack of blinding threaten internal validity"
+    ],
+    "correct": 3,
+    "correctFeedback": "Non-blind placebo designs are highly vulnerable to expectancy effects.",
+    "wrongFeedback": {
+      "0": "Consent is ethics, not proof of a pharmacological effect.",
+      "1": "Priming/expectancy can still operate with placebos.",
+      "2": "Reaction time is a classic psychology DV."
+    },
+    "id": "c3-l4-12"
+  },
+  {
+    "chapter": 4,
+    "level": 1,
+    "section": "4.1",
+    "question": "Consciousness is best defined as:",
+    "options": [
+      "Awareness of internal and external stimuli",
+      "A synonym for coma",
+      "Only deep sleep without dreaming",
+      "Exclusive to hypnosis"
+    ],
+    "correct": 0,
+    "correctFeedback": "Consciousness means awareness of internal and external stimuli.",
+    "wrongFeedback": {
+      "1": "Coma is a profound loss of awareness—not the definition of consciousness.",
+      "2": "Sleep is a state on the consciousness continuum, not the definition of consciousness.",
+      "3": "Hypnosis is one altered state, not the whole definition."
+    },
+    "page": 110,
+    "id": "c4-l1-01"
+  },
+  {
+    "chapter": 4,
+    "level": 1,
+    "section": "4.1",
+    "question": "The brain's master circadian clock is largely attributed to the:",
+    "options": [
+      "Broca's area",
+      "Suprachiasmatic nucleus (SCN)",
+      "Adrenal cortex exclusively",
+      "Occipital lobe alone"
+    ],
+    "correct": 1,
+    "correctFeedback": "The SCN in the hypothalamus is the primary circadian pacemaker.",
+    "wrongFeedback": {
+      "0": "Broca's area is language production.",
+      "2": "Adrenals participate in rhythms but are not the master neural clock.",
+      "3": "Occipital lobe processes vision, not the master clock."
+    },
+    "page": 112,
+    "id": "c4-l1-02"
+  },
+  {
+    "chapter": 4,
+    "level": 1,
+    "section": "4.3",
+    "question": "Sleep spindles and K-complexes are characteristic of:",
+    "options": [
+      "Wake with eyes open only",
+      "NREM Stage 2",
+      "Coma exclusively",
+      "REM only"
+    ],
+    "correct": 1,
+    "correctFeedback": "Stage 2 NREM features spindles and K-complexes.",
+    "wrongFeedback": {
+      "0": "Those waveforms define Stage 2 sleep, not ordinary wake.",
+      "2": "Not the definition of coma EEG.",
+      "3": "REM has different EEG/EOG/EMG signatures."
+    },
+    "page": 118,
+    "id": "c4-l1-03"
+  },
+  {
+    "chapter": 4,
+    "level": 1,
+    "section": "4.3",
+    "question": "REM sleep is associated with:",
+    "options": [
+      "Vivid dreaming and muscle atonia",
+      "Complete absence of brain activity",
+      "Peak slow-wave delta only",
+      "Only sleepwalking episodes"
+    ],
+    "correct": 0,
+    "correctFeedback": "REM: vivid dreams, rapid eyes, paralyzed major muscles, active EEG.",
+    "wrongFeedback": {
+      "1": "Brain is highly active in REM.",
+      "2": "Deep slow-wave is NREM Stage 3.",
+      "3": "Sleepwalking is typically an NREM parasomnia."
+    },
+    "page": 118,
+    "id": "c4-l1-04"
+  },
+  {
+    "chapter": 4,
+    "level": 1,
+    "section": "4.4",
+    "question": "Obstructive sleep apnea involves:",
+    "options": [
+      "Repeated breathing stops due to airway blockage during sleep",
+      "Excessive melatonin production as the sole cause",
+      "Irresistible daytime sleep attacks as the primary definition",
+      "Only night terrors in children"
+    ],
+    "correct": 0,
+    "correctFeedback": "OSA: airway collapse/obstruction interrupts breathing in sleep.",
+    "wrongFeedback": {
+      "1": "Melatonin is not the defining cause of OSA.",
+      "2": "That describes narcolepsy more than apnea.",
+      "3": "Night terrors are a different parasomnia."
+    },
+    "page": 124,
+    "id": "c4-l1-05"
+  },
+  {
+    "chapter": 4,
+    "level": 1,
+    "section": "4.5",
+    "question": "Needing more of a drug to get the same effect is called:",
+    "options": [
+      "Sleep spindle",
+      "Random assignment",
+      "Tolerance",
+      "Latent content"
+    ],
+    "correct": 2,
+    "correctFeedback": "Tolerance: diminished response with repeated use, often needing higher doses.",
+    "wrongFeedback": {
+      "0": "Spindles are Stage 2 EEG features.",
+      "1": "Random assignment is a research design tool.",
+      "3": "Latent content is Freudian dream theory."
+    },
+    "page": 126,
+    "id": "c4-l1-06"
+  },
+  {
+    "chapter": 4,
+    "level": 2,
+    "section": "4.2",
+    "question": "Restorative theories of sleep emphasize that sleep:",
+    "options": [
+      "Has no link to memory processes",
+      "Is identical to anesthesia mechanisms always",
+      "Supports physiological repair and neural/cognitive restoration",
+      "Exists only to waste time — a common but inaccurate claim"
+    ],
+    "correct": 2,
+    "correctFeedback": "Restorative/cognitive views stress recovery and plasticity/memory roles.",
+    "wrongFeedback": {
+      "0": "Much evidence links sleep and memory consolidation.",
+      "1": "Sleep is not the same as general anesthesia.",
+      "3": "Sleep is biologically regulated and functional."
+    },
+    "page": 114,
+    "id": "c4-l2-01"
+  },
+  {
+    "chapter": 4,
+    "level": 2,
+    "section": "4.3",
+    "question": "Activation-synthesis theory proposes dreams result from:",
+    "options": [
+      "Exact replay of repressed wishes only",
+      "EEG equipment creating stories",
+      "Cortex interpreting chaotic brainstem activation during sleep",
+      "Digestive gases exclusively, contrary to the chapter definition"
+    ],
+    "correct": 2,
+    "correctFeedback": "Hobson and McCarley's activation-synthesis: cortex makes sense of neural activation.",
+    "wrongFeedback": {
+      "0": "That is closer to classical Freudian wish fulfillment.",
+      "1": "Dreams occur without EEG machines.",
+      "3": "Not a serious modern dream theory."
+    },
+    "page": 120,
+    "id": "c4-l2-02"
+  },
+  {
+    "chapter": 4,
+    "level": 2,
+    "section": "4.5",
+    "question": "Alcohol is classified primarily as a:",
+    "options": [
+      "Stimulant that always increases GABA blockers",
+      "Depressant of CNS activity",
+      "Opioid receptor agonist like morphine exactly",
+      "Non-psychoactive vitamin"
+    ],
+    "correct": 1,
+    "correctFeedback": "Alcohol is a depressant (with complex pharmacology including GABA facilitation).",
+    "wrongFeedback": {
+      "0": "It is not classified as a stimulant.",
+      "2": "Opioids are a different drug class.",
+      "3": "Alcohol is psychoactive."
+    },
+    "page": 128,
+    "id": "c4-l2-03"
+  },
+  {
+    "chapter": 4,
+    "level": 2,
+    "section": "4.1",
+    "question": "Melatonin release from the pineal is typically:",
+    "options": [
+      "Highest at bright midday only",
+      "Produced by the cerebellum exclusively",
+      "Unrelated to light",
+      "Higher in darkness, promoting sleepiness, gated via SCN pathways"
+    ],
+    "correct": 3,
+    "correctFeedback": "Light suppresses melatonin; darkness permits rise—SCN-linked pathway.",
+    "wrongFeedback": {
+      "0": "Bright light suppresses melatonin.",
+      "1": "Pineal, not cerebellum, secretes melatonin.",
+      "2": "Light is a key zeitgeber for this system."
+    },
+    "page": 112,
+    "id": "c4-l2-04"
+  },
+  {
+    "chapter": 4,
+    "level": 2,
+    "section": "4.6",
+    "question": "Social-cognitive theories of hypnosis emphasize:",
+    "options": [
+      "That hypnosis deletes all memories permanently",
+      "That meditation is identical to Stage 3 sleep",
+      "Role expectations, imagination, and compliance—not a unique trance brain state alone",
+      "That hypnosis always requires opioids"
+    ],
+    "correct": 2,
+    "correctFeedback": "Social-cognitive view: hypnotic behavior reflects expectations and roles; dissociation views propose split awareness.",
+    "wrongFeedback": {
+      "0": "Hypnosis does not permanently erase all memory.",
+      "1": "Meditation is not deep slow-wave sleep by definition.",
+      "3": "Hypnosis is not opioid administration."
+    },
+    "page": 134,
+    "id": "c4-l2-05"
+  },
+  {
     "chapter": 4,
     "level": 3,
     "section": "4.2",
@@ -2187,486 +2667,6 @@ window.PSYCH_QUESTIONS = [
     },
     "page": 121,
     "id": "c4-l3-15"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.2+2.3",
-    "question": "Behaviorist Dr. Hale wants causal evidence that a token economy reduces classroom disruptions. Principal Lee offers a parent survey: “likes tokens” correlates with fewer office referrals (r = −0.35). A Freudian consultant urges interviewing each child’s latent motives instead. A structuralist intern proposes 1879-style introspection diaries as the DV. Two interpretations look tempting—treat the survey association as proof, or treat depth interviews as richer truth. Which next step actually supports a causal claim about the token system?",
-    "options": [
-      "Experimentally manipulate tokens and measure disruption rates",
-      "Keep the survey; any |r| above 0.20 proves classroom causation",
-      "Interview analysts about each child’s latent motives as proof",
-      "Switch outcomes to structuralist introspection diaries (1879)"
-    ],
-    "correct": 0,
-    "correctFeedback": "Causal claims about an intervention require experimental control/manipulation, not correlation or mismatched historical methods.",
-    "wrongFeedback": {
-      "1": "Correlation magnitude alone does not prove causation.",
-      "2": "Motive interviews may be clinically interesting but do not establish token causation.",
-      "3": "Introspection diaries are not a behaviorist disruption DV and do not fix causal design."
-    },
-    "id": "c2-l4-01"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.3+2.2",
-    "question": "An I-O psychologist emails a leadership survey only to executives at one wealthy tech firm, then writes that results reveal “universal laws of leadership across humankind.” A WEIRD-aware reviewer flags the sample. A second reviewer notes a slide from description into causal overclaim without manipulation. A third suggests replacing the survey with one CEO case study “for better generalizability.” Sampling bias and overclaim both need fixing—what revision answers both concerns?",
-    "options": [
-      "Add more executives from the same firm and call it global",
-      "Broaden roles/cultures sampled; temper universal causal wording",
-      "Replace the survey with one CEO case for higher generalizability",
-      "Drop informed consent because workplace studies never need IRBs"
-    ],
-    "correct": 1,
-    "correctFeedback": "Widen sampling and avoid universal causal language without appropriate design.",
-    "wrongFeedback": {
-      "0": "Same-firm executives still fail diversity/WEIRD concerns.",
-      "2": "A single case usually lowers, not raises, generalizability.",
-      "3": "Workplace human research can still require ethics review/consent norms."
-    },
-    "id": "c2-l4-02"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.1+2.1",
-    "question": "On a call-in show, the host says “science is just another opinion,” then cites a celebrity’s one-off sleep tip as equal to a peer-reviewed trial. A philosopher guest praises pure reason without observation. A behaviorist caller demands lever-press data for every claim. Using empiricism (Ch 1) and the scientific cycle (Ch 2), which reply best defends psychology as science without those distortions?",
-    "options": [
-      "Science means accepting authority quotes without observation",
-      "Science forbids theories, allowing only one-shot anecdotes",
-      "Science tests hypotheses via systematic observation/revision",
-      "Science equals private introspection labs with no public methods"
-    ],
-    "correct": 2,
-    "correctFeedback": "Scientific psychology tests hypotheses with systematic observation and revises with evidence.",
-    "wrongFeedback": {
-      "0": "Authority without observation is not empiricism.",
-      "1": "Science uses theories and does not privilege single anecdotes.",
-      "3": "Modern science emphasizes public, repeatable methods—not private-only introspection."
-    },
-    "id": "c2-l4-03"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.4+2.4",
-    "question": "A hospital IRB reviews a memory study that withholds the full hypothesis until debriefing. The PI cites Watson’s Little Albert–era work as historical precedent for skipping consent. A nurse on the board notes Belmont-style respect for persons and OpenStax ethics on deception. A physician wants to skip IRB because “psychology is soft science.” Which decision best aligns with contemporary research ethics while still allowing limited deception when justified?",
-    "options": [
-      "Waive all consent because Little Albert set permanent precedent",
-      "Ban every psychology study that uses any form of mild deception",
-      "Skip IRB review because soft-science fields never need oversight",
-      "Approve if consent, risk review, and debriefing standards hold"
-    ],
-    "correct": 3,
-    "correctFeedback": "Limited deception can be allowed with IRB oversight, consent where appropriate, and debriefing—not historical free-passes.",
-    "wrongFeedback": {
-      "0": "Historical abuses are warnings, not precedents for skipping consent.",
-      "1": "Ethics boards can allow carefully justified deception with safeguards.",
-      "2": "Human-subjects psychology research still needs ethics oversight."
-    },
-    "id": "c2-l4-04"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.2+2.3",
-    "question": "Cognitive researcher Mei compares two study strategies. She randomly assigns students to Strategy A or B, then measures exam scores. A Gestalt-oriented advisor says she must abandon randomization because “the whole classroom vibe” cannot be split. A correlational consultant says she should instead only survey how often students already use A vs B. A third voice claims random assignment is the same as random sampling. What is the best defense of Mei’s design?",
-    "options": [
-      "Random assignment supports causal inference on strategy effects",
-      "Random assignment equals random sampling of the whole population",
-      "Only surveys of existing habits can ever support causal claims",
-      "Gestalt “wholes” forbid any experimental splitting of conditions"
-    ],
-    "correct": 0,
-    "correctFeedback": "Random assignment to conditions supports causal claims about the manipulated strategy.",
-    "wrongFeedback": {
-      "1": "Assignment ≠ sampling; they answer different validity questions.",
-      "2": "Surveys of existing habits are typically correlational, not causal.",
-      "3": "Gestalt insights do not prohibit carefully controlled experiments."
-    },
-    "id": "c2-l4-05"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.3+2.5",
-    "question": "A clinical psychologist wants to publish a case series on therapy progress and also run a rodent fear-conditioning study. A colleague confuses IRB and IACUC, saying one board covers both. Another argues that because Freud’s case studies “built the field,” animal welfare rules are optional for rats. A third claims APA ethics apply only to surveys. Which statement is most accurate across people vs animals?",
-    "options": [
-      "IACUC alone covers human cases plus rodent protocols alike",
-      "IRB covers humans; IACUC covers vertebrate animal studies",
-      "Freud case studies permanently exempt animal welfare rules",
-      "APA ethics apply only to surveys, never to animal research"
-    ],
-    "correct": 1,
-    "correctFeedback": "IRB oversees human research; IACUC oversees many vertebrate animal studies—distinct pathways.",
-    "wrongFeedback": {
-      "0": "IACUC does not replace IRB for human participants.",
-      "2": "Historical case studies do not exempt modern animal welfare rules.",
-      "3": "APA ethics extend beyond surveys; animal work has dedicated oversight."
-    },
-    "id": "c2-l4-06"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.2+2.2",
-    "question": "A developmental psychologist observes playground aggression with a structured coding sheet (naturalistic observation). A humanistic teacher insists only self-actualization interviews are “real psychology.” A behaviorist visitor demands an immediate Skinner-box experiment with tokens. A correlationalist says observation can prove that recess length causes aggression if the r is large. Which evaluation is most accurate?",
-    "options": [
-      "Only humanistic interviews count as scientific psychology methods",
-      "Large observational r values prove recess length causes aggression",
-      "Observation can describe patterns but cannot alone prove causation",
-      "Structured coding is invalid unless done inside a Skinner box only"
-    ],
-    "correct": 2,
-    "correctFeedback": "Naturalistic observation is valuable for description but does not by itself establish causation.",
-    "wrongFeedback": {
-      "0": "Humanistic interviews are one approach, not the only scientific method.",
-      "1": "Large r still does not prove causation.",
-      "3": "Structured coding outside a Skinner box can still be valid observation."
-    },
-    "id": "c2-l4-07"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.1+2.4",
-    "question": "Undergrad team designs a deception study on bystander helping. They plan to stage a fake emergency without consent language, film faces for a viral teaching clip, and skip debriefing “to keep the illusion pure.” One member cites structuralism’s private mind as justification for secrecy. Another cites functionalism’s “practical outcomes” to justify posting faces. What ethics revision is required before any IRB would likely proceed?",
-    "options": [
-      "Post faces publicly; functionalism prioritizes practical viral clips",
-      "Skip debriefing forever so the illusion remains scientifically pure",
-      "Cite structuralism’s private mind as a blanket waiver of consent",
-      "Add consent where required, minimize harm, debrief, protect privacy"
-    ],
-    "correct": 3,
-    "correctFeedback": "Deception studies still need ethics safeguards: consent/debriefing norms and privacy protection.",
-    "wrongFeedback": {
-      "0": "Functionalism does not authorize posting identifiable faces.",
-      "1": "Debriefing is typically required after deception.",
-      "2": "Structuralism is not an ethics waiver."
-    },
-    "id": "c2-l4-08"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.4+2.3",
-    "question": "A sports psychologist claims a new visualization app “causes” faster race times after showing athletes who already bought the app run faster than non-buyers (self-selected). A critic notes missing random assignment. A fan argues buying proves motivation, so causation is settled. A historian says since Wundt timed reactions, any timing study is automatically causal. What is the core design flaw?",
-    "options": [
-      "Self-selection confounds the app with pre-existing differences",
-      "Any timing measure since Wundt automatically proves app causation",
-      "Motivation from buying removes all alternative explanations forever",
-      "Critics must accept causation whenever a commercial app is studied"
-    ],
-    "correct": 0,
-    "correctFeedback": "Self-selected app buyers differ in many ways; without assignment, causation is not established.",
-    "wrongFeedback": {
-      "1": "Historical reaction-time work does not make this comparison causal.",
-      "2": "Motivation is itself a confound, not proof the app caused speed.",
-      "3": "Commercial status does not settle causal inference."
-    },
-    "id": "c2-l4-09"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.2+2.1",
-    "question": "A podcast claims Freud “invented the scientific method” and that modern hypothesis testing is just psychoanalytic free association in disguise. A guest counters that Wundt’s lab and later empiricism emphasize measurement and public methods. Another guest says Skinner proved hypotheses are unnecessary. Bridging history of psychology and research methods, which statement is most accurate?",
-    "options": [
-      "Freud’s free association permanently replaced all hypothesis testing",
-      "Hypothesis testing is empirical and distinct from free association",
-      "Skinner proved that scientific psychology never needs any hypotheses",
-      "Wundt forbade measurement, so modern methods reject all empiricism"
-    ],
-    "correct": 1,
-    "correctFeedback": "Scientific hypothesis testing is systematic and empirical—not equivalent to free association.",
-    "wrongFeedback": {
-      "0": "Psychoanalytic free association is not a replacement for experimental methods.",
-      "2": "Behaviorism used hypotheses/predictions about behavior; it did not abolish them.",
-      "3": "Wundt’s program emphasized measurement/introspection under controlled conditions."
-    },
-    "id": "c2-l4-10"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.3+2.4",
-    "question": "A health psychologist plans a stress survey of nurses, plus a parallel mouse study of chronic noise. The hospital lawyer says one consent form covers humans and mice. An administrator wants to film nurses without telling them “for ecological validity.” A PI claims double-blind placebos are unethical in surveys. Which package of decisions is most defensible?",
-    "options": [
-      "One consent form legally covers both nurses and laboratory mice",
-      "Covertly film nurses without notice to maximize ecological validity",
-      "Separate human IRB/consent from animal IACUC; no covert filming",
-      "Ban placebos in all psychology because surveys make them unethical"
-    ],
-    "correct": 2,
-    "correctFeedback": "Humans and animals follow different oversight paths; covert filming without consent is ethically fraught.",
-    "wrongFeedback": {
-      "0": "Mice are not covered by a human consent form.",
-      "1": "Secret filming of workers raises serious consent/privacy issues.",
-      "3": "Placebos can be ethical in appropriate experimental contexts with oversight."
-    },
-    "id": "c2-l4-11"
-  },
-  {
-    "chapter": 2,
-    "level": 4,
-    "section": "1.2+2.3",
-    "question": "Two labs report opposite effects of a mindfulness app on test anxiety. Lab A used a waitlist control; Lab B compared app users who volunteered vs non-users. A structuralist blogger says replication is impossible because experience is private. A journal editor demands preregistration and clearer controls. Crossing schools-of-thought history with methods, what best explains Lab B’s weaker causal claim?",
-    "options": [
-      "Private experience means no study can ever be replicated or compared",
-      "Waitlist controls are always unethical, so Lab A must be discarded",
-      "Preregistration proves Lab B’s design is automatically causal/clean",
-      "Volunteer vs non-user comparisons leave selection confounds open"
-    ],
-    "correct": 3,
-    "correctFeedback": "Self-selected app users vs non-users introduce confounds; waitlist experiments are stronger for causation.",
-    "wrongFeedback": {
-      "0": "Private experience does not make all replication impossible.",
-      "1": "Waitlist controls are commonly used and can be ethical with oversight.",
-      "2": "Preregistration improves transparency; it does not fix selection confounds."
-    },
-    "id": "c2-l4-12"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.3+3.2",
-    "question": "Dr. Ortiz randomly assigns rats to enriched vs standard cages, then measures dendritic spine density in cortex. A critic says correlation between cage type and spines is enough and randomization is unnecessary. A Freudian consultant wants dream reports from the rats. An IRB clerk wrongly files the protocol as human-only. What best defends the design’s causal goal about experience and neural structure?",
-    "options": [
-      "Random assignment lets cage enrichment be tested as a causal factor",
-      "Any cage–spine correlation alone proves enrichment causes all changes",
-      "Rat dream reports are required before claiming any neural plasticity",
-      "Human IRB review alone is the correct board for vertebrate rat work"
-    ],
-    "correct": 0,
-    "correctFeedback": "Manipulating enrichment with assignment supports causal claims about experience and neural structure.",
-    "wrongFeedback": {
-      "1": "Correlation without control does not prove causation.",
-      "2": "Dream reports are not required for this plasticity design.",
-      "3": "Vertebrate animal work typically needs IACUC-style oversight, not only human IRB."
-    },
-    "id": "c3-l4-01"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "1.2+3.4",
-    "question": "A patient after stroke speaks in short, effortful phrases with impaired production but relatively better comprehension. A behaviorist aide says only reinforcement history matters, so lesion location is irrelevant. A phrenologist visitor maps a bump over “talkativeness.” A cognitive neurologist suspects Broca-area damage. Integrating history of localization debates with modern biopsychology, which conclusion is best supported?",
-    "options": [
-      "Phrenology bumps remain the gold standard for localizing speech",
-      "Left frontal production networks (Broca’s) fit this aphasia pattern",
-      "Reinforcement history alone explains aphasia; lesions never matter",
-      "Comprehension-only Wernicke damage best fits effortful short phrases"
-    ],
-    "correct": 1,
-    "correctFeedback": "Nonfluent/effortful production with better comprehension fits a Broca-type pattern.",
-    "wrongFeedback": {
-      "0": "Phrenology is not modern localization science.",
-      "2": "Lesion location is highly relevant in aphasia.",
-      "3": "Wernicke-type patterns emphasize comprehension/fluent jargon issues differently."
-    },
-    "id": "c3-l4-02"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.4+3.5",
-    "question": "A drug trial for anxiety uses a double-blind placebo design (methods) while measuring amygdala BOLD responses (biopsych). A journalist claims placebos prove “the mind is not biological.” A dualist philosopher says brain scans cannot relate to anxiety. A Skinnerian says only lever presses count, so fMRI is meaningless. Which integrative reading is most accurate?",
-    "options": [
-      "Placebos prove anxiety is non-biological and scans are irrelevant",
-      "Dualism forbids any link between BOLD signals and reported anxiety",
-      "Placebo and drug effects can both involve measurable brain changes",
-      "Only lever presses are valid; fMRI can never inform anxiety research"
-    ],
-    "correct": 2,
-    "correctFeedback": "Psychological interventions and placebos can have biological correlates; methods and neuroscience connect.",
-    "wrongFeedback": {
-      "0": "Placebos do not prove the mind is non-biological.",
-      "1": "Contemporary biopsychology links brain measures with experience/behavior.",
-      "3": "Behavior matters, but neuroimaging can still inform emotion research."
-    },
-    "id": "c3-l4-03"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "1.3+3.3",
-    "question": "An evolutionary psychologist argues jealousy has adaptive functions. A critic says OpenStax biopsych’s nature–nurture and genetics sections prove genes alone fix jealousy with no environment. A behaviorist says only punishment histories matter. A survey finds WEIRD samples dominate the jealousy literature. What tempered conclusion fits best?",
-    "options": [
-      "Genes alone fix jealousy; environments never influence the trait",
-      "Only punishment histories can explain jealousy across all cultures",
-      "WEIRD samples prove evolutionary claims need no further testing",
-      "Genes and environments interact; sample diversity still matters"
-    ],
-    "correct": 3,
-    "correctFeedback": "Biopsychology emphasizes gene–environment interplay; sampling limits still constrain claims.",
-    "wrongFeedback": {
-      "0": "Environments matter; genes are not sole fixed causes.",
-      "1": "Behaviorist learning is one lens, not the only explanation.",
-      "2": "WEIRD limits increase—not remove—the need for careful testing."
-    },
-    "id": "c3-l4-04"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.2+3.1",
-    "question": "Students debate whether resting membrane potential is “just philosophy.” One cites empiricism: ion measures and recordings are observations. Another says structuralism’s introspection can replace electrophysiology. A third confuses correlation of neuron firing with proof that one thought caused the spike. Bridging scientific method and neural basics, which statement is sound?",
-    "options": [
-      "Membrane potentials are empirically measured, not mere speculation",
-      "Introspection alone replaces the need for electrophysiology measures",
-      "Any correlation of thoughts and spikes proves one thought caused them",
-      "Empiricism forbids measuring ions because they are not experiences"
-    ],
-    "correct": 0,
-    "correctFeedback": "Neural membrane phenomena are studied with empirical measurement techniques.",
-    "wrongFeedback": {
-      "1": "Introspection does not replace electrophysiology.",
-      "2": "Correlation of timing does not by itself prove a specific causal thought→spike story.",
-      "3": "Empiricism supports measurement of physical neural variables."
-    },
-    "id": "c3-l4-05"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.4+3.4",
-    "question": "A surgeon maps language areas before tumor removal using cortical stimulation while the patient names pictures. A historian likens this to phrenology. An ethicist asks about consent under surgical stress. A methods student asks whether this is an experiment with random assignment. What best captures the procedure’s scientific/ethical status?",
-    "options": [
-      "Phrenology bumps are being used as the primary mapping method",
-      "Clinical mapping with consent; not a randomized causal experiment",
-      "Random assignment to tumor sites is required for clinical mapping",
-      "Consent is unnecessary because intraoperative talk is not research"
-    ],
-    "correct": 1,
-    "correctFeedback": "Intraoperative mapping is clinical/neuroscientific practice needing consent—not classic randomized experiments or phrenology.",
-    "wrongFeedback": {
-      "0": "Modern mapping is not phrenology.",
-      "2": "Tumor location is not randomly assigned.",
-      "3": "Consent/ethics remain central in clinical research/practice contexts."
-    },
-    "id": "c3-l4-06"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "1.2+3.2",
-    "question": "A textbook figure shows action potentials as all-or-none. A student says this proves behaviorism wrong because “mind sparks.” Another says Gestalt wholes mean membrane thresholds cannot be studied in parts. A third confuses neurotransmitters with hormones traveling only in blood. Which clarification is most accurate?",
-    "options": [
-      "Gestalt theory forbids studying membrane thresholds in any reduced form",
-      "Neurotransmitters travel only in blood; hormones act only in one synapse",
-      "All-or-none spikes are cellular; they don’t refute behaviorism at root",
-      "Action potentials prove introspection is the only valid psychology method"
-    ],
-    "correct": 2,
-    "correctFeedback": "All-or-none action potentials describe neuron firing; they don’t by themselves settle school-of-thought debates.",
-    "wrongFeedback": {
-      "0": "Cellular physiology can be studied analytically alongside broader approaches.",
-      "1": "Neurotransmitters act at synapses; hormones typically travel in blood—roles are swapped in that option.",
-      "3": "Neural physiology does not make introspection the only method."
-    },
-    "id": "c3-l4-07"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.3+3.5",
-    "question": "Researchers test whether caffeine improves vigilance. They use a double-blind design and also record EEG. A sleep-deprived group is included. A critic says any arousal increase proves caffeine is a depressant “by paradox.” An ethicist worries about coercion of sleep-deprived students. A dualist says EEG cannot relate to vigilance reports. Best integrative judgment?",
-    "options": [
-      "Paradoxically, arousal increases prove caffeine must be a depressant",
-      "EEG is metaphysically barred from relating to any vigilance self-report",
-      "Sleep-deprived students may be coerced; ethics review can be ignored",
-      "Caffeine is a stimulant; link arousal measures with ethics oversight"
-    ],
-    "correct": 3,
-    "correctFeedback": "Caffeine is classified as a stimulant; combining behavioral/EEG measures is coherent with ethical oversight.",
-    "wrongFeedback": {
-      "0": "Increased arousal fits stimulant—not depressant—classification.",
-      "1": "Psychophysiology routinely links EEG with performance/reports.",
-      "2": "Vulnerable/fatigued participants heighten—not remove—ethics needs."
-    },
-    "id": "c3-l4-08"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "1.4+3.3",
-    "question": "A twin study reports higher concordance for a trait in identical than fraternal twins. A newspaper headline: “Gene for X found; environment irrelevant.” A behavior geneticist notes shared environments and epigenetics caveats. An IRB chair notes privacy of genetic data. A phrenologist offers skull measurements as replication. What is the soundest reading?",
-    "options": [
-      "Higher MZ concordance suggests genetic influence, not environment-zero",
-      "Headlines correctly prove environment never influences trait X whatsoever",
-      "Phrenology skull measures are the proper replication of twin designs",
-      "Genetic privacy rules never apply once any twin study gets published"
-    ],
-    "correct": 0,
-    "correctFeedback": "Twin concordance patterns suggest genetic influence but do not erase environment or ethics/privacy issues.",
-    "wrongFeedback": {
-      "1": "Environment remains relevant; headlines overclaim.",
-      "2": "Phrenology is not a twin-study replication.",
-      "3": "Genetic privacy remains important."
-    },
-    "id": "c3-l4-09"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.1+3.4",
-    "question": "A methods class critiques a blog that claims “one fMRI blob proves free will is false.” Students note reverse inference risks, small-N issues, and overclaim. A historian says James’s functionalism already settled free will. A cell physiologist says only single-neuron spikes count as data. What critique best combines research literacy with biopsych limits?",
-    "options": [
-      "James’s functionalism permanently settled all free-will neuroscience",
-      "One blob underdetermines free-will metaphysics; methods limits apply",
-      "Only single-neuron spikes can ever count as legitimate neural data",
-      "Reverse inference is always perfect whenever the blob looks colorful"
-    ],
-    "correct": 1,
-    "correctFeedback": "Imaging results are informative but do not by themselves settle metaphysical free-will claims; methodological limits matter.",
-    "wrongFeedback": {
-      "0": "Historical functionalism did not settle modern imaging debates.",
-      "2": "Multiple levels (systems imaging, cells) can be informative.",
-      "3": "Reverse inference is fallible, not perfect."
-    },
-    "id": "c3-l4-10"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "1.2+3.5",
-    "question": "A clinical team debates SSRIs for depression. A pure behaviorist says drugs are irrelevant because only reinforcement schedules matter. A dualist says chemicals cannot affect “mind.” A methods advisor asks for randomized controlled evidence. Integrating schools, biopsych, and methods, which stance is most consistent with OpenStax-style biopsychology?",
-    "options": [
-      "Reinforcement schedules alone make all drug trials scientifically void",
-      "Dualism proves neurochemistry can never influence reported mood",
-      "Brain chemistry can relate to mood; RCTs test treatment claims",
-      "RCTs are unnecessary once a school of thought prefers talk therapy"
-    ],
-    "correct": 2,
-    "correctFeedback": "Biopsychology links neurochemistry and behavior/experience; treatment claims still need rigorous tests.",
-    "wrongFeedback": {
-      "0": "Learning matters, but it does not void psychopharmacology.",
-      "1": "Contemporary biopsychology rejects strict dualist separation here.",
-      "3": "Preferred therapy schools do not erase the value of RCTs."
-    },
-    "id": "c3-l4-11"
-  },
-  {
-    "chapter": 3,
-    "level": 4,
-    "section": "2.4+3.2",
-    "question": "An experimenter measures reaction times after giving a supposed “smart drug,” but the bottle is placebo and both experimenter and participant know it (not blind). A neurotransmitter lecture earlier that day primes participants to expect faster times. Ethics are fine (consent), but validity is shaky. Crossing methods bias with biopsych expectations, what is the main threat?",
-    "options": [
-      "Consent alone guarantees the drug’s causal effect on reaction time",
-      "Knowing the bottle is placebo makes neurotransmitter priming impossible",
-      "Reaction time cannot be a DV in any psychology experiment at all",
-      "Expectancy/placebo and lack of blinding threaten internal validity"
-    ],
-    "correct": 3,
-    "correctFeedback": "Non-blind placebo designs are highly vulnerable to expectancy effects.",
-    "wrongFeedback": {
-      "0": "Consent is ethics, not proof of a pharmacological effect.",
-      "1": "Priming/expectancy can still operate with placebos.",
-      "2": "Reaction time is a classic psychology DV."
-    },
-    "id": "c3-l4-12"
   },
   {
     "chapter": 4,
@@ -3477,233 +3477,282 @@ window.PSYCH_QUESTIONS = [
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch2×Ch5",
-    "question": "A lab correlates self-reported 'noticing' scores with reaction times to faint flashes, then claims the flashes cause better noticing. A reviewer flags both methods and sensation concepts. Which critique is most precise?",
+    "section": "2.2+2.3+5.1",
+    "question": "Dr. Okonkwo runs a campus study correlating students’ self-rated “keen noticing” scores with reaction times to near-threshold light flashes. She then writes that the flashes *cause* better noticing. A methods TA flags that there was no manipulated IV and no random assignment. A sensation classmate insists absolute threshold is a fixed intensity that “proves” causation whenever r > .30. An ethics reviewer asks whether consent covered claiming clinical applications. Which critique is most precise?",
     "options": [
-      "Correlation cannot prove causation; also distinguish",
-      "Absolute thresholds make every correlational design now",
-      "Rods prove causation whenever r exceeds zero in a sample",
-      "IRB approval converts correlations into manipulated now"
+      "Correlation without an IV cannot show that flashes cause better noticing scores",
+      "Absolute thresholds turn every correlation into a true causal lab experiment",
+      "Any r above .30 converts self-report scores into randomly assigned treatments",
+      "IRB consent wording alone creates internal validity for strong causation claims"
     ],
     "correct": 0,
-    "correctFeedback": "Ch2: correlation ≠ causation. Ch5: detection involves thresholds/signal decisions, not automatic causal claims.",
+    "correctFeedback": "Without a manipulated IV and controls, correlation cannot support a causal claim about flashes causing noticing.",
     "wrongFeedback": {
-      "1": "Thresholds do not turn correlations into experiments.",
-      "2": "Receptor type does not create causal proof from r.",
-      "3": "IRB ethics ≠ experimental control."
+      "1": "Thresholds describe detection; they do not convert correlational designs into experiments.",
+      "2": "Effect-size cutoffs do not create random assignment or causal identification.",
+      "3": "Consent is necessary ethically but does not manufacture internal validity."
     },
-    "page": 156,
     "id": "c5-l4-01"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch3×Ch5",
-    "question": "A patient with occipital damage has blindsight-like reports in a case write-up, while a classmate attributes everything to dopamine at the neuromuscular junction. Which framing best uses biopsych + perception ideas?",
+    "section": "3.4+5.2+5.3",
+    "question": "After a stroke affecting primary visual cortex, Mr. Patel sometimes points toward moving lights he denies “seeing.” A neurology intern labels this blindsight-like residual function. Classmate A says dopamine at the neuromuscular junction explains conscious sight. Classmate B says pituitary hormones focus images on the basilar membrane. Classmate C says sympathetic arousal invents cone photopigments. Which framing best integrates biopsych and perception?",
     "options": [
-      "Visual cortex pathways matter for conscious sight; NMJ",
-      "Only spinal reflexes explain conscious color afterimages",
-      "Pituitary hormones focus light on the basilar membrane",
-      "Sympathetic arousal creates trichromatic cone photopigments"
+      "Only spinal stretch reflexes create conscious color afterimages after a stroke",
+      "Visual cortex pathways support awareness; NMJ dopamine is motor, not seeing",
+      "Pituitary hormones focus light on the basilar membrane for visual awareness",
+      "Sympathetic arousal synthesizes trichromatic cone pigments after cortex injury"
     ],
-    "correct": 0,
-    "correctFeedback": "Occipital/visual pathways vs. confusing peripheral NMJ chemistry.",
+    "correct": 1,
+    "correctFeedback": "Conscious visual report depends heavily on cortical visual pathways; NMJ chemistry is about muscle activation, not seeing.",
     "wrongFeedback": {
-      "1": "Reflexes do not equal cortical visual awareness.",
-      "2": "Pituitary/hearing mix is wrong.",
-      "3": "Autonomic arousal ≠ cone photochemistry."
+      "0": "Spinal reflexes do not explain conscious visual experience or afterimages.",
+      "2": "The basilar membrane is auditory; pituitary hormones do not focus retinal images.",
+      "3": "Arousal does not invent cone photopigments after cortical damage."
     },
-    "page": 154,
     "id": "c5-l4-02"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch4×Ch5",
-    "question": "After 36 hours awake, a student misreads dim dashboard lights and misses a roadside sign. Combine consciousness and sensation ideas:",
+    "section": "5.1+5.2+4.1",
+    "question": "In a signal-detection lab, Maya sets a very liberal criterion for hearing a faint tone in noise: many hits, many false alarms. Tutor Ken claims she “lowered her absolute threshold.” Tutor Lea says she improved d′ (sensitivity). Tutor Omar says REM rebound from last night’s sleep debt created more cones. A methods peer asks whether payoff instructions changed bias. What is the best analysis?",
     "options": [
-      "Sleep deprivation can impair attention; dim conditions also",
-      "Melatonin turns cones into ossicles during prolonged waking",
-      "REM atonia focuses the lens more sharply than NREM now",
-      "Depressant drugs always raise absolute visual thresholds to"
+      "Liberal criteria always raise absolute threshold and erase false alarms",
+      "REM rebound rebuilds cone photopigments and thereby raises sensory d′",
+      "She shifted response bias (criterion), which is not the same thing as d′",
+      "Payoff instructions cannot affect criterion; only basilar place coding can"
     ],
-    "correct": 0,
-    "correctFeedback": "Ch4 sleep loss + Ch5 sensory/attentional limits jointly explain misses.",
+    "correct": 2,
+    "correctFeedback": "Signal detection separates sensitivity (d′) from criterion/bias; a liberal criterion raises hits and false alarms without necessarily changing d′.",
     "wrongFeedback": {
-      "1": "Melatonin does not remodel receptors into ear bones.",
-      "2": "REM atonia is muscle paralysis in sleep, not focusing.",
-      "3": "Drug effects are not 'threshold to zero'."
+      "0": "Liberal criteria increase false alarms; they do not erase them or redefine absolute threshold as bias.",
+      "1": "REM rebound is a sleep phenomenon and does not rebuild cones or equal d′.",
+      "3": "Payoffs classically shift criterion; place theory is about pitch, not decision bias."
     },
-    "page": 150,
     "id": "c5-l4-03"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch1×Ch5",
-    "question": "A structuralist-style observer lists elemental colors; a Gestalt-leaning classmate insists the whole melody of the scene matters more. Mapping schools to Ch5:",
+    "section": "5.3+1.2+2.2",
+    "question": "A start-up claims its “color-training app” turns dichromats into trichromats in two weeks, citing testimonials and a within-subjects quiz with no control app and no random assignment. A reviewer notes opponent-process afterimages still appear in users. A behaviorist investor says only Watson-style S–R drills matter. A cognitive peer mentions top-down expectations inflating quiz scores. Strongest scientific critique?",
     "options": [
-      "Structuralism-like elements vs. Gestalt organization",
-      "Only behaviorist reinforcement schedules organize now",
-      "Psychoanalysis replaces rods with latent dream symbols in",
-      "Functionalism denies that wavelength relates to hue at all"
+      "Opponent afterimages prove every dichromat already has three cone classes",
+      "Watson-style S–R drills rewrite dichromatic retinas into trichromatic ones",
+      "Top-down expectations make random assignment ethically impossible",
+      "Uncontrolled testimonials cannot prove dichromacy became true trichromacy"
     ],
-    "correct": 0,
-    "correctFeedback": "History (Ch1) schools echo how we analyze vs. organize perceptual experience (Ch5).",
+    "correct": 3,
+    "correctFeedback": "Without controls and proper design, testimonials cannot establish that the app changed cone-based trichromacy.",
     "wrongFeedback": {
-      "1": "Schedules are operant learning.",
-      "2": "Dream symbolism is not retinal anatomy.",
-      "3": "Functionalism does not deny wavelength–hue links."
+      "0": "Afterimages relate to opponent processes; they do not prove dichromats are trichromats.",
+      "1": "Behaviorist drills do not rewrite retinal photopigment complement.",
+      "2": "Expectations are a confound to control—not a reason to ban randomization."
     },
-    "page": 169,
     "id": "c5-l4-04"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch2×Ch5",
-    "question": "An experimenter manipulates flash intensity (IV) and records yes/no detection (DV), with random assignment to intensity levels. What claim is most warranted?",
+    "section": "5.4+5.5+2.3",
+    "question": "During a basketball-pass counting video, half the viewers miss a person in a gorilla suit. Prof. Ng calls this inattentional blindness. Student A says it proves rods alone create conscious objects. Student B says feature integration is irrelevant because Gestalt closure “forces” awareness. Student C wants to drop the replication because the original used WEIRD undergrads. An IRB member worries deception about the gorilla. Best integrated judgment?",
     "options": [
-      "A controlled experiment can support causal claims about",
-      "Any survey of brightness ratings proves opponent-process",
-      "Naturalistic observation of eyesight replaces the need for",
-      "Archival grades determine absolute thresholds without"
+      "Attention can gate awareness despite stimulation; careful replication still matters",
+      "Rods alone force conscious object binding whenever a gorilla suit appears on screen",
+      "Gestalt closure makes inattentional blindness theoretically impossible by definition",
+      "WEIRD undergraduate samples mean attention work should never be replicated at all"
     ],
     "correct": 0,
-    "correctFeedback": "Ch2 experiment logic applied to Ch5 psychophysics.",
+    "correctFeedback": "Inattentional blindness shows attention limits awareness despite stimulation; WEIRD limits generality but do not ban careful replication.",
     "wrongFeedback": {
-      "1": "Surveys ≠ decisive proof of opponent-process.",
-      "2": "Observation lacks manipulated IV.",
-      "3": "Archival data without stimuli cannot set sensory thresholds."
+      "1": "Receptor stimulation is not sufficient for awareness; attention matters.",
+      "2": "Gestalt principles organize perception; they do not make inattentional blindness impossible.",
+      "3": "Sample limits motivate broader replication—not abandoning the phenomenon."
     },
-    "page": 147,
     "id": "c5-l4-05"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch3×Ch5",
-    "question": "Hair-cell transduction in the cochlea fails while the ossicles move normally. Link nervous-system signaling to hearing type:",
+    "section": "5.2+5.3+3.2",
+    "question": "A podcast guest says “place theory and temporal theory are the same because both mention the cochlea,” then claims a damaged basilar membrane only affects smell. A neuro classmate notes tonotopic organization along the basilar membrane. Another confuses olfactory receptors with hair cells. A methods friend asks for a double dissociation design. Which statement is most accurate?",
     "options": [
-      "Likely sensorineural problem: hair cells/auditory nerve",
-      "Purely conductive loss because the eardrum never moved",
-      "Only endocrine pituitary failure explains cochlear silence",
-      "Corpus callosum sectioning always restores high-frequency"
+      "Place and temporal theories are identical and jointly explain only olfactory binding",
+      "Place and temporal theories concern pitch; basilar damage hits hearing, not smell",
+      "Basilar membrane damage abolishes smell while fully sparing auditory pitch coding",
+      "Hair cells are olfactory receptors that migrate to nasal tissue during early life"
     ],
-    "correct": 0,
-    "correctFeedback": "Hair-cell/nerve issues → sensorineural; ossicles OK argues against pure conductive.",
+    "correct": 1,
+    "correctFeedback": "Place vs temporal theories concern how pitch is coded; the basilar membrane is auditory, not olfactory.",
     "wrongFeedback": {
-      "1": "Ossicles moving argues against a pure conductive story.",
-      "2": "Pituitary is endocrine, not the direct cochlear transducer.",
-      "3": "Callosum is interhemispheric, not a cochlear fix."
+      "0": "They are distinct pitch-coding accounts, not a single smell theory.",
+      "2": "Basilar damage affects hearing, not smell.",
+      "3": "Hair cells are auditory transducers, not olfactory receptors."
     },
-    "page": 161,
     "id": "c5-l4-06"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch6×Ch5",
-    "question": "A branding team pairs a logo (NS→CS) with energizing music (UCS) so the logo later sparks arousal (CR), then tests whether brighter packaging increases detection of the logo on shelves. What two learning/sensation ideas are in play?",
+    "section": "5.1+5.6+2.2",
+    "question": "In a difference-threshold lab, Jordan can just notice that a 100 g weight became 102 g (Weber-like). Lab partner Sam calls this the absolute threshold for “all touch forever.” Partner Riley says top-down knowledge of the number “102” caused the sensory receptors to fire. Partner Quinn wants to drop the control lighter weights because “everyone knows heavier is heavier.” Best correction?",
     "options": [
-      "Classical conditioning of affect to the logo, plus sensory",
-      "Only variable-ratio punishment of shoppers’ vestibular now",
-      "Latent dream content focusing the optic chiasm during",
-      "Random assignment is impossible whenever a CS exists"
+      "Absolute thresholds equal any 2% change, ignoring the starting stimulus intensity",
+      "Knowing the numeral 102 is what makes mechanoreceptors generate action potentials",
+      "That just-noticeable change is a difference threshold, not an absolute threshold",
+      "Dropping lighter control weights improves causal inference about Weber fractions"
     ],
-    "correct": 0,
-    "correctFeedback": "Ch6 classical pairing + Ch5 detection/attention in a retail scene.",
+    "correct": 2,
+    "correctFeedback": "Detecting a change from 100 g to 102 g illustrates a difference (JND) threshold, not absolute threshold.",
     "wrongFeedback": {
-      "1": "Punishment/vestibular mix is off-topic.",
-      "2": "Dream/chiasm mashup is not the mechanism.",
-      "3": "CS presence does not forbid random assignment."
+      "0": "Weber fractions depend on starting intensity; absolute threshold is detection from none/near-none.",
+      "1": "Top-down knowledge does not literally make receptors fire the sensory transduction event.",
+      "3": "Removing controls worsens, not improves, inference about discrimination."
     },
-    "page": 148,
     "id": "c5-l4-07"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch2×Ch5",
-    "question": "Two labs disagree whether a cultural perceptual-set effect replicates. One posts raw trial data; another reports only p < .05. Open science + perception angle?",
+    "section": "5.3+5.5+4.5",
+    "question": "After staring at a green-black-and-yellow flag, students see a red-white-and-blue afterimage. Tutor A says only trichromatic theory can explain it. Tutor B says only opponent-process theory can. Tutor C says the afterimage is REM rebound projecting cones onto the iris. A historian notes Helmholtz vs Hering debates. What is the best modern teaching point?",
     "options": [
-      "Transparent data help evaluate perceptual-set claims;",
-      "Gestalt closure makes all replication attempts unnecessary",
-      "Conductive hearing loss invalidates every visual culture",
-      "WEIRD sampling is solved by using only absolute thresholds"
+      "Afterimages refute cones and prove auditory place theory explains human color vision",
+      "REM rebound projects cone pigments onto the iris to create the flag afterimages",
+      "Opponent-process theory bans any role for three cone types in human color vision",
+      "Cone trichromacy plus later opponent processes together best fit flag afterimages"
     ],
-    "correct": 0,
-    "correctFeedback": "Ch2 research quality/replication mindset + Ch5 perceptual set/culture.",
+    "correct": 3,
+    "correctFeedback": "Modern accounts combine trichromatic cone responses with later opponent-process channels—afterimages fit the opponent stage especially well.",
     "wrongFeedback": {
-      "1": "Gestalt does not cancel replication needs.",
-      "2": "Hearing loss is not a blanket confutation.",
-      "3": "Thresholds do not fix sampling bias."
+      "0": "Afterimages do not refute cones or implicate auditory place theory.",
+      "1": "REM rebound is unrelated to generating visual flag afterimages via the iris.",
+      "2": "Opponent-process theory complements, rather than bans, trichromacy at the cones."
     },
-    "page": 170,
     "id": "c5-l4-08"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch4×Ch5",
-    "question": "A night-shift worker with circadian misalignment reports both microsleeps and motion sickness on a ferry. Best combined reading?",
+    "section": "5.5+1.4+2.4",
+    "question": "A museum exhibit claims monocular depth cues are “fake psychology” because depth is only binocular disparity, citing one influencer demo. A developmental psychologist notes infants use pictorial cues. A Gestalt researcher mentions figure–ground and interposition. An ethicist flags that the exhibit collected gaze data without consent notices. Strongest response?",
     "options": [
-      "Circadian disruption impairs alertness; vestibular conflict",
-      "Only cones encode ferry motion while melatonin moves",
-      "Narcolepsy is identical to conductive hearing loss by",
-      "Meditation permanently deletes semicircular canal hair cells"
+      "People use monocular and binocular cues; unauthorized gaze capture remains unethical",
+      "Only binocular disparity exists; pictorial cues are myths invented by Gestalt writers",
+      "Figure-ground organization proves consent is unnecessary for public museum eye-tracking",
+      "Influencer demos override developmental evidence that infants use pictorial depth cues"
     ],
     "correct": 0,
-    "correctFeedback": "Ch4 circadian/alertness + Ch5 vestibular.",
+    "correctFeedback": "Depth perception uses both monocular and binocular information; ethics still require appropriate notice/consent for research-like data collection.",
     "wrongFeedback": {
-      "1": "Cones/melatonin/ossicles mashup is wrong.",
-      "2": "Sleep disorder ≠ middle-ear conductive loss.",
-      "3": "Meditation does not destroy vestibular hair cells."
+      "1": "Monocular/pictorial cues are real and widely documented.",
+      "2": "Perceptual organization does not waive research ethics.",
+      "3": "Viral demos are not a higher standard of evidence than developmental data."
     },
-    "page": 167,
     "id": "c5-l4-09"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch1×Ch2×Ch5",
-    "question": "A podcast claims 'everyone has the same absolute thresholds, so culture never affects perception.' Using course chapters, the strongest reply is:",
+    "section": "5.1+3.3+2.2",
+    "question": "An energy-drink brand funds a study concluding their beverage “raises sensory absolute thresholds for pain,” but the protocol only measured self-reported toughness after knowing who got the drink (no blinding). A biopsych student notes descending pain modulation and endorphins. A methods peer cites expectancy/placebo and demand characteristics. A company scientist says sponsorship proves validity. Best critique?",
     "options": [
-      "Thresholds are statistical; perception also reflects",
-      "Wundt’s lab proved thresholds are identical across all",
-      "Correlation coefficients are absolute thresholds by another",
-      "Behaviorism forbids measuring sensation in any experiment"
+      "Brand sponsorship automatically validates absolute-threshold claims in pain studies",
+      "Unblinded self-reports confound expectancy with any true sensory threshold change",
+      "Endorphins make blinding impossible because they erase all demand characteristics",
+      "Absolute threshold means the same thing as response bias in signal detection theory"
     ],
-    "correct": 0,
-    "correctFeedback": "Integrate methods skepticism (Ch2), diversity/culture notes (Ch1/Ch5), and threshold definitions.",
+    "correct": 1,
+    "correctFeedback": "Without blinding, expectancy and demand can mimic “threshold” changes in self-report; sponsorship does not fix that.",
     "wrongFeedback": {
-      "1": "History does not prove universal identical thresholds.",
-      "2": "r is not a sensory threshold.",
-      "3": "Behaviorism historically focused on behavior but does not erase sensory measurement."
+      "0": "Funding source does not create internal validity.",
+      "2": "Biology of pain modulation does not remove the need for blinding.",
+      "3": "Absolute threshold and criterion/bias are distinct SDT ideas."
     },
-    "page": 146,
     "id": "c5-l4-10"
   },
   {
     "chapter": 5,
     "level": 4,
-    "section": "Cross Ch3×Ch5",
-    "question": "Someone argues trichromatic theory 'disproves' neurons using action potentials because color is continuous. Best correction?",
+    "section": "5.4+5.1+2.2",
+    "question": "A VR training study flashes a tone whenever a faint visual target appears, then claims participants “classically conditioned their occipital lobes to hear color.” Pretests show better detection only when top-down cues predict target location. A sensation TA says this is mainly attention/top-down perception, not proof of hearing color. A learning-enthusiast classmate insists the tone became a CS for hue. Methods asks for a condition with unpaired tones. Best interpretation?",
     "options": [
-      "Cone photopigments and spiking neurons address different",
-      "Action potentials only occur in rods, never in cones or",
-      "Opponent-process theory replaces the need for any nervous",
-      "Endocrine glands emit wavelengths that skip all neural"
+      "Any paired tone proves occipital cortex literally transduces sound as hue percepts",
+      "Unpaired-tone controls are unnecessary once participants report noticing targets",
+      "Top-down attentional cuing can aid detection without implying people hear colors",
+      "Hearing color is guaranteed when a CS and a faint light share a VR timestamp"
+    ],
+    "correct": 2,
+    "correctFeedback": "Improved detection with predictive cues is well explained by top-down attention; it does not show auditory transduction of color.",
+    "wrongFeedback": {
+      "0": "Pairing alone does not mean cortex “hears color.”",
+      "1": "Unpaired controls help separate cueing/contingency from mere stimulation.",
+      "3": "Temporal contiguity in VR is not proof of synesthesia-like hearing of color."
+    },
+    "id": "c5-l4-11"
+  },
+  {
+    "chapter": 5,
+    "level": 4,
+    "section": "5.2+5.3+3.5",
+    "question": "Ms. Chen has conductive hearing loss from middle-ear stiffening; her audiogram is worse for soft sounds, but cochlear hair cells test intact. A trainee recommends only “temporal theory apps” because place theory “requires smell receptors.” Another suggests stimulants to dilate the pupil for better hearing. A third confuses sensorineural with conductive loss. What is the most accurate teaching point?",
+    "options": [
+      "Place theory requires olfactory receptors and cannot map cochlear frequency places",
+      "Pupil-dilating stimulants restore ossicle motion and soft-sound hearing thresholds",
+      "Intact hair cells prove the problem must be sensorineural, never a conductive loss",
+      "Conductive loss is middle-ear transmission; place/temporal theories concern pitch"
+    ],
+    "correct": 3,
+    "correctFeedback": "Conductive loss is a middle-ear transmission problem; place and temporal theories are about pitch encoding, not which ear structure is damaged.",
+    "wrongFeedback": {
+      "0": "Place theory is about basilar place coding for pitch, not smell.",
+      "1": "Pupil dilation does not fix ossicle conduction.",
+      "2": "Intact hair cells are compatible with conductive (middle-ear) loss."
+    },
+    "id": "c5-l4-12"
+  },
+  {
+    "chapter": 5,
+    "level": 4,
+    "section": "1.1+2.2+5.5",
+    "question": "A popular blog says psychology is “not a science” because Müller-Lyer illusions fool people, so perception is hopelessly subjective. A methods student replies that illusions are controlled, replicable phenomena used to test theories. A humanist peer says only Rogers’s empathy can validate perception research. A physicist friend cites Popper: bold claims should risk falsification. Strongest reply to the blog?",
+    "options": [
+      "Replicable illusions are data for testing theories, not proof psychology is unscientific",
+      "Illusions show measurement is impossible, so falsifiability cannot apply in perception work",
+      "Only Rogerian empathy, not experiments, can validate claims about visual size constancies",
+      "If an illusion fools anyone once, all psychophysical thresholds become forever meaningless"
     ],
     "correct": 0,
-    "correctFeedback": "Biopsych signaling (Ch3) vs. color theories (Ch5) are compatible levels of analysis.",
+    "correctFeedback": "Systematic illusions are classic scientific tools in perception; they support, rather than refute, psychology’s empirical status.",
     "wrongFeedback": {
-      "1": "Spikes are not rod-exclusive.",
-      "2": "Opponent-process does not delete neural tissue.",
-      "3": "Glands do not replace retinal–cortical coding."
+      "1": "Illusions are measurable and theory-laden—not a ban on science.",
+      "2": "Humanistic therapy values do not replace experimental tests of perception.",
+      "3": "A single fooling event does not void psychophysical methods."
     },
-    "page": 158,
-    "id": "c5-l4-11"
+    "id": "c5-l4-13"
+  },
+  {
+    "chapter": 5,
+    "level": 4,
+    "section": "5.3+5.4+4.2",
+    "question": "Night-shift nurses use red light to preserve dark adaptation in rods before going outside to check equipment. A manager switches to bright white LEDs “for safety” and nurses then need minutes to see in the dark yard. A sleep specialist mentions circadian light effects on the SCN. A trainee says cones alone handle all night vision. An admin claims adaptation is just operant laziness. Best integrated account?",
+    "options": [
+      "Cones alone mediate night vision, so rod bleach cannot affect yard visibility",
+      "Bright white light photobleaches rods and impairs dark adaptation for dim vision",
+      "SCN circadian effects prove dark adaptation is only a social myth about laziness",
+      "Operant laziness extinguishes rhodopsin whenever LEDs replace dim red work bulbs"
+    ],
+    "correct": 1,
+    "correctFeedback": "Rods support dim vision; bright white light impairs dark adaptation, so nurses see worse outdoors afterward.",
+    "wrongFeedback": {
+      "0": "Night/dim vision relies heavily on rods, not cones alone.",
+      "2": "Circadian photoreception is real but does not make adaptation “only laziness.”",
+      "3": "Rhodopsin chemistry is not operant extinction of laziness."
+    },
+    "id": "c5-l4-14"
   },
   {
     "chapter": 6,
@@ -4254,232 +4303,281 @@ window.PSYCH_QUESTIONS = [
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch2×Ch6",
-    "question": "A teacher praises some students for raising hands (praise = reinforcer) but assigns praise non-randomly to already-outgoing kids, then claims praise caused participation. Methods + learning critique?",
+    "section": "2.2+2.3+6.2",
+    "question": "Ms. Alvarez praises only already-outgoing students for raising hands, then claims praise *caused* participation gains. There was no random assignment, no untreated control, and baseline talkativeness was never measured. A learning TA notes praise can be a reinforcer *when contingent*. A methods peer cites selection confound. An administrator says “IRB stamp = true experiment.” Best critique?",
     "options": [
-      "Without random assignment/controls, selection confounds",
-      "Any reinforcer automatically proves internal validity in all",
-      "Classical CSs make random assignment ethically impossible",
-      "IRB approval alone creates a true experiment without an IV"
+      "Without controls or random assignment, selection confounds block causal praise claims",
+      "Any verbal praise automatically proves internal validity across every classroom study",
+      "Classical CS-US pairing makes random assignment ethically impossible for all teachers",
+      "IRB approval alone creates a true experiment even without a manipulated comparison group"
     ],
     "correct": 0,
-    "correctFeedback": "Operant praise idea (Ch6) still needs experimental control (Ch2) for causal claims.",
+    "correctFeedback": "Praise may reinforce behavior when contingent, but this design cannot separate selection from treatment effects.",
     "wrongFeedback": {
-      "1": "Reinforcers do not bypass design threats.",
-      "2": "CS presence ≠ ban on random assignment.",
-      "3": "IRB ≠ manipulating an IV."
+      "1": "Calling something a reinforcer does not fix a confounded design.",
+      "2": "Classical conditioning concepts do not forbid randomized classroom trials.",
+      "3": "Ethics review is not the same as experimental control."
     },
-    "page": 193,
     "id": "c6-l4-01"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch3×Ch6",
-    "question": "A writer says dopamine 'is' reinforcement, so Skinner boxes need no behavior measures. Best correction?",
+    "section": "3.2+6.2+6.3",
+    "question": "A popular thread says “dopamine *is* reinforcement, so Skinner boxes need no behavior measures—just scan the midbrain.” A biopsych classmate notes dopamine correlates with reward prediction in many studies. An operant tutor insists reinforcement is defined by its effect on future response rate. A philosopher cites circularity risks. Best correction?",
     "options": [
-      "Neurochemistry may correlate with reward, but operant",
-      "Action potentials forbid all reinforcement schedules by",
-      "The pituitary gland is the only possible secondary now",
-      "Sympathetic arousal extinguishes every CR instantly now"
+      "Action potentials forbid all reinforcement schedules by silencing every motor neuron",
+      "Neurochemistry may correlate with reward, but reinforcement is defined behaviorally",
+      "The pituitary gland is the only structure that can deliver secondary reinforcers",
+      "Sympathetic arousal extinguishes every conditioned response in a single trial always"
     ],
-    "correct": 0,
-    "correctFeedback": "Levels of analysis: biopsych mechanisms vs. behavioral operant definitions.",
+    "correct": 1,
+    "correctFeedback": "Brain reward chemistry is informative, but operant reinforcement is identified by increased future responding after a consequence.",
     "wrongFeedback": {
-      "1": "Spikes do not outlaw schedules.",
-      "2": "Pituitary ≠ definition of secondary reinforcer.",
-      "3": "Autonomic arousal ≠ automatic extinction."
+      "0": "Neural firing does not make schedules impossible.",
+      "2": "Secondary reinforcers are not pituitary-exclusive.",
+      "3": "Arousal does not universally extinguish CRs in one trial."
     },
-    "page": 184,
     "id": "c6-l4-02"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch4×Ch6",
-    "question": "A casino uses VR-like payouts; a sleep-deprived patron plays longer. Combine schedules + consciousness:",
+    "section": "6.1+6.2+5.1",
+    "question": "After chemo, Mr. Liu feels nauseous when he smells the hospital disinfectant that accompanied infusions (taste-aversion–like learning). His sister says this is operant punishment because he “chose” to walk into the ward. His brother says it is negative reinforcement for entering. A nurse confuses US and CS. Which analysis is best?",
     "options": [
-      "Partial/VR-like rewards sustain play; fatigue can impair",
-      "REM dreams rewrite ratio schedules into fixed intervals",
-      "Melatonin converts punishers into CSs inside the cochlea",
-      "Narcolepsy is identical to negative reinforcement by"
+      "Entering the ward was positively punished by removing an aversive chemo schedule",
+      "Negative reinforcement explains nausea because leaving adds a pleasant US outcome",
+      "Disinfectant likely became a CS paired with nausea—prepared classical conditioning",
+      "The US is the disinfectant smell; the CS is chemo's pharmacological illness effect"
     ],
-    "correct": 0,
-    "correctFeedback": "Ch6 schedule persistence + Ch4 impaired alertness/control.",
+    "correct": 2,
+    "correctFeedback": "Cue-to-consequence taste-aversion learning is classical: a previously neutral cue (often taste/smell) predicts illness (US).",
     "wrongFeedback": {
-      "1": "Dreaming does not reparameterize casino math.",
-      "2": "Hormone/ear mashup.",
-      "3": "Sleep disorder ≠ reinforcement definition."
+      "0": "This pattern is not best cast as operant punishment of choosing the hallway.",
+      "1": "Negative reinforcement is removing aversives to increase behavior—not this CS–US nausea link.",
+      "3": "Chemo/illness is the US; the smell is the CS—not the reverse."
     },
-    "page": 199,
     "id": "c6-l4-03"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch5×Ch6",
-    "question": "A fear CS is a faint tone near absolute threshold; some trials the tone is missed entirely. Interaction?",
+    "section": "6.2+6.3+2.2",
+    "question": "A dog trainer stops shocking a dog when it sits (shock offset contingent on sitting). She calls this positive punishment “because shock is involved.” A classmate says it is negative reinforcement. Another says it is classical conditioning of the sit CR to a clicker never paired with anything. A methods auditor asks for a noncontingent-shock control. Best label?",
     "options": [
-      "If the CS is not sensed, pairing/awareness for that trial is",
-      "Thresholds convert all operant punishers into Gestalt",
-      "Opponent-process color vision extinguishes auditory CRs only",
-      "Rods in the fovea encode variable-ratio food pellets"
+      "Any shock presence makes the procedure positive punishment by definition always",
+      "Clicker-absent classical conditioning is the only process that can increase sitting",
+      "Noncontingent shock controls are useless for distinguishing reinforcement processes",
+      "Shock removal contingent on sitting is negative reinforcement of the sit response"
     ],
-    "correct": 0,
-    "correctFeedback": "Sensation limits (Ch5) constrain what can enter a classical pairing (Ch6).",
+    "correct": 3,
+    "correctFeedback": "Behavior increases when an aversive is removed contingently → negative reinforcement (not positive punishment).",
     "wrongFeedback": {
-      "1": "Thresholds do not redefine punishers as Gestalt.",
-      "2": "Color theory ≠ auditory extinction rule.",
-      "3": "Rods/fovea/food mashup."
+      "0": "Shock presence alone does not define positive punishment; contingency and effect matter.",
+      "1": "Classical conditioning is not required for this operant contingency to work.",
+      "2": "Yoked/noncontingent controls help test whether contingency matters."
     },
-    "page": 148,
     "id": "c6-l4-04"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch1×Ch6",
-    "question": "A debate contrasts Watson’s behaviorism with Bandura’s observational learning about aggression. Fair textbook-informed contrast?",
+    "section": "6.3+6.4+4.1",
+    "question": "A sleep-deprived RA reinforces a rat’s lever presses on a variable-ratio schedule and sees high, steady responding. The PI’s email calls VR “the same as continuous reinforcement because both use food.” A classmate predicts VR should extinguish fastest. A consciousness peer says REM rebound will erase the operant map overnight. Best statement?",
     "options": [
-      "Watson emphasized conditioning observable behavior;",
-      "Both deny that any experience can change behavior at all",
-      "Bandura requires structuralist introspection of each Bobo",
-      "Watson’s view is identical to Gestalt closure of schedules"
+      "VR usually yields high rates and more extinction resistance than continuous schedules",
+      "Continuous and VR schedules match in rate and extinction resistance by textbook definition",
+      "VR schedules always extinguish faster than continuous reinforcement across every species",
+      "REM rebound deletes operant learning overnight whenever food pellets were the reinforcers"
     ],
     "correct": 0,
-    "correctFeedback": "Ch1 behaviorism vs. Ch6 social/observational learning expansion.",
+    "correctFeedback": "Partial schedules like VR typically produce rapid responding and slower extinction than continuous reinforcement.",
     "wrongFeedback": {
-      "1": "Both traditions study experience-based change.",
-      "2": "Bandura is not structuralist introspection.",
-      "3": "Gestalt ≠ Watson."
+      "1": "They differ in patterning and extinction resistance.",
+      "2": "Continuous usually extinguishes faster, not VR.",
+      "3": "Sleep/REM effects do not simply erase operant learning each night."
     },
-    "page": 183,
     "id": "c6-l4-05"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch2×Ch6",
-    "question": "A study claims watching violent media causes aggression after a tiny cross-sectional correlation. Strongest methods + learning reply?",
+    "section": "6.4+1.2+2.2",
+    "question": "Kids watch an adult punch a Bobo doll; later many imitate, especially if the adult was rewarded. A strict Watson fan says only classical CS–US pairing of the doll with candy explains punches. A Freud fan says Thanatos alone. A methods reviewer notes no random assignment to model type in a blog replication. Best social-cognitive reading?",
     "options": [
-      "Correlation cannot prove media caused aggression; now",
-      "Vicarious reinforcement makes all correlations equal",
-      "Modeling steps replace the need for any comparison group",
-      "Surveys of Bobo dolls guarantee random assignment now"
+      "Only classical pairing of Bobo with candy can generate punching among observers",
+      "Observational learning can produce imitation; model consequences shape performance",
+      "Thanatos makes observational learning measures scientifically uninterpretable always",
+      "Blog replications without assignment prove Bandura's findings must be fully discarded"
     ],
-    "correct": 0,
-    "correctFeedback": "Ch2 causal standards applied to Ch6 media/modeling claims.",
+    "correct": 1,
+    "correctFeedback": "Bandura’s framework: observers can learn via modeling, and vicarious consequences influence performance of the learned acts.",
     "wrongFeedback": {
-      "1": "Vicarious reinforcement ≠ design magic.",
-      "2": "Modeling theory still needs good inference.",
-      "3": "Surveys ≠ random assignment."
+      "0": "Imitation here is not reduced to CS–US candy pairing alone.",
+      "2": "Freudian Thanatos is not the operative experimental account.",
+      "3": "A weak blog replication does not automatically void the classic findings."
     },
-    "page": 205,
     "id": "c6-l4-06"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch3×Ch6",
-    "question": "A clinician uses shaping for rehab after motor-cortex stroke. Why mention both biopsych and operant ideas?",
+    "section": "6.3+2.2+5.4",
+    "question": "In a latent-learning demo, rats explore a maze without food for days, then show short paths once food is introduced—matching trained controls quickly. Tutor A says no learning occurred until food appeared. Tutor B says this refutes any cognitive map talk. Tutor C says the maze walls became a CS for dopamine. Methods asks whether food introduction was confounded with extra handling. Best take?",
     "options": [
-      "Brain injury constrains what movements are possible; shaping",
-      "Operant schedules heal myelin without any neural constraints",
-      "Action potentials are punishers in every Skinnerian chart",
-      "Endocrine only: pituitary secretes fixed-ratio pellets"
+      "No learning is possible without continuous reinforcement on every maze alley visit",
+      "Latent learning refutes cognitive maps and proves pure S-R chains are exhaustive",
+      "Learning occurred in unrewarded exploration; food revealed performance of a map",
+      "Handling confounds mean latent learning can never be studied with any real controls"
     ],
-    "correct": 0,
-    "correctFeedback": "Biological limits (Ch3) + behavioral shaping (Ch6) together.",
+    "correct": 2,
+    "correctFeedback": "Tolman’s point: learning can be latent; reinforcement often affects performance more than acquisition alone.",
     "wrongFeedback": {
-      "1": "Schedules do not ignore neural damage.",
-      "2": "Spikes ≠ punishers by definition.",
-      "3": "Pituitary does not emit ratio pellets."
+      "0": "Unrewarded exploration can still produce learning.",
+      "1": "Latent learning supports cognitive-map ideas against strict S–R exclusivity.",
+      "3": "Confounds should be controlled—not treated as a ban on the paradigm."
     },
-    "page": 192,
     "id": "c6-l4-07"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch5×Ch6",
-    "question": "An ad flashes incomplete brand shapes (closure) while pairing them with upbeat music (classical). Dual mechanism?",
+    "section": "6.1+6.2+5.2",
+    "question": "A fear-conditioning study pairs a blue light (CS) with a mild shock (US); later the light elicits freezing (CR). Writer Dana swaps labels, calling the light the US and freezing the UR. Reviewer Eli wants a discrimination control (blue vs green). Biopsych Fran says the amygdala is irrelevant because “behaviorism banned the brain.” Best correction?",
     "options": [
-      "Gestalt completion aids noticing the brand; classical",
-      "Only sensorineural loss can create brand preference now",
-      "Figure–ground organization is identical to variable-ratio",
-      "Absolute thresholds forbid all associative learning now"
+      "The light must be the US because it appears first on the clock during each trial",
+      "Freezing to the light is the UR; the shock is only a secondary reinforcer cue",
+      "Behaviorism's history means amygdala data cannot inform fear-learning mechanisms",
+      "Light is CS, shock is US, freezing to light is CR; brain circuits still matter"
     ],
-    "correct": 0,
-    "correctFeedback": "Perception organization (Ch5) + classical affect transfer (Ch6).",
+    "correct": 3,
+    "correctFeedback": "Standard labels: CS = light, US = shock, UR = freezing to shock, CR = freezing to light; modern work still maps neural substrates.",
     "wrongFeedback": {
-      "1": "Hearing loss not required.",
-      "2": "Gestalt ≠ VR shock.",
-      "3": "Thresholds do not ban conditioning."
+      "0": "Order alone does not make the first stimulus a US.",
+      "1": "UR is the unconditioned response to the US, not the response to the CS.",
+      "2": "Historical behaviorism does not ban studying neural bases of learning."
     },
-    "page": 169,
     "id": "c6-l4-08"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch4×Ch6",
-    "question": "During hypnosis-like focused attention, a demo of calm breathing is modeled; observers later imitate when motivated. Layers?",
+    "section": "6.2+6.3+2.4",
+    "question": "A parent takes away a teen’s phone after midnight gaming (contingent removal of a pleasant stimulus); gaming at night drops. Uncle calls it negative reinforcement “because something was removed.” Aunt calls it positive punishment “because the parent added a lecture.” An ethicist asks about consistency and dignity. Correct operant label for phone removal?",
     "options": [
-      "Altered/focused attention may aid attending to a model;",
-      "Hypnosis replaces retention with conductive hearing loss",
-      "Meditation deletes Bandura’s reproduction step permanently",
-      "Sleep spindles are positive punishers for all models"
+      "Removing the valued phone contingently is negative punishment if night gaming falls",
+      "Any removal procedure is negative reinforcement even when the target behavior falls",
+      "Adding a lecture reclassifies phone loss as classical extinction of gaming urges",
+      "Ethics concerns mean operant labels cannot apply to family phone rules in any case"
     ],
     "correct": 0,
-    "correctFeedback": "Ch4 altered attention + Ch6 observational steps.",
+    "correctFeedback": "Contingent removal of a pleasant stimulus that decreases behavior = negative punishment (response cost).",
     "wrongFeedback": {
-      "1": "Hypnosis ≠ middle-ear pathology.",
-      "2": "Meditation does not erase reproduction as a construct.",
-      "3": "Spindles ≠ punishers."
+      "1": "Negative reinforcement increases behavior by removing aversives.",
+      "2": "A lecture may be separate positive punishment; it does not redefine phone removal as extinction.",
+      "3": "Ethics matter for practice, but they do not make the contingency unlabeled."
     },
-    "page": 204,
     "id": "c6-l4-09"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch1×Ch2×Ch6",
-    "question": "A influencer says 'Skinner proved free will is fake; therefore ethics review is pointless for conditioning studies.' Best multi-chapter reply?",
+    "section": "6.1+3.4+4.5",
+    "question": "A hypnosis stage show claims audience members were “classically conditioned to cluck like chickens” after one pairing of a snap with a joke. Skeptics note demand characteristics, voluntary compliance, and no CR measurement against a US. A sleep researcher jokes it is REM without atonia. A methods peer wants a control snap without suggestion. Best evaluation?",
     "options": [
-      "Theoretical debates ≠ skipping IRB/consent; humans in",
-      "Behaviorism automatically voids Belmont-style respect for",
-      "If reinforcement exists, informed consent becomes a CS only",
-      "Operant charts replace all need for debriefing after"
+      "One snap-joke pairing meets Rescorla contingency standards for a durable CR always",
+      "Stage compliance plus suggestion is not well-evidenced classical conditioning of a CR",
+      "REM without atonia is the accepted mechanism for hypnotic chicken-clucking CRs",
+      "Control snaps without suggestion are unnecessary if the audience laughs loudly enough"
     ],
-    "correct": 0,
-    "correctFeedback": "Ch1/Ch6 theory vs. Ch2 ethics—distinct obligations.",
+    "correct": 1,
+    "correctFeedback": "Demonstrations without proper controls and CR measurement do not establish classical conditioning.",
     "wrongFeedback": {
-      "1": "Ethics remain even in behavioral frameworks.",
-      "2": "Consent is not merely a CS label.",
-      "3": "Debriefing duties remain when deception is used."
+      "0": "Contingency/control standards are not met by a single theatrical pairing.",
+      "2": "REM atonia mechanisms are about sleep, not stage hypnosis clucking.",
+      "3": "Controls are needed precisely when social demand is high."
     },
-    "page": 181,
     "id": "c6-l4-10"
   },
   {
     "chapter": 6,
     "level": 4,
-    "section": "Cross Ch5×Ch6",
-    "question": "A clicker (sound CS) is paired with treats for dog training, then used to mark precise postures (operant). Accurate blend?",
+    "section": "6.2+6.4+5.5",
+    "question": "Players grind a game with loot on a variable-interval schedule; they check the reward chest at a steady rate. A streamer says this is continuous reinforcement “because loot sometimes appears.” A perception friend says Gestalt closure makes VI identical to fixed-ratio. A parent calls the game classical conditioning of the thumb. Best learning analysis?",
     "options": [
-      "Classical pairing makes the click meaningful; operant",
-      "Clicks are monocular depth cues that punish vestibular",
-      "Treats extinguish place codes on the basilar membrane",
-      "Shaping requires opponent-process afterimages of the click"
+      "Any occasional loot drop redefines the schedule as continuous reinforcement by rule",
+      "Gestalt closure converts variable-interval timing into fixed-ratio run-and-pause forms",
+      "VI produces steady checking; it is partial reinforcement, not continuous reinforcement",
+      "Thumb movements are classically conditioned URs to a loading-screen US every time"
+    ],
+    "correct": 2,
+    "correctFeedback": "Variable-interval schedules are partial/intermittent and typically yield steady response rates—not continuous reinforcement.",
+    "wrongFeedback": {
+      "0": "Occasional rewards define partial, not continuous, schedules.",
+      "1": "Gestalt principles do not equate VI with FR patterning.",
+      "3": "Operant checking is not a classical UR to a loading screen US."
+    },
+    "id": "c6-l4-11"
+  },
+  {
+    "chapter": 6,
+    "level": 4,
+    "section": "6.1+6.3+2.2",
+    "question": "Rescorla-style teaching: Group A gets a tone that perfectly predicts shock; Group B gets the same number of tone–shock pairings but shocks also occur unpaired, so the tone is a poor predictor. Only Group A freezes strongly to the tone. Student Kai says contiguity alone explains both groups equally. Student Mia says blocking by dopamine explains Group B. Best lesson?",
+    "options": [
+      "Equal pairing counts must produce equal freezing whenever contiguity is carefully matched",
+      "Dopamine blocking uniquely explains Group A and forbids contingency-based readings",
+      "Unpaired shocks make tone-shock contiguity impossible, so Group B cannot be run at all",
+      "Predictive contingency—not mere pairing counts—drives associative learning in this demo"
+    ],
+    "correct": 3,
+    "correctFeedback": "Rescorla’s point: the CS must predict the US above baseline; contingency matters beyond raw contiguity.",
+    "wrongFeedback": {
+      "0": "Matched pairing counts with different contingencies yield different learning.",
+      "1": "The design teaches contingency; it is not primarily a dopamine-blockade demo.",
+      "2": "Group B is runnable and informative precisely because unpaired USs occur."
+    },
+    "id": "c6-l4-12"
+  },
+  {
+    "chapter": 6,
+    "level": 4,
+    "section": "6.4+1.3+3.1",
+    "question": "A clinic teaches coping skills via filmed models (observational learning) for anxiety. A funder demands proof it is “pure Skinnerian shaping with primary food reinforcers only.” A cognitive therapist cites expectancy and self-efficacy. A biopsych notes prefrontal regulation of fear expression. Methods wants waitlist and active controls. Best stance?",
+    "options": [
+      "Observational social-cognitive methods can work without reducing therapy to food shaping",
+      "Only primary food reinforcers can change anxiety-related behavior in humans ever",
+      "Self-efficacy talk bans any use of filmed models as a learning mechanism in clinics",
+      "Prefrontal biology means waitlist controls are scientifically forbidden in skill training"
     ],
     "correct": 0,
-    "correctFeedback": "Clicker training often blends classical meaning with operant marking.",
+    "correctFeedback": "Bandura-style observational learning and efficacy beliefs are legitimate learning pathways—not mere failed Skinner boxes.",
     "wrongFeedback": {
-      "1": "Clicks are not depth cues.",
-      "2": "Treats do not extinguish cochlear maps as the point.",
-      "3": "Color afterimages irrelevant."
+      "1": "Human clinical change is not limited to primary food reinforcement.",
+      "2": "Self-efficacy theory actually motivates modeling interventions.",
+      "3": "Biology of regulation supports, rather than bans, controlled outcome tests."
     },
-    "page": 162,
-    "id": "c6-l4-11"
+    "id": "c6-l4-13"
+  },
+  {
+    "chapter": 6,
+    "level": 4,
+    "section": "6.2+6.3+5.1+2.3",
+    "question": "A teacher removes weekend homework when the class reaches quiet-line criteria (escape from an aversive task). Quiet lines increase. A columnist calls this bribery and positive reinforcement “because kids gain free time.” A rival teacher says it is classical conditioning of silence to the bell. A parent says removing homework is always punishment. Methods asks whether quieter classes differed at baseline. Best operant reading?",
+    "options": [
+      "Free time proves the procedure is classical conditioning of silence to the hall bell",
+      "Contingent removal of aversive homework is negative reinforcement of quiet lining up",
+      "Removing homework is always punishment even when the quiet-line behavior increases",
+      "Baseline differences are irrelevant if a diary says the class felt quieter"
+    ],
+    "correct": 1,
+    "correctFeedback": "Behavior increases after contingent removal of an aversive → negative reinforcement (not punishment).",
+    "wrongFeedback": {
+      "0": "Free time here is the consequence of removing work; the process is operant, not CS–bell classical silence.",
+      "2": "Punishment decreases behavior; here quiet lining increased.",
+      "3": "Baselines matter for claiming change; diary feelings are weak causal evidence."
+    },
+    "id": "c6-l4-14"
   }
 ];
