@@ -1,0 +1,294 @@
+{
+  "9": [
+    {
+      "section": "§9.2–9.3 + Ch2/7",
+      "question": "A daycare posts that its “Mozart-and-flashcards package *causes* earlier formal operations,” citing toddlers who sat through the package and later named more shapes than waitlisted peers whose parents opted out. Staff also praise kids using adult-like conservation talk after heavy prompting. A methods consultant and a Piagetian disagree. Best evaluation?",
+      "options": [
+        "Opt-in versus opt-out groups are non-equivalent, and prompted jargon is not spontaneous formal operations; causal claims about Mozart packages",
+        "Any shape-naming gain after enrichment proves formal operations arrived, because vocabulary count is identical to abstract hypothetical-deductive",
+        "Waitlists are automatic random assignment when parents self-select, so internal validity threats cannot apply to infant enrichment product claims",
+        "Conservation prompted by adults is assimilation of schemas into object permanence alone, which validates acceleration into formal operations"
+      ],
+      "correct": 0,
+      "correctFeedback": "Selection confounds plus mistaking prompted talk for stage attainment undermine the ad (§9.2–9.3; methods; thinking).",
+      "wrongFeedback": {
+        "1": "People who pick this equate word counts with formal-operational reasoning.",
+        "2": "People who pick this treat parental opt-out as randomization.",
+        "3": "People who pick this scramble Piagetian concepts to rubber-stamp acceleration claims."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.3 + Ch6/8",
+      "question": "Parents worry their 9-month-old “has insecure attachment” because she cries at daycare drop-off, yet she greets caregivers after calm reunions and explores when secure base is available at home. A relative urges extinction by ignoring all distress; another wants continuous candy reinforcement for silence. Best attachment-informed guidance?",
+      "options": [
+        "Protest at separation can be normative; watch reunion quality and secure-base use—blanket ignoring or candy-for-silence schedules miss",
+        "Any daycare crying proves disorganized attachment, so extinction of proximity-seeking is required before exploratory behavior can emerge in the",
+        "Continuous candy for silence classically conditions the internal working model into secure attachment within one week of drop-offs without",
+        "Secure base behavior is a flashbulb memory for faces, therefore reinforcement schedules alone determine attachment classification better than"
+      ],
+      "correct": 0,
+      "correctFeedback": "Attachment assessment emphasizes reunion/secure base, not crying alone; harsh extinction/candy hacks miss the construct (§9.3; learning; memory).",
+      "wrongFeedback": {
+        "1": "People who pick this over-diagnose from protest alone and misuse extinction.",
+        "2": "People who pick this invent classical candy conditioning of working models.",
+        "3": "People who pick this replace attachment observation with flashbulb/reinforcement myths."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.2 + Ch3/5",
+      "question": "A prenatal clinic sees a client drinking heavily early in pregnancy who asks whether “genes alone decide IQ, so alcohol advice is moralizing.” Staff review teratogen timing, synaptogenesis vulnerability, and that heritability ≠ immutability. Which reply is most accurate?",
+      "options": [
+        "Heritability estimates do not mean environments are powerless; alcohol is a teratogen that can disrupt neural development especially in sensitive",
+        "If IQ is heritable at all, teratogens cannot affect cognitive outcomes, because heritability coefficients convert directly into destiny ratios",
+        "Alcohol affects only maternal absolute thresholds for taste, leaving fetal cortical development and later cognitive testing statistically",
+        "Sensitive periods are identical to critical periods for language phonemes only, so ethanol exposure after week four is developmentally irrelevant"
+      ],
+      "correct": 0,
+      "correctFeedback": "Teratogens can alter developmental trajectories; heritability does not license prenatal alcohol exposure (§9.1–9.2; biopsych).",
+      "wrongFeedback": {
+        "1": "People who pick this misunderstand heritability as individual destiny that cancels environment.",
+        "2": "People who pick this trivialize alcohol as a maternal taste issue only.",
+        "3": "People who pick this wrongly narrow sensitive periods to phonemes alone."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.3–9.4 + Ch11/12",
+      "question": "A teen’s identity exploration includes rejecting a parent’s political club. The parent calls this “failure of authoritarian parenting’s obedience training” and cites Asch-like peer pressure as proof the teen lacks a trait of conscientiousness. Best developmental-social reading?",
+      "options": [
+        "Identity exploration can include value differentiation from parents; peer influence is real but does not reduce identity work to obedience",
+        "Authoritarian obedience training guarantees identity achievement without exploration, so peer disagreement proves a conscientiousness deficit",
+        "Asch conformity means teens cannot form identities unless alone in a sensory-deprivation chamber that blocks all normative social influence",
+        "Trait conscientiousness is fixed by parenting style alone before age two, making later identity exploration statistically impossible in"
+      ],
+      "correct": 0,
+      "correctFeedback": "Adolescent identity work involves exploration; social influence ≠ absence of traits or pure obedience failure (§9.3–9.4; personality; social).",
+      "wrongFeedback": {
+        "1": "People who pick this confuse authoritarian control with healthy identity achievement.",
+        "2": "People who pick this over-extend Asch into an identity impossibility claim.",
+        "3": "People who pick this freeze traits too early and deny later identity processes."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.4 + Ch8/14",
+      "question": "Adults in a reminiscence group “remember” a shared childhood holiday identically after a leader’s vivid story, though photos contradict details. Several members are sleep-deprived caregivers under chronic stress. A facilitator calls it collective crystallized intelligence. Best account?",
+      "options": [
+        "Suggestive storytelling plus reconstructive memory—and stress/sleep load—can align false details; that is not crystallized intelligence as",
+        "Identical false details prove flashbulb accuracy under stress, because caregiver cortisol always improves verbatim autobiographical storage",
+        "Crystallized intelligence is group conformity to a leader’s narrative, measured best by how quickly photo evidence is dismissed in reminiscence",
+        "Sleep deprivation blocks misinformation effects in older adults, so matching errors must reflect Piagetian formal operations applied to holidays"
+      ],
+      "correct": 0,
+      "correctFeedback": "Social suggestion and reconstructive memory explain aligned errors; stress/sleep add risk (§9.4; memory; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this reverse stress effects into flashbulb perfection.",
+        "2": "People who pick this redefine crystallized intelligence as conformity.",
+        "3": "People who pick this invent sleep-based immunity to misinformation."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.2 + Ch6/10",
+      "question": "A parenting influencer swears time-outs are “positive punishment that destroys intrinsic motivation forever,” while a behavior analyst notes removal from reinforcement (time-out from positive reinforcement) can reduce target behavior if consistent and brief. The child’s tantrums were previously VR-reinforced by phones. Best integration?",
+      "options": [
+        "Time-out often functions as removing reinforcement, not adding aversive stimulation; prior intermittent attention/phone rewards help explain",
+        "Any time-out is classical conditioning of shame schemas that permanently deletes intrinsic motivation regardless of tantrum reinforcement history",
+        "Variable-ratio phone attention cannot maintain tantrums, so persistence after inconsistent limits must be a drive for homeostasis of thirst",
+        "Positive punishment and negative reinforcement are identical procedures, making the influencer’s vocabulary debate scientifically meaningless in"
+      ],
+      "correct": 0,
+      "correctFeedback": "Clarify operant functions; intermittent reinforcement maintains tantrums; implementation quality matters (§9.2 parenting; Ch6; motivation).",
+      "wrongFeedback": {
+        "1": "People who pick this overclaim permanent intrinsic-motivation destruction via classical shame.",
+        "2": "People who pick this deny VR maintenance of behavior.",
+        "3": "People who pick this collapse distinct operant categories."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.3 + Ch2/15",
+      "question": "A clinic markets “attachment DNA kits” correlating a gene variant with self-reported clinginess in an online volunteer sample, then sells parenting advice. Critics cite diathesis–stress, restriction of range, and that attachment is a relationship pattern assessed in context. Strongest response?",
+      "options": [
+        "Online self-report gene correlations cannot validate a deterministic attachment kit; attachment is relational and contextual, and marketing",
+        "Any gene–clinginess correlation proves Strange Situation classifications are genetically fixed at birth without caregiver behavior entering the",
+        "Volunteer web samples are gold-standard probability samples for developmental psychopathology marketing claims about infants in the vignette",
+        "Diathesis–stress models forbid measuring genes at all, so rejecting the kit means denying biology’s relevance to socioemotional development"
+      ],
+      "correct": 0,
+      "correctFeedback": "Weak correlational genetics + self-report ≠ attachment diagnosis or destiny (§9.3; methods; disorders vulnerability themes).",
+      "wrongFeedback": {
+        "1": "People who pick this leap from correlation to genetic determinism of attachment.",
+        "2": "People who pick this mislabel convenience samples as probability samples.",
+        "3": "People who pick this treat skepticism about the kit as biology denial."
+      },
+      "page": null
+    },
+    {
+      "section": "§9.4 + Ch11/13",
+      "question": "A company uses a pop-psych “life-stage quiz” to deny promotions to workers over 50, claiming Eriksonian integrity failure predicts low job performance. I-O psychologists have validity data favoring structured job samples. Age stereotypes circulate in the break room. Best critique?",
+      "options": [
+        "Misusing Erikson as a promotion filter is bad psychometrics and risks age bias; job-relevant structured assessments outperform pop life-stage",
+        "Integrity-versus-despair scores are the strongest meta-analytic predictors of core task performance across industries, beating work samples",
+        "Age stereotypes improve criterion-related validity when used as bona fide occupational qualifications for all knowledge-work roles in the vignette",
+        "Erikson’s stages were designed as HR cut scores, so rejecting the quiz violates standardized testing ethics more than using it in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Selection needs job-related validity evidence; Erikson isn’t an HR test, and age stereotyping is a risk (§9.4; personality; I-O).",
+      "wrongFeedback": {
+        "1": "People who pick this invent superior validity for pop Erikson quizzes.",
+        "2": "People who pick this treat stereotypes as valid selection tools.",
+        "3": "People who pick this rewrite Erikson’s purpose as employment testing."
+      },
+      "page": null
+    }
+  ],
+  "10": [
+    {
+      "section": "§10.1–10.3 + Ch6/14",
+      "question": "Night-shift nurses snack on candy during double shifts, calling it “drive reduction for willpower glucose.” A health psychologist points to stress eating, habit cues, and intermittent candy reinforcement; a motivation theorist questions drive-reduction vs arousal/habit accounts. Best analysis?",
+      "options": [
+        "Candy intake here likely reflects stress, cue-triggered habits, and reinforcement more than a simple emptied willpower-glucose drive;",
+        "Drive reduction uniquely explains all shift eating because variable-ratio candy schedules cannot influence behavior when cortisol is elevated",
+        "Habit cues are classical CSs that forbid operant reinforcement explanations, so health-psych stress-eating research cannot apply to nurses on",
+        "Arousal theory requires candy to lower absolute auditory thresholds before any eating motivation can occur on night shifts in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Stress, habits, and reinforcement complicate “willpower glucose” drive slogans (§10.1–10.3; learning; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this deny reinforcement under stress and overclaim drive reduction.",
+        "2": "People who pick this force an exclusive classical account and ignore stress-eating science.",
+        "3": "People who pick this drag sensory thresholds into eating motivation irrelevantly."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.4 + Ch3/8",
+      "question": "In a dating-lab demo, participants pedal bikes to raise arousal, then rate a neutral confederate as more attractive (excitation-transfer style). One student says James–Lange means arousal *is* attraction; another says Cannon–Bard proves cortex labels first; a third cites misattribution. Best statement?",
+      "options": [
+        "Residual arousal can be misattributed to a salient social target; that supports two-factor/misattribution ideas more than equating raw arousal",
+        "James–Lange requires bike arousal to be attraction even without any cognitive appraisal or situational cue about the confederate in the vignette",
+        "Cannon–Bard claims the cortex must finish labeling before any autonomic arousal begins, so bike-then-rating designs cannot produce misattribution",
+        "Excitation transfer stores attraction as a procedural engram in the NMJ, making appraisal theories irrelevant to the ratings collected now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Misattribution/excitation transfer: arousal + appraisal cues shape felt attraction (§10.4; biopsych; memory systems literacy).",
+      "wrongFeedback": {
+        "1": "People who pick this collapse James–Lange into “arousal equals attraction” without appraisal.",
+        "2": "People who pick this caricature Cannon–Bard timing to rule out misattribution.",
+        "3": "People who pick this invent NMJ procedural storage for romantic ratings."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.2–10.3 + Ch7/12",
+      "question": "A campus campaign uses graphic fear appeals about binge drinking plus a clear action plan (response efficacy). Some students scoff via reactance; others use optimistic bias (“not me”). Designers debate central vs peripheral routes and availability of horror stories. Best evidence-aligned choice?",
+      "options": [
+        "Pair risk information with specific, doable efficacy steps; fear alone can backfire via reactance or denial, and vivid horror may boost now",
+        "Maximum fear without efficacy instructions is optimal because reactance increases deep central-route processing of alcohol statistics in every",
+        "Optimistic bias means fear appeals never change behavior, so campaigns should abandon efficacy content and rely only on celebrity peripheral cues",
+        "Availability of horror stories classically conditions the liver, replacing the need for cognitive appraisal of personal risk and response"
+      ],
+      "correct": 0,
+      "correctFeedback": "Fear appeals work better with efficacy paths; biases and reactance are real hurdles (§10.3; thinking; social persuasion).",
+      "wrongFeedback": {
+        "1": "People who pick this ignore evidence that fear-without-efficacy often fails or backfires.",
+        "2": "People who pick this overgeneralize optimistic bias into abandoning efficacy content.",
+        "3": "People who pick this replace appraisal with mythical liver conditioning."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.1 + Ch2/11",
+      "question": "A wellness app correlates users’ self-reported grit with steps walked, then claims grit *causes* fitness. Users who buy premium badges also walk more (selection). Personality researchers note trait–behavior links are modest; methods staff cry confound. Strongest critique?",
+      "options": [
+        "Correlational, self-selected premium use and shared third variables block causal grit→fitness claims; motivation constructs need stronger designs",
+        "Self-report grit scores are experimental manipulations of intrinsic motivation, so causation is guaranteed whenever step counts rise among",
+        "Trait grit absorbs all situational motivation variance, making randomized activity prompts unnecessary for causal inference in digital health now",
+        "Steps walked are projective tests of the unconscious id, validating grit causation without accelerometer reliability checks in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Trait self-reports + selection ≠ causal fitness claims (§10.1; methods; personality).",
+      "wrongFeedback": {
+        "1": "People who pick this treat questionnaires as experimental manipulations.",
+        "2": "People who pick this inflate traits to erase situational design needs.",
+        "3": "People who pick this misuse psychoanalytic assessment metaphors for step counts."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.4 + Ch5/9",
+      "question": "Toddlers in a cross-cultural clip show similar early emotion expressions, but older children differ in display rules at a funeral game. A student says all emotion is social construction; another says innate facial affect programs mean culture never shapes expression. Best developmental-emotion synthesis?",
+      "options": [
+        "Early expressive commonalities can coexist with culturally learned display rules that increasingly regulate when and how emotions are shown",
+        "Display rules prove emotions have no biological basis, so infants cannot show recognizable affect before formal operational thought arrives",
+        "Innate affect programs forbid cultural modulation of expression at funerals, making ethnographic differences measurement error only in the vignette",
+        "Funeral display rules are absolute thresholds for olfaction that toddlers fail because their cones are immature in the vignette in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Biology-plus-culture: early affect themes and later display-rule learning (§10.4; development; sensation literacy).",
+      "wrongFeedback": {
+        "1": "People who pick this overplay constructionism and deny infant expressive patterns.",
+        "2": "People who pick this deny cultural regulation of expression.",
+        "3": "People who pick this scramble sensory anatomy into emotion norms."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.3 + Ch6/15",
+      "question": "A client with binge-eating episodes says “I deserve food after work stress” (emotion regulation), then feels shame. Prior diets used extreme restriction (establishing operations) and family teased leftovers (social contingency). CBT-E and contingency management ideas arise. Best functional sketch?",
+      "options": [
+        "Stress-triggered eating may be negatively reinforced by affect relief, with restriction and social contingencies shaping the cycle—treatment",
+        "Shame proves the behavior is positively punished into extinction already, so no skills training or contingency change is indicated in therapy",
+        "Binge episodes are classical CRs to dopamine at the NMJ, unrelated to negative reinforcement of emotional relief after stressful workdays",
+        "Family teasing is a projective Rorschach of id hunger, making behavioral activation contraindicated for binge-eating cycles in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Emotion regulation via eating can be reinforced; restriction/social contexts matter for treatment planning (§10.3; learning; disorders/therapy themes).",
+      "wrongFeedback": {
+        "1": "People who pick this misread shame as completed punishment/extinction.",
+        "2": "People who pick this invent NMJ classical accounts that ignore operant affect relief.",
+        "3": "People who pick this replace functional analysis with projective mythology."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.2 + Ch8/14",
+      "question": "After a breakup, Sam underestimates future recovery (affective forecasting error) and rehearses a vivid “I’ll never be okay” narrative that becomes more fluent each night (availability + retrieval practice of a bleak prediction). Friends cite broaden-and-build; Sam cites current dysphoria as permanent data. Best coaching angle?",
+      "options": [
+        "Forecasting errors and fluent negative rehearsal can exaggerate permanence; mood-congruent retrieval is not a crystal ball—behavioral",
+        "Affective forecasting is perfectly accurate under stress, so vivid nightly rehearsal should be treated as prognostic truth for therapy duration",
+        "Retrieval practice of bleak predictions strengthens sensory memory only, leaving semantic self-beliefs unchanged and clinically irrelevant",
+        "Broaden-and-build requires suppressing all negative affect before any scheduling of valued activities can help post-breakup adjustment now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Forecasting biases + practiced negative narratives mislead; activation and evidence help (§10.2/positive psych themes; memory; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this over-trust forecasting under distress.",
+        "2": "People who pick this mislocate rehearsal effects as sensory-only.",
+        "3": "People who pick this make positive-emotion theory into an emotional suppression rule."
+      },
+      "page": null
+    },
+    {
+      "section": "§10.1 + Ch12/13",
+      "question": "A sales team uses public leaderboards (extrinsic) that boost short-term calls but cut helping between teammates (crowding-out / evaluation apprehension themes). Managers call it Maslow self-actualization via competition. I-O and motivation students object. Best reading?",
+      "options": [
+        "Extrinsic evaluation systems can raise measured output while undermining cooperation and intrinsic motives; labeling leaderboards as",
+        "Leaderboards always increase intrinsic motivation because public rankings satisfy belongingness needs before physiology in Maslow’s now",
+        "Any drop in helping proves diffusion of responsibility only, so motivation theory is irrelevant to how incentive systems shape sales",
+        "Evaluation apprehension increases altruism reliably, making cooperation losses after leaderboards statistically impossible in field settings"
+      ],
+      "correct": 0,
+      "correctFeedback": "Incentive design has social-motivation tradeoffs; Maslow slogans don’t rescue flawed contingencies (§10.1; social; I-O).",
+      "wrongFeedback": {
+        "1": "People who pick this reverse typical extrinsic/intrinsic tensions and scramble Maslow.",
+        "2": "People who pick this reduce everything to bystander diffusion and ignore incentive theory.",
+        "3": "People who pick this invent a law that evaluation apprehension always boosts helping."
+      },
+      "page": null
+    }
+  ]
+}

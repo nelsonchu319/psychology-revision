@@ -1,0 +1,294 @@
+{
+  "15": [
+    {
+      "section": "§15.1–15.2 + Ch2/12",
+      "question": "A influencer checklist labels anyone quiet at parties as having “social anxiety disorder,” racking up shares (availability). Viewers pathologize introversion and shyness without impairment criteria. Clinicians cite DSM distress/dysfunction and stigma risks. Best correction?",
+      "options": [
+        "Disorder thresholds require clinically significant distress or impairment—not mere quietness or introversion—and viral checklists fuel false",
+        "Quiet behavior at parties is sufficient for diagnosis because availability of checklists raises interrater reliability to perfect levels online",
+        "Introversion equals social anxiety disorder on the Big Five, so impairment criteria are optional when a quiz goes viral on social platforms",
+        "Stigma concerns mean clinicians should never diagnose anxiety even when panic, avoidance, and role collapse meet full criteria in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Use impairment/distress criteria; resist viral overpathologizing (§15.1–15.2; personality; social media).",
+      "wrongFeedback": {
+        "1": "People who pick this treat virality as diagnostic validity.",
+        "2": "People who pick this collapse introversion into disorder.",
+        "3": "People who pick this overcorrect into never diagnosing real disorders."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.3–15.4 + Ch6/14",
+      "question": "A client’s elevator phobia began after a panic attack mid-ascent (classical CS–US pairing) and persists via avoidance that removes fear (negative reinforcement). Stress at work raises overall arousal. A friend says “one more fright will cathartically cure it.” Best learning-plus-stress plan logic?",
+      "options": [
+        "Exposure-based approaches target extinction of fear CRs while preventing avoidance reinforcement; raising random fright for catharsis is not",
+        "Cathartic re-traumatization reliably extinguishes elevator fear because negative reinforcement of avoidance cannot maintain phobias after now",
+        "Classical acquisition means operant avoidance is impossible, so preventing escape during exposure cannot be relevant to phobia maintenance now",
+        "Work stress alone proves the phobia is GAD without situational fear, making elevator-specific exposure contraindicated in principle in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Two-factor style maintenance + exposure logic beat catharsis myths (§15.4; learning; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this endorse catharsis against evidence.",
+        "2": "People who pick this deny operant maintenance after classical acquisition.",
+        "3": "People who pick this overgeneralize to GAD and block specific exposure."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.7 + Ch8/10",
+      "question": "Someone with depression shows mood-congruent recall of failures, anhedonia, and a belief “I’ll always fail” (schema). Friends push forced gratitude only. Sleep collapsed after night shifts (biopsych stress). Best integrative understanding?",
+      "options": [
+        "Cognitive schemas and mood-congruent memory bias maintain depression alongside anhedonia and sleep disruption—forced gratitude alone rarely",
+        "Mood-congruent recall proves memories of success were never encoded, so behavioral activation and sleep repair cannot help depressive schemas",
+        "Anhedonia is sensory adaptation of taste buds, unrelated to mesocorticolimbic reward themes or cognitive therapy targets for depression",
+        "Night-shift sleep loss immunizes against depressive schemas by increasing REM rebound insight into optimistic explanatory styles automatically"
+      ],
+      "correct": 0,
+      "correctFeedback": "Cognition, memory bias, reward/anhedonia, and sleep interact—don’t peddle gratitude-only cures (§15.7; memory; motivation/consciousness).",
+      "wrongFeedback": {
+        "1": "People who pick this treat bias as proof success was never encoded.",
+        "2": "People who pick this reduce anhedonia to taste adaptation.",
+        "3": "People who pick this romanticize sleep loss as antidepressant insight."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.8 + Ch3/7",
+      "question": "A first-episode psychosis admission includes auditory hallucinations and a persecutory delusion. A relative blames “too much dopamine from video games” only; another cites family criticism as the sole cause. Neuropsych notes multifactor risk. Best teaching point?",
+      "options": [
+        "Psychosis risk is multifactorial—biology, stress, and environment can contribute; single-cause dopamine-game or blame-only family stories",
+        "Video-game dopamine uniquely causes schizophrenia hallucinations, so family climate and other stressors are etiologically irrelevant after gaming",
+        "Persecutory delusions are availability heuristics about neighbors, not beliefs requiring clinical care beyond a one-time cognitive-bias workshop",
+        "Hallucinations equal flashbulb memories of sounds, proving encoding success and ruling out any neurochemical hypotheses in first-episode now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Teach multifactor models; avoid monocausal blame (§15.8; biopsych; thinking).",
+      "wrongFeedback": {
+        "1": "People who pick this monocausal game-dopamine story.",
+        "2": "People who pick this trivialize delusions as ordinary heuristics only.",
+        "3": "People who pick this misread hallucinations as ordinary flashbulbs."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.6 + Ch8/12",
+      "question": "A survivor of assault has PTSD intrusions, avoidance, and hypervigilance. Online forums urge “hypnosis to erase the tape.” Legal interviews risk leading questions (misinformation). Best clinically careful stance?",
+      "options": [
+        "Intrusions aren’t literal erasable tapes; avoid suggestive memory techniques, document carefully, and pursue evidence-based trauma therapies that",
+        "Hypnosis reliably deletes episodic trauma traces without suggestion risk, so leading legal questions become harmless after one trance session now",
+        "Hypervigilance means sensory absolute thresholds dropped permanently, which proves PTSD is only a Gestalt perceptual illusion treatable by",
+        "Avoidance is positive punishment by definition, therefore exposure-based trauma therapies contradict operant principles and must be abandoned"
+      ],
+      "correct": 0,
+      "correctFeedback": "Protect memory integrity; use evidence-based trauma care—not erase-the-tape myths (§15.6; memory; social/legal).",
+      "wrongFeedback": {
+        "1": "People who pick this trust hypnosis erasure myths.",
+        "2": "People who pick this reduce PTSD to a sensory threshold/Gestalt gimmick.",
+        "3": "People who pick this mislabel avoidance and reject exposure logic."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.11 + Ch11/2",
+      "question": "A podcast diagnoses every dramatic breakup as borderline PD from a 5-item quiz (reliability/validity concerns) and ignores contextual trauma and trait overlaps with neuroticism. Viewers stigmatize a friend seeking help. Best assessment literacy message?",
+      "options": [
+        "Personality disorder diagnosis needs careful, multi-source clinical assessment—not viral quizzes—and stigma plus trait overlap demand",
+        "Five viral items equal SCID-level reliability, so dramatic breakups become sufficient criteria without impairment history or differential",
+        "Neuroticism scores prove borderline PD automatically, making trauma history ethically irrelevant to formulation and treatment planning",
+        "Stigma is good for treatment motivation, therefore public labeling from podcasts improves outcomes more than confidential clinical care"
+      ],
+      "correct": 0,
+      "correctFeedback": "Reject quiz diagnoses; reduce stigma; respect complexity (§15.11; personality; methods).",
+      "wrongFeedback": {
+        "1": "People who pick this inflate quiz psychometrics wildly.",
+        "2": "People who pick this collapse neuroticism into PD and erase trauma context.",
+        "3": "People who pick this endorse stigma as therapeutic."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.2–15.3 + Ch9/14",
+      "question": "College counseling sees a spike in anxiety after midterms (stress) among first-years navigating identity and autonomy (development). Some meet GAD criteria; many have adjustment issues. Admin wants one drug-only protocol for all. Best stepped-care view?",
+      "options": [
+        "Differentiate disorder-level anxiety from normative developmental stress responses; match intensity of care—skills, therapy, and medication when",
+        "Midterm stress chemically equals GAD for all first-years, so differential diagnosis wastes time better spent on identical pharmacotherapy starts",
+        "Identity exploration immunizes against anxiety disorders, therefore rising counseling demand must be malingering rather than stress-related need",
+        "Adjustment issues forbid psychotherapy because only diathesis–stress genes respond to treatment in emerging adults after exams in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Assess severity/context; stepped care beats one-size medication mandates (§15.2–15.3; development; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this erase differential diagnosis.",
+        "2": "People who pick this dismiss real stress as malingering via identity myths.",
+        "3": "People who pick this invent gene-only treatability rules."
+      },
+      "page": null
+    },
+    {
+      "section": "§15.5 + Ch6/10",
+      "question": "An OCD pattern: intrusive contamination thoughts spike anxiety; washing rituals reduce it briefly (negative reinforcement), consuming hours. Family helps with reassurance rituals. A relative suggests thought suppression marathons. Best mechanism-focused guidance?",
+      "options": [
+        "Rituals and reassurance can maintain OCD via short-term relief; evidence-based ERP targets exposures without rituals—suppression often backfires",
+        "Thought suppression permanently deletes obsessions, so rituals are unnecessary epiphenomena unrelated to negative reinforcement of anxiety",
+        "Contamination obsessions are phoneme errors in inner speech, therefore ERP is irrelevant and family reassurance cannot affect operant maintenance",
+        "Negative reinforcement cannot involve removal of anxiety, only removal of food, making washing cycles theoretically impossible to analyze"
+      ],
+      "correct": 0,
+      "correctFeedback": "ERP logic vs suppression/reassurance traps (§15.5; learning; motivation/emotion).",
+      "wrongFeedback": {
+        "1": "People who pick this over-trust suppression and deny ritual reinforcement.",
+        "2": "People who pick this misfile OCD as a speech-sound problem.",
+        "3": "People who pick this invent a food-only rule for negative reinforcement."
+      },
+      "page": null
+    }
+  ],
+  "16": [
+    {
+      "section": "§16.2 + Ch6/15",
+      "question": "For elevator phobia, a clinic debates flooding versus graded exposure with response prevention. The client’s avoidance has been negatively reinforced for years; panic expectancy is high. A relative demands one giant scare “for catharsis.” Best evidence-aligned choice rationale?",
+      "options": [
+        "Graded exposure with prevention of avoidance targets extinction without requiring harmful catharsis theater; flooding exists but is not the",
+        "Cathartic flooding is mandatory because negative reinforcement of avoidance cannot be addressed by graded hierarchies in modern behavior therapy",
+        "Exposure fails unless paired with continuous food reinforcement each floor, converting extinction into a token economy for fear CRs in the vignette",
+        "Panic expectancy means classical CRs cannot extinguish, so medication without any exposure learning is the only ethical pathway forever now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Exposure/extinction with ethical pacing beats catharsis myths (§16.2; learning; anxiety disorders).",
+      "wrongFeedback": {
+        "1": "People who pick this mandate catharsis and deny graded options.",
+        "2": "People who pick this bolt irrelevant food tokens onto extinction.",
+        "3": "People who pick this claim expectancy makes extinction impossible."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.2 + Ch11/10",
+      "question": "A depressed client’s automatic thought “I’m unlovable” follows a breakup (schema activation). Therapist plans CBT thought records plus behavioral activation; client asks only for unconditional positive regard sessions without skills. Alliance matters. Best integration?",
+      "options": [
+        "Rogerian conditions support alliance, but depression outcomes often improve when CBT/BA skills target thoughts and avoidance—not UPR climate",
+        "Unconditional positive regard extinguishes depressive schemas without behavioral experiments, making activity scheduling scientifically now",
+        "Automatic thoughts are Freudian parapraxes only, so cognitive restructuring violates humanistic ethics and must be abandoned for silent free",
+        "Behavioral activation requires Theory X hospital token fines, incompatible with empathy or collaborative CBT structuring in outpatient depression"
+      ],
+      "correct": 0,
+      "correctFeedback": "Warmth plus active CBT/BA skills usually beats warmth-only for depression (§16.2; personality/humanistic; motivation).",
+      "wrongFeedback": {
+        "1": "People who pick this overclaim UPR-as-sufficient mechanism.",
+        "2": "People who pick this force a false humanistic–cognitive ethics conflict.",
+        "3": "People who pick this caricature BA as punitive Theory X."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.2–16.3 + Ch8/12",
+      "question": "In group therapy for social anxiety, a member “recalls” childhood humiliation details that first appeared in another member’s story (misinformation/social contagion risk). Facilitators need safety without shame. Best memory-informed facilitation move?",
+      "options": [
+        "Gently note memory can be influenced by others’ stories, keep ownership of personal narrative cautious, and continue exposure/skills without",
+        "Identical details prove flashbulb verbatim accuracy across members, so facilitators should treat the recalled humiliation as shared historical",
+        "Social contagion of narrative details cannot occur in therapy groups because misinformation effects require police interviews exclusively",
+        "Any overlapping memory means delusional disorder for both members, requiring immediate antipsychotics before group social-anxiety exposures"
+      ],
+      "correct": 0,
+      "correctFeedback": "Groups can seed details—handle carefully without humiliation or overpathologizing (§16.3; memory; social).",
+      "wrongFeedback": {
+        "1": "People who pick this over-trust flashbulb accuracy for borrowed details.",
+        "2": "People who pick this deny misinformation outside forensic contexts.",
+        "3": "People who pick this leap to psychosis labeling from overlap alone."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.1–16.5 + Ch14/15",
+      "question": "A rural client stops meds after TikTok stigma (“meds mean weakness”) and sleep crashes, worsening depression. Clinic access is scarce (barrier). Telehealth CBT plus collaborative medication education are options. Best systems-aware plan?",
+      "options": [
+        "Address stigma beliefs, restore sleep/safety planning, and combine accessible psychotherapy with informed medication decisions—barriers and myths",
+        "Stigma posts prove medication is never appropriate for depression, so telehealth CBT alone must exclude any biomedical discussion forever after",
+        "Access barriers invalidate psychotherapy mechanisms, meaning only inpatient commitment without consent satisfies ethical care in rural depression",
+        "Sleep loss after stopping meds is classical extinction of HPA activity, confirming that stigma advice was physiologically correct for major"
+      ],
+      "correct": 0,
+      "correctFeedback": "Combat stigma and barriers; integrate psychosocial and biomedical thoughtfully (§16.5; stress; disorders).",
+      "wrongFeedback": {
+        "1": "People who pick this let TikTok stigma dictate biomedical exclusion.",
+        "2": "People who pick this jump to coercive care as the only ethics.",
+        "3": "People who pick this invent physiology that validates stigma myths."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.2 + Ch2/7",
+      "question": "A hospital adopts a new “energy tapping” therapy after testimonials (availability) without controlled outcome data. Staff morale rises briefly (Hawthorne-ish attention). A methods psychologist asks for evidence hierarchies before replacing CBT for OCD. Best stance?",
+      "options": [
+        "Testimonials and attention effects don’t establish efficacy; keep empirically supported OCD treatments first-line until rigorous evidence for",
+        "Availability of emotional testimonials outranks RCTs for OCD, so replacing ERP/CBT with tapping is methodologically conservative practice now",
+        "Hawthorne effects prove long-term symptom remission equal to exposure therapy whenever staff feel enthusiastic during the rollout month",
+        "Energy tapping’s lack of a clear learning mechanism makes it automatically superior to extinction-based ERP for contamination rituals"
+      ],
+      "correct": 0,
+      "correctFeedback": "Evidence hierarchies before abandoning supported care (§16.2; methods; thinking).",
+      "wrongFeedback": {
+        "1": "People who pick this crown testimonials over rigorous tests.",
+        "2": "People who pick this confuse brief morale with durable efficacy.",
+        "3": "People who pick this treat mechanism vagueness as superiority."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.2 + Ch3/15",
+      "question": "Family asks whether antipsychotics “mean the brain is permanently broken.” Education covers dopamine-related hypotheses, side-effect monitoring, and psychosocial rehab. A cousin says therapy is useless if meds exist. Best integrated message?",
+      "options": [
+        "Medications can reduce symptoms for many people while skills, support, and therapy address functioning—biology talk isn’t destiny, and",
+        "Dopamine hypotheses prove psychosocial interventions cannot help psychosis-related disability once any medication has been prescribed even",
+        "Side-effect monitoring is optional if a neurotransmitter is mentioned, because biological framing removes the need for informed consent",
+        "Permanent brokenness is guaranteed by first-episode medication, making supported employment and CBT for psychosis scientifically futile"
+      ],
+      "correct": 0,
+      "correctFeedback": "Biopsychosocial care > meds-only fatalism or meds-without-consent myths (§16.2; biopsych; disorders).",
+      "wrongFeedback": {
+        "1": "People who pick this erase psychosocial help once meds appear.",
+        "2": "People who pick this dismiss consent/side-effect ethics.",
+        "3": "People who pick this preach permanent futility against rehab evidence."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.3–16.4 + Ch9/12",
+      "question": "Adolescent group for self-harm urges uses peer coping skills, but one charismatic member glamorizes scars (deviant peer contagion risk). Developmental need for belonging is strong. Facilitators must protect safety. Best move?",
+      "options": [
+        "Keep belonging through structured prosocial norms, interrupt glamorizing talk, strengthen adult-guided coping, and use clear safety in the vignette",
+        "Belonging needs mean facilitators must allow glamorizing content, because interrupting peers destroys identity development more than self-harm",
+        "Peer contagion cannot occur for self-harm, so charismatic modeling of scars is clinically irrelevant in adolescent groups with high affiliation now",
+        "Safety protocols forbid any peer interaction, converting group therapy into simultaneous individual free association without social learning"
+      ],
+      "correct": 0,
+      "correctFeedback": "Harness peer belonging carefully; block contagion of harm (§16.3; development; social).",
+      "wrongFeedback": {
+        "1": "People who pick this sacrifice safety to uncritical belonging.",
+        "2": "People who pick this deny contagion risks.",
+        "3": "People who pick this abolish therapeutic peer processes entirely."
+      },
+      "page": null
+    },
+    {
+      "section": "§16.2 + Ch8/14",
+      "question": "A client with PTSD and insomnia does trauma-focused work while a partner repeatedly “reminds” them of unverified details (suggestion risk) and pushes alcohol to “forget” (maladaptive coping). Therapist coordinates sleep, substance, and memory-safe trauma care. Best priority sketch?",
+      "options": [
+        "Stabilize sleep/substance risks, coach partners away from suggestive rehearsal and alcohol-for-forgetting, and proceed with evidence-based trauma",
+        "Alcohol-assisted forgetting is preferred preparatory care before trauma therapy because suppression plus depressants erase episodic traces safely",
+        "Partner suggestion improves trauma accuracy like collaborative free recall, so unverified details should be rehearsed nightly to strengthen",
+        "Insomnia must remain untreated until all trauma narratives are completed, because sleep repair interferes with extinction learning in every PTSD"
+      ],
+      "correct": 0,
+      "correctFeedback": "Safety, sleep, substance, and anti-suggestion hygiene alongside trauma therapy (§16.2; memory; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this endorse dangerous alcohol forgetting myths.",
+        "2": "People who pick this invite suggestive contamination of trauma memory.",
+        "3": "People who pick this delay sleep care against usual clinical priorities."
+      },
+      "page": null
+    }
+  ]
+}

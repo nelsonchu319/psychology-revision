@@ -1,0 +1,294 @@
+{
+  "13": [
+    {
+      "section": "§13.2–13.3 + Ch2/11",
+      "question": "A warehouse adopts a 12-item “hustle personality” screener sold by an influencer, then fires low scorers after a productivity dip that coincided with a heat wave and broken scanners. Managers claim trait validity; workers cite situational constraints. Best I-O critique?",
+      "options": [
+        "Unvalidated screens plus confounded productivity data (heat, tools) cannot justify trait-based firings; job analysis and better criteria",
+        "Influencer screeners inherit validity generalization automatically, so heat and equipment failures become irrelevant to performance causal",
+        "Personality cut scores always outperform job samples when the criterion is throughput during known equipment outages and heat stress",
+        "Situational constraints cannot reduce performance if conscientiousness was measured once, because traits absorb all workplace variance by"
+      ],
+      "correct": 0,
+      "correctFeedback": "Selection and performance inference need validity and situational awareness (§13.2–13.3; methods; personality).",
+      "wrongFeedback": {
+        "1": "People who pick this invent automatic validity for influencer tools.",
+        "2": "People who pick this ignore criteria contamination from heat/tools.",
+        "3": "People who pick this treat traits as total explanations that erase situations."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.3 + Ch6/12",
+      "question": "A call center pays bonuses only for call count (outcome-based), and agents shorten calls, raise complaints, and stop helping rookies (incentive distortion + competition). Leadership quotes Theory Y while keeping punishment for “too much mentoring.” Best diagnosis?",
+      "options": [
+        "Contingencies shaping speed over quality and punishing helping will drive those behaviors regardless of Theory Y rhetoric—align rewards",
+        "Theory Y posters classically condition intrinsic motivation strong enough to override any bonus schedule that pays only for raw call volume",
+        "Helping rookies is reduced solely by diffusion of responsibility, so incentive redesign cannot restore citizenship behavior in call centers",
+        "Outcome-based bonuses increase organizational citizenship whenever public leaderboards shame slow mentors during peak hours in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Pay-for-count contingencies explain the pattern better than leadership slogans (§13.3; learning; social).",
+      "wrongFeedback": {
+        "1": "People who pick this think posters override powerful operant pay systems.",
+        "2": "People who pick this blame only bystander diffusion and ignore incentives.",
+        "3": "People who pick this reverse how speed bonuses typically affect citizenship."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.4 + Ch5/8",
+      "question": "Pilots train with a poorly contrasted cockpit alert (signal buried in noise) and later miss it under sleep debt. Human-factors leads want salience and checklist retrieval practice; a manager blames “low g” from a pop quiz. Best HF-plus-memory stance?",
+      "options": [
+        "Improve signal conspicuity and practiced retrieval under realistic fatigue—not pop-IQ blame—because design and encoding/retrieval conditions now",
+        "Low pop-quiz g uniquely explains missed alerts, so display contrast and checklist training cannot reduce error once sleep debt exists in the vignette",
+        "Sensory absolute thresholds are fixed personality traits, making human-factors redesign ethically inappropriate for aviation alerts in the vignette",
+        "Sleep debt improves prospective memory for rare alerts via flashbulb mechanisms, proving the miss was only a Theory X attitude problem in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "HF design + training under fatigue beat trait scapegoating (§13.4; sensation; memory).",
+      "wrongFeedback": {
+        "1": "People who pick this scapegoat pop-IQ and dismiss design/training.",
+        "2": "People who pick this redefine thresholds as immutable traits against HF.",
+        "3": "People who pick this romanticize sleep debt as flashbulb safety."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.2 + Ch7/14",
+      "question": "After one viral employee-theft story (availability), a retailer expands invasive monitoring and sees morale drop and turnover rise (stress). Shrinkage was already falling from better inventory systems. Executives credit surveillance. Best analytic caution?",
+      "options": [
+        "Availability-driven policy may ignore base rates and existing shrinkage trends; surveillance stress costs can outweigh gains when systems now",
+        "A single vivid theft proves monitoring caused further shrinkage declines even on metrics that were falling before surveillance expansion began",
+        "Turnover after invasive monitoring is job enrichment under Herzberg, indicating hygiene needs were satisfied by stress and distrust in the vignette",
+        "Base-rate neglect is rational in loss prevention whenever availability heuristics feel urgent to executives during board meetings in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Don’t let vivid cases override trends and side-effect costs (§13.2–13.3; thinking; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this assign causal credit despite prior trends.",
+        "2": "People who pick this mislabel stress/turnover as enrichment.",
+        "3": "People who pick this endorse base-rate neglect as rational policy."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.3 + Ch10/11",
+      "question": "A hospital’s “employee of the month” (public extrinsic) boosts charting metrics short-term but cuts voluntary mentoring (crowding-out). High neuroticism staff report evaluation anxiety. Leadership calls it self-actualization. Best motivation/I-O reading?",
+      "options": [
+        "Public contingent rewards can raise measured metrics while undermining autonomous helping and elevating evaluation anxiety—Maslow slogans don’t",
+        "Employee-of-month programs always increase intrinsic mentoring because esteem needs precede belongingness in every hospital unit hierarchy now",
+        "Evaluation anxiety occurs only in laboratory shock studies, never after public ranking systems in professional workplaces in the vignette now",
+        "Crowding-out means extrinsic rewards increase citizenship forever, so mentoring losses must be mismeasured neuroticism artifacts only in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Extrinsic publicity has tradeoffs for intrinsic citizenship and anxiety (§13.3; motivation; personality).",
+      "wrongFeedback": {
+        "1": "People who pick this misuse Maslow to deny crowding-out risks.",
+        "2": "People who pick this silo evaluation anxiety away from real workplaces.",
+        "3": "People who pick this reverse crowding-out predictions."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.1–13.2 + Ch2/15",
+      "question": "A firm uses a graphology “personality from handwriting” vendor for leadership hiring, citing a vendor white paper without peer review. Legal asks about job relatedness; clinical staff note graphology’s weak evidence. Best response?",
+      "options": [
+        "Handwriting analysis lacks acceptable validity for personnel decisions; demand job-related, evidence-based assessments rather than",
+        "Vendor white papers outrank meta-analyses, so graphology becomes content-valid for leadership whenever signatures look decisive to executives",
+        "Job relatedness is satisfied by any procedure labeled personality assessment, including astrology-adjacent handwriting readings sold as now",
+        "If applicants consent, invalid predictors become ethical and legally robust for adverse hiring outcomes in regulated industries in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Use validated, job-related tools—not graphology theater (§13.2; methods; assessment ethics).",
+      "wrongFeedback": {
+        "1": "People who pick this elevate marketing over scientific validity.",
+        "2": "People who pick this treat labels as job relatedness.",
+        "3": "People who pick this think consent cures invalidity/legal risk."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.4 + Ch3/6",
+      "question": "Assembly errors spike after a line speed-up that also shortens microbreaks (fatigue). A supervisor runs a one-day token economy for perfect units but skips ergonomic redesign. Errors rebound when tokens stop (extinction). Best systems view?",
+      "options": [
+        "Workload/fatigue and ergonomics likely dominate; short-lived token boosts without design change predict extinction rebound—fix",
+        "Token economies permanently rewrite motor engrams at the NMJ, so ergonomic redesign is unnecessary once a single day of tokens occurs",
+        "Microbreaks cannot affect error rates because sympathetic arousal from speed-ups always improves vigilance indefinitely on assembly lines",
+        "Extinction after token removal proves workers lack Theory Y assumptions, not that contingencies and fatigue conditions changed performance"
+      ],
+      "correct": 0,
+      "correctFeedback": "HF fatigue/design + temporary operant boosts explain spikes/rebounds (§13.4; biopsych; learning).",
+      "wrongFeedback": {
+        "1": "People who pick this invent permanent NMJ rewrites from brief tokens.",
+        "2": "People who pick this deny fatigue costs and romanticize arousal.",
+        "3": "People who pick this moralize Theory Y instead of analyzing contingencies."
+      },
+      "page": null
+    },
+    {
+      "section": "§13.3 + Ch12/16",
+      "question": "An EAP poster campaign reduces stigma language (social norms) and increases counseling uptake. Managers who previously mocked therapy (modeling) stop after leadership training. A skeptic says only SSRI availability could explain uptake. Best multi-factor view?",
+      "options": [
+        "Norm change, reduced stigma, and leader modeling can increase help-seeking alongside any biomedical access—psychosocial workplace levers are",
+        "Counseling uptake can rise only when medication supply changes, because social norms and modeling never influence treatment utilization in",
+        "Leader modeling of respect for therapy is peripheral fluff that cannot affect stigma-related behavior under the elaboration likelihood model at",
+        "EAP uptake increases prove all prior non-attenders had antisocial personality disorder cured by posters alone without skillful clinical care"
+      ],
+      "correct": 0,
+      "correctFeedback": "Stigma/norms/modeling shape utilization; don’t invent meds-only monocausality (§13.3; social; therapy access).",
+      "wrongFeedback": {
+        "1": "People who pick this deny psychosocial influences on help-seeking.",
+        "2": "People who pick this dismiss modeling/norms via ELM misunderstanding.",
+        "3": "People who pick this pathologize non-attenders and overclaim posters as cures."
+      },
+      "page": null
+    }
+  ],
+  "14": [
+    {
+      "section": "§14.1–14.2 + Ch2/7",
+      "question": "A mayor cites a scary SRRS-style list after one viral illness story (availability) to claim city noise *causes* all hypertension, ignoring that noise exposure correlates with poverty, heat, and limited care access. Best methods-plus-stress critique?",
+      "options": [
+        "Life-stress checklists and confounded neighborhood exposures cannot isolate noise as the sole cause of hypertension; vivid cases amplify now now",
+        "SRRS points are experimental manipulations of HPA output, so poverty and healthcare access become irrelevant once a viral illness story airs on",
+        "Availability of one story raises internal validity automatically, converting ecological correlations into randomized noise trials for in the vignette",
+        "Hypertension is only a display rule for emotion, unrelated to stress physiology, so confounding by poverty is a thinking-heuristic problem alone"
+      ],
+      "correct": 0,
+      "correctFeedback": "Confounded stressors + availability ≠ clean causal noise claims (§14.1–14.2; methods; thinking).",
+      "wrongFeedback": {
+        "1": "People who pick this treat checklists/news as experiments that erase confounds.",
+        "2": "People who pick this invent validity from vividness.",
+        "3": "People who pick this deny stress physiology outright."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.1 + Ch3/10",
+      "question": "Before a licensing exam, students show pounding hearts; one labels it “threat,” another “challenge,” with different performance. A peer says James–Lange means the heart *is* fear; another cites HPA vs sympathetic timing. Best integration?",
+      "options": [
+        "Similar arousal can be appraised as threat or challenge with different consequences; physiology matters, but appraisal is not optional",
+        "James–Lange requires identical performance for all students with equal heart rates, because appraisal cannot shape emotional or stress outcomes",
+        "HPA cortisol is the only pathway in acute exam pounding, so sympathetic activation and cognitive appraisal are excluded by definition in test",
+        "Challenge appraisal extinguishes absolute thresholds for vision, which is why some students read items faster without any motivational mechanism"
+      ],
+      "correct": 0,
+      "correctFeedback": "Appraisal shapes stress/emotion outcomes atop arousal (§14.1; biopsych; emotion).",
+      "wrongFeedback": {
+        "1": "People who pick this erase appraisal’s role after arousal.",
+        "2": "People who pick this oversimplify acute arousal as HPA-only.",
+        "3": "People who pick this drag sensory thresholds into appraisal effects."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.4 + Ch6/12",
+      "question": "Employees in a toxic unit stop suggesting ideas after sarcastic shot-downs (positive punishment) and learn “nothing works” (learned helplessness themes) despite occasional random wins (unpredictability). A consultant suggests only individual grit posters. Best systems-plus-coping plan?",
+      "options": [
+        "Change contingencies that punish voice, increase controllable wins, and teach problem- and emotion-focused skills—posters alone won’t reverse",
+        "Grit posters classically condition mastery over unpredictable punishment, restoring voice without leadership behavior change in toxic units",
+        "Learned helplessness means reinforcement history never matters, so sarcastic shot-downs cannot be analyzed as operant punishment of suggestions",
+        "Random occasional wins prove the schedule is continuous reinforcement, which forbids helplessness and makes coping skills training unnecessary"
+      ],
+      "correct": 0,
+      "correctFeedback": "Environments that punish voice train withdrawal; redesign + skills > posters (§14.4; learning; social workplace).",
+      "wrongFeedback": {
+        "1": "People who pick this think posters replace contingency repair.",
+        "2": "People who pick this deny operant analysis of shot-downs.",
+        "3": "People who pick this misidentify intermittent wins as CRF and deny helplessness risk."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.3 + Ch8/15",
+      "question": "A patient with panic after a car crash has intrusive memories (persistence) and avoids highways (negative reinforcement of relief). A relative says “just forget on purpose,” misunderstanding suppression. Sleep is poor. Best trauma-stress-memory framing for education?",
+      "options": [
+        "Intrusions reflect strong emotional encoding/retrieval; avoidance is reinforced by relief; poor sleep worsens regulation—guided evidence-based",
+        "Intentional suppression reliably erases traumatic episodic traces overnight, so avoidance never becomes negatively reinforced in crash survivors",
+        "Intrusive memories are semantic capitals rehearsed as algorithms, unrelated to amygdala-linked emotional memory or sleep-related regulation",
+        "Negative reinforcement of avoidance requires food pellets, therefore highway avoidance after crashes cannot be maintained by anxiety relief"
+      ],
+      "correct": 0,
+      "correctFeedback": "Trauma memory + reinforced avoidance + sleep load need proper care models (§14.3; memory; anxiety).",
+      "wrongFeedback": {
+        "1": "People who pick this over-trust suppression as erasure.",
+        "2": "People who pick this misfile trauma intrusions as cold semantic algorithms.",
+        "3": "People who pick this invent a food requirement for negative reinforcement."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.4–14.5 + Ch10/11",
+      "question": "A positive-psychology workshop teaches gratitude lists. Participants with major depression and high neuroticism feel blamed when they “can’t feel grateful.” Evidence favors combining medical/psychotherapy care with careful positive practices—not forced positivity. Best facilitator stance?",
+      "options": [
+        "Gratitude tools can help some people but must not replace treatment or shame those with depression/high distress—match interventions to",
+        "Failure to feel grateful during a workshop diagnoses antisocial personality, independent of depression symptoms or neuroticism scores on intake",
+        "Positive psychology forbids concurrent CBT or medication, because gratitude lists extinguish all HPA activity within one session for every",
+        "Neuroticism means broaden-and-build is impossible, so people with high scores should be excluded from all coping-skills groups permanently"
+      ],
+      "correct": 0,
+      "correctFeedback": "Positive practices are adjunctive and non-shaming—not a monocure (§14.5; emotion; personality/disorders).",
+      "wrongFeedback": {
+        "1": "People who pick this misuse workshop struggle as ASPD diagnosis.",
+        "2": "People who pick this ban standard depression care in favor of lists alone.",
+        "3": "People who pick this exclude high-neuroticism clients from skills altogether."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.2 + Ch9/13",
+      "question": "New parents show daily-hassle overload (sleep loss, finances). Grandparents say “what doesn’t kill you makes you resilient,” citing one relative who thrived. Workplace parental leave is unpaid (structural stress). Best stress-development reading?",
+      "options": [
+        "Cumulative hassles and structural supports matter; survivor anecdotes aren’t evidence that deprivation is benign—policies reducing",
+        "A single resilient relative proves daily hassles improve attachment security for all infants, making paid leave psychologically unnecessary",
+        "Sleep loss in parents raises crystallized intelligence for caregiving, offsetting financial stress without organizational policy changes",
+        "Structural stressors cannot affect HPA themes because only major SRRS catastrophes count as stress in developmental research in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Hassles + structural context > tough-love anecdotes (§14.2; development; I-O/policy).",
+      "wrongFeedback": {
+        "1": "People who pick this generalize one anecdote into anti-leave evidence.",
+        "2": "People who pick this romanticize sleep loss as cognitive enhancement.",
+        "3": "People who pick this deny hassles/structural stress as real stressors."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.1 + Ch4/7",
+      "question": "Residents after overnight call show slowed insight on case puzzles (thinking) and microsleeps. Attendings attribute errors to “weak grit.” Fatigue researchers cite attention lapses; safety wants duty-hour redesign. Best account?",
+      "options": [
+        "Sleep loss impairs attention and complex problem solving; redesigning hours addresses a root cause better than grit scolding after",
+        "Microsleeps improve heuristic accuracy by forcing representativeness shortcuts that outperform rested analytic reasoning on medical puzzles",
+        "Grit scores experimentally manipulate adenosine, so duty-hour limits cannot reduce error once personality labels are applied on rounds",
+        "Insight problems are solved only in REM at night, proving daytime errors after call are motivational faking rather than cognitive impairment"
+      ],
+      "correct": 0,
+      "correctFeedback": "Fatigue is a cognitive safety factor—not a moral grit failure (§14.1; consciousness; thinking).",
+      "wrongFeedback": {
+        "1": "People who pick this romanticize microsleeps as superior reasoning.",
+        "2": "People who pick this treat grit labels as biology that blocks systems fixes.",
+        "3": "People who pick this claim daytime impairment is faking tied to REM exclusivity."
+      },
+      "page": null
+    },
+    {
+      "section": "§14.4 + Ch12/16",
+      "question": "A support group reduces loneliness (social support buffering) and teaches CBT appraisal skills for job loss. Members previously self-medicated with alcohol (maladaptive coping). A troll claims groups are only placebo conformity. Best evidence-minded reply?",
+      "options": [
+        "Social support and skill-building can buffer stress and replace harmful coping; placebo/conformity skepticism doesn’t erase those mechanisms when",
+        "Any group improvement is only Asch conformity, so appraisal skills cannot transfer outside the meeting room after job-loss stress in the vignette",
+        "Alcohol self-medication proves problem-focused coping already succeeded, making support groups contraindicated for people with loneliness",
+        "Buffering hypotheses forbid CBT appraisal work, because support acts only through classical conditioning of oxytocin without cognition now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Support + skills are real coping pathways alongside—not reduced to—conformity worries (§14.4; social; therapy).",
+      "wrongFeedback": {
+        "1": "People who pick this collapse all gains into Asch and deny transfer.",
+        "2": "People who pick this mislabel substance coping as successful problem focus.",
+        "3": "People who pick this strip support of cognitive mechanisms entirely."
+      },
+      "page": null
+    }
+  ]
+}

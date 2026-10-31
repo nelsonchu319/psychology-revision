@@ -5132,164 +5132,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c7-l3-15"
   },
   {
+    "id": "c7-l4-01",
     "chapter": 7,
     "level": 4,
-    "section": "2.3+7.3",
-    "question": "A lab claims a new “creativity drug” raised insight scores but assigned volunteers who already loved puzzles to the drug group and novices to placebo, with no randomization. Best methods critique?",
+    "section": "§7.3 + Ch2/6",
+    "question": "A firm runs a decision bootcamp against availability and representativeness. Half the managers get spaced retrieval on cases; half get one massed lecture (randomized). The blog then claims the bootcamp *caused* promotions because attendees who later rose also named more heuristics on a post-test. HR, methods, and learning staff argue. Strongest analysis?",
     "options": [
-      "Selection confounds block causal claims about the drug",
-      "Heuristics make random assignment ethically impossible always",
-      "Phonemes prove the design is internally valid in the vignette",
-      "Flynn effect alone creates true experiments in the vignette"
+      "Promotion links are still correlational with many career confounds; even with randomized training, causal credit for promotions needs",
+      "Naming availability correctly classically conditions salary increases, so promotion correlations become true experiments without tracking job",
+      "Massed lectures equal spaced retrieval for transfer, therefore any promotion difference must be Flynn-effect noise rather than a validity or",
+      "Heuristics are phonemes of executive function, so only Wernicke’s aphasia batteries can validate managerial judgment training before HR may"
     ],
     "correct": 0,
-    "correctFeedback": "Without random assignment, pre-existing differences explain results.",
+    "correctFeedback": "Randomized training helps internal validity for learning outcomes, but promotions remain multiply determined; post-test naming ≠ career causation (§7.3; Ch2; Ch6).",
     "wrongFeedback": {
-      "1": "Heuristics do not forbid randomization.",
-      "2": "Phonemes are language units.",
-      "3": "Flynn effect is generational scores."
-    },
-    "id": "c7-l4-01"
+      "1": "People who pick this treat labeling a bias as classical conditioning that prints money—unsupported and methods-blind.",
+      "2": "People who pick this deny spacing/retrieval advantages and dump residuals into Flynn-effect handwaving.",
+      "3": "People who pick this miscast heuristics as speech sounds and derail into aphasia testing."
+    }
   },
   {
+    "id": "c7-l4-02",
     "chapter": 7,
     "level": 4,
-    "section": "6.3+7.3",
-    "question": "A teacher reinforces only the first correct algebra step every 5 minutes (FI) while students still show functional fixedness on word problems. Best integration?",
+    "section": "§7.4–7.5 + Ch3/5/14",
+    "question": "Amira’s group IQ screen is average, yet she freezes on timed word problems after a noisy lunch. The teacher wants less recess to “raise crystallized intelligence.” Audiology finds temporary conductive hearing loss; a tutor suspects working-memory load and stereotype threat. Best next-step framing?",
     "options": [
-      "Schedules can raise response rates yet not remove cognitive",
-      "Fixed-interval schedules erase all mental sets automatically",
-      "Functional fixedness is a positive reinforcer in the vignette",
-      "Algorithms forbid any operant influence on homework now"
+      "Treat the freeze as possible sensory/attentional load and situational threat interacting with fluid problem solving—not proof of low g or a",
+      "Spearman’s g equals absolute auditory threshold, so otitis-related blur permanently recalibrates intelligence and recess must be removed to",
+      "Crystallized intelligence lives on the basilar membrane; cutting recess re-encodes semantic facts through cone photopigments after cafeteria",
+      "Stereotype threat is a first-rank Schneiderian delusion, so discard standardized testing and rely only on projective inkblots for placement"
     ],
     "correct": 0,
-    "correctFeedback": "Operant schedules shape emission rates; cognitive obstacles can persist.",
+    "correctFeedback": "Context (noise, threat, working memory) can suppress timed performance without rewriting g; recess cuts are not an intelligence intervention (§7.4–7.5).",
     "wrongFeedback": {
-      "1": "FI does not auto-remove mental sets.",
-      "2": "Fixedness is an obstacle, not a reinforcer.",
-      "3": "Learning and cognition interact."
-    },
-    "id": "c7-l4-02"
+      "1": "People who pick this equate g with a sensory threshold and invent permanent biological rewriting.",
+      "2": "People who pick this scramble cochlear/visual anatomy with intelligence theory.",
+      "3": "People who pick this pathologize stereotype threat as psychosis and misuse assessment."
+    }
   },
   {
+    "id": "c7-l4-03",
     "chapter": 7,
     "level": 4,
-    "section": "3.2+7.5",
-    "question": "An article says “IQ is 100% genetic because heritability is .80.” A biopsych peer replies heritability is population variance, not destiny for individuals. Best evaluation?",
+    "section": "§7.1 + Ch6/8",
+    "question": "A quiz app rewards streak speed for categorizing exemplars (robin→bird). Under time pressure users reject penguins as birds, then later “remember” the app taught that rule. Product calls it insight; memory research suspects reconstruction; learning sees reinforced prototype matching. Best account?",
     "options": [
-      "Heritability ≠ genetic determination of one person’s score",
-      "Heritability .80 means environment is impossible in the vignette",
-      "IQ tests measure only reaction time in the retina now now",
-      "Schemas are stored exclusively in the spinal cord now now"
+      "Speed rewards strengthened prototype/heuristic responding, and later recall reconstructed the app’s contingencies as a false semantic rule about",
+      "Pairing robin images with food pellets extinguished every schema, proving category algorithms never err when streaks deliver variable-ratio",
+      "The misinformation effect applies only to courtroom verbs about smashed glass, never to category-learning apps that reinforce fast prototype",
+      "Phoneme segmentation failure alone explains penguin rejection without invoking concepts, reinforcement history, or reconstructive semantic memory"
     ],
     "correct": 0,
-    "correctFeedback": "High heritability still allows environmental effects and is a group statistic.",
+    "correctFeedback": "Reinforced fast prototype use plus reconstructive memory can create false “lessons” (§7.1; Ch6; Ch8).",
     "wrongFeedback": {
-      "1": "Environment can still matter.",
-      "2": "IQ is broader than retinal RT.",
-      "3": "Schemas are cognitive, not spinal-only."
-    },
-    "id": "c7-l4-03"
+      "1": "People who pick this invent classical food pairing and claim algorithms are error-proof under pressure.",
+      "2": "People who pick this over-restrict misinformation to eyewitness wording only.",
+      "3": "People who pick this reduce a concepts/learning issue to speech-sound processing."
+    }
   },
   {
+    "id": "c7-l4-04",
     "chapter": 7,
     "level": 4,
-    "section": "5.1+7.1",
-    "question": "Top-down perception using expectations resembles using schemata to fill gaps. Best parallel?",
+    "section": "§7.3 + Ch2/14",
+    "question": "After a viral crash video, a city spends heavily on redesigns (availability-driven urgency after sleepless crisis meetings). Crashes fall on treated and untreated roads during a mild winter and quieter nightlife. Officials claim the redesign caused the drop. Strongest critique?",
     "options": [
-      "Both use prior knowledge to organize incomplete input",
-      "Phonemes are identical to absolute thresholds in the vignette",
-      "Heuristics require rods but not cones in the vignette",
-      "Prototypes are unconditioned stimuli only in the vignette"
+      "Salient media can drive policy via availability, but history/maturation and missing controls block causal credit; stress-biased urgency",
+      "Any post-campaign crash decline is experimental proof because availability heuristics secretly randomize drivers into treated and untreated",
+      "Mild winters positively reinforce hippocampal route memory in drivers, which cancels maturation threats and validates causal claims without",
+      "Sleep loss raises crystallized intelligence in planners, so availability-based spending is methodologically sound even when untreated roads"
     ],
     "correct": 0,
-    "correctFeedback": "Schemata/top-down processing both apply prior structures to input.",
+    "correctFeedback": "Availability plus confounds ≠ causation; untreated parallels undermine redesign credit (§7.3; Ch2; stress).",
     "wrongFeedback": {
-      "1": "Different constructs.",
-      "2": "Heuristics are not photoreceptor-bound.",
-      "3": "Prototypes are not UCS by definition."
-    },
-    "id": "c7-l4-04"
+      "1": "People who pick this equate post-hoc drops with experiments and invent random assignment from a heuristic.",
+      "2": "People who pick this misuse reinforcement/memory anatomy to deny validity threats.",
+      "3": "People who pick this romanticize sleep loss as making smarter causal inference."
+    }
   },
   {
+    "id": "c7-l4-05",
     "chapter": 7,
     "level": 4,
-    "section": "1.2+7.4",
-    "question": "Comparing Spearman’s g with Gardner’s multiple intelligences, a history-minded student asks which is more “scientific.” Best nuanced reply?",
+    "section": "§7.5 + Ch9/11/15",
+    "question": "Parents seek IQ retesting after one low group score. The child changed schools mid-year; a parent’s anxiety fuels nightly “I’m dumb” drilling. A counselor notes parental neuroticism and fear of fixed intelligence. Best evidence-based message?",
     "options": [
-      "g has strong psychometrics; Gardner is broader but harder to",
-      "Gardner proved g does not exist at all in the vignette",
-      "Spearman measured only emotional intelligence in the vignette",
-      "Both theories reject any empirical testing in the vignette"
+      "A single screening score is not destiny; developmental disruption, anxiety modeling, and threat-laden practice can depress performance—reassess",
+      "g is sealed at birth by parental neuroticism percentiles, making retesting unethical while intensive deficit-focused drilling becomes the only",
+      "School switches raise individual IQ within two weeks via the Flynn effect, so parental anxiety and drilling quality cannot influence timed",
+      "Attachment disruption converts fluid intelligence into a specific phobia of numerals that should be treated with ECT before any psychoeducational"
     ],
     "correct": 0,
-    "correctFeedback": "Tradeoff: psychometric coherence of g vs breadth of multiple intelligences.",
+    "correctFeedback": "Interpret scores in developmental and emotional context; avoid fixed-mindset harm (§7.5; Ch9; personality/anxiety).",
     "wrongFeedback": {
-      "1": "g research remains influential.",
-      "2": "Emotional IQ is another construct.",
-      "3": "Both invite empirical work."
-    },
-    "id": "c7-l4-05"
+      "1": "People who pick this freeze g to a parent’s trait score and prescribe harmful drilling.",
+      "2": "People who pick this misuse Flynn effect as a rapid individual booster.",
+      "3": "People who pick this invent an IQ-to-phobia conversion and jump to ECT."
+    }
   },
   {
+    "id": "c7-l4-06",
     "chapter": 7,
     "level": 4,
-    "section": "8.1+7.3",
-    "question": "Working-memory limits make multi-step mental arithmetic hard, so students use heuristics. Best link?",
+    "section": "§7.3 + Ch5/12",
+    "question": "Jurors hear that a defendant “looks like a typical fraudster” (representativeness) after a media montage of scandals (availability). The courtroom is dim and jurors are exhausted. Prosecution calls heuristics Bayesian rationality; defense cites base rates and load. Best statement?",
     "options": [
-      "Limited working memory encourages shortcut strategies now",
-      "Working memory capacity is infinite after one rehearsal",
-      "Heuristics require anterograde amnesia in the vignette",
-      "Algorithms never use storage in the vignette given these facts"
+      "Representativeness and availability can pull judgments from base rates; fatigue and poor viewing conditions further undermine effortful, now",
+      "Matching a fraudster prototype equals high perceptual d′, so base rates become irrelevant once the defendant’s face fits a media-derived category",
+      "Media availability classically conditions the optic nerve, making heuristic impressions legally equivalent to DNA match statistics in fraud",
+      "Central-route persuasion forbids heuristics entirely; any prototype talk proves jurors meet criteria for a psychotic disorder rather than"
     ],
     "correct": 0,
-    "correctFeedback": "Capacity limits push people toward simplifying heuristics.",
+    "correctFeedback": "Heuristics plus cognitive load threaten careful justice reasoning (§7.3; sensation; social cognition).",
     "wrongFeedback": {
-      "1": "Capacity remains limited.",
-      "2": "Amnesia is not required.",
-      "3": "Algorithms still use memory."
-    },
-    "id": "c7-l4-06"
+      "1": "People who pick this confuse prototype resemblance with signal-detection sensitivity.",
+      "2": "People who pick this abuse conditioning/sensory metaphors as forensic proof.",
+      "3": "People who pick this pathologize normal heuristic use under ELM misunderstanding."
+    }
   },
   {
+    "id": "c7-l4-07",
     "chapter": 7,
     "level": 4,
-    "section": "2.4+7.5",
-    "question": "A company uses a poorly validated “brain teaser” interview to hire, then claims fairness. Ethics/methods best flag?",
+    "section": "§7.4 + Ch2/3/8",
+    "question": "A startup sells “neuroplasticity gum” said to raise Sternberg-style practical intelligence by “coating the hippocampus with crystallized g,” citing one survey linking chewing to self-rated street smarts. Biopsych notes arousal; memory asks encoding vs ability. Best takeaway?",
     "options": [
-      "Weak validity and possible adverse impact undermine fair",
-      "Any puzzle automatically has perfect predictive validity",
-      "Flynn effect legalizes all hiring tests in the vignette",
-      "Phoneme tasks are the only legal assessments in the vignette"
+      "Implausible mechanism plus correlational self-ratings do not show gum raises practical intelligence; expectancy or arousal may inflate now",
+      "Crystallized g is a neuromuscular-junction transmitter, therefore gum chemistry must raise practical intelligence whenever chewers report feeling",
+      "Triarchic practical intelligence equals flashbulb memory for advertisements, which converts the chewing survey into a causal demonstration",
+      "Mentioning the hippocampus turns any correlational marketing study into a randomized experiment that licenses ability claims about practical"
     ],
     "correct": 0,
-    "correctFeedback": "Selection tools need reliability/validity and fair use scrutiny.",
+    "correctFeedback": "Buzzword biology + self-report correlations ≠ validated intelligence gains (§7.4; methods; biopsych/memory).",
     "wrongFeedback": {
-      "1": "Validity must be evidenced.",
-      "2": "Flynn effect is unrelated to legalizing tests.",
-      "3": "Many assessments exist."
-    },
-    "id": "c7-l4-07"
+      "1": "People who pick this invent a false neurochemical identity for crystallized intelligence.",
+      "2": "People who pick this mash triarchic theory with flashbulb memory and invent causation.",
+      "3": "People who pick this treat anatomical name-drops as experimental control."
+    }
   },
   {
+    "id": "c7-l4-08",
     "chapter": 7,
     "level": 4,
-    "section": "4.1+7.3",
-    "question": "Sleep loss impairs prefrontal control; a student then shows more confirmation bias online. Plausible bridge?",
+    "section": "§7.2 + Ch6/10",
+    "question": "A language app delivers variable-ratio rewards for idiom translations. Users feel proud “Aha!” moments, then cling to wrong grammar generalizations (mental set) despite counterexamples. Motivation cites streak-driven anticipation; emotion cites pride labeling. Best integration?",
     "options": [
-      "Reduced cognitive control can worsen biased evidence search",
-      "Sleep spindles erase all heuristics permanently in the vignette",
-      "Confirmation bias is a circadian hormone only in the vignette",
-      "Algorithms require REM dreams to run in the vignette now"
+      "Variable-ratio reinforcement can maintain practice while success-linked affect and mental set rigidify incorrect generalizations even when",
+      "Insight experiences prove exclusive use of algorithms, so mental set and reinforcement schedules cannot jointly shape language-app behavior in",
+      "Variable-ratio schedules extinguish motivation by definition, therefore pride labeling after streaks cannot occur when idiom items deliver",
+      "Idioms are amygdala-stored morphemes, making grammar overgeneralization a thirst drive-reduction episode rather than a thinking-and-learning"
     ],
     "correct": 0,
-    "correctFeedback": "Executive control supports resisting bias; sleep loss can weaken it.",
+    "correctFeedback": "Schedules sustain engagement; affect and mental set can still entrench errors (§7.2; learning; motivation/emotion).",
     "wrongFeedback": {
-      "1": "Heuristics persist.",
-      "2": "Bias is cognitive, not a hormone definition.",
-      "3": "Algorithms are procedures, not REM-bound."
-    },
-    "id": "c7-l4-08"
+      "1": "People who pick this treat insight as pure algorithm use and deny co-occurring biases.",
+      "2": "People who pick this reverse how VR schedules typically sustain responding.",
+      "3": "People who pick this scramble linguistics with fear anatomy and thirst drives."
+    }
   },
   {
     "chapter": 8,
@@ -5838,164 +5838,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c8-l3-15"
   },
   {
+    "id": "c8-l4-01",
     "chapter": 8,
     "level": 4,
-    "section": "3.3+8.2",
-    "question": "A patient with hippocampal damage learns a mirror-tracing skill across days but denies having practiced. Best interpretation?",
+    "section": "§8.1–8.2 + Ch2/7",
+    "question": "A podcast “tests” a memory playlist: song-loving callers free-recall groceries after listening; sleepy chat volunteers recall in silence. Callers do better; the host says music *causes* encoding success. Debate attention, levels of processing, and selection. Best critique?",
     "options": [
-      "Procedural learning can spare when explicit memory is now",
-      "Hippocampus is required for all procedural skills now now",
-      "This proves encoding failure of sensory memory only now",
-      "Misinformation always creates new procedural skills now"
+      "Non-equivalent groups and confounded alertness/preference block causal claims; deeper or more attentive encoding—not the brand of playlist—may",
+      "Free recall after music classically conditions the engram itself, which makes selection confounds irrelevant whenever callers already adore the",
+      "Silent late-night volunteers automatically match daytime callers on motivation and circadian state, so the causal playlist headline is internally",
+      "Availability about catchy intros expands sensory-memory duration from fractions of a second into multi-year storage, proving encoding causation"
     ],
     "correct": 0,
-    "correctFeedback": "Classic dissociation: skill up, declarative down.",
+    "correctFeedback": "Encoding quality and group equivalence matter; this design cannot isolate playlist causation (§8.1–8.2; methods).",
     "wrongFeedback": {
-      "1": "Procedural often less hippocampal.",
-      "2": "Sensory memory not the main story.",
-      "3": "Misinformation ≠ skill learning."
-    },
-    "id": "c8-l4-01"
+      "1": "People who pick this use conditioning jargon to dismiss validity threats.",
+      "2": "People who pick this invent matched controls the vignette never created.",
+      "3": "People who pick this confuse sensory-memory limits with heuristic salience."
+    }
   },
   {
+    "id": "c8-l4-02",
     "chapter": 8,
     "level": 4,
-    "section": "6.2+8.3",
-    "question": "A CS (clinic smell) triggers anxiety CR; later wording in therapy distorts the memory of the first panic. Cross-topic best take?",
+    "section": "§8.3 + Ch5/12",
+    "question": "After a dim-store theft, witnesses watch news saying the suspect “smashed” the case, then confidently report nonexistent broken glass. A detective equates confidence with accuracy; others cite viewing conditions and suggestion. Strongest synthesis?",
     "options": [
-      "Classical emotional memory can coexist with reconstructive",
-      "CRs cannot be modulated by cognition ever in the vignette",
-      "Only algorithms extinguish CRs in the vignette given these facts",
-      "Flashbulb CRs are always accurate in the vignette now now"
+      "Poor encoding conditions plus misleading post-event language can reconstruct memory; confidence remains an unreliable accuracy cue in this",
+      "Flashbulb vividness from the newscast proves glass was present, because emotional arousal always freezes verbatim sensory traces against later",
+      "Misinformation effects alter only procedural memory for skills like cycling, so episodic crime reports cannot incorporate verbs from televised",
+      "Dim lighting elevates absolute thresholds into photographic memory, which cancels suggestion effects and licenses confidence as a perfect"
     ],
     "correct": 0,
-    "correctFeedback": "Conditioned fear and reconstructive memory can both operate.",
+    "correctFeedback": "Reconstructive memory + weak viewing + suggestion undermine confidence–accuracy assumptions (§8.3; sensation; social).",
     "wrongFeedback": {
-      "1": "Cognition can matter.",
-      "2": "Extinction is CS without UCS.",
-      "3": "Flashbulbs not perfect."
-    },
-    "id": "c8-l4-02"
+      "1": "People who pick this over-trust flashbulb metaphors as perfect recordings.",
+      "2": "People who pick this misfile misinformation as procedural-only.",
+      "3": "People who pick this invent sensory superpowers that erase suggestion."
+    }
   },
   {
+    "id": "c8-l4-03",
     "chapter": 8,
     "level": 4,
-    "section": "2.3+8.3",
-    "question": "An eyewitness study lacks a control group without leading questions. Causal claim that “verbs cause memory change” is:",
+    "section": "§8.2 + Ch3/6",
+    "question": "A stroke patient improves across days of mirror-tracing yet denies having practiced (procedural vs declarative dissociation). An aide says NMJ dopamine “is the engram.” A tech demands continuous reinforcement only. Neuropsych points to skill circuits without hippocampal report. Best take?",
     "options": [
-      "Weakened by missing comparison control in the vignette",
-      "Guaranteed by vivid flashbulb feelings in the vignette",
-      "Proven by any single case anecdote in the vignette now",
-      "Equivalent to random assignment in the vignette now"
+      "Procedural systems can strengthen skills without episodic report; NMJ chemistry is not an engram theory, and reinforcement schedules should",
+      "Failed declarative recall means procedural learning is impossible by definition, so mirror-tracing improvement without awareness cannot be",
+      "Only continuous reinforcement can store procedural traces because variable-ratio schedules erase cerebellar plasticity and abolish motor learning",
+      "Engrams equal semantic lists of world capitals, therefore mirror-tracing skill cannot be retained in any memory system after cortical or now"
     ],
     "correct": 0,
-    "correctFeedback": "Without control, causal inference is weak.",
+    "correctFeedback": "Multiple memory systems allow skill gains without declarative awareness (§8.2; biopsych; learning).",
     "wrongFeedback": {
-      "1": "Vividness ≠ control.",
-      "2": "Anecdotes weak.",
-      "3": "Not the same as randomization."
-    },
-    "id": "c8-l4-03"
+      "1": "People who pick this deny classic skill/fact dissociations.",
+      "2": "People who pick this overmandate CRF and invent cerebellar erasure.",
+      "3": "People who pick this shrink memory to semantic trivia."
+    }
   },
   {
+    "id": "c8-l4-04",
     "chapter": 8,
     "level": 4,
-    "section": "7.3+8.1",
-    "question": "Students use availability heuristics when judging how much they studied based on ease of recalling sessions, mistaking fluency for learning. Best bridge?",
+    "section": "§8.4 + Ch9/14",
+    "question": "At 78, Maya forgets why she entered rooms after a scary Alzheimer’s article (availability). Sleep debt, new anticholinergic medication, and bereavement stress are present—not progressive aphasia. A relative assumes all late-life forgetting is childhood-schema encoding failure. Best reading?",
     "options": [
-      "Metacognitive judgments can be heuristic-biased despite real",
-      "Availability always measures true LTM strength perfectly",
-      "Chunking forbids heuristics in the vignette given these facts",
-      "Algorithms erase STM in the vignette given these facts"
+      "Aging retrieval quirks plus sleep, medication, and stress can mimic alarming forgetting; media availability may inflate disease fear without",
+      "Bereavement always destroys procedural memory for walking, so room-entry forgetting is diagnostic of Alzheimer’s until proven otherwise by a",
+      "Anticholinergic medications permanently enhance LTP, which confirms the article’s causal diagnosis and rules out sleep or stress as contributors",
+      "After 70, childhood schemas become irretrievable because sensory memory lasts only thirty seconds in older adults, explaining doorway forgetting"
     ],
     "correct": 0,
-    "correctFeedback": "Ease-of-retrieval cues can mislead study judgments.",
+    "correctFeedback": "Differential diagnosis first; sleep/drugs/stress/media fear matter (§8.4; development; health).",
     "wrongFeedback": {
-      "1": "Fluency ≠ mastery.",
-      "2": "Chunking compatible with heuristics.",
-      "3": "STM remains."
-    },
-    "id": "c8-l4-04"
+      "1": "People who pick this leap from grief to Alzheimer’s via a false procedural claim.",
+      "2": "People who pick this reverse typical anticholinergic cognitive risks.",
+      "3": "People who pick this misuse sensory-memory duration as an aging law."
+    }
   },
   {
+    "id": "c8-l4-05",
     "chapter": 8,
     "level": 4,
-    "section": "5.2+8.1",
-    "question": "Iconic memory’s brief visual trace is to sensory memory as a prototype is to concepts—both are:",
+    "section": "§8.1 + Ch7/10",
+    "question": "Students using elaborative “why” self-tests beat re-readers on transfer, but a viral tip says highlighting wins because it “feels fluent.” Researchers flag fluency misattribution and recognition-vs-recall cues. Best conclusion?",
     "options": [
-      "Early organizing structures for incoming information now",
-      "Long-term procedural skills in the vignette given these facts",
-      "Forms of proactive interference in the vignette now now",
-      "Types of DSM diagnoses in the vignette given these facts"
+      "Desirable difficulties such as retrieval practice often outperform fluency illusions from highlighting; ease of processing is a weak",
+      "Fluency while highlighting lengthens iconic memory into permanent storage, which is why passive marking reliably beats testing effects on",
+      "Elaborative interrogation works only when each why-question is paired with a fixed-interval food-pellet schedule that stamps semantic",
+      "Transfer exams measure phoneme awareness alone, making encoding strategy comparisons irrelevant whenever students self-test with elaborative"
     ],
     "correct": 0,
-    "correctFeedback": "Both help initial organization of input (at different levels).",
+    "correctFeedback": "Fluency ≠ learning; retrieval/elaboration typically beat passive highlighting (§8.1; thinking; metacognition).",
     "wrongFeedback": {
-      "1": "Not procedural skills.",
-      "2": "Not interference.",
-      "3": "Not diagnoses."
-    },
-    "id": "c8-l4-05"
+      "1": "People who pick this confuse subjective ease with iconic-memory upgrades.",
+      "2": "People who pick this bolt an irrelevant operant schedule onto a cognitive strategy.",
+      "3": "People who pick this reduce transfer testing to speech sounds."
+    }
   },
   {
+    "id": "c8-l4-06",
     "chapter": 8,
     "level": 4,
-    "section": "14.1+8.2",
-    "question": "HPA arousal during trauma may amplify amygdala-tagged memories yet later therapy wording still reshapes reports. Best synthesis?",
+    "section": "§8.3 + Ch4/15",
+    "question": "After heavy drinking and fragmented sleep, Jordan “recalls” an assault detail that first appeared in a friend’s leading text. Staff must support Jordan without implanting more detail; anxiety is high. Best memory-informed stance?",
     "options": [
-      "Biological arousal strengthens encoding while retrieval",
-      "HPA activity freezes memory into a perfect indelible tape",
-      "Misinformation requires zero emotion in the vignette",
-      "Cortisol deletes all implicit memory in the vignette"
+      "Treat the report as possibly genuine, reconstructed, or suggested—document carefully, avoid leading probes, and note alcohol/sleep as",
+      "State-dependent learning proves the texted detail is verbatim truth, because alcohol reliably improves eyewitness precision for emotionally",
+      "Fragmented sleep creates flashbulb-grade accuracy for suggested events, so leading texts cannot distort memory once arousal from anxiety is",
+      "Any post-event text means the memory is a delusion that requires antipsychotic medication first-line before supportive documentation or careful"
     ],
     "correct": 0,
-    "correctFeedback": "Arousal affects strength; reconstruction still happens later.",
+    "correctFeedback": "Support the person; respect reconstructive memory and intoxication/sleep effects; do not lead (§8.3; consciousness; clinical caution).",
     "wrongFeedback": {
-      "1": "Not a perfect tape.",
-      "2": "Misinformation can occur with emotion.",
-      "3": "Implicit not wholesale deleted."
-    },
-    "id": "c8-l4-06"
+      "1": "People who pick this reverse alcohol’s typical encoding costs.",
+      "2": "People who pick this invent sleep-based immunity to misinformation.",
+      "3": "People who pick this equate possible suggestion with psychosis and jump to meds."
+    }
   },
   {
+    "id": "c8-l4-07",
     "chapter": 8,
     "level": 4,
-    "section": "1.3+8.4",
-    "question": "A cognitive psychologist recommends retrieval practice; a behaviorist frames quiz points as reinforcers. Compatible?",
+    "section": "§8.2 + Ch6/13",
+    "question": "An airline compares spaced simulator drills with a one-day massed slideshow for emergency checklists. Months later, spaced crews outperform under stress. Management credits “token-economy muscle memory,” though only the spaced group received simulation. Best account?",
     "options": [
-      "Yes—testing can both strengthen retrieval and reinforce",
-      "No—reinforcement forbids any cognitive explanation now",
-      "Retrieval practice requires Freudian insight in the vignette",
-      "Reinforcers only work on implicit engrams in the vignette"
+      "Spacing and retrieval in realistic practice likely drove retention; blaming an unadministered token economy confuses operant buzzwords with the",
+      "Massed slideshows typically outperform spaced high-fidelity simulation for procedural checklists when crews later perform under operational",
+      "Token economies store episodic checklists inside iconic sensory registers for months even when learners never practice retrieval in a simulator",
+      "Stress hormones erase spacing benefits entirely, so any performance gap must be attributed to Hawthorne lighting effects alone rather than"
     ],
     "correct": 0,
-    "correctFeedback": "Cognitive and operant descriptions can co-describe quiz benefits.",
+    "correctFeedback": "Distributed, retrieval-rich practice explains the edge; the token story is unsupported (§8.2; learning; I-O/HF).",
     "wrongFeedback": {
-      "1": "Not mutually exclusive.",
-      "2": "Not insight therapy.",
-      "3": "Reinforcers affect emitted behavior broadly."
-    },
-    "id": "c8-l4-07"
+      "1": "People who pick this contradict typical simulation/spacing advantages.",
+      "2": "People who pick this mash tokens with sensory memory absurdly.",
+      "3": "People who pick this deny spacing benefits and default to Hawthorne."
+    }
   },
   {
+    "id": "c8-l4-08",
     "chapter": 8,
     "level": 4,
-    "section": "12.4+8.3",
-    "question": "Group discussion after a crime may blend memories (memory conformity). Versus Asch, both show:",
+    "section": "§8.4 + Ch2/11",
+    "question": "A blog claims high conscientiousness blocks proactive interference because orderliness “stops old lists.” Evidence: a tiny convenience sample correlating traits with “I never forget.” A lab still finds standard PI in paired-associate tasks across Big Five levels. Best conclusion?",
     "options": [
-      "Social influence can reshape reports of reality in the vignette",
-      "Obedience to shock levels only in the vignette given these facts",
-      "That encoding failure is impossible in groups in the vignette",
-      "That stereotypes are sensory thresholds in the vignette now"
+      "Weak self-report correlations on convenience samples cannot overturn controlled PI findings; conscientiousness is not an immunity certificate",
+      "Proactive interference cannot appear in laboratory paired-associate procedures, so any trait correlation is the only evidence scientists should",
+      "Big Five facets are themselves encoding strategies, therefore correlational survey links prove causal memory immunity without experimental",
+      "Convenience samples become true randomized experiments whenever the dependent measure is everyday forgetting rather than laboratory accuracy"
     ],
     "correct": 0,
-    "correctFeedback": "Normative/informational influence can alter reported memories/judgments.",
+    "correctFeedback": "PI is robust in controlled tasks; trait self-reports don’t erase it (§8.4; methods; personality).",
     "wrongFeedback": {
-      "1": "Not only Milgram shocks.",
-      "2": "Encoding can still fail.",
-      "3": "Unrelated."
-    },
-    "id": "c8-l4-08"
+      "1": "People who pick this deny a classic interference effect.",
+      "2": "People who pick this conflate traits with strategies and correlation with causation.",
+      "3": "People who pick this redefine convenience sampling as randomization."
+    }
   },
   {
     "chapter": 9,
@@ -6544,164 +6544,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c9-l3-15"
   },
   {
+    "id": "c9-l4-01",
     "chapter": 9,
     "level": 4,
-    "section": "7.1+9.2",
-    "question": "Schemas in Piaget and schemata in cognitive psychology both:",
+    "section": "§9.2–9.3 + Ch2/7",
+    "question": "A daycare posts that its “Mozart-and-flashcards package *causes* earlier formal operations,” citing toddlers who sat through the package and later named more shapes than waitlisted peers whose parents opted out. Staff also praise kids using adult-like conservation talk after heavy prompting. A methods consultant and a Piagetian disagree. Best evaluation?",
     "options": [
-      "Organize knowledge and guide interpretation in the vignette",
-      "Are identical to unconditional stimuli in the vignette now",
-      "Require anterograde amnesia in the vignette given these facts",
-      "Are DSM personality disorders in the vignette given these facts"
+      "Opt-in versus opt-out groups are non-equivalent, and prompted jargon is not spontaneous formal operations; causal claims about Mozart packages",
+      "Any shape-naming gain after enrichment proves formal operations arrived, because vocabulary count is identical to abstract hypothetical-deductive",
+      "Waitlists are automatic random assignment when parents self-select, so internal validity threats cannot apply to infant enrichment product claims",
+      "Conservation prompted by adults is assimilation of schemas into object permanence alone, which validates acceleration into formal operations"
     ],
     "correct": 0,
-    "correctFeedback": "Both are knowledge structures.",
+    "correctFeedback": "Selection confounds plus mistaking prompted talk for stage attainment undermine the ad (§9.2–9.3; methods; thinking).",
     "wrongFeedback": {
-      "1": "Not UCS.",
-      "2": "Not amnesia.",
-      "3": "Not disorders."
-    },
-    "id": "c9-l4-01"
+      "1": "People who pick this equate word counts with formal-operational reasoning.",
+      "2": "People who pick this treat parental opt-out as randomization.",
+      "3": "People who pick this scramble Piagetian concepts to rubber-stamp acceleration claims."
+    }
   },
   {
+    "id": "c9-l4-02",
     "chapter": 9,
     "level": 4,
-    "section": "6.4+9.3",
-    "question": "Bandura’s modeling and social learning help explain how children acquire gendered behaviors via:",
+    "section": "§9.3 + Ch6/8",
+    "question": "Parents worry their 9-month-old “has insecure attachment” because she cries at daycare drop-off, yet she greets caregivers after calm reunions and explores when secure base is available at home. A relative urges extinction by ignoring all distress; another wants continuous candy reinforcement for silence. Best attachment-informed guidance?",
     "options": [
-      "Observational learning of models in the vignette now now",
-      "Only fixed-ratio pellet schedules in the vignette now",
-      "Only teratogen exposure in the vignette given these facts",
-      "Only Kübler-Ross bargaining in the vignette given these facts"
+      "Protest at separation can be normative; watch reunion quality and secure-base use—blanket ignoring or candy-for-silence schedules miss",
+      "Any daycare crying proves disorganized attachment, so extinction of proximity-seeking is required before exploratory behavior can emerge in the",
+      "Continuous candy for silence classically conditions the internal working model into secure attachment within one week of drop-offs without",
+      "Secure base behavior is a flashbulb memory for faces, therefore reinforcement schedules alone determine attachment classification better than"
     ],
     "correct": 0,
-    "correctFeedback": "Gendered behavior can be modeled.",
+    "correctFeedback": "Attachment assessment emphasizes reunion/secure base, not crying alone; harsh extinction/candy hacks miss the construct (§9.3; learning; memory).",
     "wrongFeedback": {
-      "1": "Not only operant pellets.",
-      "2": "Teratogens are prenatal harm.",
-      "3": "Grief model."
-    },
-    "id": "c9-l4-02"
+      "1": "People who pick this over-diagnose from protest alone and misuse extinction.",
+      "2": "People who pick this invent classical candy conditioning of working models.",
+      "3": "People who pick this replace attachment observation with flashbulb/reinforcement myths."
+    }
   },
   {
+    "id": "c9-l4-03",
     "chapter": 9,
     "level": 4,
-    "section": "8.1+9.2",
-    "question": "Infantile amnesia (few early episodic memories) still allows learning of skills, suggesting:",
+    "section": "§9.2 + Ch3/5",
+    "question": "A prenatal clinic sees a client drinking heavily early in pregnancy who asks whether “genes alone decide IQ, so alcohol advice is moralizing.” Staff review teratogen timing, synaptogenesis vulnerability, and that heritability ≠ immutability. Which reply is most accurate?",
     "options": [
-      "Early explicit episodic recall is limited while other now",
-      "Infants have infinite episodic LTM in the vignette now",
-      "Object permanence is a flashbulb in the vignette now now now",
-      "Assimilation requires misinformation in the vignette now"
+      "Heritability estimates do not mean environments are powerless; alcohol is a teratogen that can disrupt neural development especially in sensitive",
+      "If IQ is heritable at all, teratogens cannot affect cognitive outcomes, because heritability coefficients convert directly into destiny ratios",
+      "Alcohol affects only maternal absolute thresholds for taste, leaving fetal cortical development and later cognitive testing statistically",
+      "Sensitive periods are identical to critical periods for language phonemes only, so ethanol exposure after week four is developmentally irrelevant"
     ],
     "correct": 0,
-    "correctFeedback": "Episodic recall of early years is sparse; learning still happens.",
+    "correctFeedback": "Teratogens can alter developmental trajectories; heritability does not license prenatal alcohol exposure (§9.1–9.2; biopsych).",
     "wrongFeedback": {
-      "1": "Not infinite episodic.",
-      "2": "Different concepts.",
-      "3": "Unrelated."
-    },
-    "id": "c9-l4-03"
+      "1": "People who pick this misunderstand heritability as individual destiny that cancels environment.",
+      "2": "People who pick this trivialize alcohol as a maternal taste issue only.",
+      "3": "People who pick this wrongly narrow sensitive periods to phonemes alone."
+    }
   },
   {
+    "id": "c9-l4-04",
     "chapter": 9,
     "level": 4,
-    "section": "2.2+9.1",
-    "question": "Claiming a parenting style *causes* teen outcomes from a correlational survey without controls is weak because:",
+    "section": "§9.3–9.4 + Ch11/12",
+    "question": "A teen’s identity exploration includes rejecting a parent’s political club. The parent calls this “failure of authoritarian parenting’s obedience training” and cites Asch-like peer pressure as proof the teen lacks a trait of conscientiousness. Best developmental-social reading?",
     "options": [
-      "Correlation and selection confounds limit causal claims",
-      "Longitudinal always equals experiment in the vignette",
-      "Teratogens prove causation of parenting in the vignette",
-      "Strange Situation randomizes genes in the vignette now"
+      "Identity exploration can include value differentiation from parents; peer influence is real but does not reduce identity work to obedience",
+      "Authoritarian obedience training guarantees identity achievement without exploration, so peer disagreement proves a conscientiousness deficit",
+      "Asch conformity means teens cannot form identities unless alone in a sensory-deprivation chamber that blocks all normative social influence",
+      "Trait conscientiousness is fixed by parenting style alone before age two, making later identity exploration statistically impossible in"
     ],
     "correct": 0,
-    "correctFeedback": "Nonexperimental designs limit causality.",
+    "correctFeedback": "Adolescent identity work involves exploration; social influence ≠ absence of traits or pure obedience failure (§9.3–9.4; personality; social).",
     "wrongFeedback": {
-      "1": "Longitudinal ≠ automatic experiment.",
-      "2": "Different.",
-      "3": "Attachment procedure ≠ gene randomization."
-    },
-    "id": "c9-l4-04"
+      "1": "People who pick this confuse authoritarian control with healthy identity achievement.",
+      "2": "People who pick this over-extend Asch into an identity impossibility claim.",
+      "3": "People who pick this freeze traits too early and deny later identity processes."
+    }
   },
   {
+    "id": "c9-l4-05",
     "chapter": 9,
     "level": 4,
-    "section": "11.2+9.2",
-    "question": "Freud’s psychosexual stages vs Erikson’s psychosocial stages differ mainly because Erikson:",
+    "section": "§9.4 + Ch8/14",
+    "question": "Adults in a reminiscence group “remember” a shared childhood holiday identically after a leader’s vivid story, though photos contradict details. Several members are sleep-deprived caregivers under chronic stress. A facilitator calls it collective crystallized intelligence. Best account?",
     "options": [
-      "Emphasizes social tasks across the whole lifespan now now",
-      "Denies any childhood influence in the vignette given these facts",
-      "Measures only IQ in the vignette given these facts now now",
-      "Uses only token economies in the vignette given these facts"
+      "Suggestive storytelling plus reconstructive memory—and stress/sleep load—can align false details; that is not crystallized intelligence as",
+      "Identical false details prove flashbulb accuracy under stress, because caregiver cortisol always improves verbatim autobiographical storage",
+      "Crystallized intelligence is group conformity to a leader’s narrative, measured best by how quickly photo evidence is dismissed in reminiscence",
+      "Sleep deprivation blocks misinformation effects in older adults, so matching errors must reflect Piagetian formal operations applied to holidays"
     ],
     "correct": 0,
-    "correctFeedback": "Erikson socializes and extends development.",
+    "correctFeedback": "Social suggestion and reconstructive memory explain aligned errors; stress/sleep add risk (§9.4; memory; stress).",
     "wrongFeedback": {
-      "1": "Childhood still matters.",
-      "2": "Not IQ.",
-      "3": "Not tokens."
-    },
-    "id": "c9-l4-05"
+      "1": "People who pick this reverse stress effects into flashbulb perfection.",
+      "2": "People who pick this redefine crystallized intelligence as conformity.",
+      "3": "People who pick this invent sleep-based immunity to misinformation."
+    }
   },
   {
+    "id": "c9-l4-06",
     "chapter": 9,
     "level": 4,
-    "section": "12.5+9.3",
-    "question": "In-group favoritism in adolescents can intensify identity formation and prejudice risk. Best link?",
+    "section": "§9.2 + Ch6/10",
+    "question": "A parenting influencer swears time-outs are “positive punishment that destroys intrinsic motivation forever,” while a behavior analyst notes removal from reinforcement (time-out from positive reinforcement) can reduce target behavior if consistent and brief. The child’s tantrums were previously VR-reinforced by phones. Best integration?",
     "options": [
-      "Identity processes can feed social categorization biases",
-      "Attachment security equals discrimination in the vignette",
-      "Conservation failure causes racism always in the vignette",
-      "Hospice care creates out-groups in the vignette now"
+      "Time-out often functions as removing reinforcement, not adding aversive stimulation; prior intermittent attention/phone rewards help explain",
+      "Any time-out is classical conditioning of shame schemas that permanently deletes intrinsic motivation regardless of tantrum reinforcement history",
+      "Variable-ratio phone attention cannot maintain tantrums, so persistence after inconsistent limits must be a drive for homeostasis of thirst",
+      "Positive punishment and negative reinforcement are identical procedures, making the influencer’s vocabulary debate scientifically meaningless in"
     ],
     "correct": 0,
-    "correctFeedback": "Identity and social identity can intertwine.",
+    "correctFeedback": "Clarify operant functions; intermittent reinforcement maintains tantrums; implementation quality matters (§9.2 parenting; Ch6; motivation).",
     "wrongFeedback": {
-      "1": "Not equivalent.",
-      "2": "Not automatic.",
-      "3": "Unrelated."
-    },
-    "id": "c9-l4-06"
+      "1": "People who pick this overclaim permanent intrinsic-motivation destruction via classical shame.",
+      "2": "People who pick this deny VR maintenance of behavior.",
+      "3": "People who pick this collapse distinct operant categories."
+    }
   },
   {
+    "id": "c9-l4-07",
     "chapter": 9,
     "level": 4,
-    "section": "3.1+9.3",
-    "question": "Epigenetic stress effects in prenatal life illustrate nature–nurture as:",
+    "section": "§9.3 + Ch2/15",
+    "question": "A clinic markets “attachment DNA kits” correlating a gene variant with self-reported clinginess in an online volunteer sample, then sells parenting advice. Critics cite diathesis–stress, restriction of range, and that attachment is a relationship pattern assessed in context. Strongest response?",
     "options": [
-      "Interactive rather than either/or in the vignette now now",
-      "Pure genetic determinism in the vignette given these facts",
-      "Pure empty-slate learning only in the vignette given these facts",
-      "Unrelated to teratogens in the vignette given these facts"
+      "Online self-report gene correlations cannot validate a deterministic attachment kit; attachment is relational and contextual, and marketing",
+      "Any gene–clinginess correlation proves Strange Situation classifications are genetically fixed at birth without caregiver behavior entering the",
+      "Volunteer web samples are gold-standard probability samples for developmental psychopathology marketing claims about infants in the vignette",
+      "Diathesis–stress models forbid measuring genes at all, so rejecting the kit means denying biology’s relevance to socioemotional development"
     ],
     "correct": 0,
-    "correctFeedback": "Genes and environment intertwine.",
+    "correctFeedback": "Weak correlational genetics + self-report ≠ attachment diagnosis or destiny (§9.3; methods; disorders vulnerability themes).",
     "wrongFeedback": {
-      "1": "Not pure genetic.",
-      "2": "Not pure blank slate.",
-      "3": "Teratogens are environmental agents."
-    },
-    "id": "c9-l4-07"
+      "1": "People who pick this leap from correlation to genetic determinism of attachment.",
+      "2": "People who pick this mislabel convenience samples as probability samples.",
+      "3": "People who pick this treat skepticism about the kit as biology denial."
+    }
   },
   {
+    "id": "c9-l4-08",
     "chapter": 9,
     "level": 4,
-    "section": "16.2+9.4",
-    "question": "Hospice counseling using client-centered empathy most closely borrows from:",
+    "section": "§9.4 + Ch11/13",
+    "question": "A company uses a pop-psych “life-stage quiz” to deny promotions to workers over 50, claiming Eriksonian integrity failure predicts low job performance. I-O psychologists have validity data favoring structured job samples. Age stereotypes circulate in the break room. Best critique?",
     "options": [
-      "Humanistic/Rogerian conditions in the vignette",
-      "Aversive shock conditioning only in the vignette now now",
-      "Milgram obedience protocols in the vignette given these facts",
-      "Spearman’s g testing in the vignette given these facts now"
+      "Misusing Erikson as a promotion filter is bad psychometrics and risks age bias; job-relevant structured assessments outperform pop life-stage",
+      "Integrity-versus-despair scores are the strongest meta-analytic predictors of core task performance across industries, beating work samples",
+      "Age stereotypes improve criterion-related validity when used as bona fide occupational qualifications for all knowledge-work roles in the vignette",
+      "Erikson’s stages were designed as HR cut scores, so rejecting the quiz violates standardized testing ethics more than using it in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Empathic palliative support aligns with humanistic stance.",
+    "correctFeedback": "Selection needs job-related validity evidence; Erikson isn’t an HR test, and age stereotyping is a risk (§9.4; personality; I-O).",
     "wrongFeedback": {
-      "1": "Not aversives.",
-      "2": "Not obedience study.",
-      "3": "Not IQ."
-    },
-    "id": "c9-l4-08"
+      "1": "People who pick this invent superior validity for pop Erikson quizzes.",
+      "2": "People who pick this treat stereotypes as valid selection tools.",
+      "3": "People who pick this rewrite Erikson’s purpose as employment testing."
+    }
   },
   {
     "chapter": 10,
@@ -7250,164 +7250,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c10-l3-15"
   },
   {
+    "id": "c10-l4-01",
     "chapter": 10,
     "level": 4,
-    "section": "6.3+10.1",
-    "question": "Paying kids for reading may raise reading short-term yet undercut intrinsic interest—best framed as:",
+    "section": "§10.1–10.3 + Ch6/14",
+    "question": "Night-shift nurses snack on candy during double shifts, calling it “drive reduction for willpower glucose.” A health psychologist points to stress eating, habit cues, and intermittent candy reinforcement; a motivation theorist questions drive-reduction vs arousal/habit accounts. Best analysis?",
     "options": [
-      "Extrinsic rewards can interact with intrinsic motivation",
-      "Reinforcement never changes behavior in the vignette now",
-      "Self-efficacy is a UCS in the vignette given these facts",
-      "Homeostasis forbids incentives in the vignette given these facts"
+      "Candy intake here likely reflects stress, cue-triggered habits, and reinforcement more than a simple emptied willpower-glucose drive;",
+      "Drive reduction uniquely explains all shift eating because variable-ratio candy schedules cannot influence behavior when cortisol is elevated",
+      "Habit cues are classical CSs that forbid operant reinforcement explanations, so health-psych stress-eating research cannot apply to nurses on",
+      "Arousal theory requires candy to lower absolute auditory thresholds before any eating motivation can occur on night shifts in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Overjustification / intrinsic–extrinsic interaction themes.",
+    "correctFeedback": "Stress, habits, and reinforcement complicate “willpower glucose” drive slogans (§10.1–10.3; learning; stress).",
     "wrongFeedback": {
-      "1": "Reinforcement works.",
-      "2": "Self-efficacy is belief.",
-      "3": "Incentives used widely."
-    },
-    "id": "c10-l4-01"
+      "1": "People who pick this deny reinforcement under stress and overclaim drive reduction.",
+      "2": "People who pick this force an exclusive classical account and ignore stress-eating science.",
+      "3": "People who pick this drag sensory thresholds into eating motivation irrelevantly."
+    }
   },
   {
+    "id": "c10-l4-02",
     "chapter": 10,
     "level": 4,
-    "section": "3.2+10.4",
-    "question": "Amygdala involvement in fear supports biological emotion bases while display rules show:",
+    "section": "§10.4 + Ch3/8",
+    "question": "In a dating-lab demo, participants pedal bikes to raise arousal, then rate a neutral confederate as more attractive (excitation-transfer style). One student says James–Lange means arousal *is* attraction; another says Cannon–Bard proves cortex labels first; a third cites misattribution. Best statement?",
     "options": [
-      "Biology and culture jointly shape emotional life",
-      "Culture erases all physiology in the vignette given these facts",
-      "Amygdala stores phonemes in the vignette given these facts",
-      "Fear is only a heuristic in the vignette given these facts"
+      "Residual arousal can be misattributed to a salient social target; that supports two-factor/misattribution ideas more than equating raw arousal",
+      "James–Lange requires bike arousal to be attraction even without any cognitive appraisal or situational cue about the confederate in the vignette",
+      "Cannon–Bard claims the cortex must finish labeling before any autonomic arousal begins, so bike-then-rating designs cannot produce misattribution",
+      "Excitation transfer stores attraction as a procedural engram in the NMJ, making appraisal theories irrelevant to the ratings collected now"
     ],
     "correct": 0,
-    "correctFeedback": "Both levels matter.",
+    "correctFeedback": "Misattribution/excitation transfer: arousal + appraisal cues shape felt attraction (§10.4; biopsych; memory systems literacy).",
     "wrongFeedback": {
-      "1": "Physiology remains.",
-      "2": "Language sounds different.",
-      "3": "Fear is emotion."
-    },
-    "id": "c10-l4-02"
+      "1": "People who pick this collapse James–Lange into “arousal equals attraction” without appraisal.",
+      "2": "People who pick this caricature Cannon–Bard timing to rule out misattribution.",
+      "3": "People who pick this invent NMJ procedural storage for romantic ratings."
+    }
   },
   {
+    "id": "c10-l4-03",
     "chapter": 10,
     "level": 4,
-    "section": "8.2+10.4",
-    "question": "Flashbulb memory vividness after emotional events links emotion arousal to:",
+    "section": "§10.2–10.3 + Ch7/12",
+    "question": "A campus campaign uses graphic fear appeals about binge drinking plus a clear action plan (response efficacy). Some students scoff via reactance; others use optimistic bias (“not me”). Designers debate central vs peripheral routes and availability of horror stories. Best evidence-aligned choice?",
     "options": [
-      "Memory encoding strength—not perfect accuracy in the vignette",
-      "Perfect indelible video memory in the vignette given these facts",
-      "Only semantic facts without emotion in the vignette now now",
-      "Extinction of all CRs in the vignette given these facts now"
+      "Pair risk information with specific, doable efficacy steps; fear alone can backfire via reactance or denial, and vivid horror may boost now",
+      "Maximum fear without efficacy instructions is optimal because reactance increases deep central-route processing of alcohol statistics in every",
+      "Optimistic bias means fear appeals never change behavior, so campaigns should abandon efficacy content and rely only on celebrity peripheral cues",
+      "Availability of horror stories classically conditions the liver, replacing the need for cognitive appraisal of personal risk and response"
     ],
     "correct": 0,
-    "correctFeedback": "Emotion tags memory; still reconstructive.",
+    "correctFeedback": "Fear appeals work better with efficacy paths; biases and reactance are real hurdles (§10.3; thinking; social persuasion).",
     "wrongFeedback": {
-      "1": "Not perfect.",
-      "2": "Emotion involved.",
-      "3": "Not extinction."
-    },
-    "id": "c10-l4-03"
+      "1": "People who pick this ignore evidence that fear-without-efficacy often fails or backfires.",
+      "2": "People who pick this overgeneralize optimistic bias into abandoning efficacy content.",
+      "3": "People who pick this replace appraisal with mythical liver conditioning."
+    }
   },
   {
+    "id": "c10-l4-04",
     "chapter": 10,
     "level": 4,
-    "section": "12.3+10.1",
-    "question": "Persuading with bonuses uses extrinsic motives; dissonance can change attitudes after unpaid advocacy. Contrast shows:",
+    "section": "§10.1 + Ch2/11",
+    "question": "A wellness app correlates users’ self-reported grit with steps walked, then claims grit *causes* fitness. Users who buy premium badges also walk more (selection). Personality researchers note trait–behavior links are modest; methods staff cry confound. Strongest critique?",
     "options": [
-      "Different social-cognitive routes can both move",
-      "Only bonuses ever work in the vignette given these facts",
-      "Dissonance requires sensory thresholds in the vignette now",
-      "Motivation forbids cognition in the vignette given these facts"
+      "Correlational, self-selected premium use and shared third variables block causal grit→fitness claims; motivation constructs need stronger designs",
+      "Self-report grit scores are experimental manipulations of intrinsic motivation, so causation is guaranteed whenever step counts rise among",
+      "Trait grit absorbs all situational motivation variance, making randomized activity prompts unnecessary for causal inference in digital health now",
+      "Steps walked are projective tests of the unconscious id, validating grit causation without accelerometer reliability checks in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Incentive vs dissonance paths.",
+    "correctFeedback": "Trait self-reports + selection ≠ causal fitness claims (§10.1; methods; personality).",
     "wrongFeedback": {
-      "1": "Multiple routes.",
-      "2": "Unrelated.",
-      "3": "Cognition central to dissonance."
-    },
-    "id": "c10-l4-04"
+      "1": "People who pick this treat questionnaires as experimental manipulations.",
+      "2": "People who pick this inflate traits to erase situational design needs.",
+      "3": "People who pick this misuse psychoanalytic assessment metaphors for step counts."
+    }
   },
   {
+    "id": "c10-l4-05",
     "chapter": 10,
     "level": 4,
-    "section": "7.3+10.4",
-    "question": "Mislabeling arousal after caffeine as “anxiety” before a talk is two-factor-like and also a:",
+    "section": "§10.4 + Ch5/9",
+    "question": "Toddlers in a cross-cultural clip show similar early emotion expressions, but older children differ in display rules at a funeral game. A student says all emotion is social construction; another says innate facial affect programs mean culture never shapes expression. Best developmental-emotion synthesis?",
     "options": [
-      "Appraisal/attribution of bodily state in the vignette",
-      "Pure algorithm guaranteeing calm in the vignette now",
-      "Prototype of a bird in the vignette given these facts",
-      "Job analysis KSAO in the vignette given these facts now"
+      "Early expressive commonalities can coexist with culturally learned display rules that increasingly regulate when and how emotions are shown",
+      "Display rules prove emotions have no biological basis, so infants cannot show recognizable affect before formal operational thought arrives",
+      "Innate affect programs forbid cultural modulation of expression at funerals, making ethnographic differences measurement error only in the vignette",
+      "Funeral display rules are absolute thresholds for olfaction that toddlers fail because their cones are immature in the vignette in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Labeling arousal = appraisal.",
+    "correctFeedback": "Biology-plus-culture: early affect themes and later display-rule learning (§10.4; development; sensation literacy).",
     "wrongFeedback": {
-      "1": "No guarantee.",
-      "2": "Concepts.",
-      "3": "I-O."
-    },
-    "id": "c10-l4-05"
+      "1": "People who pick this overplay constructionism and deny infant expressive patterns.",
+      "2": "People who pick this deny cultural regulation of expression.",
+      "3": "People who pick this scramble sensory anatomy into emotion norms."
+    }
   },
   {
+    "id": "c10-l4-06",
     "chapter": 10,
     "level": 4,
-    "section": "14.1+10.1",
-    "question": "Stress as threat appraisal overlaps motivation when people:",
+    "section": "§10.3 + Ch6/15",
+    "question": "A client with binge-eating episodes says “I deserve food after work stress” (emotion regulation), then feels shame. Prior diets used extreme restriction (establishing operations) and family teased leftovers (social contingency). CBT-E and contingency management ideas arise. Best functional sketch?",
     "options": [
-      "Mobilize effort to cope with demanding goals in the vignette",
-      "Never show drive or emotion in the vignette given these facts",
-      "Only use projective tests in the vignette given these facts",
-      "Lose all homeostasis concepts in the vignette given these facts"
+      "Stress-triggered eating may be negatively reinforced by affect relief, with restriction and social contingencies shaping the cycle—treatment",
+      "Shame proves the behavior is positively punished into extinction already, so no skills training or contingency change is indicated in therapy",
+      "Binge episodes are classical CRs to dopamine at the NMJ, unrelated to negative reinforcement of emotional relief after stressful workdays",
+      "Family teasing is a projective Rorschach of id hunger, making behavioral activation contraindicated for binge-eating cycles in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Appraised demands energize coping.",
+    "correctFeedback": "Emotion regulation via eating can be reinforced; restriction/social contexts matter for treatment planning (§10.3; learning; disorders/therapy themes).",
     "wrongFeedback": {
-      "1": "They do.",
-      "2": "Assessment unrelated.",
-      "3": "Homeostasis remains relevant."
-    },
-    "id": "c10-l4-06"
+      "1": "People who pick this misread shame as completed punishment/extinction.",
+      "2": "People who pick this invent NMJ classical accounts that ignore operant affect relief.",
+      "3": "People who pick this replace functional analysis with projective mythology."
+    }
   },
   {
+    "id": "c10-l4-07",
     "chapter": 10,
     "level": 4,
-    "section": "9.2+10.1",
-    "question": "Maslow’s growth needs resemble humanistic themes also seen in Rogers—both emphasize:",
+    "section": "§10.2 + Ch8/14",
+    "question": "After a breakup, Sam underestimates future recovery (affective forecasting error) and rehearses a vivid “I’ll never be okay” narrative that becomes more fluent each night (availability + retrieval practice of a bleak prediction). Friends cite broaden-and-build; Sam cites current dysphoria as permanent data. Best coaching angle?",
     "options": [
-      "Striving toward fuller functioning / actualization now",
-      "Only deficit drives forever in the vignette given these facts",
-      "Only operant punishment in the vignette given these facts",
-      "Only IQ stratification in the vignette given these facts"
+      "Forecasting errors and fluent negative rehearsal can exaggerate permanence; mood-congruent retrieval is not a crystal ball—behavioral",
+      "Affective forecasting is perfectly accurate under stress, so vivid nightly rehearsal should be treated as prognostic truth for therapy duration",
+      "Retrieval practice of bleak predictions strengthens sensory memory only, leaving semantic self-beliefs unchanged and clinically irrelevant",
+      "Broaden-and-build requires suppressing all negative affect before any scheduling of valued activities can help post-breakup adjustment now"
     ],
     "correct": 0,
-    "correctFeedback": "Humanistic growth motives.",
+    "correctFeedback": "Forecasting biases + practiced negative narratives mislead; activation and evidence help (§10.2/positive psych themes; memory; stress).",
     "wrongFeedback": {
-      "1": "More than deficits.",
-      "2": "Not only punishment.",
-      "3": "Not IQ."
-    },
-    "id": "c10-l4-07"
+      "1": "People who pick this over-trust forecasting under distress.",
+      "2": "People who pick this mislocate rehearsal effects as sensory-only.",
+      "3": "People who pick this make positive-emotion theory into an emotional suppression rule."
+    }
   },
   {
+    "id": "c10-l4-08",
     "chapter": 10,
     "level": 4,
-    "section": "2.3+10.2",
-    "question": "An obesity intervention study without random assignment comparing volunteers to non-volunteers confounds:",
+    "section": "§10.1 + Ch12/13",
+    "question": "A sales team uses public leaderboards (extrinsic) that boost short-term calls but cut helping between teammates (crowding-out / evaluation apprehension themes). Managers call it Maslow self-actualization via competition. I-O and motivation students object. Best reading?",
     "options": [
-      "Motivation/selection with treatment effects in the vignette",
-      "Hunger hormones with phonemes in the vignette given these facts",
-      "Display rules with thresholds in the vignette given these facts",
-      "Attachment with g in the vignette given these facts now"
+      "Extrinsic evaluation systems can raise measured output while undermining cooperation and intrinsic motives; labeling leaderboards as",
+      "Leaderboards always increase intrinsic motivation because public rankings satisfy belongingness needs before physiology in Maslow’s now",
+      "Any drop in helping proves diffusion of responsibility only, so motivation theory is irrelevant to how incentive systems shape sales",
+      "Evaluation apprehension increases altruism reliably, making cooperation losses after leaderboards statistically impossible in field settings"
     ],
     "correct": 0,
-    "correctFeedback": "Volunteers differ at baseline.",
+    "correctFeedback": "Incentive design has social-motivation tradeoffs; Maslow slogans don’t rescue flawed contingencies (§10.1; social; I-O).",
     "wrongFeedback": {
-      "1": "Unrelated pairs.",
-      "2": "Unrelated.",
-      "3": "Unrelated."
-    },
-    "id": "c10-l4-08"
+      "1": "People who pick this reverse typical extrinsic/intrinsic tensions and scramble Maslow.",
+      "2": "People who pick this reduce everything to bystander diffusion and ignore incentive theory.",
+      "3": "People who pick this invent a law that evaluation apprehension always boosts helping."
+    }
   },
   {
     "chapter": 11,
@@ -7956,164 +7956,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c11-l3-15"
   },
   {
+    "id": "c11-l4-01",
     "chapter": 11,
     "level": 4,
-    "section": "9.2+11.2",
-    "question": "Freud’s stages vs Piaget’s stages both are discontinuous models, but Freud emphasizes:",
+    "section": "§11.2–11.4 + Ch8/15",
+    "question": "In therapy intake, a client says childhood “anal stage stinginess” explains current hoarding of emails, citing a pop-Freud reel. Records show anxiety spikes after job loss (stress) and family modeling of saving. The clinician also sees high conscientiousness and scrupulosity themes. Best formulation caution?",
     "options": [
-      "Psychosexual conflict; Piaget emphasizes cognitive now",
-      "Identical mechanisms in the vignette given these facts here",
-      "Only social identity in the vignette given these facts",
-      "Only job strain in the vignette given these facts now now"
+      "Prefer testable, multi-factor accounts—anxiety, modeling, traits, and stress—over unverifiable stage slogans; psychodynamic ideas can be",
+      "Email hoarding is diagnostic of fixation alone, so stress, modeling, and trait conscientiousness must be ignored once an anal-stage narrative",
+      "Scrupulosity themes mean the behavior is a manic episode, making behavioral activation and exposure ideas contraindicated regardless of anxiety",
+      "Family modeling is classical conditioning of the id, which converts Instagram Freud content into a standardized personality assessment with"
     ],
     "correct": 0,
-    "correctFeedback": "Different domains of staging.",
+    "correctFeedback": "Stage labels aren’t automatic explanations; integrate stress, learning, and traits carefully (§11.2–11.4; memory of narratives; clinical).",
     "wrongFeedback": {
-      "1": "Not identical.",
-      "2": "Erikson/social identity different.",
-      "3": "I-O."
-    },
-    "id": "c11-l4-01"
+      "1": "People who pick this treat pop fixation as a trump card over evidence-based factors.",
+      "2": "People who pick this mislabel scrupulosity/anxiety as mania.",
+      "3": "People who pick this invent psychometric validity for social-media Freud."
+    }
   },
   {
+    "id": "c11-l4-02",
     "chapter": 11,
     "level": 4,
-    "section": "6.4+11.4",
-    "question": "Bandura’s reciprocal determinism unites observational learning with personality by stressing:",
+    "section": "§11.7 + Ch2/13",
+    "question": "HR wants to hire using a 10-item Facebook Big Five quiz with no norms, then reject “low agreeableness” applicants for nursing. Validity generalization and adverse impact concerns arise; a manager says traits beat structured interviews. Best I-O/personality stance?",
     "options": [
-      "Cognition-environment-behavior loops in the vignette",
-      "That modeling never occurs in the vignette given these facts",
-      "That traits are UCS–UCR bonds only in the vignette now",
-      "That self-efficacy is a teratogen in the vignette now"
+      "Unvalidated social-media quizzes lack the reliability/validity evidence needed for high-stakes selection; job-related structured methods are",
+      "Ten viral items equal NEO-PI-R construct coverage, so cut scores on agreeableness are automatically content-valid for every nursing task now",
+      "Adverse impact is impossible when using personality, because traits are behaviorally specific KSAOs identical to work-sample performance",
+      "Structured interviews are projective tests with lower validity than Facebook quizzes whenever applicants smile in photos in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Social-cognitive personality.",
+    "correctFeedback": "Selection tools need validity evidence; toy quizzes don’t qualify (§11.7; methods; I-O).",
     "wrongFeedback": {
-      "1": "Modeling central.",
-      "2": "Too narrow.",
-      "3": "Not prenatal agent."
-    },
-    "id": "c11-l4-02"
+      "1": "People who pick this inflate a quiz into gold-standard trait coverage.",
+      "2": "People who pick this deny adverse-impact risk and equate traits with work samples.",
+      "3": "People who pick this invert interview vs quiz validity evidence."
+    }
   },
   {
+    "id": "c11-l4-03",
     "chapter": 11,
     "level": 4,
-    "section": "12.1+11.7",
-    "question": "FAE over-attributes others’ acts to traits; Mischel notes traits predict less than assumed. Together they caution:",
+    "section": "§11.5–11.6 + Ch9/10",
+    "question": "A school credits a “self-esteem week” for rising grades, but the same month it also launched tutoring and sleep workshops. Rogers-inspired staff stress UPR; skeptics cite third variables and that contingent praise can backfire. Motivation data show mastery goals rose in tutored kids only. Best interpretation?",
     "options": [
-      "Simple dispositionism can overreach in the vignette now",
-      "That situations never matter in the vignette given these facts",
-      "That Big Five is meaningless in the vignette given these facts",
-      "That inventories equal projective truth in the vignette"
+      "Multiple simultaneous changes confound causal credit to self-esteem week; tutoring/sleep and mastery-goal shifts are plausible drivers that a",
+      "Unconditional positive regard from posters is sufficient to raise grades even if tutoring never occurred and sleep remained poor among students",
+      "Self-esteem interventions always outperform skill tutoring because Maslow’s hierarchy places esteem above cognitive skill building in classrooms",
+      "Third variables cannot exist when unconditional positive regard is mentioned, converting correlational school rollouts into randomized clinical"
     ],
     "correct": 0,
-    "correctFeedback": "Both curb naive trait power claims.",
+    "correctFeedback": "Confounded rollouts can’t isolate self-esteem slogans from tutoring/sleep/goals (§11.5; development/education; motivation).",
     "wrongFeedback": {
-      "1": "Situations matter.",
-      "2": "Big Five useful still.",
-      "3": "Different methods."
-    },
-    "id": "c11-l4-03"
+      "1": "People who pick this overclaim UPR posters as sufficient academic causes.",
+      "2": "People who pick this misuse Maslow to dismiss skill instruction.",
+      "3": "People who pick this treat humanistic buzzwords as experimental design."
+    }
   },
   {
+    "id": "c11-l4-04",
     "chapter": 11,
     "level": 4,
-    "section": "16.2+11.5",
-    "question": "Client-centered therapy operationalizes Rogers’s personality growth ideas via:",
+    "section": "§11.7 + Ch7/12",
+    "question": "A dating app sorts matches by “narcissism vibe” from selfie angles (representativeness) after users watch influencer montages (availability). Social psychologists warn of stereotyping; personality psychologists note grandiose vs vulnerable features aren’t visible in chin tilt. Best critique?",
     "options": [
-      "Empathy, UPR, genuineness in the vignette given these facts",
-      "Aversive shock pairs only in the vignette given these facts",
-      "Milgram authority proximity in the vignette given these facts",
-      "Spearman g drills in the vignette given these facts now"
+      "Face-angle heuristics and media prototypes are weak, biased cues for narcissism; trait inference needs better evidence than representativeness",
+      "Selfie chin tilt is a projective test with high incremental validity over the NPI in predicting relationship outcomes across cultures in the vignette",
+      "Availability of influencer montages creates true score variance in narcissism identical to structured clinical interviews in the vignette now",
+      "Stereotyping cannot occur in personality judgment because the Fundamental Attribution Error only applies to obedience studies in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Therapeutic conditions.",
+    "correctFeedback": "Heuristic trait inference from selfies is shaky and bias-prone (§11.7; thinking; social).",
     "wrongFeedback": {
-      "1": "Not aversives.",
-      "2": "Obedience.",
-      "3": "IQ."
-    },
-    "id": "c11-l4-04"
+      "1": "People who pick this invent validity for selfie projective reading.",
+      "2": "People who pick this equate media salience with true-score assessment.",
+      "3": "People who pick this wrongly fence FAE away from everyday trait judgments."
+    }
   },
   {
+    "id": "c11-l4-05",
     "chapter": 11,
     "level": 4,
-    "section": "8.3+11.2",
-    "question": "Freudian repression as motivated forgetting differs from ordinary interference because it posits:",
+    "section": "§11.3 + Ch6/8",
+    "question": "A child praised only for winning (performance contingencies) cheats on a board game, then “forgets” the cheating when asked (motivated memory). A social-learning view stresses modeled winning-at-all-costs; a Skinnerian notes intermittent parental attention to bragging. Best integrated account?",
     "options": [
-      "Defensive unconscious blocking in the vignette given these facts",
-      "Only retroactive Spanish-French overlap in the vignette now",
-      "Only encoding failure of names in the vignette given these facts",
-      "Only misinformation verbs in the vignette given these facts"
+      "Modeled contingencies and intermittent attention can shape cheating, while motivated forgetting can protect self-view—personality talk about",
+      "Cheating proves an immutable id-driven trait fixed in the oral stage, so modeling and reinforcement histories are irrelevant once forgetting",
+      "Motivated forgetting means encoding never occurred, therefore observational learning of win-at-all-costs norms cannot have influenced the",
+      "Intermittent attention extinguishes cheating automatically, making social-learning explanations unnecessary whenever children later misreport"
     ],
     "correct": 0,
-    "correctFeedback": "Motivational defense claim.",
+    "correctFeedback": "Learning histories + motivated memory beat premature character essentialism (§11.3 neo/social-cognitive; learning; memory).",
     "wrongFeedback": {
-      "1": "Interference cognitive.",
-      "2": "Encoding failure different.",
-      "3": "Suggestibility different."
-    },
-    "id": "c11-l4-05"
+      "1": "People who pick this freeze behavior into unverifiable stage destiny.",
+      "2": "People who pick this confuse forgetting with proof that encoding/modeling never happened.",
+      "3": "People who pick this reverse how intermittent reinforcement affects behavior."
+    }
   },
   {
+    "id": "c11-l4-06",
     "chapter": 11,
     "level": 4,
-    "section": "2.4+11.9",
-    "question": "Using projective tests for high-stakes hiring without validity evidence risks:",
+    "section": "§11.6–11.7 + Ch14/15",
+    "question": "After trauma, a veteran shows elevated neuroticism scores versus pre-deployment testing (personality change under stress). A blog says Big Five traits never change; a clinician sees overlapping PTSD hyperarousal items. Best reading?",
     "options": [
-      "Unfair, unreliable selection decisions in the vignette",
-      "Perfect predictive validity always in the vignette now",
-      "Automatic cultural fairness in the vignette given these facts",
-      "Zero ethical concern in the vignette given these facts"
+      "Traits can shift with major stress, and symptom overlap can inflate neuroticism scores—interpret change cautiously rather than claiming absolute",
+      "Big Five neuroticism is identical to PTSD, so personality assessment should replace trauma-focused care entirely after deployment in the vignette",
+      "Pre–post trait shifts are always measurement error because personality is genetically sealed against environmental influence in adulthood",
+      "Hyperarousal items prove malingering on both PTSD and trait scales whenever scores rise after documented trauma exposure in the vignette now"
     ],
     "correct": 0,
-    "correctFeedback": "Need demonstrated psychometrics.",
+    "correctFeedback": "Stress can move trait scores; overlap with symptoms deserves care—not denial or collapse of constructs (§11.7; stress; disorders).",
     "wrongFeedback": {
-      "1": "Validity not automatic.",
-      "2": "Bias risks.",
-      "3": "Ethics matter."
-    },
-    "id": "c11-l4-06"
+      "1": "People who pick this collapse traits into PTSD and abandon trauma care.",
+      "2": "People who pick this overclaim lifelong environmental impermeability.",
+      "3": "People who pick this leap from score increases to malingering after trauma."
+    }
   },
   {
+    "id": "c11-l4-07",
     "chapter": 11,
     "level": 4,
-    "section": "10.1+11.4",
-    "question": "Self-efficacy (personality/social-cog) boosts motivation persistence—best merge?",
+    "section": "§11.2 + Ch3/10",
+    "question": "A neuroscience podcast claims a “left-brain personality” explains introversion, citing a blurry fMRI split-screen. Biopsych students note lateralization myths; motivation students note arousal and optimal stimulation theories of introversion–extraversion. Best consumer takeaway?",
     "options": [
-      "Capability beliefs energize goal-directed effort",
-      "Self-efficacy is extrinsic pay only in the vignette now now",
-      "Motivation forbids cognition in the vignette given these facts",
-      "Locus of control is a phoneme in the vignette given these facts"
+      "Pop left-brain personality claims oversell lateralization; introversion relates more to arousal/stimulation preferences and broader trait models",
+      "fMRI split-screens prove introversion lives only in Broca’s area, validating hemisphere-based hiring and dating advice without behavioral now",
+      "Optimal arousal theory requires ignoring genetics and experience, so lateralization myths become the only scientific account of extraversion now",
+      "Introversion is a display rule for facial affect, measured exclusively by cone density in the retina rather than trait questionnaires in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Beliefs motivate.",
+    "correctFeedback": "Reject hemisphere personality myths; use better trait/arousal frameworks (§11.6–11.7; biopsych; motivation).",
     "wrongFeedback": {
-      "1": "Broader than pay.",
-      "2": "Cognition central.",
-      "3": "Not a sound unit."
-    },
-    "id": "c11-l4-07"
+      "1": "People who pick this treat meme neuroimages as hiring-grade evidence.",
+      "2": "People who pick this falsely force an either/or against arousal theory.",
+      "3": "People who pick this scramble sensation anatomy into trait definition."
+    }
   },
   {
+    "id": "c11-l4-08",
     "chapter": 11,
     "level": 4,
-    "section": "15.11+11.7",
-    "question": "Personality disorders involve inflexible maladaptive patterns; Big Five describe continuous traits. Distinction?",
+    "section": "§11.7 + Ch2/16",
+    "question": "A couple’s therapist uses an unvalidated “love languages quiz” to assign personality types, then refuses CBT skills because “types don’t change.” Outcome research for the presenting communication problem favors skills practice. Best ethics-plus-evidence stance?",
     "options": [
-      "Disorders imply clinical impairment; traits are dimensional",
-      "They are identical DSM codes in the vignette given these facts",
-      "Traits require hallucinations in the vignette given these facts",
-      "Clusters equal OCEAN letters exactly in the vignette now"
+      "Unvalidated typologies shouldn’t override evidence-based skills work; traits/preferences may inform style, but refusing effective practice",
+      "Love-language types are DSM disorders with high interrater reliability, justifying refusal of CBT communication tools as contraindicated",
+      "If a quiz is popular, construct validity is established, so outcome trials of skills training become unnecessary for couples with conflict",
+      "Personality types forbid learning new behaviors because operant conditioning cannot occur after age eighteen in relationship contexts"
     ],
     "correct": 0,
-    "correctFeedback": "Clinical vs normal-range frameworks.",
+    "correctFeedback": "Popular typologies ≠ validated diagnosis; don’t block effective skills on destiny talk (§11.7; methods; therapy).",
     "wrongFeedback": {
-      "1": "Not identical.",
-      "2": "Not psychosis requirement for traits.",
-      "3": "Not exact mapping."
-    },
-    "id": "c11-l4-08"
+      "1": "People who pick this medicalize a pop quiz as DSM.",
+      "2": "People who pick this equate popularity with construct validity.",
+      "3": "People who pick this deny adult learning of relationship behaviors."
+    }
   },
   {
     "chapter": 12,
@@ -8662,164 +8662,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c12-l3-15"
   },
   {
+    "id": "c12-l4-01",
     "chapter": 12,
     "level": 4,
-    "section": "6.4+12.4",
-    "question": "Milgram obedience and Bandura modeling both show social influence, but differ because Milgram emphasizes:",
+    "section": "§12.1–12.2 + Ch2/7",
+    "question": "After a CEO scandal montage (availability), employees rate a quiet new manager as “probably unethical” (representativeness + FAE). HR has only correlational rumor data. A consultant urges base rates of misconduct and situational constraints. Best social-cognition correction?",
     "options": [
-      "Authority commands; Bandura emphasizes observing models",
-      "Identical mechanisms always in the vignette given these facts",
-      "Only hunger drives in the vignette given these facts now",
-      "Only DSM clusters in the vignette given these facts now"
+      "Salient scandals and prototype matching can bias person judgments; without better evidence, discounting base rates and over-attributing to",
+      "Availability of scandals raises the new manager’s true misconduct base rate to certainty, so FAE becomes accurate social perception rather than a",
+      "Representativeness is Bayesian proof when media montages exist, eliminating the need for behavioral evidence or situational information in",
+      "Fundamental attribution error only occurs in laboratory Asch line studies, never in workplace reputation judgments after viral corporate scandals"
     ],
     "correct": 0,
-    "correctFeedback": "Authority vs observational routes.",
+    "correctFeedback": "Media salience + prototypes fuel FAE; demand better evidence (§12.1–12.2; thinking; methods).",
     "wrongFeedback": {
-      "1": "Not identical.",
-      "2": "Motivation.",
-      "3": "Disorders."
-    },
-    "id": "c12-l4-01"
+      "1": "People who pick this treat availability as literal base-rate updating to certainty.",
+      "2": "People who pick this crown media resemblance as Bayesian proof.",
+      "3": "People who pick this wrongly localize FAE to Asch studies alone."
+    }
   },
   {
+    "id": "c12-l4-02",
     "chapter": 12,
     "level": 4,
-    "section": "2.4+12.4",
-    "question": "Modern ethics would scrutinize Milgram-style deception/stress because IRB aims to:",
+    "section": "§12.4–12.5 + Ch6/11",
+    "question": "A fraternity hazing persists because dissenters fear rejection (normative influence) and see others comply (informational). Seniors intermittently reinforce silence with status. Personality talk brands pledges as “low openness only.” Best multi-level account?",
     "options": [
-      "Protect participants from undue harm in the vignette now",
-      "Maximize obedience rates in the vignette given these facts",
-      "Eliminate all social research in the vignette given these facts",
-      "Prove FAE in the vignette given these facts on the stated facts"
+      "Conformity pressures plus intermittent status reinforcement can maintain hazing; reducing it to a single trait misses social influence and",
+      "Low openness uniquely causes hazing compliance, so changing norms or reinforcement of silence cannot reduce harm once traits are labeled",
+      "Informational influence requires a scientific expert in a lab coat, therefore peer compliance cues cannot shape hazing judgments among pledges",
+      "Normative influence is classical conditioning of the amygdala by chanting, unrelated to operant status rewards for keeping quiet about rituals"
     ],
     "correct": 0,
-    "correctFeedback": "Human subjects protections.",
+    "correctFeedback": "Social influence + reinforcement sustain harmful norms beyond trait slogans (§12.4; learning; personality).",
     "wrongFeedback": {
-      "1": "Opposite.",
-      "2": "Research continues with oversight.",
-      "3": "Not FAE proof."
-    },
-    "id": "c12-l4-02"
+      "1": "People who pick this essentialize compliance as one trait and deny norm change.",
+      "2": "People who pick this over-restrict informational influence to credentialed experts.",
+      "3": "People who pick this force an exclusive classical story and ignore status reinforcement."
+    }
   },
   {
+    "id": "c12-l4-03",
     "chapter": 12,
     "level": 4,
-    "section": "11.7+12.1",
-    "question": "FAE overuses traits; Big Five research still finds predictive patterns. Best reconciliation?",
+    "section": "§12.6 + Ch3/10",
+    "question": "In a heated debate club, arousal from a prior sprint (excitation leftover) intensifies hostile Tweets about out-groups (scapegoating + arousal). Moderators debate catharsis vs cognitive reframing. Biopsych notes sympathetic activation. Best prediction-aligned approach?",
     "options": [
-      "Traits have some predictive power yet situational attribution",
-      "Traits never predict anything in the vignette given these facts",
-      "FAE disproves OCEAN in the vignette given these facts now",
-      "Situations forbid all dispositions in the vignette now now"
+      "Leftover arousal can amplify aggressive expression toward salient targets; catharsis venting often fails—reframing and arousal cool-downs beat",
+      "Catharsis guarantees reduced aggression after hostile Tweets because sympathetic activation vents the aggressive drive to zero in debate settings",
+      "Excitation transfer cannot affect intergroup hostility, because residual arousal only influences romantic attraction ratings in dating labs",
+      "Scapegoating is a sensory adaptation to bright screens, unrelated to arousal, appraisal, or social identity processes in online debates now"
     ],
     "correct": 0,
-    "correctFeedback": "Both partial truths.",
+    "correctFeedback": "Arousal + appraisal/targets matter; catharsis is a weak aggression antidote (§12.6; emotion/motivation; biopsych).",
     "wrongFeedback": {
-      "1": "Traits predict modestly.",
-      "2": "OCEAN stands.",
-      "3": "Dispositions matter too."
-    },
-    "id": "c12-l4-03"
+      "1": "People who pick this over-believe catharsis under arousal.",
+      "2": "People who pick this silo excitation transfer to romance only.",
+      "3": "People who pick this reduce scapegoating to sensory adaptation."
+    }
   },
   {
+    "id": "c12-l4-04",
     "chapter": 12,
     "level": 4,
-    "section": "8.3+12.7",
-    "question": "Bystanders may fail to help and later reconstruct the event with misinformation. Dual lesson?",
+    "section": "§12.7 + Ch8/14",
+    "question": "Bystanders fail to help a collapsed student in a crowded hall (diffusion + pluralistic ignorance). One witness later “remembers” others moved first (reconstruction). Stress from exams is high. A RA training designer plans modules. Best training target set?",
     "options": [
-      "Social inhibition of helping + reconstructive memory",
-      "Helping is impossible in the vignette given these facts",
-      "Memory is a videotape in the vignette given these facts",
-      "Diffusion requires amnesia in the vignette given these facts"
+      "Teach recognition of pluralistic ignorance, personal responsibility assignment, and concrete helping steps—memory can distort after the fact, and",
+      "Increase crowd size to raise helping via social facilitation of altruism, because diffusion of responsibility reverses in exam weeks in the vignette",
+      "Pluralistic ignorance means witnesses encode nothing, so memory reconstruction cannot invent helpers who never moved in hallway emergencies now",
+      "Exam stress always increases helping through broaden-and-build, making responsibility training unnecessary in residence-life programs in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Social and memory processes co-occur.",
+    "correctFeedback": "Target bystander barriers directly; expect stress and memory distortions (§12.7; memory; stress).",
     "wrongFeedback": {
-      "1": "Helping occurs often.",
-      "2": "Not videotape.",
-      "3": "Not required."
-    },
-    "id": "c12-l4-04"
+      "1": "People who pick this reverse diffusion logic and misuse facilitation.",
+      "2": "People who pick this deny reconstructive memory after ambiguous events.",
+      "3": "People who pick this romanticize stress as automatic prosocial fuel."
+    }
   },
   {
+    "id": "c12-l4-05",
     "chapter": 12,
     "level": 4,
-    "section": "10.4+12.5",
-    "question": "Prejudice can include affective hatred plus cognitive stereotypes—emotion × social cognition.",
+    "section": "§12.3 + Ch7/16",
+    "question": "A public-health TikTok uses a celebrity (peripheral route) plus a weak argument about vaccines. Viewers with high need for cognition skim; others follow liking. Motivated reasoning appears in comments. A clinician wants informed consent conversations. Best persuasion literacy point?",
     "options": [
-      "Yes—prejudice often blends affect and beliefs in the vignette",
-      "Prejudice is only a phoneme in the vignette given these facts",
-      "Stereotypes are UCS only in the vignette given these facts",
-      "Discrimination equals homeostasis in the vignette now"
+      "Peripheral cues can sway low-elaboration audiences while strong arguments matter more under high elaboration; clinical consent still needs now",
+      "Celebrity liking is central-route processing by definition, so argument quality becomes irrelevant for vaccine attitudes among high in the vignette",
+      "Motivated reasoning occurs only in laboratory dissonance studies, never in social-media comment threads about health decisions in the vignette",
+      "Informed consent forbids discussing heuristics because peripheral cues are classical CSs that erase autobiographical memory for risk information"
     ],
     "correct": 0,
-    "correctFeedback": "Multi-component bias.",
+    "correctFeedback": "ELM + motivated reasoning inform media literacy; consent still needs substance (§12.3; thinking; therapy ethics themes).",
     "wrongFeedback": {
-      "1": "Not a sound.",
-      "2": "Not UCS.",
-      "3": "Not balance."
-    },
-    "id": "c12-l4-05"
+      "1": "People who pick this mislabel celebrity cues as central route.",
+      "2": "People who pick this deny motivated reasoning online.",
+      "3": "People who pick this invent conditioning that wipes risk memory and blocks consent talk."
+    }
   },
   {
+    "id": "c12-l4-06",
     "chapter": 12,
     "level": 4,
-    "section": "7.3+12.4",
-    "question": "Groupthink resembles confirmation bias at group scale by:",
+    "section": "§12.5 + Ch9/11",
+    "question": "Parents forbid cross-group friendships “to protect culture,” and teens show rising out-group stereotypes after segregated activities (social identity + limited contact). A coach proposes equal-status cooperative contact on a mixed team. Trait theorists blame low agreeableness only. Best evidence-aligned plan?",
     "options": [
-      "Suppressing dissenting evidence search in the vignette",
-      "Guaranteeing algorithmic optimality in the vignette now",
-      "Increasing working memory slots in the vignette now now",
-      "Creating secure attachment in the vignette given these facts"
+      "Structured cooperative contact with equal status and shared goals can reduce prejudice; segregation plus identity threat fuels stereotypes",
+      "Low agreeableness fully explains teen stereotypes, so contact hypotheses cannot work until Big Five scores change through authoritarian lectures",
+      "Social identity processes forbid friendship across groups in adolescence, making cooperative teams ethically inappropriate for prejudice now",
+      "Equal-status contact increases prejudice whenever parents hold display rules about emotion at sporting events in the vignette in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Shared bias against dissent.",
+    "correctFeedback": "Contact conditions matter; don’t reduce intergroup bias to one trait (§12.5; development; personality).",
     "wrongFeedback": {
-      "1": "Harms quality.",
-      "2": "Memory capacity.",
-      "3": "Development."
-    },
-    "id": "c12-l4-06"
+      "1": "People who pick this overclaim traits and dismiss contact research.",
+      "2": "People who pick this freeze social identity into a friendship ban.",
+      "3": "People who pick this invent a law that good contact always backfires via display rules."
+    }
   },
   {
+    "id": "c12-l4-07",
     "chapter": 12,
     "level": 4,
-    "section": "14.4+12.7",
-    "question": "Social support reduces stress and also enables prosocial norms—link?",
+    "section": "§12.4 + Ch2/8",
+    "question": "A replication podcast notes smaller modern obedience effects than classic Milgram headlines. Viewers “remember” the original as 100% shock compliance (availability + schema). Methods teachers stress meta-analysis and context. Best takeaway?",
     "options": [
-      "Supportive ties aid coping and helping cultures in the vignette",
-      "Support always increases aggression in the vignette now",
-      "Stress forbids altruism in the vignette given these facts",
-      "Bystander effect requires GAS in the vignette given these facts"
+      "Classic demonstrations were powerful but context-sensitive; memory and media inflate certainty—use evidence summaries rather than a single",
+      "If any modern rate is lower, obedience research is false and authority cues cannot influence harm-doing in contemporary institutions at all",
+      "Remembering 100% compliance proves flashbulb verbatim storage of textbooks, so meta-analyses are unnecessary for teaching social influence",
+      "Schema-consistent inflation of percentages only happens for sensory thresholds, not for social psychology history narratives in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Relationships buffer and model help.",
+    "correctFeedback": "Treat classic findings critically; watch memory inflation of headlines (§12.4; methods; memory).",
     "wrongFeedback": {
-      "1": "Not always aggression.",
-      "2": "Altruism persists.",
-      "3": "Not required."
-    },
-    "id": "c12-l4-07"
+      "1": "People who pick this over-dismiss all obedience relevance from partial replication nuance.",
+      "2": "People who pick this treat a remembered round number as verbatim truth.",
+      "3": "People who pick this silo schema bias away from historical social-psych memory."
+    }
   },
   {
+    "id": "c12-l4-08",
     "chapter": 12,
     "level": 4,
-    "section": "16.5+12.5",
-    "question": "Stigma about therapy resembles prejudice processes via:",
+    "section": "§12.6–12.7 + Ch6/10",
+    "question": "Online pile-ons escalate as users get likes for harsher posts (VR reinforcement) while arousal from outrage videos transfers to new targets. Some claim “online disinhibition reveals true aggressive personality only.” Best synthesis for moderation policy?",
     "options": [
-      "Negative stereotypes and discrimination against",
-      "Only sensory thresholds in the vignette given these facts",
-      "Only job analyses in the vignette given these facts now",
-      "Only conservation tasks in the vignette given these facts"
+      "Reinforcement of escalating posts plus arousal transfer can amplify aggression; platform design matters—don’t reduce pile-ons to unveiled fixed",
+      "Variable-ratio likes extinguish posting, so outrage reinforcement cannot explain escalation once disinhibition vocabulary appears in a moderation",
+      "Excitation transfer from videos cannot influence typed aggression because residual arousal affects only in-person shock machines in obedience",
+      "True aggressive personality forbids situational moderation tools, making contingency changes to likes ethically and scientifically pointless"
     ],
     "correct": 0,
-    "correctFeedback": "Stigma as social bias.",
+    "correctFeedback": "Design contingencies and arousal pathways shape online aggression beyond trait fatalism (§12.6–12.7; learning; emotion).",
     "wrongFeedback": {
-      "1": "Sensation.",
-      "2": "I-O.",
-      "3": "Piaget."
-    },
-    "id": "c12-l4-08"
+      "1": "People who pick this reverse VR reinforcement effects on posting.",
+      "2": "People who pick this silo excitation transfer away from online behavior.",
+      "3": "People who pick this use trait fatalism to reject situational interventions."
+    }
   },
   {
     "chapter": 13,
@@ -9368,164 +9368,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c13-l3-15"
   },
   {
+    "id": "c13-l4-01",
     "chapter": 13,
     "level": 4,
-    "section": "2.3+13.2",
-    "question": "A company claims a new interview “causes” better hires after comparing volunteers who opted in. Best critique?",
+    "section": "§13.2–13.3 + Ch2/11",
+    "question": "A warehouse adopts a 12-item “hustle personality” screener sold by an influencer, then fires low scorers after a productivity dip that coincided with a heat wave and broken scanners. Managers claim trait validity; workers cite situational constraints. Best I-O critique?",
     "options": [
-      "Self-selection confounds causal claims in the vignette now",
-      "Opt-in equals random assignment in the vignette now now",
-      "Job analysis forbids validity in the vignette given these facts",
-      "Hawthorne erases all bias in the vignette given these facts"
+      "Unvalidated screens plus confounded productivity data (heat, tools) cannot justify trait-based firings; job analysis and better criteria",
+      "Influencer screeners inherit validity generalization automatically, so heat and equipment failures become irrelevant to performance causal",
+      "Personality cut scores always outperform job samples when the criterion is throughput during known equipment outages and heat stress",
+      "Situational constraints cannot reduce performance if conscientiousness was measured once, because traits absorb all workplace variance by"
     ],
     "correct": 0,
-    "correctFeedback": "Nonrandom volunteers differ.",
+    "correctFeedback": "Selection and performance inference need validity and situational awareness (§13.2–13.3; methods; personality).",
     "wrongFeedback": {
-      "1": "Not random.",
-      "2": "Analysis enables selection design.",
-      "3": "Doesn’t erase bias."
-    },
-    "id": "c13-l4-01"
+      "1": "People who pick this invent automatic validity for influencer tools.",
+      "2": "People who pick this ignore criteria contamination from heat/tools.",
+      "3": "People who pick this treat traits as total explanations that erase situations."
+    }
   },
   {
+    "id": "c13-l4-02",
     "chapter": 13,
     "level": 4,
-    "section": "12.3+13.3",
-    "question": "Leaders using inspirational appeals engage persuasion; dissonance may follow unpaid extra work. Both are:",
+    "section": "§13.3 + Ch6/12",
+    "question": "A call center pays bonuses only for call count (outcome-based), and agents shorten calls, raise complaints, and stop helping rookies (incentive distortion + competition). Leadership quotes Theory Y while keeping punishment for “too much mentoring.” Best diagnosis?",
     "options": [
-      "Attitude/behavior change mechanisms in organizations now",
-      "Proof culture is irrelevant in the vignette given these facts",
-      "Identical to ergonomics in the vignette given these facts",
-      "Types of teratogens in the vignette given these facts"
+      "Contingencies shaping speed over quality and punishing helping will drive those behaviors regardless of Theory Y rhetoric—align rewards",
+      "Theory Y posters classically condition intrinsic motivation strong enough to override any bonus schedule that pays only for raw call volume",
+      "Helping rookies is reduced solely by diffusion of responsibility, so incentive redesign cannot restore citizenship behavior in call centers",
+      "Outcome-based bonuses increase organizational citizenship whenever public leaderboards shame slow mentors during peak hours in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Social influence at work.",
+    "correctFeedback": "Pay-for-count contingencies explain the pattern better than leadership slogans (§13.3; learning; social).",
     "wrongFeedback": {
-      "1": "Culture matters.",
-      "2": "Design different.",
-      "3": "Prenatal."
-    },
-    "id": "c13-l4-02"
+      "1": "People who pick this think posters override powerful operant pay systems.",
+      "2": "People who pick this blame only bystander diffusion and ignore incentives.",
+      "3": "People who pick this reverse how speed bonuses typically affect citizenship."
+    }
   },
   {
+    "id": "c13-l4-03",
     "chapter": 13,
     "level": 4,
-    "section": "10.1+13.3",
-    "question": "Job characteristics that raise autonomy can boost intrinsic motivation—Hackman/Oldham-style link to:",
+    "section": "§13.4 + Ch5/8",
+    "question": "Pilots train with a poorly contrasted cockpit alert (signal buried in noise) and later miss it under sleep debt. Human-factors leads want salience and checklist retrieval practice; a manager blames “low g” from a pop quiz. Best HF-plus-memory stance?",
     "options": [
-      "Motivation via meaningful work design in the vignette now",
-      "Only extrinsic pay forever in the vignette given these facts",
-      "Only James–Lange order in the vignette given these facts",
-      "Only FAE in the vignette given these facts on the stated facts"
+      "Improve signal conspicuity and practiced retrieval under realistic fatigue—not pop-IQ blame—because design and encoding/retrieval conditions now",
+      "Low pop-quiz g uniquely explains missed alerts, so display contrast and checklist training cannot reduce error once sleep debt exists in the vignette",
+      "Sensory absolute thresholds are fixed personality traits, making human-factors redesign ethically inappropriate for aviation alerts in the vignette",
+      "Sleep debt improves prospective memory for rare alerts via flashbulb mechanisms, proving the miss was only a Theory X attitude problem in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Design → motivation.",
+    "correctFeedback": "HF design + training under fatigue beat trait scapegoating (§13.4; sensation; memory).",
     "wrongFeedback": {
-      "1": "Intrinsic possible.",
-      "2": "Emotion theory.",
-      "3": "Attribution."
-    },
-    "id": "c13-l4-03"
+      "1": "People who pick this scapegoat pop-IQ and dismiss design/training.",
+      "2": "People who pick this redefine thresholds as immutable traits against HF.",
+      "3": "People who pick this romanticize sleep debt as flashbulb safety."
+    }
   },
   {
+    "id": "c13-l4-04",
     "chapter": 13,
     "level": 4,
-    "section": "14.2+13.3",
-    "question": "Job strain (high demand/low control) is a workplace stressor predicting:",
+    "section": "§13.2 + Ch7/14",
+    "question": "After one viral employee-theft story (availability), a retailer expands invasive monitoring and sees morale drop and turnover rise (stress). Shrinkage was already falling from better inventory systems. Executives credit surveillance. Best analytic caution?",
     "options": [
-      "Burnout and health risks in the vignette given these facts",
-      "Improved object permanence in the vignette given these facts",
-      "Higher phoneme inventory in the vignette given these facts",
-      "Automatic secure attachment in the vignette given these facts"
+      "Availability-driven policy may ignore base rates and existing shrinkage trends; surveillance stress costs can outweigh gains when systems now",
+      "A single vivid theft proves monitoring caused further shrinkage declines even on metrics that were falling before surveillance expansion began",
+      "Turnover after invasive monitoring is job enrichment under Herzberg, indicating hygiene needs were satisfied by stress and distrust in the vignette",
+      "Base-rate neglect is rational in loss prevention whenever availability heuristics feel urgent to executives during board meetings in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Demand–control stress.",
+    "correctFeedback": "Don’t let vivid cases override trends and side-effect costs (§13.2–13.3; thinking; stress).",
     "wrongFeedback": {
-      "1": "Development.",
-      "2": "Language.",
-      "3": "Attachment."
-    },
-    "id": "c13-l4-04"
+      "1": "People who pick this assign causal credit despite prior trends.",
+      "2": "People who pick this mislabel stress/turnover as enrichment.",
+      "3": "People who pick this endorse base-rate neglect as rational policy."
+    }
   },
   {
+    "id": "c13-l4-05",
     "chapter": 13,
     "level": 4,
-    "section": "7.5+13.2",
-    "question": "Using poorly validated “brain teasers” for hiring fails I-O standards of:",
+    "section": "§13.3 + Ch10/11",
+    "question": "A hospital’s “employee of the month” (public extrinsic) boosts charting metrics short-term but cuts voluntary mentoring (crowding-out). High neuroticism staff report evaluation anxiety. Leadership calls it self-actualization. Best motivation/I-O reading?",
     "options": [
-      "Demonstrated reliability/validity for the job in the vignette",
-      "Guaranteed adverse-impact freedom in the vignette now now",
-      "Perfect g measurement as legal shield in the vignette now",
-      "Ergonomic chair requirements in the vignette given these facts"
+      "Public contingent rewards can raise measured metrics while undermining autonomous helping and elevating evaluation anxiety—Maslow slogans don’t",
+      "Employee-of-month programs always increase intrinsic mentoring because esteem needs precede belongingness in every hospital unit hierarchy now",
+      "Evaluation anxiety occurs only in laboratory shock studies, never after public ranking systems in professional workplaces in the vignette now",
+      "Crowding-out means extrinsic rewards increase citizenship forever, so mentoring losses must be mismeasured neuroticism artifacts only in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Selection needs job-related validity.",
+    "correctFeedback": "Extrinsic publicity has tradeoffs for intrinsic citizenship and anxiety (§13.3; motivation; personality).",
     "wrongFeedback": {
-      "1": "Bias risks remain.",
-      "2": "g not automatic legal fix.",
-      "3": "HF separate."
-    },
-    "id": "c13-l4-05"
+      "1": "People who pick this misuse Maslow to deny crowding-out risks.",
+      "2": "People who pick this silo evaluation anxiety away from real workplaces.",
+      "3": "People who pick this reverse crowding-out predictions."
+    }
   },
   {
+    "id": "c13-l4-06",
     "chapter": 13,
     "level": 4,
-    "section": "11.7+13.2",
-    "question": "Conscientiousness often predicts performance; still, job analysis should confirm:",
+    "section": "§13.1–13.2 + Ch2/15",
+    "question": "A firm uses a graphology “personality from handwriting” vendor for leadership hiring, citing a vendor white paper without peer review. Legal asks about job relatedness; clinical staff note graphology’s weak evidence. Best response?",
     "options": [
-      "Which traits/KSAOs matter for this role in the vignette",
-      "That all Big Five always matter equally in the vignette",
-      "That projective tests beat inventories in the vignette",
-      "That traits equal job tasks in the vignette given these facts"
+      "Handwriting analysis lacks acceptable validity for personnel decisions; demand job-related, evidence-based assessments rather than",
+      "Vendor white papers outrank meta-analyses, so graphology becomes content-valid for leadership whenever signatures look decisive to executives",
+      "Job relatedness is satisfied by any procedure labeled personality assessment, including astrology-adjacent handwriting readings sold as now",
+      "If applicants consent, invalid predictors become ethical and legally robust for adverse hiring outcomes in regulated industries in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Local job relevance.",
+    "correctFeedback": "Use validated, job-related tools—not graphology theater (§13.2; methods; assessment ethics).",
     "wrongFeedback": {
-      "1": "Not equal always.",
-      "2": "Inventories often stronger.",
-      "3": "Traits ≠ tasks."
-    },
-    "id": "c13-l4-06"
+      "1": "People who pick this elevate marketing over scientific validity.",
+      "2": "People who pick this treat labels as job relatedness.",
+      "3": "People who pick this think consent cures invalidity/legal risk."
+    }
   },
   {
+    "id": "c13-l4-07",
     "chapter": 13,
     "level": 4,
-    "section": "16.2+13.3",
-    "question": "EAP counseling at work may use CBT for stress—bridges I-O wellness and therapy by:",
+    "section": "§13.4 + Ch3/6",
+    "question": "Assembly errors spike after a line speed-up that also shortens microbreaks (fatigue). A supervisor runs a one-day token economy for perfect units but skips ergonomic redesign. Errors rebound when tokens stop (extinction). Best systems view?",
     "options": [
-      "Applying clinical techniques in organizational contexts",
-      "Replacing all selection systems in the vignette now now",
-      "Proving Theory X in the vignette given these facts now",
-      "Measuring only iconic memory in the vignette given these facts"
+      "Workload/fatigue and ergonomics likely dominate; short-lived token boosts without design change predict extinction rebound—fix",
+      "Token economies permanently rewrite motor engrams at the NMJ, so ergonomic redesign is unnecessary once a single day of tokens occurs",
+      "Microbreaks cannot affect error rates because sympathetic arousal from speed-ups always improves vigilance indefinitely on assembly lines",
+      "Extinction after token removal proves workers lack Theory Y assumptions, not that contingencies and fatigue conditions changed performance"
     ],
     "correct": 0,
-    "correctFeedback": "Workplace mental health services.",
+    "correctFeedback": "HF fatigue/design + temporary operant boosts explain spikes/rebounds (§13.4; biopsych; learning).",
     "wrongFeedback": {
-      "1": "Selection remains.",
-      "2": "Not proof of X.",
-      "3": "Memory unrelated."
-    },
-    "id": "c13-l4-07"
+      "1": "People who pick this invent permanent NMJ rewrites from brief tokens.",
+      "2": "People who pick this deny fatigue costs and romanticize arousal.",
+      "3": "People who pick this moralize Theory Y instead of analyzing contingencies."
+    }
   },
   {
+    "id": "c13-l4-08",
     "chapter": 13,
     "level": 4,
-    "section": "5.1+13.4",
-    "question": "Signal detection ideas for alarms (hits/false alarms) inform ergonomic warning design—link sensation to HF.",
+    "section": "§13.3 + Ch12/16",
+    "question": "An EAP poster campaign reduces stigma language (social norms) and increases counseling uptake. Managers who previously mocked therapy (modeling) stop after leadership training. A skeptic says only SSRI availability could explain uptake. Best multi-factor view?",
     "options": [
-      "Yes—detectability tradeoffs guide interface design now",
-      "Thresholds forbid design in the vignette given these facts",
-      "HF ignores perception in the vignette given these facts",
-      "Alarms are phonemes only in the vignette given these facts"
+      "Norm change, reduced stigma, and leader modeling can increase help-seeking alongside any biomedical access—psychosocial workplace levers are",
+      "Counseling uptake can rise only when medication supply changes, because social norms and modeling never influence treatment utilization in",
+      "Leader modeling of respect for therapy is peripheral fluff that cannot affect stigma-related behavior under the elaboration likelihood model at",
+      "EAP uptake increases prove all prior non-attenders had antisocial personality disorder cured by posters alone without skillful clinical care"
     ],
     "correct": 0,
-    "correctFeedback": "Perception informs design.",
+    "correctFeedback": "Stigma/norms/modeling shape utilization; don’t invent meds-only monocausality (§13.3; social; therapy access).",
     "wrongFeedback": {
-      "1": "Design uses thresholds.",
-      "2": "HF uses perception.",
-      "3": "Not only phonemes."
-    },
-    "id": "c13-l4-08"
+      "1": "People who pick this deny psychosocial influences on help-seeking.",
+      "2": "People who pick this dismiss modeling/norms via ELM misunderstanding.",
+      "3": "People who pick this pathologize non-attenders and overclaim posters as cures."
+    }
   },
   {
     "chapter": 14,
@@ -10074,164 +10074,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c14-l3-15"
   },
   {
+    "id": "c14-l4-01",
     "chapter": 14,
     "level": 4,
-    "section": "3.2+14.1",
-    "question": "HPA cortisol and sympathetic catecholamines show biopsych of stress while appraisal shows:",
+    "section": "§14.1–14.2 + Ch2/7",
+    "question": "A mayor cites a scary SRRS-style list after one viral illness story (availability) to claim city noise *causes* all hypertension, ignoring that noise exposure correlates with poverty, heat, and limited care access. Best methods-plus-stress critique?",
     "options": [
-      "Mind–body integration in stress responses in the vignette",
-      "That cognition is irrelevant in the vignette given these facts",
-      "That neurons ignore stress in the vignette given these facts",
-      "That GAS is only social in the vignette given these facts"
+      "Life-stress checklists and confounded neighborhood exposures cannot isolate noise as the sole cause of hypertension; vivid cases amplify now now",
+      "SRRS points are experimental manipulations of HPA output, so poverty and healthcare access become irrelevant once a viral illness story airs on",
+      "Availability of one story raises internal validity automatically, converting ecological correlations into randomized noise trials for in the vignette",
+      "Hypertension is only a display rule for emotion, unrelated to stress physiology, so confounding by poverty is a thinking-heuristic problem alone"
     ],
     "correct": 0,
-    "correctFeedback": "Biological + cognitive.",
+    "correctFeedback": "Confounded stressors + availability ≠ clean causal noise claims (§14.1–14.2; methods; thinking).",
     "wrongFeedback": {
-      "1": "Appraisal matters.",
-      "2": "Neural systems respond.",
-      "3": "GAS physiological."
-    },
-    "id": "c14-l4-01"
+      "1": "People who pick this treat checklists/news as experiments that erase confounds.",
+      "2": "People who pick this invent validity from vividness.",
+      "3": "People who pick this deny stress physiology outright."
+    }
   },
   {
+    "id": "c14-l4-02",
     "chapter": 14,
     "level": 4,
-    "section": "10.4+14.1",
-    "question": "Labeling arousal as “threat” vs “challenge” is both emotion appraisal and stress appraisal—shared idea:",
+    "section": "§14.1 + Ch3/10",
+    "question": "Before a licensing exam, students show pounding hearts; one labels it “threat,” another “challenge,” with different performance. A peer says James–Lange means the heart *is* fear; another cites HPA vs sympathetic timing. Best integration?",
     "options": [
-      "Cognitive evaluation shapes experience and coping now",
-      "Arousal never needs labels in the vignette given these facts",
-      "James forbids appraisal in the vignette given these facts",
-      "Display rules erase HPA in the vignette given these facts"
+      "Similar arousal can be appraised as threat or challenge with different consequences; physiology matters, but appraisal is not optional",
+      "James–Lange requires identical performance for all students with equal heart rates, because appraisal cannot shape emotional or stress outcomes",
+      "HPA cortisol is the only pathway in acute exam pounding, so sympathetic activation and cognitive appraisal are excluded by definition in test",
+      "Challenge appraisal extinguishes absolute thresholds for vision, which is why some students read items faster without any motivational mechanism"
     ],
     "correct": 0,
-    "correctFeedback": "Appraisal shared.",
+    "correctFeedback": "Appraisal shapes stress/emotion outcomes atop arousal (§14.1; biopsych; emotion).",
     "wrongFeedback": {
-      "1": "Labels matter.",
-      "2": "James is one theory.",
-      "3": "Physiology remains."
-    },
-    "id": "c14-l4-02"
+      "1": "People who pick this erase appraisal’s role after arousal.",
+      "2": "People who pick this oversimplify acute arousal as HPA-only.",
+      "3": "People who pick this drag sensory thresholds into appraisal effects."
+    }
   },
   {
+    "id": "c14-l4-03",
     "chapter": 14,
     "level": 4,
-    "section": "12.7+14.4",
-    "question": "Social support buffering stress parallels prosocial ties that enable helping—both highlight:",
+    "section": "§14.4 + Ch6/12",
+    "question": "Employees in a toxic unit stop suggesting ideas after sarcastic shot-downs (positive punishment) and learn “nothing works” (learned helplessness themes) despite occasional random wins (unpredictability). A consultant suggests only individual grit posters. Best systems-plus-coping plan?",
     "options": [
-      "Relationships as resources in the vignette given these facts",
-      "That bystanders never help in the vignette given these facts",
-      "That support increases all illness in the vignette now",
-      "That diffusion requires cortisol in the vignette now"
+      "Change contingencies that punish voice, increase controllable wins, and teach problem- and emotion-focused skills—posters alone won’t reverse",
+      "Grit posters classically condition mastery over unpredictable punishment, restoring voice without leadership behavior change in toxic units",
+      "Learned helplessness means reinforcement history never matters, so sarcastic shot-downs cannot be analyzed as operant punishment of suggestions",
+      "Random occasional wins prove the schedule is continuous reinforcement, which forbids helplessness and makes coping skills training unnecessary"
     ],
     "correct": 0,
-    "correctFeedback": "Social resources.",
+    "correctFeedback": "Environments that punish voice train withdrawal; redesign + skills > posters (§14.4; learning; social workplace).",
     "wrongFeedback": {
-      "1": "Helping happens.",
-      "2": "Support often protective.",
-      "3": "Not required."
-    },
-    "id": "c14-l4-03"
+      "1": "People who pick this think posters replace contingency repair.",
+      "2": "People who pick this deny operant analysis of shot-downs.",
+      "3": "People who pick this misidentify intermittent wins as CRF and deny helplessness risk."
+    }
   },
   {
+    "id": "c14-l4-04",
     "chapter": 14,
     "level": 4,
-    "section": "8.2+14.3",
-    "question": "Trauma-enhanced amygdala memory with later health costs shows:",
+    "section": "§14.3 + Ch8/15",
+    "question": "A patient with panic after a car crash has intrusive memories (persistence) and avoids highways (negative reinforcement of relief). A relative says “just forget on purpose,” misunderstanding suppression. Sleep is poor. Best trauma-stress-memory framing for education?",
     "options": [
-      "Emotional memory strength can co-occur with stress-related",
-      "Flashbulbs prevent all disease in the vignette given these facts",
-      "Misinformation heals CVD in the vignette given these facts",
-      "Encoding failure is GAS in the vignette given these facts"
+      "Intrusions reflect strong emotional encoding/retrieval; avoidance is reinforced by relief; poor sleep worsens regulation—guided evidence-based",
+      "Intentional suppression reliably erases traumatic episodic traces overnight, so avoidance never becomes negatively reinforced in crash survivors",
+      "Intrusive memories are semantic capitals rehearsed as algorithms, unrelated to amygdala-linked emotional memory or sleep-related regulation",
+      "Negative reinforcement of avoidance requires food pellets, therefore highway avoidance after crashes cannot be maintained by anxiety relief"
     ],
     "correct": 0,
-    "correctFeedback": "Memory and health pathways.",
+    "correctFeedback": "Trauma memory + reinforced avoidance + sleep load need proper care models (§14.3; memory; anxiety).",
     "wrongFeedback": {
-      "1": "Not preventive.",
-      "2": "Not treatment.",
-      "3": "Different."
-    },
-    "id": "c14-l4-04"
+      "1": "People who pick this over-trust suppression as erasure.",
+      "2": "People who pick this misfile trauma intrusions as cold semantic algorithms.",
+      "3": "People who pick this invent a food requirement for negative reinforcement."
+    }
   },
   {
+    "id": "c14-l4-05",
     "chapter": 14,
     "level": 4,
-    "section": "13.3+14.2",
-    "question": "Job strain research is shared ground for I-O and health psychology because:",
+    "section": "§14.4–14.5 + Ch10/11",
+    "question": "A positive-psychology workshop teaches gratitude lists. Participants with major depression and high neuroticism feel blamed when they “can’t feel grateful.” Evidence favors combining medical/psychotherapy care with careful positive practices—not forced positivity. Best facilitator stance?",
     "options": [
-      "Work design affects stress and well-being in the vignette",
-      "Jobs never stress people in the vignette given these facts",
-      "Only ergonomics matters in the vignette given these facts",
-      "Only Theory X measures cortisol in the vignette now"
+      "Gratitude tools can help some people but must not replace treatment or shame those with depression/high distress—match interventions to",
+      "Failure to feel grateful during a workshop diagnoses antisocial personality, independent of depression symptoms or neuroticism scores on intake",
+      "Positive psychology forbids concurrent CBT or medication, because gratitude lists extinguish all HPA activity within one session for every",
+      "Neuroticism means broaden-and-build is impossible, so people with high scores should be excluded from all coping-skills groups permanently"
     ],
     "correct": 0,
-    "correctFeedback": "Workplace stressors.",
+    "correctFeedback": "Positive practices are adjunctive and non-shaming—not a monocure (§14.5; emotion; personality/disorders).",
     "wrongFeedback": {
-      "1": "They do.",
-      "2": "HF part of picture.",
-      "3": "Not only X."
-    },
-    "id": "c14-l4-05"
+      "1": "People who pick this misuse workshop struggle as ASPD diagnosis.",
+      "2": "People who pick this ban standard depression care in favor of lists alone.",
+      "3": "People who pick this exclude high-neuroticism clients from skills altogether."
+    }
   },
   {
+    "id": "c14-l4-06",
     "chapter": 14,
     "level": 4,
-    "section": "7.3+14.4",
-    "question": "Under stress, availability of prior failures may bias coping choices—heuristic under load.",
+    "section": "§14.2 + Ch9/13",
+    "question": "New parents show daily-hassle overload (sleep loss, finances). Grandparents say “what doesn’t kill you makes you resilient,” citing one relative who thrived. Workplace parental leave is unpaid (structural stress). Best stress-development reading?",
     "options": [
-      "Cognitive shortcuts worsen when control is taxed in the vignette",
-      "Heuristics require zero stress in the vignette given these facts",
-      "Algorithms forbid coping in the vignette given these facts",
-      "GAS has four stages in the vignette given these facts now"
+      "Cumulative hassles and structural supports matter; survivor anecdotes aren’t evidence that deprivation is benign—policies reducing",
+      "A single resilient relative proves daily hassles improve attachment security for all infants, making paid leave psychologically unnecessary",
+      "Sleep loss in parents raises crystallized intelligence for caregiving, offsetting financial stress without organizational policy changes",
+      "Structural stressors cannot affect HPA themes because only major SRRS catastrophes count as stress in developmental research in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Stress + judgment biases.",
+    "correctFeedback": "Hassles + structural context > tough-love anecdotes (§14.2; development; I-O/policy).",
     "wrongFeedback": {
-      "1": "Shortcuts common under load.",
-      "2": "Coping uses many tools.",
-      "3": "Three stages."
-    },
-    "id": "c14-l4-06"
+      "1": "People who pick this generalize one anecdote into anti-leave evidence.",
+      "2": "People who pick this romanticize sleep loss as cognitive enhancement.",
+      "3": "People who pick this deny hassles/structural stress as real stressors."
+    }
   },
   {
+    "id": "c14-l4-07",
     "chapter": 14,
     "level": 4,
-    "section": "16.2+14.4",
-    "question": "CBT for stress targets appraisals and coping skills, linking therapy to health psych by:",
+    "section": "§14.1 + Ch4/7",
+    "question": "Residents after overnight call show slowed insight on case puzzles (thinking) and microsleeps. Attendings attribute errors to “weak grit.” Fatigue researchers cite attention lapses; safety wants duty-hour redesign. Best account?",
     "options": [
-      "Changing thoughts/behaviors that maintain stress cycles",
-      "Using only aversive shock in the vignette given these facts",
-      "Measuring only g in the vignette given these facts now",
-      "Ignoring social support in the vignette given these facts"
+      "Sleep loss impairs attention and complex problem solving; redesigning hours addresses a root cause better than grit scolding after",
+      "Microsleeps improve heuristic accuracy by forcing representativeness shortcuts that outperform rested analytic reasoning on medical puzzles",
+      "Grit scores experimentally manipulate adenosine, so duty-hour limits cannot reduce error once personality labels are applied on rounds",
+      "Insight problems are solved only in REM at night, proving daytime errors after call are motivational faking rather than cognitive impairment"
     ],
     "correct": 0,
-    "correctFeedback": "CBT stress work.",
+    "correctFeedback": "Fatigue is a cognitive safety factor—not a moral grit failure (§14.1; consciousness; thinking).",
     "wrongFeedback": {
-      "1": "Not primary tool.",
-      "2": "IQ.",
-      "3": "Support included often."
-    },
-    "id": "c14-l4-07"
+      "1": "People who pick this romanticize microsleeps as superior reasoning.",
+      "2": "People who pick this treat grit labels as biology that blocks systems fixes.",
+      "3": "People who pick this claim daytime impairment is faking tied to REM exclusivity."
+    }
   },
   {
+    "id": "c14-l4-08",
     "chapter": 14,
     "level": 4,
-    "section": "2.3+14.2",
-    "question": "SRRS correlating with illness does not alone prove life change *causes* disease because:",
+    "section": "§14.4 + Ch12/16",
+    "question": "A support group reduces loneliness (social support buffering) and teaches CBT appraisal skills for job loss. Members previously self-medicated with alcohol (maladaptive coping). A troll claims groups are only placebo conformity. Best evidence-minded reply?",
     "options": [
-      "Third variables and recall bias can confound in the vignette",
-      "Correlation equals causation always in the vignette now",
-      "LCUs are experimental manipulations in the vignette now",
-      "Hassles are random assignment in the vignette given these facts"
+      "Social support and skill-building can buffer stress and replace harmful coping; placebo/conformity skepticism doesn’t erase those mechanisms when",
+      "Any group improvement is only Asch conformity, so appraisal skills cannot transfer outside the meeting room after job-loss stress in the vignette",
+      "Alcohol self-medication proves problem-focused coping already succeeded, making support groups contraindicated for people with loneliness",
+      "Buffering hypotheses forbid CBT appraisal work, because support acts only through classical conditioning of oxytocin without cognition now"
     ],
     "correct": 0,
-    "correctFeedback": "Correlational limits.",
+    "correctFeedback": "Support + skills are real coping pathways alongside—not reduced to—conformity worries (§14.4; social; therapy).",
     "wrongFeedback": {
-      "1": "Not always.",
-      "2": "Not experiments by default.",
-      "3": "Not random."
-    },
-    "id": "c14-l4-08"
+      "1": "People who pick this collapse all gains into Asch and deny transfer.",
+      "2": "People who pick this mislabel substance coping as successful problem focus.",
+      "3": "People who pick this strip support of cognitive mechanisms entirely."
+    }
   },
   {
     "chapter": 15,
@@ -10780,164 +10780,164 @@ window.PSYCH_QUESTIONS = [
     "id": "c15-l3-15"
   },
   {
+    "id": "c15-l4-01",
     "chapter": 15,
     "level": 4,
-    "section": "6.2+15.4",
-    "question": "Phobias can be acquired via classical pairing and maintained by avoidance (negative reinforcement)—best learning account?",
+    "section": "§15.1–15.2 + Ch2/12",
+    "question": "A influencer checklist labels anyone quiet at parties as having “social anxiety disorder,” racking up shares (availability). Viewers pathologize introversion and shyness without impairment criteria. Clinicians cite DSM distress/dysfunction and stigma risks. Best correction?",
     "options": [
-      "Two-factor / conditioning + operant avoidance themes now",
-      "Phobias forbid all learning principles in the vignette",
-      "Only algorithms create fear in the vignette given these facts",
-      "Only FAE creates phobias in the vignette given these facts"
+      "Disorder thresholds require clinically significant distress or impairment—not mere quietness or introversion—and viral checklists fuel false",
+      "Quiet behavior at parties is sufficient for diagnosis because availability of checklists raises interrater reliability to perfect levels online",
+      "Introversion equals social anxiety disorder on the Big Five, so impairment criteria are optional when a quiz goes viral on social platforms",
+      "Stigma concerns mean clinicians should never diagnose anxiety even when panic, avoidance, and role collapse meet full criteria in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Acquire classically, maintain operantly.",
+    "correctFeedback": "Use impairment/distress criteria; resist viral overpathologizing (§15.1–15.2; personality; social media).",
     "wrongFeedback": {
-      "1": "Learning central.",
-      "2": "Not algorithms.",
-      "3": "Attribution different."
-    },
-    "id": "c15-l4-01"
+      "1": "People who pick this treat virality as diagnostic validity.",
+      "2": "People who pick this collapse introversion into disorder.",
+      "3": "People who pick this overcorrect into never diagnosing real disorders."
+    }
   },
   {
+    "id": "c15-l4-02",
     "chapter": 15,
     "level": 4,
-    "section": "14.1+15.3",
-    "question": "Diathesis–stress for depression links vulnerability to stressful load—health psych overlap because:",
+    "section": "§15.3–15.4 + Ch6/14",
+    "question": "A client’s elevator phobia began after a panic attack mid-ascent (classical CS–US pairing) and persists via avoidance that removes fear (negative reinforcement). Stress at work raises overall arousal. A friend says “one more fright will cathartically cure it.” Best learning-plus-stress plan logic?",
     "options": [
-      "Stressors interact with predisposition to precipitate episodes",
-      "Stress never relates to mood in the vignette given these facts",
-      "GAS has two stages in the vignette given these facts now",
-      "Hassles equal delusions in the vignette given these facts"
+      "Exposure-based approaches target extinction of fear CRs while preventing avoidance reinforcement; raising random fright for catharsis is not",
+      "Cathartic re-traumatization reliably extinguishes elevator fear because negative reinforcement of avoidance cannot maintain phobias after now",
+      "Classical acquisition means operant avoidance is impossible, so preventing escape during exposure cannot be relevant to phobia maintenance now",
+      "Work stress alone proves the phobia is GAD without situational fear, making elevator-specific exposure contraindicated in principle in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Stress × vulnerability.",
+    "correctFeedback": "Two-factor style maintenance + exposure logic beat catharsis myths (§15.4; learning; stress).",
     "wrongFeedback": {
-      "1": "Strongly related.",
-      "2": "Three stages.",
-      "3": "Different."
-    },
-    "id": "c15-l4-02"
+      "1": "People who pick this endorse catharsis against evidence.",
+      "2": "People who pick this deny operant maintenance after classical acquisition.",
+      "3": "People who pick this overgeneralize to GAD and block specific exposure."
+    }
   },
   {
+    "id": "c15-l4-03",
     "chapter": 15,
     "level": 4,
-    "section": "11.7+15.11",
-    "question": "Personality disorders vs extreme Big Five: clinical PDs require:",
+    "section": "§15.7 + Ch8/10",
+    "question": "Someone with depression shows mood-congruent recall of failures, anhedonia, and a belief “I’ll always fail” (schema). Friends push forced gratitude only. Sleep collapsed after night shifts (biopsych stress). Best integrative understanding?",
     "options": [
-      "Inflexible patterns with impairment in the vignette now",
-      "That traits cannot be dimensional in the vignette now",
-      "That OCEAN is invalid in the vignette given these facts",
-      "That only projective tests diagnose in the vignette now"
+      "Cognitive schemas and mood-congruent memory bias maintain depression alongside anhedonia and sleep disruption—forced gratitude alone rarely",
+      "Mood-congruent recall proves memories of success were never encoded, so behavioral activation and sleep repair cannot help depressive schemas",
+      "Anhedonia is sensory adaptation of taste buds, unrelated to mesocorticolimbic reward themes or cognitive therapy targets for depression",
+      "Night-shift sleep loss immunizes against depressive schemas by increasing REM rebound insight into optimistic explanatory styles automatically"
     ],
     "correct": 0,
-    "correctFeedback": "Impairment/inflexibility threshold.",
+    "correctFeedback": "Cognition, memory bias, reward/anhedonia, and sleep interact—don’t peddle gratitude-only cures (§15.7; memory; motivation/consciousness).",
     "wrongFeedback": {
-      "1": "Traits dimensional.",
-      "2": "OCEAN useful.",
-      "3": "Multiple methods."
-    },
-    "id": "c15-l4-03"
+      "1": "People who pick this treat bias as proof success was never encoded.",
+      "2": "People who pick this reduce anhedonia to taste adaptation.",
+      "3": "People who pick this romanticize sleep loss as antidepressant insight."
+    }
   },
   {
+    "id": "c15-l4-04",
     "chapter": 15,
     "level": 4,
-    "section": "3.2+15.8",
-    "question": "Dopamine hypotheses of schizophrenia illustrate biopsych perspectives on:",
+    "section": "§15.8 + Ch3/7",
+    "question": "A first-episode psychosis admission includes auditory hallucinations and a persecutory delusion. A relative blames “too much dopamine from video games” only; another cites family criticism as the sole cause. Neuropsych notes multifactor risk. Best teaching point?",
     "options": [
-      "Neurochemical contributions to psychosis in the vignette",
-      "That biology is irrelevant in the vignette given these facts",
-      "That only parenting causes schizophrenia in the vignette",
-      "That hallucinations are phonemes in the vignette now"
+      "Psychosis risk is multifactorial—biology, stress, and environment can contribute; single-cause dopamine-game or blame-only family stories",
+      "Video-game dopamine uniquely causes schizophrenia hallucinations, so family climate and other stressors are etiologically irrelevant after gaming",
+      "Persecutory delusions are availability heuristics about neighbors, not beliefs requiring clinical care beyond a one-time cognitive-bias workshop",
+      "Hallucinations equal flashbulb memories of sounds, proving encoding success and ruling out any neurochemical hypotheses in first-episode now"
     ],
     "correct": 0,
-    "correctFeedback": "Biological models.",
+    "correctFeedback": "Teach multifactor models; avoid monocausal blame (§15.8; biopsych; thinking).",
     "wrongFeedback": {
-      "1": "Biology studied.",
-      "2": "Multifactorial.",
-      "3": "Not sound units."
-    },
-    "id": "c15-l4-04"
+      "1": "People who pick this monocausal game-dopamine story.",
+      "2": "People who pick this trivialize delusions as ordinary heuristics only.",
+      "3": "People who pick this misread hallucinations as ordinary flashbulbs."
+    }
   },
   {
+    "id": "c15-l4-05",
     "chapter": 15,
     "level": 4,
-    "section": "8.3+15.6",
-    "question": "PTSD intrusions are unwanted remembering (persistence) after trauma—memory pathology link.",
+    "section": "§15.6 + Ch8/12",
+    "question": "A survivor of assault has PTSD intrusions, avoidance, and hypervigilance. Online forums urge “hypnosis to erase the tape.” Legal interviews risk leading questions (misinformation). Best clinically careful stance?",
     "options": [
-      "Yes—persistence of traumatic memories is central now",
-      "PTSD forbids memory in the vignette given these facts now",
-      "Intrusions are semantic capitals only in the vignette now",
-      "Avoidance is elaborative rehearsal in the vignette now now"
+      "Intrusions aren’t literal erasable tapes; avoid suggestive memory techniques, document carefully, and pursue evidence-based trauma therapies that",
+      "Hypnosis reliably deletes episodic trauma traces without suggestion risk, so leading legal questions become harmless after one trance session now",
+      "Hypervigilance means sensory absolute thresholds dropped permanently, which proves PTSD is only a Gestalt perceptual illusion treatable by",
+      "Avoidance is positive punishment by definition, therefore exposure-based trauma therapies contradict operant principles and must be abandoned"
     ],
     "correct": 0,
-    "correctFeedback": "Intrusive memory.",
+    "correctFeedback": "Protect memory integrity; use evidence-based trauma care—not erase-the-tape myths (§15.6; memory; social/legal).",
     "wrongFeedback": {
-      "1": "Memory central.",
-      "2": "Not semantic capitals.",
-      "3": "Avoidance opposite of elaboration goal."
-    },
-    "id": "c15-l4-05"
+      "1": "People who pick this trust hypnosis erasure myths.",
+      "2": "People who pick this reduce PTSD to a sensory threshold/Gestalt gimmick.",
+      "3": "People who pick this mislabel avoidance and reject exposure logic."
+    }
   },
   {
+    "id": "c15-l4-06",
     "chapter": 15,
     "level": 4,
-    "section": "2.4+15.2",
-    "question": "Reliability of DSM diagnoses matters because inconsistent labels threaten:",
+    "section": "§15.11 + Ch11/2",
+    "question": "A podcast diagnoses every dramatic breakup as borderline PD from a 5-item quiz (reliability/validity concerns) and ignores contextual trauma and trait overlaps with neuroticism. Viewers stigmatize a friend seeking help. Best assessment literacy message?",
     "options": [
-      "Clinical communication and research validity in the vignette",
-      "The existence of stress in the vignette given these facts",
-      "All coping in the vignette given these facts on the stated facts",
-      "Human factors design only in the vignette given these facts"
+      "Personality disorder diagnosis needs careful, multi-source clinical assessment—not viral quizzes—and stigma plus trait overlap demand",
+      "Five viral items equal SCID-level reliability, so dramatic breakups become sufficient criteria without impairment history or differential",
+      "Neuroticism scores prove borderline PD automatically, making trauma history ethically irrelevant to formulation and treatment planning",
+      "Stigma is good for treatment motivation, therefore public labeling from podcasts improves outcomes more than confidential clinical care"
     ],
     "correct": 0,
-    "correctFeedback": "Diagnostic reliability.",
+    "correctFeedback": "Reject quiz diagnoses; reduce stigma; respect complexity (§15.11; personality; methods).",
     "wrongFeedback": {
-      "1": "Stress exists.",
-      "2": "Coping exists.",
-      "3": "HF separate."
-    },
-    "id": "c15-l4-06"
+      "1": "People who pick this inflate quiz psychometrics wildly.",
+      "2": "People who pick this collapse neuroticism into PD and erase trauma context.",
+      "3": "People who pick this endorse stigma as therapeutic."
+    }
   },
   {
+    "id": "c15-l4-07",
     "chapter": 15,
     "level": 4,
-    "section": "12.5+15.1",
-    "question": "Stigma uses stereotypes about “the mentally ill,” producing discrimination in housing/work—social psych applied.",
+    "section": "§15.2–15.3 + Ch9/14",
+    "question": "College counseling sees a spike in anxiety after midterms (stress) among first-years navigating identity and autonomy (development). Some meet GAD criteria; many have adjustment issues. Admin wants one drug-only protocol for all. Best stepped-care view?",
     "options": [
-      "Prejudice/discrimination processes target diagnosed people",
-      "Stigma is a sensory threshold in the vignette given these facts",
-      "Stereotypes equal treatments in the vignette given these facts",
-      "Discrimination is a neuron in the vignette given these facts"
+      "Differentiate disorder-level anxiety from normative developmental stress responses; match intensity of care—skills, therapy, and medication when",
+      "Midterm stress chemically equals GAD for all first-years, so differential diagnosis wastes time better spent on identical pharmacotherapy starts",
+      "Identity exploration immunizes against anxiety disorders, therefore rising counseling demand must be malingering rather than stress-related need",
+      "Adjustment issues forbid psychotherapy because only diathesis–stress genes respond to treatment in emerging adults after exams in the vignette"
     ],
     "correct": 0,
-    "correctFeedback": "Stigma as bias.",
+    "correctFeedback": "Assess severity/context; stepped care beats one-size medication mandates (§15.2–15.3; development; stress).",
     "wrongFeedback": {
-      "1": "Not threshold.",
-      "2": "Not therapy itself.",
-      "3": "Not a cell."
-    },
-    "id": "c15-l4-07"
+      "1": "People who pick this erase differential diagnosis.",
+      "2": "People who pick this dismiss real stress as malingering via identity myths.",
+      "3": "People who pick this invent gene-only treatability rules."
+    }
   },
   {
+    "id": "c15-l4-08",
     "chapter": 15,
     "level": 4,
-    "section": "16.2+15.7",
-    "question": "CBT for depression targets negative automatic thoughts emphasized in cognitive models of MDD—tight coupling of:",
+    "section": "§15.5 + Ch6/10",
+    "question": "An OCD pattern: intrusive contamination thoughts spike anxiety; washing rituals reduce it briefly (negative reinforcement), consuming hours. Family helps with reassurance rituals. A relative suggests thought suppression marathons. Best mechanism-focused guidance?",
     "options": [
-      "Disorder theory and treatment technique in the vignette",
-      "Only medication mechanisms in the vignette given these facts",
-      "Only GAS stages in the vignette given these facts now",
-      "Only job strain in the vignette given these facts now"
+      "Rituals and reassurance can maintain OCD via short-term relief; evidence-based ERP targets exposures without rituals—suppression often backfires",
+      "Thought suppression permanently deletes obsessions, so rituals are unnecessary epiphenomena unrelated to negative reinforcement of anxiety",
+      "Contamination obsessions are phoneme errors in inner speech, therefore ERP is irrelevant and family reassurance cannot affect operant maintenance",
+      "Negative reinforcement cannot involve removal of anxiety, only removal of food, making washing cycles theoretically impossible to analyze"
     ],
     "correct": 0,
-    "correctFeedback": "Theory–therapy link.",
+    "correctFeedback": "ERP logic vs suppression/reassurance traps (§15.5; learning; motivation/emotion).",
     "wrongFeedback": {
-      "1": "Meds also used.",
-      "2": "Stress.",
-      "3": "I-O."
-    },
-    "id": "c15-l4-08"
+      "1": "People who pick this over-trust suppression and deny ritual reinforcement.",
+      "2": "People who pick this misfile OCD as a speech-sound problem.",
+      "3": "People who pick this invent a food-only rule for negative reinforcement."
+    }
   },
   {
     "chapter": 16,
@@ -11486,163 +11486,163 @@ window.PSYCH_QUESTIONS = [
     "id": "c16-l3-15"
   },
   {
+    "id": "c16-l4-01",
     "chapter": 16,
     "level": 4,
-    "section": "6.2+16.2",
-    "question": "Exposure therapy applies extinction: CS without UCS—learning science to clinical fear.",
+    "section": "§16.2 + Ch6/15",
+    "question": "For elevator phobia, a clinic debates flooding versus graded exposure with response prevention. The client’s avoidance has been negatively reinforced for years; panic expectancy is high. A relative demands one giant scare “for catharsis.” Best evidence-aligned choice rationale?",
     "options": [
-      "Yes—extinction principles underwrite exposure",
-      "Extinction forbids therapy in the vignette given these facts",
-      "CS must always equal UCS in therapy in the vignette now",
-      "Tokens are required for extinction in the vignette now"
+      "Graded exposure with prevention of avoidance targets extinction without requiring harmful catharsis theater; flooding exists but is not the",
+      "Cathartic flooding is mandatory because negative reinforcement of avoidance cannot be addressed by graded hierarchies in modern behavior therapy",
+      "Exposure fails unless paired with continuous food reinforcement each floor, converting extinction into a token economy for fear CRs in the vignette",
+      "Panic expectancy means classical CRs cannot extinguish, so medication without any exposure learning is the only ethical pathway forever now"
     ],
     "correct": 0,
-    "correctFeedback": "Clinical extinction.",
+    "correctFeedback": "Exposure/extinction with ethical pacing beats catharsis myths (§16.2; learning; anxiety disorders).",
     "wrongFeedback": {
-      "1": "Core tool.",
-      "2": "CS without UCS.",
-      "3": "Not required."
-    },
-    "id": "c16-l4-01"
+      "1": "People who pick this mandate catharsis and deny graded options.",
+      "2": "People who pick this bolt irrelevant food tokens onto extinction.",
+      "3": "People who pick this claim expectancy makes extinction impossible."
+    }
   },
   {
+    "id": "c16-l4-02",
     "chapter": 16,
     "level": 4,
-    "section": "11.5+16.2",
-    "question": "Rogers’s personality theory and client-centered therapy share:",
+    "section": "§16.2 + Ch11/10",
+    "question": "A depressed client’s automatic thought “I’m unlovable” follows a breakup (schema activation). Therapist plans CBT thought records plus behavioral activation; client asks only for unconditional positive regard sessions without skills. Alliance matters. Best integration?",
     "options": [
-      "Growth via accepting therapeutic climate in the vignette",
-      "Aversive punishment as necessary in the vignette now now",
-      "Obedience to authority as cure in the vignette given these facts",
-      "g-factor drills in the vignette given these facts now now"
+      "Rogerian conditions support alliance, but depression outcomes often improve when CBT/BA skills target thoughts and avoidance—not UPR climate",
+      "Unconditional positive regard extinguishes depressive schemas without behavioral experiments, making activity scheduling scientifically now",
+      "Automatic thoughts are Freudian parapraxes only, so cognitive restructuring violates humanistic ethics and must be abandoned for silent free",
+      "Behavioral activation requires Theory X hospital token fines, incompatible with empathy or collaborative CBT structuring in outpatient depression"
     ],
     "correct": 0,
-    "correctFeedback": "Theory–practice unity.",
+    "correctFeedback": "Warmth plus active CBT/BA skills usually beats warmth-only for depression (§16.2; personality/humanistic; motivation).",
     "wrongFeedback": {
-      "1": "Not aversive core.",
-      "2": "Not Milgram.",
-      "3": "Not IQ."
-    },
-    "id": "c16-l4-02"
+      "1": "People who pick this overclaim UPR-as-sufficient mechanism.",
+      "2": "People who pick this force a false humanistic–cognitive ethics conflict.",
+      "3": "People who pick this caricature BA as punitive Theory X."
+    }
   },
   {
+    "id": "c16-l4-03",
     "chapter": 16,
     "level": 4,
-    "section": "15.7+16.2",
-    "question": "Cognitive therapy for depression targets the same negative thoughts cognitive models describe—illustrating:",
+    "section": "§16.2–16.3 + Ch8/12",
+    "question": "In group therapy for social anxiety, a member “recalls” childhood humiliation details that first appeared in another member’s story (misinformation/social contagion risk). Facilitators need safety without shame. Best memory-informed facilitation move?",
     "options": [
-      "Assessment/formulation guiding intervention in the vignette",
-      "That meds forbid psychotherapy in the vignette given these facts",
-      "That DSM ignores cognition in the vignette given these facts",
-      "That anhedonia is a phoneme in the vignette given these facts"
+      "Gently note memory can be influenced by others’ stories, keep ownership of personal narrative cautious, and continue exposure/skills without",
+      "Identical details prove flashbulb verbatim accuracy across members, so facilitators should treat the recalled humiliation as shared historical",
+      "Social contagion of narrative details cannot occur in therapy groups because misinformation effects require police interviews exclusively",
+      "Any overlapping memory means delusional disorder for both members, requiring immediate antipsychotics before group social-anxiety exposures"
     ],
     "correct": 0,
-    "correctFeedback": "Linked formulation.",
+    "correctFeedback": "Groups can seed details—handle carefully without humiliation or overpathologizing (§16.3; memory; social).",
     "wrongFeedback": {
-      "1": "Combined care common.",
-      "2": "DSM includes cognitive symptoms.",
-      "3": "Not a sound."
-    },
-    "id": "c16-l4-03"
+      "1": "People who pick this over-trust flashbulb accuracy for borrowed details.",
+      "2": "People who pick this deny misinformation outside forensic contexts.",
+      "3": "People who pick this leap to psychosis labeling from overlap alone."
+    }
   },
   {
+    "id": "c16-l4-04",
     "chapter": 16,
     "level": 4,
-    "section": "12.5+16.5",
-    "question": "Reducing stigma is a sociocultural intervention that parallels prejudice reduction by:",
+    "section": "§16.1–16.5 + Ch14/15",
+    "question": "A rural client stops meds after TikTok stigma (“meds mean weakness”) and sleep crashes, worsening depression. Clinic access is scarce (barrier). Telehealth CBT plus collaborative medication education are options. Best systems-aware plan?",
     "options": [
-      "Changing stereotypes and discriminatory barriers to care",
-      "Measuring only thresholds in the vignette given these facts",
-      "Running only job analyses in the vignette given these facts",
-      "Teaching only conservation in the vignette given these facts"
+      "Address stigma beliefs, restore sleep/safety planning, and combine accessible psychotherapy with informed medication decisions—barriers and myths",
+      "Stigma posts prove medication is never appropriate for depression, so telehealth CBT alone must exclude any biomedical discussion forever after",
+      "Access barriers invalidate psychotherapy mechanisms, meaning only inpatient commitment without consent satisfies ethical care in rural depression",
+      "Sleep loss after stopping meds is classical extinction of HPA activity, confirming that stigma advice was physiologically correct for major"
     ],
     "correct": 0,
-    "correctFeedback": "Anti-stigma as social change.",
+    "correctFeedback": "Combat stigma and barriers; integrate psychosocial and biomedical thoughtfully (§16.5; stress; disorders).",
     "wrongFeedback": {
-      "1": "Sensation.",
-      "2": "I-O.",
-      "3": "Piaget."
-    },
-    "id": "c16-l4-04"
+      "1": "People who pick this let TikTok stigma dictate biomedical exclusion.",
+      "2": "People who pick this jump to coercive care as the only ethics.",
+      "3": "People who pick this invent physiology that validates stigma myths."
+    }
   },
   {
+    "id": "c16-l4-05",
     "chapter": 16,
     "level": 4,
-    "section": "14.4+16.2",
-    "question": "Teaching problem-focused coping in therapy overlaps health psych stress regulation with:",
+    "section": "§16.2 + Ch2/7",
+    "question": "A hospital adopts a new “energy tapping” therapy after testimonials (availability) without controlled outcome data. Staff morale rises briefly (Hawthorne-ish attention). A methods psychologist asks for evidence hierarchies before replacing CBT for OCD. Best stance?",
     "options": [
-      "Skill-building psychotherapies in the vignette",
-      "Only ECT mechanisms in the vignette given these facts now",
-      "Only GAS stage labels in the vignette given these facts now",
-      "Only FAE training in the vignette given these facts now now"
+      "Testimonials and attention effects don’t establish efficacy; keep empirically supported OCD treatments first-line until rigorous evidence for",
+      "Availability of emotional testimonials outranks RCTs for OCD, so replacing ERP/CBT with tapping is methodologically conservative practice now",
+      "Hawthorne effects prove long-term symptom remission equal to exposure therapy whenever staff feel enthusiastic during the rollout month",
+      "Energy tapping’s lack of a clear learning mechanism makes it automatically superior to extinction-based ERP for contamination rituals"
     ],
     "correct": 0,
-    "correctFeedback": "Coping skills treatment.",
+    "correctFeedback": "Evidence hierarchies before abandoning supported care (§16.2; methods; thinking).",
     "wrongFeedback": {
-      "1": "Somatic other.",
-      "2": "Labels alone weak.",
-      "3": "Attribution."
-    },
-    "id": "c16-l4-05"
+      "1": "People who pick this crown testimonials over rigorous tests.",
+      "2": "People who pick this confuse brief morale with durable efficacy.",
+      "3": "People who pick this treat mechanism vagueness as superiority."
+    }
   },
   {
+    "id": "c16-l4-06",
     "chapter": 16,
     "level": 4,
-    "section": "2.4+16.1",
-    "question": "Involuntary commitment raises ethics akin to research consent issues: balancing:",
+    "section": "§16.2 + Ch3/15",
+    "question": "Family asks whether antipsychotics “mean the brain is permanently broken.” Education covers dopamine-related hypotheses, side-effect monitoring, and psychosocial rehab. A cousin says therapy is useless if meds exist. Best integrated message?",
     "options": [
-      "Autonomy vs protection from harm in the vignette now",
-      "Maximizing deception in the vignette given these facts",
-      "Eliminating all care in the vignette given these facts",
-      "Ignoring capacity in the vignette given these facts now"
+      "Medications can reduce symptoms for many people while skills, support, and therapy address functioning—biology talk isn’t destiny, and",
+      "Dopamine hypotheses prove psychosocial interventions cannot help psychosis-related disability once any medication has been prescribed even",
+      "Side-effect monitoring is optional if a neurotransmitter is mentioned, because biological framing removes the need for informed consent",
+      "Permanent brokenness is guaranteed by first-episode medication, making supported employment and CBT for psychosis scientifically futile"
     ],
     "correct": 0,
-    "correctFeedback": "Ethics of coercion vs care.",
+    "correctFeedback": "Biopsychosocial care > meds-only fatalism or meds-without-consent myths (§16.2; biopsych; disorders).",
     "wrongFeedback": {
-      "1": "Opposite of ethics goal.",
-      "2": "Care needed.",
-      "3": "Capacity assessed."
-    },
-    "id": "c16-l4-06"
+      "1": "People who pick this erase psychosocial help once meds appear.",
+      "2": "People who pick this dismiss consent/side-effect ethics.",
+      "3": "People who pick this preach permanent futility against rehab evidence."
+    }
   },
   {
+    "id": "c16-l4-07",
     "chapter": 16,
     "level": 4,
-    "section": "8.3+16.2",
-    "question": "Trauma-focused therapies must handle memory reconstruction carefully because:",
+    "section": "§16.3–16.4 + Ch9/12",
+    "question": "Adolescent group for self-harm urges uses peer coping skills, but one charismatic member glamorizes scars (deviant peer contagion risk). Developmental need for belonging is strong. Facilitators must protect safety. Best move?",
     "options": [
-      "Suggestibility can distort reports even as exposure helps fear",
-      "Memory is a perfect tape in the vignette given these facts now",
-      "Misinformation is required for cure in the vignette now",
-      "Extinction needs false memories in the vignette now now"
+      "Keep belonging through structured prosocial norms, interrupt glamorizing talk, strengthen adult-guided coping, and use clear safety in the vignette",
+      "Belonging needs mean facilitators must allow glamorizing content, because interrupting peers destroys identity development more than self-harm",
+      "Peer contagion cannot occur for self-harm, so charismatic modeling of scars is clinically irrelevant in adolescent groups with high affiliation now",
+      "Safety protocols forbid any peer interaction, converting group therapy into simultaneous individual free association without social learning"
     ],
     "correct": 0,
-    "correctFeedback": "Therapeutic care with reconstructive memory.",
+    "correctFeedback": "Harness peer belonging carefully; block contagion of harm (§16.3; development; social).",
     "wrongFeedback": {
-      "1": "Not perfect.",
-      "2": "Not required.",
-      "3": "Not the goal."
-    },
-    "id": "c16-l4-07"
+      "1": "People who pick this sacrifice safety to uncritical belonging.",
+      "2": "People who pick this deny contagion risks.",
+      "3": "People who pick this abolish therapeutic peer processes entirely."
+    }
   },
   {
+    "id": "c16-l4-08",
     "chapter": 16,
     "level": 4,
-    "section": "13.3+16.5",
-    "question": "EAPs and workplace counseling sit at I-O × therapy utilization—addressing:",
+    "section": "§16.2 + Ch8/14",
+    "question": "A client with PTSD and insomnia does trauma-focused work while a partner repeatedly “reminds” them of unverified details (suggestion risk) and pushes alcohol to “forget” (maladaptive coping). Therapist coordinates sleep, substance, and memory-safe trauma care. Best priority sketch?",
     "options": [
-      "Employee mental health access barriers/stigma at work",
-      "Only machine ergonomics in the vignette given these facts",
-      "Only selection validity in the vignette given these facts",
-      "Only Theory X punishment in the vignette given these facts"
+      "Stabilize sleep/substance risks, coach partners away from suggestive rehearsal and alcohol-for-forgetting, and proceed with evidence-based trauma",
+      "Alcohol-assisted forgetting is preferred preparatory care before trauma therapy because suppression plus depressants erase episodic traces safely",
+      "Partner suggestion improves trauma accuracy like collaborative free recall, so unverified details should be rehearsed nightly to strengthen",
+      "Insomnia must remain untreated until all trauma narratives are completed, because sleep repair interferes with extinction learning in every PTSD"
     ],
     "correct": 0,
-    "correctFeedback": "Workplace mental health.",
+    "correctFeedback": "Safety, sleep, substance, and anti-suggestion hygiene alongside trauma therapy (§16.2; memory; stress).",
     "wrongFeedback": {
-      "1": "HF separate.",
-      "2": "Selection separate.",
-      "3": "Not only X."
-    },
-    "id": "c16-l4-08"
+      "1": "People who pick this endorse dangerous alcohol forgetting myths.",
+      "2": "People who pick this invite suggestive contamination of trauma memory.",
+      "3": "People who pick this delay sleep care against usual clinical priorities."
+    }
   }
 ];

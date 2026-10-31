@@ -1,0 +1,294 @@
+{
+  "11": [
+    {
+      "section": "§11.2–11.4 + Ch8/15",
+      "question": "In therapy intake, a client says childhood “anal stage stinginess” explains current hoarding of emails, citing a pop-Freud reel. Records show anxiety spikes after job loss (stress) and family modeling of saving. The clinician also sees high conscientiousness and scrupulosity themes. Best formulation caution?",
+      "options": [
+        "Prefer testable, multi-factor accounts—anxiety, modeling, traits, and stress—over unverifiable stage slogans; psychodynamic ideas can be",
+        "Email hoarding is diagnostic of fixation alone, so stress, modeling, and trait conscientiousness must be ignored once an anal-stage narrative",
+        "Scrupulosity themes mean the behavior is a manic episode, making behavioral activation and exposure ideas contraindicated regardless of anxiety",
+        "Family modeling is classical conditioning of the id, which converts Instagram Freud content into a standardized personality assessment with"
+      ],
+      "correct": 0,
+      "correctFeedback": "Stage labels aren’t automatic explanations; integrate stress, learning, and traits carefully (§11.2–11.4; memory of narratives; clinical).",
+      "wrongFeedback": {
+        "1": "People who pick this treat pop fixation as a trump card over evidence-based factors.",
+        "2": "People who pick this mislabel scrupulosity/anxiety as mania.",
+        "3": "People who pick this invent psychometric validity for social-media Freud."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.7 + Ch2/13",
+      "question": "HR wants to hire using a 10-item Facebook Big Five quiz with no norms, then reject “low agreeableness” applicants for nursing. Validity generalization and adverse impact concerns arise; a manager says traits beat structured interviews. Best I-O/personality stance?",
+      "options": [
+        "Unvalidated social-media quizzes lack the reliability/validity evidence needed for high-stakes selection; job-related structured methods are",
+        "Ten viral items equal NEO-PI-R construct coverage, so cut scores on agreeableness are automatically content-valid for every nursing task now",
+        "Adverse impact is impossible when using personality, because traits are behaviorally specific KSAOs identical to work-sample performance",
+        "Structured interviews are projective tests with lower validity than Facebook quizzes whenever applicants smile in photos in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Selection tools need validity evidence; toy quizzes don’t qualify (§11.7; methods; I-O).",
+      "wrongFeedback": {
+        "1": "People who pick this inflate a quiz into gold-standard trait coverage.",
+        "2": "People who pick this deny adverse-impact risk and equate traits with work samples.",
+        "3": "People who pick this invert interview vs quiz validity evidence."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.5–11.6 + Ch9/10",
+      "question": "A school credits a “self-esteem week” for rising grades, but the same month it also launched tutoring and sleep workshops. Rogers-inspired staff stress UPR; skeptics cite third variables and that contingent praise can backfire. Motivation data show mastery goals rose in tutored kids only. Best interpretation?",
+      "options": [
+        "Multiple simultaneous changes confound causal credit to self-esteem week; tutoring/sleep and mastery-goal shifts are plausible drivers that a",
+        "Unconditional positive regard from posters is sufficient to raise grades even if tutoring never occurred and sleep remained poor among students",
+        "Self-esteem interventions always outperform skill tutoring because Maslow’s hierarchy places esteem above cognitive skill building in classrooms",
+        "Third variables cannot exist when unconditional positive regard is mentioned, converting correlational school rollouts into randomized clinical"
+      ],
+      "correct": 0,
+      "correctFeedback": "Confounded rollouts can’t isolate self-esteem slogans from tutoring/sleep/goals (§11.5; development/education; motivation).",
+      "wrongFeedback": {
+        "1": "People who pick this overclaim UPR posters as sufficient academic causes.",
+        "2": "People who pick this misuse Maslow to dismiss skill instruction.",
+        "3": "People who pick this treat humanistic buzzwords as experimental design."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.7 + Ch7/12",
+      "question": "A dating app sorts matches by “narcissism vibe” from selfie angles (representativeness) after users watch influencer montages (availability). Social psychologists warn of stereotyping; personality psychologists note grandiose vs vulnerable features aren’t visible in chin tilt. Best critique?",
+      "options": [
+        "Face-angle heuristics and media prototypes are weak, biased cues for narcissism; trait inference needs better evidence than representativeness",
+        "Selfie chin tilt is a projective test with high incremental validity over the NPI in predicting relationship outcomes across cultures in the vignette",
+        "Availability of influencer montages creates true score variance in narcissism identical to structured clinical interviews in the vignette now",
+        "Stereotyping cannot occur in personality judgment because the Fundamental Attribution Error only applies to obedience studies in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Heuristic trait inference from selfies is shaky and bias-prone (§11.7; thinking; social).",
+      "wrongFeedback": {
+        "1": "People who pick this invent validity for selfie projective reading.",
+        "2": "People who pick this equate media salience with true-score assessment.",
+        "3": "People who pick this wrongly fence FAE away from everyday trait judgments."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.3 + Ch6/8",
+      "question": "A child praised only for winning (performance contingencies) cheats on a board game, then “forgets” the cheating when asked (motivated memory). A social-learning view stresses modeled winning-at-all-costs; a Skinnerian notes intermittent parental attention to bragging. Best integrated account?",
+      "options": [
+        "Modeled contingencies and intermittent attention can shape cheating, while motivated forgetting can protect self-view—personality talk about",
+        "Cheating proves an immutable id-driven trait fixed in the oral stage, so modeling and reinforcement histories are irrelevant once forgetting",
+        "Motivated forgetting means encoding never occurred, therefore observational learning of win-at-all-costs norms cannot have influenced the",
+        "Intermittent attention extinguishes cheating automatically, making social-learning explanations unnecessary whenever children later misreport"
+      ],
+      "correct": 0,
+      "correctFeedback": "Learning histories + motivated memory beat premature character essentialism (§11.3 neo/social-cognitive; learning; memory).",
+      "wrongFeedback": {
+        "1": "People who pick this freeze behavior into unverifiable stage destiny.",
+        "2": "People who pick this confuse forgetting with proof that encoding/modeling never happened.",
+        "3": "People who pick this reverse how intermittent reinforcement affects behavior."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.6–11.7 + Ch14/15",
+      "question": "After trauma, a veteran shows elevated neuroticism scores versus pre-deployment testing (personality change under stress). A blog says Big Five traits never change; a clinician sees overlapping PTSD hyperarousal items. Best reading?",
+      "options": [
+        "Traits can shift with major stress, and symptom overlap can inflate neuroticism scores—interpret change cautiously rather than claiming absolute",
+        "Big Five neuroticism is identical to PTSD, so personality assessment should replace trauma-focused care entirely after deployment in the vignette",
+        "Pre–post trait shifts are always measurement error because personality is genetically sealed against environmental influence in adulthood",
+        "Hyperarousal items prove malingering on both PTSD and trait scales whenever scores rise after documented trauma exposure in the vignette now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Stress can move trait scores; overlap with symptoms deserves care—not denial or collapse of constructs (§11.7; stress; disorders).",
+      "wrongFeedback": {
+        "1": "People who pick this collapse traits into PTSD and abandon trauma care.",
+        "2": "People who pick this overclaim lifelong environmental impermeability.",
+        "3": "People who pick this leap from score increases to malingering after trauma."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.2 + Ch3/10",
+      "question": "A neuroscience podcast claims a “left-brain personality” explains introversion, citing a blurry fMRI split-screen. Biopsych students note lateralization myths; motivation students note arousal and optimal stimulation theories of introversion–extraversion. Best consumer takeaway?",
+      "options": [
+        "Pop left-brain personality claims oversell lateralization; introversion relates more to arousal/stimulation preferences and broader trait models",
+        "fMRI split-screens prove introversion lives only in Broca’s area, validating hemisphere-based hiring and dating advice without behavioral now",
+        "Optimal arousal theory requires ignoring genetics and experience, so lateralization myths become the only scientific account of extraversion now",
+        "Introversion is a display rule for facial affect, measured exclusively by cone density in the retina rather than trait questionnaires in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Reject hemisphere personality myths; use better trait/arousal frameworks (§11.6–11.7; biopsych; motivation).",
+      "wrongFeedback": {
+        "1": "People who pick this treat meme neuroimages as hiring-grade evidence.",
+        "2": "People who pick this falsely force an either/or against arousal theory.",
+        "3": "People who pick this scramble sensation anatomy into trait definition."
+      },
+      "page": null
+    },
+    {
+      "section": "§11.7 + Ch2/16",
+      "question": "A couple’s therapist uses an unvalidated “love languages quiz” to assign personality types, then refuses CBT skills because “types don’t change.” Outcome research for the presenting communication problem favors skills practice. Best ethics-plus-evidence stance?",
+      "options": [
+        "Unvalidated typologies shouldn’t override evidence-based skills work; traits/preferences may inform style, but refusing effective practice",
+        "Love-language types are DSM disorders with high interrater reliability, justifying refusal of CBT communication tools as contraindicated",
+        "If a quiz is popular, construct validity is established, so outcome trials of skills training become unnecessary for couples with conflict",
+        "Personality types forbid learning new behaviors because operant conditioning cannot occur after age eighteen in relationship contexts"
+      ],
+      "correct": 0,
+      "correctFeedback": "Popular typologies ≠ validated diagnosis; don’t block effective skills on destiny talk (§11.7; methods; therapy).",
+      "wrongFeedback": {
+        "1": "People who pick this medicalize a pop quiz as DSM.",
+        "2": "People who pick this equate popularity with construct validity.",
+        "3": "People who pick this deny adult learning of relationship behaviors."
+      },
+      "page": null
+    }
+  ],
+  "12": [
+    {
+      "section": "§12.1–12.2 + Ch2/7",
+      "question": "After a CEO scandal montage (availability), employees rate a quiet new manager as “probably unethical” (representativeness + FAE). HR has only correlational rumor data. A consultant urges base rates of misconduct and situational constraints. Best social-cognition correction?",
+      "options": [
+        "Salient scandals and prototype matching can bias person judgments; without better evidence, discounting base rates and over-attributing to",
+        "Availability of scandals raises the new manager’s true misconduct base rate to certainty, so FAE becomes accurate social perception rather than a",
+        "Representativeness is Bayesian proof when media montages exist, eliminating the need for behavioral evidence or situational information in",
+        "Fundamental attribution error only occurs in laboratory Asch line studies, never in workplace reputation judgments after viral corporate scandals"
+      ],
+      "correct": 0,
+      "correctFeedback": "Media salience + prototypes fuel FAE; demand better evidence (§12.1–12.2; thinking; methods).",
+      "wrongFeedback": {
+        "1": "People who pick this treat availability as literal base-rate updating to certainty.",
+        "2": "People who pick this crown media resemblance as Bayesian proof.",
+        "3": "People who pick this wrongly localize FAE to Asch studies alone."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.4–12.5 + Ch6/11",
+      "question": "A fraternity hazing persists because dissenters fear rejection (normative influence) and see others comply (informational). Seniors intermittently reinforce silence with status. Personality talk brands pledges as “low openness only.” Best multi-level account?",
+      "options": [
+        "Conformity pressures plus intermittent status reinforcement can maintain hazing; reducing it to a single trait misses social influence and",
+        "Low openness uniquely causes hazing compliance, so changing norms or reinforcement of silence cannot reduce harm once traits are labeled",
+        "Informational influence requires a scientific expert in a lab coat, therefore peer compliance cues cannot shape hazing judgments among pledges",
+        "Normative influence is classical conditioning of the amygdala by chanting, unrelated to operant status rewards for keeping quiet about rituals"
+      ],
+      "correct": 0,
+      "correctFeedback": "Social influence + reinforcement sustain harmful norms beyond trait slogans (§12.4; learning; personality).",
+      "wrongFeedback": {
+        "1": "People who pick this essentialize compliance as one trait and deny norm change.",
+        "2": "People who pick this over-restrict informational influence to credentialed experts.",
+        "3": "People who pick this force an exclusive classical story and ignore status reinforcement."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.6 + Ch3/10",
+      "question": "In a heated debate club, arousal from a prior sprint (excitation leftover) intensifies hostile Tweets about out-groups (scapegoating + arousal). Moderators debate catharsis vs cognitive reframing. Biopsych notes sympathetic activation. Best prediction-aligned approach?",
+      "options": [
+        "Leftover arousal can amplify aggressive expression toward salient targets; catharsis venting often fails—reframing and arousal cool-downs beat",
+        "Catharsis guarantees reduced aggression after hostile Tweets because sympathetic activation vents the aggressive drive to zero in debate settings",
+        "Excitation transfer cannot affect intergroup hostility, because residual arousal only influences romantic attraction ratings in dating labs",
+        "Scapegoating is a sensory adaptation to bright screens, unrelated to arousal, appraisal, or social identity processes in online debates now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Arousal + appraisal/targets matter; catharsis is a weak aggression antidote (§12.6; emotion/motivation; biopsych).",
+      "wrongFeedback": {
+        "1": "People who pick this over-believe catharsis under arousal.",
+        "2": "People who pick this silo excitation transfer to romance only.",
+        "3": "People who pick this reduce scapegoating to sensory adaptation."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.7 + Ch8/14",
+      "question": "Bystanders fail to help a collapsed student in a crowded hall (diffusion + pluralistic ignorance). One witness later “remembers” others moved first (reconstruction). Stress from exams is high. A RA training designer plans modules. Best training target set?",
+      "options": [
+        "Teach recognition of pluralistic ignorance, personal responsibility assignment, and concrete helping steps—memory can distort after the fact, and",
+        "Increase crowd size to raise helping via social facilitation of altruism, because diffusion of responsibility reverses in exam weeks in the vignette",
+        "Pluralistic ignorance means witnesses encode nothing, so memory reconstruction cannot invent helpers who never moved in hallway emergencies now",
+        "Exam stress always increases helping through broaden-and-build, making responsibility training unnecessary in residence-life programs in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Target bystander barriers directly; expect stress and memory distortions (§12.7; memory; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this reverse diffusion logic and misuse facilitation.",
+        "2": "People who pick this deny reconstructive memory after ambiguous events.",
+        "3": "People who pick this romanticize stress as automatic prosocial fuel."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.3 + Ch7/16",
+      "question": "A public-health TikTok uses a celebrity (peripheral route) plus a weak argument about vaccines. Viewers with high need for cognition skim; others follow liking. Motivated reasoning appears in comments. A clinician wants informed consent conversations. Best persuasion literacy point?",
+      "options": [
+        "Peripheral cues can sway low-elaboration audiences while strong arguments matter more under high elaboration; clinical consent still needs now",
+        "Celebrity liking is central-route processing by definition, so argument quality becomes irrelevant for vaccine attitudes among high in the vignette",
+        "Motivated reasoning occurs only in laboratory dissonance studies, never in social-media comment threads about health decisions in the vignette",
+        "Informed consent forbids discussing heuristics because peripheral cues are classical CSs that erase autobiographical memory for risk information"
+      ],
+      "correct": 0,
+      "correctFeedback": "ELM + motivated reasoning inform media literacy; consent still needs substance (§12.3; thinking; therapy ethics themes).",
+      "wrongFeedback": {
+        "1": "People who pick this mislabel celebrity cues as central route.",
+        "2": "People who pick this deny motivated reasoning online.",
+        "3": "People who pick this invent conditioning that wipes risk memory and blocks consent talk."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.5 + Ch9/11",
+      "question": "Parents forbid cross-group friendships “to protect culture,” and teens show rising out-group stereotypes after segregated activities (social identity + limited contact). A coach proposes equal-status cooperative contact on a mixed team. Trait theorists blame low agreeableness only. Best evidence-aligned plan?",
+      "options": [
+        "Structured cooperative contact with equal status and shared goals can reduce prejudice; segregation plus identity threat fuels stereotypes",
+        "Low agreeableness fully explains teen stereotypes, so contact hypotheses cannot work until Big Five scores change through authoritarian lectures",
+        "Social identity processes forbid friendship across groups in adolescence, making cooperative teams ethically inappropriate for prejudice now",
+        "Equal-status contact increases prejudice whenever parents hold display rules about emotion at sporting events in the vignette in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Contact conditions matter; don’t reduce intergroup bias to one trait (§12.5; development; personality).",
+      "wrongFeedback": {
+        "1": "People who pick this overclaim traits and dismiss contact research.",
+        "2": "People who pick this freeze social identity into a friendship ban.",
+        "3": "People who pick this invent a law that good contact always backfires via display rules."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.4 + Ch2/8",
+      "question": "A replication podcast notes smaller modern obedience effects than classic Milgram headlines. Viewers “remember” the original as 100% shock compliance (availability + schema). Methods teachers stress meta-analysis and context. Best takeaway?",
+      "options": [
+        "Classic demonstrations were powerful but context-sensitive; memory and media inflate certainty—use evidence summaries rather than a single",
+        "If any modern rate is lower, obedience research is false and authority cues cannot influence harm-doing in contemporary institutions at all",
+        "Remembering 100% compliance proves flashbulb verbatim storage of textbooks, so meta-analyses are unnecessary for teaching social influence",
+        "Schema-consistent inflation of percentages only happens for sensory thresholds, not for social psychology history narratives in the vignette"
+      ],
+      "correct": 0,
+      "correctFeedback": "Treat classic findings critically; watch memory inflation of headlines (§12.4; methods; memory).",
+      "wrongFeedback": {
+        "1": "People who pick this over-dismiss all obedience relevance from partial replication nuance.",
+        "2": "People who pick this treat a remembered round number as verbatim truth.",
+        "3": "People who pick this silo schema bias away from historical social-psych memory."
+      },
+      "page": null
+    },
+    {
+      "section": "§12.6–12.7 + Ch6/10",
+      "question": "Online pile-ons escalate as users get likes for harsher posts (VR reinforcement) while arousal from outrage videos transfers to new targets. Some claim “online disinhibition reveals true aggressive personality only.” Best synthesis for moderation policy?",
+      "options": [
+        "Reinforcement of escalating posts plus arousal transfer can amplify aggression; platform design matters—don’t reduce pile-ons to unveiled fixed",
+        "Variable-ratio likes extinguish posting, so outrage reinforcement cannot explain escalation once disinhibition vocabulary appears in a moderation",
+        "Excitation transfer from videos cannot influence typed aggression because residual arousal affects only in-person shock machines in obedience",
+        "True aggressive personality forbids situational moderation tools, making contingency changes to likes ethically and scientifically pointless"
+      ],
+      "correct": 0,
+      "correctFeedback": "Design contingencies and arousal pathways shape online aggression beyond trait fatalism (§12.6–12.7; learning; emotion).",
+      "wrongFeedback": {
+        "1": "People who pick this reverse VR reinforcement effects on posting.",
+        "2": "People who pick this silo excitation transfer away from online behavior.",
+        "3": "People who pick this use trait fatalism to reject situational interventions."
+      },
+      "page": null
+    }
+  ]
+}

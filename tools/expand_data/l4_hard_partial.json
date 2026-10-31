@@ -1,0 +1,294 @@
+{
+  "7": [
+    {
+      "section": "§7.3 + Ch2/6",
+      "question": "A firm runs a decision bootcamp against availability and representativeness. Half the managers get spaced retrieval on cases; half get one massed lecture (randomized). The blog then claims the bootcamp *caused* promotions because attendees who later rose also named more heuristics on a post-test. HR, methods, and learning staff argue. Strongest analysis?",
+      "options": [
+        "Promotion links are still correlational with many career confounds; even with randomized training, causal credit for promotions needs",
+        "Naming availability correctly classically conditions salary increases, so promotion correlations become true experiments without tracking job",
+        "Massed lectures equal spaced retrieval for transfer, therefore any promotion difference must be Flynn-effect noise rather than a validity or",
+        "Heuristics are phonemes of executive function, so only Wernicke’s aphasia batteries can validate managerial judgment training before HR may"
+      ],
+      "correct": 0,
+      "correctFeedback": "Randomized training helps internal validity for learning outcomes, but promotions remain multiply determined; post-test naming ≠ career causation (§7.3; Ch2; Ch6).",
+      "wrongFeedback": {
+        "1": "People who pick this treat labeling a bias as classical conditioning that prints money—unsupported and methods-blind.",
+        "2": "People who pick this deny spacing/retrieval advantages and dump residuals into Flynn-effect handwaving.",
+        "3": "People who pick this miscast heuristics as speech sounds and derail into aphasia testing."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.4–7.5 + Ch3/5/14",
+      "question": "Amira’s group IQ screen is average, yet she freezes on timed word problems after a noisy lunch. The teacher wants less recess to “raise crystallized intelligence.” Audiology finds temporary conductive hearing loss; a tutor suspects working-memory load and stereotype threat. Best next-step framing?",
+      "options": [
+        "Treat the freeze as possible sensory/attentional load and situational threat interacting with fluid problem solving—not proof of low g or a",
+        "Spearman’s g equals absolute auditory threshold, so otitis-related blur permanently recalibrates intelligence and recess must be removed to",
+        "Crystallized intelligence lives on the basilar membrane; cutting recess re-encodes semantic facts through cone photopigments after cafeteria",
+        "Stereotype threat is a first-rank Schneiderian delusion, so discard standardized testing and rely only on projective inkblots for placement"
+      ],
+      "correct": 0,
+      "correctFeedback": "Context (noise, threat, working memory) can suppress timed performance without rewriting g; recess cuts are not an intelligence intervention (§7.4–7.5).",
+      "wrongFeedback": {
+        "1": "People who pick this equate g with a sensory threshold and invent permanent biological rewriting.",
+        "2": "People who pick this scramble cochlear/visual anatomy with intelligence theory.",
+        "3": "People who pick this pathologize stereotype threat as psychosis and misuse assessment."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.1 + Ch6/8",
+      "question": "A quiz app rewards streak speed for categorizing exemplars (robin→bird). Under time pressure users reject penguins as birds, then later “remember” the app taught that rule. Product calls it insight; memory research suspects reconstruction; learning sees reinforced prototype matching. Best account?",
+      "options": [
+        "Speed rewards strengthened prototype/heuristic responding, and later recall reconstructed the app’s contingencies as a false semantic rule about",
+        "Pairing robin images with food pellets extinguished every schema, proving category algorithms never err when streaks deliver variable-ratio",
+        "The misinformation effect applies only to courtroom verbs about smashed glass, never to category-learning apps that reinforce fast prototype",
+        "Phoneme segmentation failure alone explains penguin rejection without invoking concepts, reinforcement history, or reconstructive semantic memory"
+      ],
+      "correct": 0,
+      "correctFeedback": "Reinforced fast prototype use plus reconstructive memory can create false “lessons” (§7.1; Ch6; Ch8).",
+      "wrongFeedback": {
+        "1": "People who pick this invent classical food pairing and claim algorithms are error-proof under pressure.",
+        "2": "People who pick this over-restrict misinformation to eyewitness wording only.",
+        "3": "People who pick this reduce a concepts/learning issue to speech-sound processing."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.3 + Ch2/14",
+      "question": "After a viral crash video, a city spends heavily on redesigns (availability-driven urgency after sleepless crisis meetings). Crashes fall on treated and untreated roads during a mild winter and quieter nightlife. Officials claim the redesign caused the drop. Strongest critique?",
+      "options": [
+        "Salient media can drive policy via availability, but history/maturation and missing controls block causal credit; stress-biased urgency",
+        "Any post-campaign crash decline is experimental proof because availability heuristics secretly randomize drivers into treated and untreated",
+        "Mild winters positively reinforce hippocampal route memory in drivers, which cancels maturation threats and validates causal claims without",
+        "Sleep loss raises crystallized intelligence in planners, so availability-based spending is methodologically sound even when untreated roads"
+      ],
+      "correct": 0,
+      "correctFeedback": "Availability plus confounds ≠ causation; untreated parallels undermine redesign credit (§7.3; Ch2; stress).",
+      "wrongFeedback": {
+        "1": "People who pick this equate post-hoc drops with experiments and invent random assignment from a heuristic.",
+        "2": "People who pick this misuse reinforcement/memory anatomy to deny validity threats.",
+        "3": "People who pick this romanticize sleep loss as making smarter causal inference."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.5 + Ch9/11/15",
+      "question": "Parents seek IQ retesting after one low group score. The child changed schools mid-year; a parent’s anxiety fuels nightly “I’m dumb” drilling. A counselor notes parental neuroticism and fear of fixed intelligence. Best evidence-based message?",
+      "options": [
+        "A single screening score is not destiny; developmental disruption, anxiety modeling, and threat-laden practice can depress performance—reassess",
+        "g is sealed at birth by parental neuroticism percentiles, making retesting unethical while intensive deficit-focused drilling becomes the only",
+        "School switches raise individual IQ within two weeks via the Flynn effect, so parental anxiety and drilling quality cannot influence timed",
+        "Attachment disruption converts fluid intelligence into a specific phobia of numerals that should be treated with ECT before any psychoeducational"
+      ],
+      "correct": 0,
+      "correctFeedback": "Interpret scores in developmental and emotional context; avoid fixed-mindset harm (§7.5; Ch9; personality/anxiety).",
+      "wrongFeedback": {
+        "1": "People who pick this freeze g to a parent’s trait score and prescribe harmful drilling.",
+        "2": "People who pick this misuse Flynn effect as a rapid individual booster.",
+        "3": "People who pick this invent an IQ-to-phobia conversion and jump to ECT."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.3 + Ch5/12",
+      "question": "Jurors hear that a defendant “looks like a typical fraudster” (representativeness) after a media montage of scandals (availability). The courtroom is dim and jurors are exhausted. Prosecution calls heuristics Bayesian rationality; defense cites base rates and load. Best statement?",
+      "options": [
+        "Representativeness and availability can pull judgments from base rates; fatigue and poor viewing conditions further undermine effortful, now",
+        "Matching a fraudster prototype equals high perceptual d′, so base rates become irrelevant once the defendant’s face fits a media-derived category",
+        "Media availability classically conditions the optic nerve, making heuristic impressions legally equivalent to DNA match statistics in fraud",
+        "Central-route persuasion forbids heuristics entirely; any prototype talk proves jurors meet criteria for a psychotic disorder rather than"
+      ],
+      "correct": 0,
+      "correctFeedback": "Heuristics plus cognitive load threaten careful justice reasoning (§7.3; sensation; social cognition).",
+      "wrongFeedback": {
+        "1": "People who pick this confuse prototype resemblance with signal-detection sensitivity.",
+        "2": "People who pick this abuse conditioning/sensory metaphors as forensic proof.",
+        "3": "People who pick this pathologize normal heuristic use under ELM misunderstanding."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.4 + Ch2/3/8",
+      "question": "A startup sells “neuroplasticity gum” said to raise Sternberg-style practical intelligence by “coating the hippocampus with crystallized g,” citing one survey linking chewing to self-rated street smarts. Biopsych notes arousal; memory asks encoding vs ability. Best takeaway?",
+      "options": [
+        "Implausible mechanism plus correlational self-ratings do not show gum raises practical intelligence; expectancy or arousal may inflate now",
+        "Crystallized g is a neuromuscular-junction transmitter, therefore gum chemistry must raise practical intelligence whenever chewers report feeling",
+        "Triarchic practical intelligence equals flashbulb memory for advertisements, which converts the chewing survey into a causal demonstration",
+        "Mentioning the hippocampus turns any correlational marketing study into a randomized experiment that licenses ability claims about practical"
+      ],
+      "correct": 0,
+      "correctFeedback": "Buzzword biology + self-report correlations ≠ validated intelligence gains (§7.4; methods; biopsych/memory).",
+      "wrongFeedback": {
+        "1": "People who pick this invent a false neurochemical identity for crystallized intelligence.",
+        "2": "People who pick this mash triarchic theory with flashbulb memory and invent causation.",
+        "3": "People who pick this treat anatomical name-drops as experimental control."
+      },
+      "page": null
+    },
+    {
+      "section": "§7.2 + Ch6/10",
+      "question": "A language app delivers variable-ratio rewards for idiom translations. Users feel proud “Aha!” moments, then cling to wrong grammar generalizations (mental set) despite counterexamples. Motivation cites streak-driven anticipation; emotion cites pride labeling. Best integration?",
+      "options": [
+        "Variable-ratio reinforcement can maintain practice while success-linked affect and mental set rigidify incorrect generalizations even when",
+        "Insight experiences prove exclusive use of algorithms, so mental set and reinforcement schedules cannot jointly shape language-app behavior in",
+        "Variable-ratio schedules extinguish motivation by definition, therefore pride labeling after streaks cannot occur when idiom items deliver",
+        "Idioms are amygdala-stored morphemes, making grammar overgeneralization a thirst drive-reduction episode rather than a thinking-and-learning"
+      ],
+      "correct": 0,
+      "correctFeedback": "Schedules sustain engagement; affect and mental set can still entrench errors (§7.2; learning; motivation/emotion).",
+      "wrongFeedback": {
+        "1": "People who pick this treat insight as pure algorithm use and deny co-occurring biases.",
+        "2": "People who pick this reverse how VR schedules typically sustain responding.",
+        "3": "People who pick this scramble linguistics with fear anatomy and thirst drives."
+      },
+      "page": null
+    }
+  ],
+  "8": [
+    {
+      "section": "§8.1–8.2 + Ch2/7",
+      "question": "A podcast “tests” a memory playlist: song-loving callers free-recall groceries after listening; sleepy chat volunteers recall in silence. Callers do better; the host says music *causes* encoding success. Debate attention, levels of processing, and selection. Best critique?",
+      "options": [
+        "Non-equivalent groups and confounded alertness/preference block causal claims; deeper or more attentive encoding—not the brand of playlist—may",
+        "Free recall after music classically conditions the engram itself, which makes selection confounds irrelevant whenever callers already adore the",
+        "Silent late-night volunteers automatically match daytime callers on motivation and circadian state, so the causal playlist headline is internally",
+        "Availability about catchy intros expands sensory-memory duration from fractions of a second into multi-year storage, proving encoding causation"
+      ],
+      "correct": 0,
+      "correctFeedback": "Encoding quality and group equivalence matter; this design cannot isolate playlist causation (§8.1–8.2; methods).",
+      "wrongFeedback": {
+        "1": "People who pick this use conditioning jargon to dismiss validity threats.",
+        "2": "People who pick this invent matched controls the vignette never created.",
+        "3": "People who pick this confuse sensory-memory limits with heuristic salience."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.3 + Ch5/12",
+      "question": "After a dim-store theft, witnesses watch news saying the suspect “smashed” the case, then confidently report nonexistent broken glass. A detective equates confidence with accuracy; others cite viewing conditions and suggestion. Strongest synthesis?",
+      "options": [
+        "Poor encoding conditions plus misleading post-event language can reconstruct memory; confidence remains an unreliable accuracy cue in this",
+        "Flashbulb vividness from the newscast proves glass was present, because emotional arousal always freezes verbatim sensory traces against later",
+        "Misinformation effects alter only procedural memory for skills like cycling, so episodic crime reports cannot incorporate verbs from televised",
+        "Dim lighting elevates absolute thresholds into photographic memory, which cancels suggestion effects and licenses confidence as a perfect"
+      ],
+      "correct": 0,
+      "correctFeedback": "Reconstructive memory + weak viewing + suggestion undermine confidence–accuracy assumptions (§8.3; sensation; social).",
+      "wrongFeedback": {
+        "1": "People who pick this over-trust flashbulb metaphors as perfect recordings.",
+        "2": "People who pick this misfile misinformation as procedural-only.",
+        "3": "People who pick this invent sensory superpowers that erase suggestion."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.2 + Ch3/6",
+      "question": "A stroke patient improves across days of mirror-tracing yet denies having practiced (procedural vs declarative dissociation). An aide says NMJ dopamine “is the engram.” A tech demands continuous reinforcement only. Neuropsych points to skill circuits without hippocampal report. Best take?",
+      "options": [
+        "Procedural systems can strengthen skills without episodic report; NMJ chemistry is not an engram theory, and reinforcement schedules should",
+        "Failed declarative recall means procedural learning is impossible by definition, so mirror-tracing improvement without awareness cannot be",
+        "Only continuous reinforcement can store procedural traces because variable-ratio schedules erase cerebellar plasticity and abolish motor learning",
+        "Engrams equal semantic lists of world capitals, therefore mirror-tracing skill cannot be retained in any memory system after cortical or now"
+      ],
+      "correct": 0,
+      "correctFeedback": "Multiple memory systems allow skill gains without declarative awareness (§8.2; biopsych; learning).",
+      "wrongFeedback": {
+        "1": "People who pick this deny classic skill/fact dissociations.",
+        "2": "People who pick this overmandate CRF and invent cerebellar erasure.",
+        "3": "People who pick this shrink memory to semantic trivia."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.4 + Ch9/14",
+      "question": "At 78, Maya forgets why she entered rooms after a scary Alzheimer’s article (availability). Sleep debt, new anticholinergic medication, and bereavement stress are present—not progressive aphasia. A relative assumes all late-life forgetting is childhood-schema encoding failure. Best reading?",
+      "options": [
+        "Aging retrieval quirks plus sleep, medication, and stress can mimic alarming forgetting; media availability may inflate disease fear without",
+        "Bereavement always destroys procedural memory for walking, so room-entry forgetting is diagnostic of Alzheimer’s until proven otherwise by a",
+        "Anticholinergic medications permanently enhance LTP, which confirms the article’s causal diagnosis and rules out sleep or stress as contributors",
+        "After 70, childhood schemas become irretrievable because sensory memory lasts only thirty seconds in older adults, explaining doorway forgetting"
+      ],
+      "correct": 0,
+      "correctFeedback": "Differential diagnosis first; sleep/drugs/stress/media fear matter (§8.4; development; health).",
+      "wrongFeedback": {
+        "1": "People who pick this leap from grief to Alzheimer’s via a false procedural claim.",
+        "2": "People who pick this reverse typical anticholinergic cognitive risks.",
+        "3": "People who pick this misuse sensory-memory duration as an aging law."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.1 + Ch7/10",
+      "question": "Students using elaborative “why” self-tests beat re-readers on transfer, but a viral tip says highlighting wins because it “feels fluent.” Researchers flag fluency misattribution and recognition-vs-recall cues. Best conclusion?",
+      "options": [
+        "Desirable difficulties such as retrieval practice often outperform fluency illusions from highlighting; ease of processing is a weak",
+        "Fluency while highlighting lengthens iconic memory into permanent storage, which is why passive marking reliably beats testing effects on",
+        "Elaborative interrogation works only when each why-question is paired with a fixed-interval food-pellet schedule that stamps semantic",
+        "Transfer exams measure phoneme awareness alone, making encoding strategy comparisons irrelevant whenever students self-test with elaborative"
+      ],
+      "correct": 0,
+      "correctFeedback": "Fluency ≠ learning; retrieval/elaboration typically beat passive highlighting (§8.1; thinking; metacognition).",
+      "wrongFeedback": {
+        "1": "People who pick this confuse subjective ease with iconic-memory upgrades.",
+        "2": "People who pick this bolt an irrelevant operant schedule onto a cognitive strategy.",
+        "3": "People who pick this reduce transfer testing to speech sounds."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.3 + Ch4/15",
+      "question": "After heavy drinking and fragmented sleep, Jordan “recalls” an assault detail that first appeared in a friend’s leading text. Staff must support Jordan without implanting more detail; anxiety is high. Best memory-informed stance?",
+      "options": [
+        "Treat the report as possibly genuine, reconstructed, or suggested—document carefully, avoid leading probes, and note alcohol/sleep as",
+        "State-dependent learning proves the texted detail is verbatim truth, because alcohol reliably improves eyewitness precision for emotionally",
+        "Fragmented sleep creates flashbulb-grade accuracy for suggested events, so leading texts cannot distort memory once arousal from anxiety is",
+        "Any post-event text means the memory is a delusion that requires antipsychotic medication first-line before supportive documentation or careful"
+      ],
+      "correct": 0,
+      "correctFeedback": "Support the person; respect reconstructive memory and intoxication/sleep effects; do not lead (§8.3; consciousness; clinical caution).",
+      "wrongFeedback": {
+        "1": "People who pick this reverse alcohol’s typical encoding costs.",
+        "2": "People who pick this invent sleep-based immunity to misinformation.",
+        "3": "People who pick this equate possible suggestion with psychosis and jump to meds."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.2 + Ch6/13",
+      "question": "An airline compares spaced simulator drills with a one-day massed slideshow for emergency checklists. Months later, spaced crews outperform under stress. Management credits “token-economy muscle memory,” though only the spaced group received simulation. Best account?",
+      "options": [
+        "Spacing and retrieval in realistic practice likely drove retention; blaming an unadministered token economy confuses operant buzzwords with the",
+        "Massed slideshows typically outperform spaced high-fidelity simulation for procedural checklists when crews later perform under operational",
+        "Token economies store episodic checklists inside iconic sensory registers for months even when learners never practice retrieval in a simulator",
+        "Stress hormones erase spacing benefits entirely, so any performance gap must be attributed to Hawthorne lighting effects alone rather than"
+      ],
+      "correct": 0,
+      "correctFeedback": "Distributed, retrieval-rich practice explains the edge; the token story is unsupported (§8.2; learning; I-O/HF).",
+      "wrongFeedback": {
+        "1": "People who pick this contradict typical simulation/spacing advantages.",
+        "2": "People who pick this mash tokens with sensory memory absurdly.",
+        "3": "People who pick this deny spacing benefits and default to Hawthorne."
+      },
+      "page": null
+    },
+    {
+      "section": "§8.4 + Ch2/11",
+      "question": "A blog claims high conscientiousness blocks proactive interference because orderliness “stops old lists.” Evidence: a tiny convenience sample correlating traits with “I never forget.” A lab still finds standard PI in paired-associate tasks across Big Five levels. Best conclusion?",
+      "options": [
+        "Weak self-report correlations on convenience samples cannot overturn controlled PI findings; conscientiousness is not an immunity certificate",
+        "Proactive interference cannot appear in laboratory paired-associate procedures, so any trait correlation is the only evidence scientists should",
+        "Big Five facets are themselves encoding strategies, therefore correlational survey links prove causal memory immunity without experimental",
+        "Convenience samples become true randomized experiments whenever the dependent measure is everyday forgetting rather than laboratory accuracy"
+      ],
+      "correct": 0,
+      "correctFeedback": "PI is robust in controlled tasks; trait self-reports don’t erase it (§8.4; methods; personality).",
+      "wrongFeedback": {
+        "1": "People who pick this deny a classic interference effect.",
+        "2": "People who pick this conflate traits with strategies and correlation with causation.",
+        "3": "People who pick this redefine convenience sampling as randomization."
+      },
+      "page": null
+    }
+  ]
+}
