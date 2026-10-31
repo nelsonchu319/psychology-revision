@@ -3,7 +3,7 @@
 from __future__ import annotations
 import json, re, textwrap
 from pathlib import Path
-from balance_lib import balance, sole_long
+# balance_lib optional for question rebuilds
 
 ROOT = Path("/workspace/psychology-revision")
 CH = ROOT / "chapters"
