@@ -599,3 +599,27 @@ button:hover, .btn:hover { background: #2e3f58; }
   border-radius: 6px;
   padding: 0.35rem 0.5rem;
 }
+
+
+/* Compact chapter strip when many chapters are listed */
+.nav a {
+  padding: 0.35rem 0.55rem;
+  font-size: 0.82rem;
+}
+.nav details.nav-more {
+  position: relative;
+}
+.nav details.nav-more > summary {
+  list-style: none;
+  cursor: pointer;
+  color: var(--muted);
+  padding: 0.35rem 0.55rem;
+  border-radius: 8px;
+  font-size: 0.82rem;
+}
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more[open] > summary,
+.nav details.nav-more > summary:hover {
+  background: var(--surface2);
+  color: var(--text);
+}

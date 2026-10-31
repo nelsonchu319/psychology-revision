@@ -1,5 +1,5 @@
 /**
- * OpenStax Psychology 2e revision MCQs (Ch 1–6).
+ * OpenStax Psychology 2e revision MCQs (Ch 1–16).
  * Schema: { id, chapter, level, section, question, options[4], correct, correctFeedback, wrongFeedback, page? }
  * L4 = cross-topic from Ch 2 onward. Access for free at openstax.org.
  */
@@ -4579,5 +4579,7070 @@ window.PSYCH_QUESTIONS = [
       "3": "Baselines matter for claiming change; diary feelings are weak causal evidence."
     },
     "id": "c6-l4-14"
+  },
+  {
+    "chapter": 7,
+    "level": 1,
+    "section": "§7.1",
+    "question": "Cognition is best described as:",
+    "options": [
+      "Only reflexive motor habits",
+      "Thinking and related mental processes",
+      "Personality trait stability alone",
+      "Hormone release patterns only"
+    ],
+    "correct": 1,
+    "correctFeedback": "Cognition covers thinking and related processes (perceive, know, remember, judge).",
+    "wrongFeedback": {
+      "0": "Cognition is mental, not only reflexes.",
+      "1": "None",
+      "2": "Personality is a different chapter topic.",
+      "3": "Hormones are biological mechanisms, not the definition of cognition."
+    },
+    "page": 214,
+    "id": "c7-l1-01"
+  },
+  {
+    "chapter": 7,
+    "level": 1,
+    "section": "§7.1",
+    "question": "A prototype is:",
+    "options": [
+      "A random list of unrelated words",
+      "The best or most typical example of a concept",
+      "A guaranteed problem-solving algorithm",
+      "A measure of IQ exclusively"
+    ],
+    "correct": 1,
+    "correctFeedback": "Prototypes are highly typical category examples that help organize thinking.",
+    "wrongFeedback": {
+      "0": "Prototypes are typical exemplars, not random lists.",
+      "1": "None",
+      "2": "Algorithms are problem-solving procedures.",
+      "3": "IQ is separate from the prototype concept."
+    },
+    "page": 215,
+    "id": "c7-l1-02"
+  },
+  {
+    "chapter": 7,
+    "level": 1,
+    "section": "§7.2",
+    "question": "The smallest unit of sound in a language is a:",
+    "options": [
+      "Morpheme",
+      "Phoneme",
+      "Schema",
+      "Heuristic"
+    ],
+    "correct": 1,
+    "correctFeedback": "Phonemes are basic sound units; morphemes are meaning units.",
+    "wrongFeedback": {
+      "0": "Morphemes carry meaning.",
+      "1": "None",
+      "2": "Schemata are concept clusters.",
+      "3": "Heuristics are thinking shortcuts."
+    },
+    "page": 218,
+    "id": "c7-l1-03"
+  },
+  {
+    "chapter": 7,
+    "level": 1,
+    "section": "§7.3",
+    "question": "An algorithm is:",
+    "options": [
+      "A mental shortcut that may err",
+      "A step-by-step procedure that guarantees a solution if one exists",
+      "A prototype of a category",
+      "A type of flashbulb memory"
+    ],
+    "correct": 1,
+    "correctFeedback": "Algorithms are exhaustive step-by-step methods.",
+    "wrongFeedback": {
+      "0": "That describes a heuristic.",
+      "1": "None",
+      "2": "Prototypes organize concepts.",
+      "3": "Flashbulb memories are vivid emotional memories."
+    },
+    "page": 222,
+    "id": "c7-l1-04"
+  },
+  {
+    "chapter": 7,
+    "level": 1,
+    "section": "§7.4",
+    "question": "Spearman’s g refers to:",
+    "options": [
+      "A general intelligence factor",
+      "Only musical talent",
+      "A schedule of reinforcement",
+      "A defense mechanism"
+    ],
+    "correct": 0,
+    "correctFeedback": "Spearman proposed a general intelligence factor (g).",
+    "wrongFeedback": {
+      "1": "Gardner discusses multiple intelligences including musical.",
+      "2": "Reinforcement schedules are operant conditioning.",
+      "3": "Defenses are psychodynamic."
+    },
+    "page": 228,
+    "id": "c7-l1-05"
+  },
+  {
+    "chapter": 7,
+    "level": 1,
+    "section": "§7.5",
+    "question": "The Flynn effect refers to:",
+    "options": [
+      "Declining raw IQ scores every decade",
+      "Rising average raw IQ scores across generations",
+      "Loss of crystallized knowledge only",
+      "Identical twin concordance for personality"
+    ],
+    "correct": 1,
+    "correctFeedback": "Flynn effect = generational rises in raw intelligence-test scores.",
+    "wrongFeedback": {
+      "0": "The effect is a rise, not a decline.",
+      "1": "None",
+      "2": "It is about test scores broadly, not only crystallized loss.",
+      "3": "Twin concordance is a heritability topic."
+    },
+    "page": 232,
+    "id": "c7-l1-06"
+  },
+  {
+    "chapter": 7,
+    "level": 2,
+    "section": "§7.3",
+    "question": "Functional fixedness most directly impairs problem solving by:",
+    "options": [
+      "Blocking new uses for a familiar object",
+      "Increasing working-memory capacity",
+      "Guaranteeing algorithmic success",
+      "Eliminating all heuristics"
+    ],
+    "correct": 0,
+    "correctFeedback": "Functional fixedness sticks people to usual object functions.",
+    "wrongFeedback": {
+      "1": "It does not increase capacity.",
+      "2": "It hinders, not guarantees, solutions.",
+      "3": "Heuristics remain available but may not help."
+    },
+    "page": 224,
+    "id": "c7-l2-01"
+  },
+  {
+    "chapter": 7,
+    "level": 2,
+    "section": "§7.3",
+    "question": "Availability heuristic judgments rely mainly on:",
+    "options": [
+      "Ease of bringing examples to mind",
+      "Strict Bayesian base-rate math only",
+      "Random genetic mutations",
+      "Operant extinction curves"
+    ],
+    "correct": 0,
+    "correctFeedback": "Availability uses ease of retrieval as a cue for frequency/probability.",
+    "wrongFeedback": {
+      "1": "People often neglect base rates.",
+      "2": "Genetics is unrelated here.",
+      "3": "Extinction is learning, not this heuristic."
+    },
+    "page": 225,
+    "id": "c7-l2-02"
+  },
+  {
+    "chapter": 7,
+    "level": 2,
+    "section": "§7.4",
+    "question": "Sternberg’s triarchic theory includes analytical, creative, and:",
+    "options": [
+      "Practical intelligence",
+      "Only g-factor speed",
+      "Sensory adaptation",
+      "Id impulses"
+    ],
+    "correct": 0,
+    "correctFeedback": "Triarchic = analytical, creative, practical.",
+    "wrongFeedback": {
+      "1": "Sternberg expands beyond g alone.",
+      "2": "Sensory adaptation is sensation.",
+      "3": "Id is Freudian."
+    },
+    "page": 228,
+    "id": "c7-l2-03"
+  },
+  {
+    "chapter": 7,
+    "level": 2,
+    "section": "§7.2",
+    "question": "Morphemes differ from phonemes because morphemes:",
+    "options": [
+      "Are the smallest units of meaning",
+      "Are only vowel sounds",
+      "Cannot combine into words",
+      "Are identical to schemata"
+    ],
+    "correct": 0,
+    "correctFeedback": "Morphemes = smallest meaning units; phonemes = sound units.",
+    "wrongFeedback": {
+      "1": "Phonemes include consonants too.",
+      "2": "Morphemes combine into words.",
+      "3": "Schemata are conceptual clusters."
+    },
+    "page": 218,
+    "id": "c7-l2-04"
+  },
+  {
+    "chapter": 7,
+    "level": 2,
+    "section": "§7.6",
+    "question": "Range of reaction emphasizes that genes:",
+    "options": [
+      "Set boundaries within which environment can shape outcomes",
+      "Fully determine IQ with no environmental role",
+      "Are irrelevant to cognitive ability",
+      "Only affect height, never cognition"
+    ],
+    "correct": 0,
+    "correctFeedback": "Range of reaction: genetic potential + environmental placement.",
+    "wrongFeedback": {
+      "1": "Both genes and environment matter.",
+      "2": "Genes contribute.",
+      "3": "Cognitive traits are also discussed."
+    },
+    "page": 236,
+    "id": "c7-l2-05"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.3",
+    "question": "A student always restarts coding bugs by rewriting the whole file because that worked once, ignoring smaller debug steps. This best illustrates:",
+    "options": [
+      "Mental set persisting with a past approach in the vignette",
+      "Secure attachment to a caregiver in the vignette now now",
+      "Sensory adaptation to room light in the vignette now now",
+      "Token economy reinforcement in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Mental set = sticking with a previously successful strategy.",
+    "wrongFeedback": {
+      "1": "Attachment is developmental.",
+      "2": "Adaptation is sensory.",
+      "3": "Tokens are operant tools."
+    },
+    "page": 224,
+    "id": "c7-l3-01"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.3",
+    "question": "After seeing news about plane crashes, Mira overestimates flying risk versus driving. She is likely using:",
+    "options": [
+      "Availability heuristic from vivid recall in the vignette",
+      "A perfect algorithm for risk in the vignette given these facts",
+      "Spearman’s pure g calculation in the vignette given these facts",
+      "Classical extinction of fear in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Vivid crash stories come easily to mind → availability.",
+    "wrongFeedback": {
+      "1": "No guaranteed algorithm is described.",
+      "2": "g is intelligence structure.",
+      "3": "Extinction weakens CRs."
+    },
+    "page": 225,
+    "id": "c7-l3-02"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.1",
+    "question": "Calling a robin a “better bird” than a penguin for teaching the bird concept highlights:",
+    "options": [
+      "Prototype typicality within a concept in the vignette",
+      "Anterograde amnesia in the vignette given these facts",
+      "Drive-reduction thirst in the vignette given these facts",
+      "Groupthink consensus in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Robins are closer to many people’s bird prototype.",
+    "wrongFeedback": {
+      "1": "Amnesia is memory loss.",
+      "2": "Drive theory is motivation.",
+      "3": "Groupthink is social."
+    },
+    "page": 215,
+    "id": "c7-l3-03"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.3",
+    "question": "Using a coin only as money and never as a screwdriver tip in a pinch shows:",
+    "options": [
+      "Functional fixedness about object use in the vignette now",
+      "Flashbulb accuracy guarantees in the vignette given these facts",
+      "Flynn-effect score gains in the vignette given these facts",
+      "Unconditional positive regard in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stuck on conventional function = functional fixedness.",
+    "wrongFeedback": {
+      "1": "Flashbulb is vivid memory.",
+      "2": "Flynn is generational IQ.",
+      "3": "UPR is Rogers."
+    },
+    "page": 224,
+    "id": "c7-l3-04"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.4",
+    "question": "Solving novel machine failures with inventive workarounds best maps onto Sternberg’s:",
+    "options": [
+      "Creative intelligence component in the vignette now now",
+      "Only crystallized vocabulary in the vignette given these facts",
+      "Sensory memory store in the vignette given these facts",
+      "Id pleasure seeking in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Creative intelligence = novel problem solutions.",
+    "wrongFeedback": {
+      "1": "Crystallized is accumulated knowledge.",
+      "2": "Sensory memory is brief.",
+      "3": "Id is Freudian."
+    },
+    "page": 228,
+    "id": "c7-l3-05"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.4",
+    "question": "Navigating a new city’s transit without a map by adapting flexibly best fits Sternberg’s:",
+    "options": [
+      "Practical intelligence (“street smarts”) in the vignette",
+      "Phoneme discrimination only in the vignette given these facts",
+      "Systematic desensitization in the vignette given these facts",
+      "Projective testing in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Practical intelligence applies knowledge to everyday contexts.",
+    "wrongFeedback": {
+      "1": "Phonemes are language sounds.",
+      "2": "Desensitization is therapy.",
+      "3": "Projectives assess personality."
+    },
+    "page": 228,
+    "id": "c7-l3-06"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.5",
+    "question": "A culturally loaded verbal IQ item may threaten:",
+    "options": [
+      "Fairness / cultural bias validity concerns in the vignette",
+      "Guaranteed construct validity forever in the vignette now",
+      "Sensory threshold measurement in the vignette given these facts",
+      "GAS exhaustion stage in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Culture-loaded items raise bias and fairness issues.",
+    "wrongFeedback": {
+      "1": "Bias threatens validity claims.",
+      "2": "Thresholds are sensation.",
+      "3": "GAS is stress."
+    },
+    "page": 234,
+    "id": "c7-l3-07"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.3",
+    "question": "Ignoring base rates of a rare disease after a vivid positive test story is closest to:",
+    "options": [
+      "Representativeness / base-rate neglect themes in the vignette",
+      "Operant shaping of pigeons in the vignette given these facts",
+      "Hippocampal consolidation only in the vignette given these facts",
+      "Display-rule learning in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Judging by resemblance while neglecting base rates is a classic bias pattern.",
+    "wrongFeedback": {
+      "1": "Shaping is operant.",
+      "2": "Consolidation is memory.",
+      "3": "Display rules are emotion."
+    },
+    "page": 226,
+    "id": "c7-l3-08"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.1",
+    "question": "Knowing the “restaurant script” (order→eat→pay) is an example of:",
+    "options": [
+      "An event schema / script in the vignette",
+      "A fixed-ratio schedule in the vignette given these facts",
+      "Retrograde amnesia in the vignette given these facts",
+      "Type A hostility in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Event schemata (scripts) guide routine sequences.",
+    "wrongFeedback": {
+      "1": "Schedules are operant.",
+      "2": "Amnesia is memory loss.",
+      "3": "Type A is stress/personality."
+    },
+    "page": 216,
+    "id": "c7-l3-09"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.2",
+    "question": "Children worldwide progressing from babbling toward structured grammar supports:",
+    "options": [
+      "Orderly early language acquisition patterns in the vignette",
+      "Complete environmental irrelevance in the vignette now",
+      "Personality Big Five only in the vignette given these facts",
+      "SRRS life-change units in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "OpenStax notes a similar early acquisition sequence across cultures.",
+    "wrongFeedback": {
+      "1": "Environment still matters; sequence is widely shared.",
+      "2": "Big Five is personality.",
+      "3": "SRRS is stress."
+    },
+    "page": 219,
+    "id": "c7-l3-10"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.5",
+    "question": "If two alternate IQ forms correlate highly, that supports:",
+    "options": [
+      "Reliability of the measure in the vignette given these facts",
+      "That the test causes intelligence in the vignette now now",
+      "That heuristics are algorithms in the vignette given these facts",
+      "That schemas are phonemes in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "High alternate-form correlation → reliability evidence.",
+    "wrongFeedback": {
+      "1": "Reliability ≠ causation of IQ.",
+      "2": "Heuristics ≠ algorithms.",
+      "3": "Different constructs."
+    },
+    "page": 231,
+    "id": "c7-l3-11"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.3",
+    "question": "A password cracker trying every combination illustrates an:",
+    "options": [
+      "Algorithmic exhaustive search in the vignette",
+      "Availability heuristic only in the vignette given these facts",
+      "Secure attachment style in the vignette given these facts",
+      "Token economy backup in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Trying all combinations is algorithmic.",
+    "wrongFeedback": {
+      "1": "Availability is a shortcut.",
+      "2": "Attachment is developmental.",
+      "3": "Tokens reinforce behavior."
+    },
+    "page": 222,
+    "id": "c7-l3-12"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.4",
+    "question": "Gardner listing linguistic, spatial, and interpersonal intelligences challenges:",
+    "options": [
+      "Narrow single-g definitions of intelligence in the vignette",
+      "The existence of phonemes in the vignette given these facts",
+      "Atkinson–Shiffrin sensory store in the vignette now",
+      "Milgram obedience rates in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Multiple intelligences pluralize what “smart” means beyond g alone.",
+    "wrongFeedback": {
+      "1": "Phonemes still exist.",
+      "2": "Memory model unrelated.",
+      "3": "Obedience is social."
+    },
+    "page": 229,
+    "id": "c7-l3-13"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.6",
+    "question": "Twins reared apart still resembling each other on IQ most directly supports:",
+    "options": [
+      "Genetic contribution within a reaction range in the vignette",
+      "That environment is the only cause in the vignette now",
+      "That IQ tests measure only motivation in the vignette now",
+      "That language has no lexicon in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Similarity despite different homes implicates genetics (with shared-method caveats).",
+    "wrongFeedback": {
+      "1": "Genes matter too.",
+      "2": "IQ measures cognitive performance, not only motivation.",
+      "3": "Language has lexicon+grammar."
+    },
+    "page": 238,
+    "id": "c7-l3-14"
+  },
+  {
+    "chapter": 7,
+    "level": 3,
+    "section": "§7.3",
+    "question": "Confirmation bias would lead a student to:",
+    "options": [
+      "Seek only evidence supporting a favored theory",
+      "Run a fully pre-registered adversarial test in the vignette",
+      "Ignore all prototypes when categorizing in the vignette",
+      "Use only algorithms, never heuristics in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Confirmation bias favors supportive evidence.",
+    "wrongFeedback": {
+      "1": "That would fight the bias.",
+      "2": "Prototypes are separate.",
+      "3": "Bias is about evidence search, not banning heuristics."
+    },
+    "page": 226,
+    "id": "c7-l3-15"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "2.3+7.3",
+    "question": "A lab claims a new “creativity drug” raised insight scores but assigned volunteers who already loved puzzles to the drug group and novices to placebo, with no randomization. Best methods critique?",
+    "options": [
+      "Selection confounds block causal claims about the drug",
+      "Heuristics make random assignment ethically impossible always",
+      "Phonemes prove the design is internally valid in the vignette",
+      "Flynn effect alone creates true experiments in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Without random assignment, pre-existing differences explain results.",
+    "wrongFeedback": {
+      "1": "Heuristics do not forbid randomization.",
+      "2": "Phonemes are language units.",
+      "3": "Flynn effect is generational scores."
+    },
+    "id": "c7-l4-01"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "6.3+7.3",
+    "question": "A teacher reinforces only the first correct algebra step every 5 minutes (FI) while students still show functional fixedness on word problems. Best integration?",
+    "options": [
+      "Schedules can raise response rates yet not remove cognitive",
+      "Fixed-interval schedules erase all mental sets automatically",
+      "Functional fixedness is a positive reinforcer in the vignette",
+      "Algorithms forbid any operant influence on homework now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Operant schedules shape emission rates; cognitive obstacles can persist.",
+    "wrongFeedback": {
+      "1": "FI does not auto-remove mental sets.",
+      "2": "Fixedness is an obstacle, not a reinforcer.",
+      "3": "Learning and cognition interact."
+    },
+    "id": "c7-l4-02"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "3.2+7.5",
+    "question": "An article says “IQ is 100% genetic because heritability is .80.” A biopsych peer replies heritability is population variance, not destiny for individuals. Best evaluation?",
+    "options": [
+      "Heritability ≠ genetic determination of one person’s score",
+      "Heritability .80 means environment is impossible in the vignette",
+      "IQ tests measure only reaction time in the retina now now",
+      "Schemas are stored exclusively in the spinal cord now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "High heritability still allows environmental effects and is a group statistic.",
+    "wrongFeedback": {
+      "1": "Environment can still matter.",
+      "2": "IQ is broader than retinal RT.",
+      "3": "Schemas are cognitive, not spinal-only."
+    },
+    "id": "c7-l4-03"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "5.1+7.1",
+    "question": "Top-down perception using expectations resembles using schemata to fill gaps. Best parallel?",
+    "options": [
+      "Both use prior knowledge to organize incomplete input",
+      "Phonemes are identical to absolute thresholds in the vignette",
+      "Heuristics require rods but not cones in the vignette",
+      "Prototypes are unconditioned stimuli only in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Schemata/top-down processing both apply prior structures to input.",
+    "wrongFeedback": {
+      "1": "Different constructs.",
+      "2": "Heuristics are not photoreceptor-bound.",
+      "3": "Prototypes are not UCS by definition."
+    },
+    "id": "c7-l4-04"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "1.2+7.4",
+    "question": "Comparing Spearman’s g with Gardner’s multiple intelligences, a history-minded student asks which is more “scientific.” Best nuanced reply?",
+    "options": [
+      "g has strong psychometrics; Gardner is broader but harder to",
+      "Gardner proved g does not exist at all in the vignette",
+      "Spearman measured only emotional intelligence in the vignette",
+      "Both theories reject any empirical testing in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Tradeoff: psychometric coherence of g vs breadth of multiple intelligences.",
+    "wrongFeedback": {
+      "1": "g research remains influential.",
+      "2": "Emotional IQ is another construct.",
+      "3": "Both invite empirical work."
+    },
+    "id": "c7-l4-05"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "8.1+7.3",
+    "question": "Working-memory limits make multi-step mental arithmetic hard, so students use heuristics. Best link?",
+    "options": [
+      "Limited working memory encourages shortcut strategies now",
+      "Working memory capacity is infinite after one rehearsal",
+      "Heuristics require anterograde amnesia in the vignette",
+      "Algorithms never use storage in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Capacity limits push people toward simplifying heuristics.",
+    "wrongFeedback": {
+      "1": "Capacity remains limited.",
+      "2": "Amnesia is not required.",
+      "3": "Algorithms still use memory."
+    },
+    "id": "c7-l4-06"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "2.4+7.5",
+    "question": "A company uses a poorly validated “brain teaser” interview to hire, then claims fairness. Ethics/methods best flag?",
+    "options": [
+      "Weak validity and possible adverse impact undermine fair",
+      "Any puzzle automatically has perfect predictive validity",
+      "Flynn effect legalizes all hiring tests in the vignette",
+      "Phoneme tasks are the only legal assessments in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Selection tools need reliability/validity and fair use scrutiny.",
+    "wrongFeedback": {
+      "1": "Validity must be evidenced.",
+      "2": "Flynn effect is unrelated to legalizing tests.",
+      "3": "Many assessments exist."
+    },
+    "id": "c7-l4-07"
+  },
+  {
+    "chapter": 7,
+    "level": 4,
+    "section": "4.1+7.3",
+    "question": "Sleep loss impairs prefrontal control; a student then shows more confirmation bias online. Plausible bridge?",
+    "options": [
+      "Reduced cognitive control can worsen biased evidence search",
+      "Sleep spindles erase all heuristics permanently in the vignette",
+      "Confirmation bias is a circadian hormone only in the vignette",
+      "Algorithms require REM dreams to run in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Executive control supports resisting bias; sleep loss can weaken it.",
+    "wrongFeedback": {
+      "1": "Heuristics persist.",
+      "2": "Bias is cognitive, not a hormone definition.",
+      "3": "Algorithms are procedures, not REM-bound."
+    },
+    "id": "c7-l4-08"
+  },
+  {
+    "chapter": 8,
+    "level": 1,
+    "section": "§8.1",
+    "question": "Encoding is the process of:",
+    "options": [
+      "Getting information into the memory system",
+      "Only retrieving old memories",
+      "Destroying the engram permanently",
+      "Measuring absolute thresholds"
+    ],
+    "correct": 0,
+    "correctFeedback": "Encoding = input into memory.",
+    "wrongFeedback": {
+      "1": "Retrieval pulls information out.",
+      "2": "Engrams are memory traces, not encoding.",
+      "3": "Thresholds are sensation."
+    },
+    "page": 248,
+    "id": "c8-l1-01"
+  },
+  {
+    "chapter": 8,
+    "level": 1,
+    "section": "§8.1",
+    "question": "According to Atkinson–Shiffrin, information usually flows:",
+    "options": [
+      "Sensory → short-term → long-term",
+      "Long-term → sensory → spinal",
+      "Only into procedural stores",
+      "Directly from UCS to CR"
+    ],
+    "correct": 0,
+    "correctFeedback": "Classic multistore flow with rehearsal to LTM.",
+    "wrongFeedback": {
+      "1": "Order is reversed/wrong.",
+      "2": "Multiple LTM types exist.",
+      "3": "That is classical conditioning."
+    },
+    "page": 249,
+    "id": "c8-l1-02"
+  },
+  {
+    "chapter": 8,
+    "level": 1,
+    "section": "§8.1",
+    "question": "Episodic memory is a type of:",
+    "options": [
+      "Explicit memory for personal events",
+      "Implicit motor skill only",
+      "Sensory iconic store only",
+      "Fixed-interval schedule"
+    ],
+    "correct": 0,
+    "correctFeedback": "Episodic = personally experienced events (explicit).",
+    "wrongFeedback": {
+      "1": "Skills are often implicit/procedural.",
+      "2": "Sensory memory is brief.",
+      "3": "Schedules are operant."
+    },
+    "page": 252,
+    "id": "c8-l1-03"
+  },
+  {
+    "chapter": 8,
+    "level": 1,
+    "section": "§8.2",
+    "question": "The hippocampus is especially important for:",
+    "options": [
+      "Forming new explicit memories",
+      "Detecting only light wavelengths",
+      "Releasing digestive enzymes",
+      "Producing phonemes"
+    ],
+    "correct": 0,
+    "correctFeedback": "Hippocampus supports encoding/consolidation of new explicit memories.",
+    "wrongFeedback": {
+      "1": "Vision is retina/cortex.",
+      "2": "Digestion is not memory.",
+      "3": "Phonemes are language sounds."
+    },
+    "page": 254,
+    "id": "c8-l1-04"
+  },
+  {
+    "chapter": 8,
+    "level": 1,
+    "section": "§8.3",
+    "question": "Anterograde amnesia involves difficulty:",
+    "options": [
+      "Forming new memories after onset",
+      "Remembering only childhood years",
+      "Naming colors exclusively",
+      "Hearing high frequencies"
+    ],
+    "correct": 0,
+    "correctFeedback": "Anterograde = cannot form new post-onset memories.",
+    "wrongFeedback": {
+      "1": "That is more retrograde-flavored.",
+      "2": "Color naming is different.",
+      "3": "Hearing is audition."
+    },
+    "page": 259,
+    "id": "c8-l1-05"
+  },
+  {
+    "chapter": 8,
+    "level": 1,
+    "section": "§8.3",
+    "question": "The misinformation effect shows that:",
+    "options": [
+      "Post-event information can distort memory reports",
+      "Memory is a perfect video recording",
+      "Extinction always erases skills",
+      "IQ equals working memory"
+    ],
+    "correct": 0,
+    "correctFeedback": "Loftus-style post-event suggestion alters reports.",
+    "wrongFeedback": {
+      "1": "Memory is reconstructive.",
+      "2": "Extinction ≠ misinformation.",
+      "3": "Different constructs."
+    },
+    "page": 262,
+    "id": "c8-l1-06"
+  },
+  {
+    "chapter": 8,
+    "level": 2,
+    "section": "§8.1",
+    "question": "Elaborative rehearsal improves LTM mainly by:",
+    "options": [
+      "Linking new material to meaning and knowledge",
+      "Repeating sounds without meaning only",
+      "Avoiding all chunking strategies",
+      "Blocking the amygdala always"
+    ],
+    "correct": 0,
+    "correctFeedback": "Elaboration builds meaningful connections.",
+    "wrongFeedback": {
+      "1": "Maintenance rehearsal is shallower.",
+      "2": "Chunking helps.",
+      "3": "Amygdala modulates emotion, not the definition."
+    },
+    "page": 251,
+    "id": "c8-l2-01"
+  },
+  {
+    "chapter": 8,
+    "level": 2,
+    "section": "§8.3",
+    "question": "Proactive interference occurs when:",
+    "options": [
+      "Old learning disrupts new learning",
+      "New learning disrupts old learning only",
+      "Encoding never happens at all",
+      "Retrieval is identical to sensation"
+    ],
+    "correct": 0,
+    "correctFeedback": "Proactive = forward-acting interference from old → new.",
+    "wrongFeedback": {
+      "1": "That is retroactive.",
+      "2": "Encoding can occur.",
+      "3": "Retrieval ≠ sensation."
+    },
+    "page": 266,
+    "id": "c8-l2-02"
+  },
+  {
+    "chapter": 8,
+    "level": 2,
+    "section": "§8.2",
+    "question": "Flashbulb memories are typically:",
+    "options": [
+      "Vivid but not guaranteed accurate",
+      "Immune to all reconstruction",
+      "Stored only in the cerebellum",
+      "Identical to unconditional responses"
+    ],
+    "correct": 0,
+    "correctFeedback": "Emotionally vivid, yet still reconstructive.",
+    "wrongFeedback": {
+      "1": "They can be wrong.",
+      "2": "Cerebellum is more procedural.",
+      "3": "UCR is classical conditioning."
+    },
+    "page": 256,
+    "id": "c8-l2-03"
+  },
+  {
+    "chapter": 8,
+    "level": 2,
+    "section": "§8.1",
+    "question": "Implicit memory is demonstrated when people:",
+    "options": [
+      "Show skills/priming without conscious recall",
+      "Always verbally declare episodic details",
+      "Use only algorithms to recall",
+      "Fail every recognition test by definition"
+    ],
+    "correct": 0,
+    "correctFeedback": "Implicit = without conscious remembering.",
+    "wrongFeedback": {
+      "1": "That is explicit.",
+      "2": "Algorithms are problem solving.",
+      "3": "Recognition can still show memory."
+    },
+    "page": 252,
+    "id": "c8-l2-04"
+  },
+  {
+    "chapter": 8,
+    "level": 2,
+    "section": "§8.4",
+    "question": "Chunking aids STM by:",
+    "options": [
+      "Grouping items into meaningful units",
+      "Deleting all sensory traces instantly",
+      "Forcing anterograde amnesia",
+      "Removing elaborative links"
+    ],
+    "correct": 0,
+    "correctFeedback": "Chunking expands effective capacity via grouping.",
+    "wrongFeedback": {
+      "1": "It organizes, not deletes sensory memory as its goal.",
+      "2": "Amnesia is a disorder.",
+      "3": "Elaboration helps LTM."
+    },
+    "page": 269,
+    "id": "c8-l2-05"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.1",
+    "question": "After reading once, Kai cannot recall definitions but recognizes them on a multiple-choice test. This highlights:",
+    "options": [
+      "Recognition often easier than free recall in the vignette",
+      "That encoding never occurred if recall fails in the vignette",
+      "That LTM capacity is about seven items in the vignette",
+      "That implicit memory requires free recall in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Recognition provides cues that free recall lacks.",
+    "wrongFeedback": {
+      "1": "Partial learning can support recognition.",
+      "2": "7±2 is STM, not LTM capacity.",
+      "3": "Implicit ≠ needing free recall."
+    },
+    "page": 250,
+    "id": "c8-l3-01"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.3",
+    "question": "A witness is asked “How fast when they smashed?” versus “contacted,” then reports higher speed. Best label?",
+    "options": [
+      "Misinformation / leading-question effect in the vignette",
+      "Secure-avoidant attachment shift in the vignette now",
+      "Flynn effect on vocabulary in the vignette given these facts",
+      "Yerkes–Dodson peak arousal only in the vignette now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Verb wording alters memory reports.",
+    "wrongFeedback": {
+      "1": "Attachment is developmental.",
+      "2": "Flynn is IQ generations.",
+      "3": "Arousal law is motivation."
+    },
+    "page": 262,
+    "id": "c8-l3-02"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.1",
+    "question": "Riding a bike while unable to state gear rules best illustrates:",
+    "options": [
+      "Implicit procedural memory in the vignette given these facts",
+      "Semantic memory of dates only in the vignette given these facts",
+      "Sensory echoic storage of bike color in the vignette now",
+      "Fundamental attribution error in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Skills can be implicit/procedural.",
+    "wrongFeedback": {
+      "1": "Semantic is facts.",
+      "2": "Echoic is auditory sensory.",
+      "3": "FAE is social."
+    },
+    "page": 252,
+    "id": "c8-l3-03"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.3",
+    "question": "Studying French then Spanish, then failing French words, is most like:",
+    "options": [
+      "Retroactive interference in the vignette given these facts",
+      "Proactive interference only in the vignette given these facts",
+      "Latent learning without performance in the vignette now",
+      "Group polarization in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "New Spanish disrupts old French → retroactive.",
+    "wrongFeedback": {
+      "1": "Proactive would be French blocking Spanish.",
+      "2": "Latent learning is Tolman.",
+      "3": "Polarization is social."
+    },
+    "page": 266,
+    "id": "c8-l3-04"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.2",
+    "question": "Strong emotion during an accident may enhance memory via amygdala modulation. This best fits:",
+    "options": [
+      "Arousal-related memory strengthening themes in the vignette",
+      "Absolute threshold for light in the vignette given these facts",
+      "Phoneme acquisition order in the vignette given these facts",
+      "Token economies in factories in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Emotional arousal can strengthen memory traces.",
+    "wrongFeedback": {
+      "1": "Thresholds are sensation.",
+      "2": "Phonemes are language.",
+      "3": "Tokens are operant."
+    },
+    "page": 255,
+    "id": "c8-l3-05"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.3",
+    "question": "Forgetting a new classmate’s name because you never encoded it is:",
+    "options": [
+      "Encoding failure in the vignette given these facts now",
+      "Retrieval of an engram that never needed encoding now",
+      "Retrograde amnesia for childhood in the vignette now",
+      "Systematic desensitization in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "If not encoded, later retrieval fails.",
+    "wrongFeedback": {
+      "1": "No engram without encoding.",
+      "2": "Retrograde is loss of old memories.",
+      "3": "Desensitization is therapy."
+    },
+    "page": 264,
+    "id": "c8-l3-06"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.1",
+    "question": "Repeating a phone number until you dial it uses:",
+    "options": [
+      "Maintenance rehearsal in STM/working memory in the vignette",
+      "Semantic LTM reorganization only in the vignette now",
+      "Projective personality assessment in the vignette now",
+      "Kohlberg postconventional reasoning in the vignette now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Rote rehearsal holds STM.",
+    "wrongFeedback": {
+      "1": "Semantic reorganization is deeper LTM work.",
+      "2": "Projectives are personality.",
+      "3": "Kohlberg is moral."
+    },
+    "page": 250,
+    "id": "c8-l3-07"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.4",
+    "question": "Building a memory palace for anatomy terms is a:",
+    "options": [
+      "Mnemonic strategy in the vignette given these facts now",
+      "Form of anterograde amnesia in the vignette given these facts",
+      "Type of daily hassle on SRRS in the vignette given these facts",
+      "Display rule for anger in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Mnemonics are memory aids.",
+    "wrongFeedback": {
+      "1": "Mnemonics help memory.",
+      "2": "SRRS is stress.",
+      "3": "Display rules are emotion."
+    },
+    "page": 270,
+    "id": "c8-l3-08"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.3",
+    "question": "Blocking on a well-known actor’s name (tip-of-the-tongue) is:",
+    "options": [
+      "Temporary retrieval failure in the vignette given these facts",
+      "Proof encoding never happened in the vignette given these facts",
+      "A psychotic delusion by definition in the vignette now now",
+      "Classical acquisition of a CR in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "TOT = retrieval blocked though stored.",
+    "wrongFeedback": {
+      "1": "Often encoded but inaccessible briefly.",
+      "2": "Not psychosis.",
+      "3": "Not classical conditioning."
+    },
+    "page": 265,
+    "id": "c8-l3-09"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.1",
+    "question": "Baddeley’s model adds a central executive that:",
+    "options": [
+      "Coordinates subsystems of working memory in the vignette",
+      "Stores only lifetime episodic films in the vignette now now",
+      "Is identical to the UCS in the vignette given these facts",
+      "Measures g with a single digit in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Central executive directs attention/subsystems.",
+    "wrongFeedback": {
+      "1": "Not a lifelong video archive alone.",
+      "2": "UCS is conditioning.",
+      "3": "g is intelligence."
+    },
+    "page": 251,
+    "id": "c8-l3-10"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.3",
+    "question": "After a concussion, Lea recalls childhood but not hospital visitors this week. Pattern fits:",
+    "options": [
+      "Anterograde more than retrograde loss in the vignette",
+      "Pure retrograde with intact new learning in the vignette",
+      "Iconic memory of 30 minutes in the vignette given these facts",
+      "Availability heuristic for pain only in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "New post-injury memories fail → anterograde.",
+    "wrongFeedback": {
+      "1": "Childhood recall intact suggests not pure retrograde.",
+      "2": "Iconic is milliseconds–seconds.",
+      "3": "Heuristic is judgment."
+    },
+    "page": 259,
+    "id": "c8-l3-11"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.2",
+    "question": "Lashley’s failure to find a single engram locus suggested:",
+    "options": [
+      "Memories are distributed across cortex in the vignette now",
+      "All memory lives in one spinal neuron in the vignette now",
+      "IQ tests measure only rote rehearsal in the vignette now",
+      "Attachment styles are engrams in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Distributed storage idea from engram search failures.",
+    "wrongFeedback": {
+      "1": "Not a single neuron story.",
+      "2": "IQ ≠ only rehearsal.",
+      "3": "Attachment ≠ engram definition."
+    },
+    "page": 254,
+    "id": "c8-l3-12"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.4",
+    "question": "Self-testing before an exam helps more than rereading mainly via:",
+    "options": [
+      "Retrieval practice strengthening access in the vignette",
+      "Avoiding all encoding in the vignette given these facts",
+      "Creating proactive amnesia in the vignette given these facts",
+      "Reducing phoneme inventory in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Practice testing strengthens retrieval routes.",
+    "wrongFeedback": {
+      "1": "Encoding still needed.",
+      "2": "Not amnesia.",
+      "3": "Phonemes unrelated."
+    },
+    "page": 271,
+    "id": "c8-l3-13"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.3",
+    "question": "Persistence of intrusive trauma memories despite wanting to forget illustrates:",
+    "options": [
+      "Persistence as a memory “vice” in the vignette",
+      "Perfect intentional forgetting always in the vignette now",
+      "That implicit memory cannot exist in the vignette now now",
+      "GAS alarm without appraisal in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Persistence = unwanted remembering.",
+    "wrongFeedback": {
+      "1": "Forgetting is imperfect.",
+      "2": "Implicit exists.",
+      "3": "GAS is stress."
+    },
+    "page": 267,
+    "id": "c8-l3-14"
+  },
+  {
+    "chapter": 8,
+    "level": 3,
+    "section": "§8.1",
+    "question": "Knowing Paris is France’s capital is mainly:",
+    "options": [
+      "Semantic memory in the vignette given these facts now",
+      "Episodic memory of your last meal in the vignette now",
+      "Procedural bike balance in the vignette given these facts",
+      "Sensory iconic snapshot in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Facts/concepts = semantic.",
+    "wrongFeedback": {
+      "1": "Episodic is personal events.",
+      "2": "Procedural is skills.",
+      "3": "Iconic is brief visual."
+    },
+    "page": 252,
+    "id": "c8-l3-15"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "3.3+8.2",
+    "question": "A patient with hippocampal damage learns a mirror-tracing skill across days but denies having practiced. Best interpretation?",
+    "options": [
+      "Procedural learning can spare when explicit memory is now",
+      "Hippocampus is required for all procedural skills now now",
+      "This proves encoding failure of sensory memory only now",
+      "Misinformation always creates new procedural skills now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Classic dissociation: skill up, declarative down.",
+    "wrongFeedback": {
+      "1": "Procedural often less hippocampal.",
+      "2": "Sensory memory not the main story.",
+      "3": "Misinformation ≠ skill learning."
+    },
+    "id": "c8-l4-01"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "6.2+8.3",
+    "question": "A CS (clinic smell) triggers anxiety CR; later wording in therapy distorts the memory of the first panic. Cross-topic best take?",
+    "options": [
+      "Classical emotional memory can coexist with reconstructive",
+      "CRs cannot be modulated by cognition ever in the vignette",
+      "Only algorithms extinguish CRs in the vignette given these facts",
+      "Flashbulb CRs are always accurate in the vignette now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Conditioned fear and reconstructive memory can both operate.",
+    "wrongFeedback": {
+      "1": "Cognition can matter.",
+      "2": "Extinction is CS without UCS.",
+      "3": "Flashbulbs not perfect."
+    },
+    "id": "c8-l4-02"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "2.3+8.3",
+    "question": "An eyewitness study lacks a control group without leading questions. Causal claim that “verbs cause memory change” is:",
+    "options": [
+      "Weakened by missing comparison control in the vignette",
+      "Guaranteed by vivid flashbulb feelings in the vignette",
+      "Proven by any single case anecdote in the vignette now",
+      "Equivalent to random assignment in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Without control, causal inference is weak.",
+    "wrongFeedback": {
+      "1": "Vividness ≠ control.",
+      "2": "Anecdotes weak.",
+      "3": "Not the same as randomization."
+    },
+    "id": "c8-l4-03"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "7.3+8.1",
+    "question": "Students use availability heuristics when judging how much they studied based on ease of recalling sessions, mistaking fluency for learning. Best bridge?",
+    "options": [
+      "Metacognitive judgments can be heuristic-biased despite real",
+      "Availability always measures true LTM strength perfectly",
+      "Chunking forbids heuristics in the vignette given these facts",
+      "Algorithms erase STM in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Ease-of-retrieval cues can mislead study judgments.",
+    "wrongFeedback": {
+      "1": "Fluency ≠ mastery.",
+      "2": "Chunking compatible with heuristics.",
+      "3": "STM remains."
+    },
+    "id": "c8-l4-04"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "5.2+8.1",
+    "question": "Iconic memory’s brief visual trace is to sensory memory as a prototype is to concepts—both are:",
+    "options": [
+      "Early organizing structures for incoming information now",
+      "Long-term procedural skills in the vignette given these facts",
+      "Forms of proactive interference in the vignette now now",
+      "Types of DSM diagnoses in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Both help initial organization of input (at different levels).",
+    "wrongFeedback": {
+      "1": "Not procedural skills.",
+      "2": "Not interference.",
+      "3": "Not diagnoses."
+    },
+    "id": "c8-l4-05"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "14.1+8.2",
+    "question": "HPA arousal during trauma may amplify amygdala-tagged memories yet later therapy wording still reshapes reports. Best synthesis?",
+    "options": [
+      "Biological arousal strengthens encoding while retrieval",
+      "HPA activity freezes memory into a perfect indelible tape",
+      "Misinformation requires zero emotion in the vignette",
+      "Cortisol deletes all implicit memory in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Arousal affects strength; reconstruction still happens later.",
+    "wrongFeedback": {
+      "1": "Not a perfect tape.",
+      "2": "Misinformation can occur with emotion.",
+      "3": "Implicit not wholesale deleted."
+    },
+    "id": "c8-l4-06"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "1.3+8.4",
+    "question": "A cognitive psychologist recommends retrieval practice; a behaviorist frames quiz points as reinforcers. Compatible?",
+    "options": [
+      "Yes—testing can both strengthen retrieval and reinforce",
+      "No—reinforcement forbids any cognitive explanation now",
+      "Retrieval practice requires Freudian insight in the vignette",
+      "Reinforcers only work on implicit engrams in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cognitive and operant descriptions can co-describe quiz benefits.",
+    "wrongFeedback": {
+      "1": "Not mutually exclusive.",
+      "2": "Not insight therapy.",
+      "3": "Reinforcers affect emitted behavior broadly."
+    },
+    "id": "c8-l4-07"
+  },
+  {
+    "chapter": 8,
+    "level": 4,
+    "section": "12.4+8.3",
+    "question": "Group discussion after a crime may blend memories (memory conformity). Versus Asch, both show:",
+    "options": [
+      "Social influence can reshape reports of reality in the vignette",
+      "Obedience to shock levels only in the vignette given these facts",
+      "That encoding failure is impossible in groups in the vignette",
+      "That stereotypes are sensory thresholds in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Normative/informational influence can alter reported memories/judgments.",
+    "wrongFeedback": {
+      "1": "Not only Milgram shocks.",
+      "2": "Encoding can still fail.",
+      "3": "Unrelated."
+    },
+    "id": "c8-l4-08"
+  },
+  {
+    "chapter": 9,
+    "level": 1,
+    "section": "§9.1",
+    "question": "Lifespan development studies change across:",
+    "options": [
+      "Physical, cognitive, and psychosocial domains",
+      "Only prenatal weeks",
+      "Personality inventories alone",
+      "DSM axes exclusively"
+    ],
+    "correct": 0,
+    "correctFeedback": "Three developmental domains.",
+    "wrongFeedback": {
+      "1": "More than prenatal.",
+      "2": "Personality is one slice.",
+      "3": "DSM is disorders."
+    },
+    "page": 280,
+    "id": "c9-l1-01"
+  },
+  {
+    "chapter": 9,
+    "level": 1,
+    "section": "§9.1",
+    "question": "Nature versus nurture asks about:",
+    "options": [
+      "Genetic vs environmental contributions to development",
+      "Only birth order effects",
+      "Schedules of reinforcement only",
+      "Absolute sensory thresholds"
+    ],
+    "correct": 0,
+    "correctFeedback": "Classic developmental issue.",
+    "wrongFeedback": {
+      "1": "Broader than birth order.",
+      "2": "Learning is related but not the issue’s name.",
+      "3": "Sensation chapter."
+    },
+    "page": 282,
+    "id": "c9-l1-02"
+  },
+  {
+    "chapter": 9,
+    "level": 1,
+    "section": "§9.2",
+    "question": "Piaget’s stages in order begin with:",
+    "options": [
+      "Sensorimotor",
+      "Formal operational",
+      "Postconventional",
+      "Generativity"
+    ],
+    "correct": 0,
+    "correctFeedback": "Sensorimotor is first.",
+    "wrongFeedback": {
+      "1": "Formal is last cognitive stage.",
+      "2": "Kohlberg moral.",
+      "3": "Erikson adulthood."
+    },
+    "page": 286,
+    "id": "c9-l1-03"
+  },
+  {
+    "chapter": 9,
+    "level": 1,
+    "section": "§9.2",
+    "question": "Object permanence emerges in the:",
+    "options": [
+      "Sensorimotor stage",
+      "Only after retirement",
+      "Preconventional moral stage",
+      "Latency psychosexual stage only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Infants learn objects continue when hidden.",
+    "wrongFeedback": {
+      "1": "Not adulthood.",
+      "2": "Moral stages differ.",
+      "3": "Freud latency differs."
+    },
+    "page": 287,
+    "id": "c9-l1-04"
+  },
+  {
+    "chapter": 9,
+    "level": 1,
+    "section": "§9.3",
+    "question": "Teratogens are:",
+    "options": [
+      "Environmental agents that can harm prenatal development",
+      "Piagetian schemas",
+      "Attachment styles",
+      "Display rules"
+    ],
+    "correct": 0,
+    "correctFeedback": "Teratogens threaten the fetus.",
+    "wrongFeedback": {
+      "1": "Schemas are cognitive.",
+      "2": "Attachment is bonding.",
+      "3": "Display rules are emotion."
+    },
+    "page": 294,
+    "id": "c9-l1-05"
+  },
+  {
+    "chapter": 9,
+    "level": 1,
+    "section": "§9.4",
+    "question": "Hospice care primarily emphasizes:",
+    "options": [
+      "Comfort and dignity near end of life",
+      "Aggressive curative ICU only",
+      "IQ acceleration",
+      "Job analysis"
+    ],
+    "correct": 0,
+    "correctFeedback": "Palliative comfort focus.",
+    "wrongFeedback": {
+      "1": "Not cure-focused by definition.",
+      "2": "Unrelated.",
+      "3": "I-O topic."
+    },
+    "page": 314,
+    "id": "c9-l1-06"
+  },
+  {
+    "chapter": 9,
+    "level": 2,
+    "section": "§9.2",
+    "question": "Assimilation means:",
+    "options": [
+      "Fitting new info into existing schemas",
+      "Changing schemas to fit new info",
+      "Erasing all schemas nightly",
+      "Measuring heritability"
+    ],
+    "correct": 0,
+    "correctFeedback": "Assimilation uses current schemas.",
+    "wrongFeedback": {
+      "1": "That is accommodation.",
+      "2": "Schemas persist.",
+      "3": "Heritability separate."
+    },
+    "page": 285,
+    "id": "c9-l2-01"
+  },
+  {
+    "chapter": 9,
+    "level": 2,
+    "section": "§9.2",
+    "question": "Accommodation means:",
+    "options": [
+      "Changing schemas when new info does not fit",
+      "Ignoring discrepancies entirely",
+      "Only classical conditioning",
+      "Only operant punishment"
+    ],
+    "correct": 0,
+    "correctFeedback": "Schemas adjust via accommodation.",
+    "wrongFeedback": {
+      "1": "That would block learning.",
+      "2": "Learning theories differ.",
+      "3": "Punishment is operant."
+    },
+    "page": 285,
+    "id": "c9-l2-02"
+  },
+  {
+    "chapter": 9,
+    "level": 2,
+    "section": "§9.2",
+    "question": "Erikson’s adolescent crisis is mainly:",
+    "options": [
+      "Identity vs role confusion",
+      "Trust vs mistrust only",
+      "Integrity vs despair only",
+      "Industry vs inferiority in infancy"
+    ],
+    "correct": 0,
+    "correctFeedback": "Identity is the adolescent task.",
+    "wrongFeedback": {
+      "1": "Infancy.",
+      "2": "Late adulthood.",
+      "3": "Industry is school age."
+    },
+    "page": 288,
+    "id": "c9-l2-03"
+  },
+  {
+    "chapter": 9,
+    "level": 2,
+    "section": "§9.3",
+    "question": "Ainsworth’s Strange Situation assesses:",
+    "options": [
+      "Infant attachment patterns",
+      "Adult Big Five scores",
+      "Phoneme inventories",
+      "Job satisfaction"
+    ],
+    "correct": 0,
+    "correctFeedback": "Attachment classification procedure.",
+    "wrongFeedback": {
+      "1": "Personality traits later.",
+      "2": "Language.",
+      "3": "I-O."
+    },
+    "page": 298,
+    "id": "c9-l2-04"
+  },
+  {
+    "chapter": 9,
+    "level": 2,
+    "section": "§9.2",
+    "question": "Conservation tasks are failed typically in:",
+    "options": [
+      "Preoperational children",
+      "Formal operational teens only",
+      "Everyone equally at all ages",
+      "Only newborns"
+    ],
+    "correct": 0,
+    "correctFeedback": "Preoperational kids struggle with conservation.",
+    "wrongFeedback": {
+      "1": "Formal ops usually succeed.",
+      "2": "Not age-invariant.",
+      "3": "Newborns not the classic demo."
+    },
+    "page": 289,
+    "id": "c9-l2-05"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.2",
+    "question": "A child who calls a whale a “fish” then revises the animal schema after a lesson shows:",
+    "options": [
+      "Accommodation after failed assimilation in the vignette now",
+      "Pure classical acquisition in the vignette given these facts",
+      "Retrograde amnesia in the vignette given these facts now",
+      "Groupthink in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Schema change = accommodation.",
+    "wrongFeedback": {
+      "1": "Not conditioning per se.",
+      "2": "Not amnesia.",
+      "3": "Not social conformity."
+    },
+    "page": 285,
+    "id": "c9-l3-01"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.2",
+    "question": "Searching for a hidden toy reveals object permanence, marking progress in:",
+    "options": [
+      "Sensorimotor cognition in the vignette",
+      "Only Kohlberg stage 6 in the vignette given these facts",
+      "Type A behavior in the vignette given these facts now",
+      "Token economies in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Object permanence is sensorimotor.",
+    "wrongFeedback": {
+      "1": "Moral reasoning later.",
+      "2": "Stress/personality.",
+      "3": "Operant tool."
+    },
+    "page": 287,
+    "id": "c9-l3-02"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.3",
+    "question": "A caregiver who is warm and sets clear limits is closest to:",
+    "options": [
+      "Authoritative parenting in the vignette given these facts",
+      "Authoritarian cold control only in the vignette now now",
+      "Uninvolved neglect by definition in the vignette now now",
+      "Permissive with zero warmth in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Authoritative = warm + firm.",
+    "wrongFeedback": {
+      "1": "Authoritarian is harsh/cold.",
+      "2": "Uninvolved is low warmth/control.",
+      "3": "Permissive is low control."
+    },
+    "page": 302,
+    "id": "c9-l3-03"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.3",
+    "question": "An infant explores, cries at separation, then calms at reunion—most like:",
+    "options": [
+      "Secure attachment in the vignette given these facts now",
+      "Avoidant attachment in the vignette given these facts",
+      "Disorganized only by definition in the vignette now",
+      "Authoritarian attachment in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Secure pattern.",
+    "wrongFeedback": {
+      "1": "Avoidant shows little distress/avoidance.",
+      "2": "Disorganized is odd/conflicted.",
+      "3": "Parenting style ≠ attachment label."
+    },
+    "page": 298,
+    "id": "c9-l3-04"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.2",
+    "question": "Failing conservation of liquid after a tall pour indicates difficulty with:",
+    "options": [
+      "Preoperational egocentric/centering limits in the vignette",
+      "Formal abstract algebra only in the vignette given these facts",
+      "Semantic LTM capacity in the vignette given these facts",
+      "Milgram obedience in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Classic preoperational limit.",
+    "wrongFeedback": {
+      "1": "Formal is later.",
+      "2": "Memory capacity not the point.",
+      "3": "Social influence."
+    },
+    "page": 289,
+    "id": "c9-l3-05"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.1",
+    "question": "Arguing development is sudden stage-like leaps emphasizes:",
+    "options": [
+      "Discontinuity in the vignette given these facts now now",
+      "Perfect continuity only in the vignette given these facts",
+      "Only nature with zero nurture in the vignette given these facts",
+      "Only sensory thresholds in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stage theories = discontinuous.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Both nature/nurture debated.",
+      "3": "Sensation."
+    },
+    "page": 281,
+    "id": "c9-l3-06"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.2",
+    "question": "A teen asking “Who am I?” across careers and values maps to Erikson’s:",
+    "options": [
+      "Identity vs role confusion in the vignette given these facts",
+      "Autonomy vs shame in toddlers only in the vignette now now",
+      "Generativity vs stagnation in infancy in the vignette now",
+      "Trust vs mistrust in late life in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Adolescent identity crisis.",
+    "wrongFeedback": {
+      "1": "Toddler autonomy.",
+      "2": "Generativity midlife.",
+      "3": "Trust infancy."
+    },
+    "page": 288,
+    "id": "c9-l3-07"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.3",
+    "question": "Alcohol exposure in pregnancy raising risk of neurodevelopmental harm is a:",
+    "options": [
+      "Teratogen example in the vignette given these facts now",
+      "Prototype of a bird in the vignette given these facts",
+      "Heuristic for availability in the vignette given these facts",
+      "Flashbulb engram in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Alcohol can be teratogenic.",
+    "wrongFeedback": {
+      "1": "Concepts.",
+      "2": "Judgment shortcut.",
+      "3": "Memory."
+    },
+    "page": 294,
+    "id": "c9-l3-08"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.2",
+    "question": "Kohlberg’s focus is primarily on:",
+    "options": [
+      "Moral reasoning stages in the vignette",
+      "Sensory transduction in the vignette given these facts",
+      "Job analysis methods in the vignette given these facts",
+      "Phoneme production in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Moral development theory.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "I-O.",
+      "3": "Language."
+    },
+    "page": 290,
+    "id": "c9-l3-09"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.3",
+    "question": "Puberty’s biological changes are mainly the:",
+    "options": [
+      "Physical domain of development in the vignette",
+      "Only psychosocial domain in the vignette given these facts",
+      "Only cognitive domain in the vignette given these facts now",
+      "Only cultural display rules in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Puberty = physical growth.",
+    "wrongFeedback": {
+      "1": "Psychosocial also affected but puberty itself is physical.",
+      "2": "Cognition separate.",
+      "3": "Emotion expression rules."
+    },
+    "page": 304,
+    "id": "c9-l3-10"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.4",
+    "question": "Treating Kübler-Ross stages as a required universal order is:",
+    "options": [
+      "Overly rigid versus the model’s intended use in the vignette",
+      "Required by DSM-5 for grief in the vignette given these facts",
+      "Identical to Piaget’s formal ops in the vignette now now",
+      "A type of schedule of reinforcement in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stages are not a strict universal sequence.",
+    "wrongFeedback": {
+      "1": "Not a DSM mandate as such.",
+      "2": "Different theory.",
+      "3": "Operant."
+    },
+    "page": 313,
+    "id": "c9-l3-11"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.3",
+    "question": "Emerging adulthood emphasizes exploration in:",
+    "options": [
+      "Love, work, and worldviews in late teens/20s",
+      "Only neonatal reflexes in the vignette given these facts",
+      "Only hospice protocols in the vignette given these facts",
+      "Only Big Five neuroticism in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Emerging adulthood theme.",
+    "wrongFeedback": {
+      "1": "Infancy.",
+      "2": "Dying care.",
+      "3": "Personality trait."
+    },
+    "page": 308,
+    "id": "c9-l3-12"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.2",
+    "question": "Egocentrism in Piaget’s sense means difficulty:",
+    "options": [
+      "Taking another’s visual/cognitive perspective in the vignette",
+      "Being selfish as a moral trait always in the vignette now",
+      "Forming CRs in the vignette given these facts now in the vignette",
+      "Encoding faces in the vignette given these facts now now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Perspective-taking limit.",
+    "wrongFeedback": {
+      "1": "Not merely moral selfishness.",
+      "2": "Conditioning.",
+      "3": "Memory."
+    },
+    "page": 288,
+    "id": "c9-l3-13"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.3",
+    "question": "Socioemotional selectivity theory suggests older adults often:",
+    "options": [
+      "Prioritize emotionally meaningful goals/relationships",
+      "Seek only novel strangers always in the vignette now",
+      "Lose all emotion in the vignette given these facts now",
+      "Stop all attachment in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Time horizons reshape social goals.",
+    "wrongFeedback": {
+      "1": "Not only novelty seeking.",
+      "2": "Emotions continue.",
+      "3": "Attachment continues."
+    },
+    "page": 310,
+    "id": "c9-l3-14"
+  },
+  {
+    "chapter": 9,
+    "level": 3,
+    "section": "§9.1",
+    "question": "A longitudinal design follows:",
+    "options": [
+      "The same people over time in the vignette given these facts",
+      "Only one-time cross-sections of different ages in the vignette",
+      "Only animals in Skinner boxes in the vignette given these facts",
+      "Only projective tests in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Longitudinal = same participants across time.",
+    "wrongFeedback": {
+      "1": "That’s cross-sectional.",
+      "2": "Learning methods.",
+      "3": "Personality assessment."
+    },
+    "page": 281,
+    "id": "c9-l3-15"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "7.1+9.2",
+    "question": "Schemas in Piaget and schemata in cognitive psychology both:",
+    "options": [
+      "Organize knowledge and guide interpretation in the vignette",
+      "Are identical to unconditional stimuli in the vignette now",
+      "Require anterograde amnesia in the vignette given these facts",
+      "Are DSM personality disorders in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Both are knowledge structures.",
+    "wrongFeedback": {
+      "1": "Not UCS.",
+      "2": "Not amnesia.",
+      "3": "Not disorders."
+    },
+    "id": "c9-l4-01"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "6.4+9.3",
+    "question": "Bandura’s modeling and social learning help explain how children acquire gendered behaviors via:",
+    "options": [
+      "Observational learning of models in the vignette now now",
+      "Only fixed-ratio pellet schedules in the vignette now",
+      "Only teratogen exposure in the vignette given these facts",
+      "Only Kübler-Ross bargaining in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Gendered behavior can be modeled.",
+    "wrongFeedback": {
+      "1": "Not only operant pellets.",
+      "2": "Teratogens are prenatal harm.",
+      "3": "Grief model."
+    },
+    "id": "c9-l4-02"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "8.1+9.2",
+    "question": "Infantile amnesia (few early episodic memories) still allows learning of skills, suggesting:",
+    "options": [
+      "Early explicit episodic recall is limited while other now",
+      "Infants have infinite episodic LTM in the vignette now",
+      "Object permanence is a flashbulb in the vignette now now now",
+      "Assimilation requires misinformation in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Episodic recall of early years is sparse; learning still happens.",
+    "wrongFeedback": {
+      "1": "Not infinite episodic.",
+      "2": "Different concepts.",
+      "3": "Unrelated."
+    },
+    "id": "c9-l4-03"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "2.2+9.1",
+    "question": "Claiming a parenting style *causes* teen outcomes from a correlational survey without controls is weak because:",
+    "options": [
+      "Correlation and selection confounds limit causal claims",
+      "Longitudinal always equals experiment in the vignette",
+      "Teratogens prove causation of parenting in the vignette",
+      "Strange Situation randomizes genes in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Nonexperimental designs limit causality.",
+    "wrongFeedback": {
+      "1": "Longitudinal ≠ automatic experiment.",
+      "2": "Different.",
+      "3": "Attachment procedure ≠ gene randomization."
+    },
+    "id": "c9-l4-04"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "11.2+9.2",
+    "question": "Freud’s psychosexual stages vs Erikson’s psychosocial stages differ mainly because Erikson:",
+    "options": [
+      "Emphasizes social tasks across the whole lifespan now now",
+      "Denies any childhood influence in the vignette given these facts",
+      "Measures only IQ in the vignette given these facts now now",
+      "Uses only token economies in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Erikson socializes and extends development.",
+    "wrongFeedback": {
+      "1": "Childhood still matters.",
+      "2": "Not IQ.",
+      "3": "Not tokens."
+    },
+    "id": "c9-l4-05"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "12.5+9.3",
+    "question": "In-group favoritism in adolescents can intensify identity formation and prejudice risk. Best link?",
+    "options": [
+      "Identity processes can feed social categorization biases",
+      "Attachment security equals discrimination in the vignette",
+      "Conservation failure causes racism always in the vignette",
+      "Hospice care creates out-groups in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Identity and social identity can intertwine.",
+    "wrongFeedback": {
+      "1": "Not equivalent.",
+      "2": "Not automatic.",
+      "3": "Unrelated."
+    },
+    "id": "c9-l4-06"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "3.1+9.3",
+    "question": "Epigenetic stress effects in prenatal life illustrate nature–nurture as:",
+    "options": [
+      "Interactive rather than either/or in the vignette now now",
+      "Pure genetic determinism in the vignette given these facts",
+      "Pure empty-slate learning only in the vignette given these facts",
+      "Unrelated to teratogens in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Genes and environment intertwine.",
+    "wrongFeedback": {
+      "1": "Not pure genetic.",
+      "2": "Not pure blank slate.",
+      "3": "Teratogens are environmental agents."
+    },
+    "id": "c9-l4-07"
+  },
+  {
+    "chapter": 9,
+    "level": 4,
+    "section": "16.2+9.4",
+    "question": "Hospice counseling using client-centered empathy most closely borrows from:",
+    "options": [
+      "Humanistic/Rogerian conditions in the vignette",
+      "Aversive shock conditioning only in the vignette now now",
+      "Milgram obedience protocols in the vignette given these facts",
+      "Spearman’s g testing in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Empathic palliative support aligns with humanistic stance.",
+    "wrongFeedback": {
+      "1": "Not aversives.",
+      "2": "Not obedience study.",
+      "3": "Not IQ."
+    },
+    "id": "c9-l4-08"
+  },
+  {
+    "chapter": 10,
+    "level": 1,
+    "section": "§10.1",
+    "question": "Motivation refers to:",
+    "options": [
+      "Wants or needs directing behavior",
+      "Only sensory transduction",
+      "Only DSM diagnoses",
+      "Only engrams"
+    ],
+    "correct": 0,
+    "correctFeedback": "Motivation directs behavior.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "Disorders.",
+      "3": "Memory."
+    },
+    "page": 322,
+    "id": "c10-l1-01"
+  },
+  {
+    "chapter": 10,
+    "level": 1,
+    "section": "§10.1",
+    "question": "Intrinsic motivation means doing something:",
+    "options": [
+      "For inherent satisfaction",
+      "Only for pay",
+      "Only to avoid shock",
+      "Without any goal"
+    ],
+    "correct": 0,
+    "correctFeedback": "Intrinsic = inherent interest/enjoyment.",
+    "wrongFeedback": {
+      "1": "That is extrinsic.",
+      "2": "Avoidance can be extrinsic.",
+      "3": "Goals can be intrinsic."
+    },
+    "page": 323,
+    "id": "c10-l1-02"
+  },
+  {
+    "chapter": 10,
+    "level": 1,
+    "section": "§10.1",
+    "question": "Homeostasis is:",
+    "options": [
+      "Maintaining internal balance",
+      "A type of heuristic",
+      "A projective test",
+      "A leadership style"
+    ],
+    "correct": 0,
+    "correctFeedback": "Drive theories link to homeostasis.",
+    "wrongFeedback": {
+      "1": "Cognition.",
+      "2": "Personality assessment.",
+      "3": "I-O."
+    },
+    "page": 324,
+    "id": "c10-l1-03"
+  },
+  {
+    "chapter": 10,
+    "level": 1,
+    "section": "§10.4",
+    "question": "The James–Lange view says emotion follows:",
+    "options": [
+      "Physiological arousal",
+      "Only cultural display rules after years",
+      "Random gene flips",
+      "Group polarization"
+    ],
+    "correct": 0,
+    "correctFeedback": "Arousal then emotion.",
+    "wrongFeedback": {
+      "1": "Display rules shape expression.",
+      "2": "Genetics not the theory.",
+      "3": "Social."
+    },
+    "page": 342,
+    "id": "c10-l1-04"
+  },
+  {
+    "chapter": 10,
+    "level": 1,
+    "section": "§10.4",
+    "question": "Schachter–Singer two-factor theory adds:",
+    "options": [
+      "Cognitive labeling of arousal",
+      "Only spinal reflexes",
+      "Only token reinforcers",
+      "Only teratogens"
+    ],
+    "correct": 0,
+    "correctFeedback": "Arousal + appraisal/label.",
+    "wrongFeedback": {
+      "1": "Not only reflexes.",
+      "2": "Operant.",
+      "3": "Prenatal."
+    },
+    "page": 344,
+    "id": "c10-l1-05"
+  },
+  {
+    "chapter": 10,
+    "level": 1,
+    "section": "§10.1",
+    "question": "Maslow’s hierarchy places physiological needs:",
+    "options": [
+      "Toward the base of the pyramid",
+      "Above self-actualization only",
+      "Outside motivation entirely",
+      "As identical to g"
+    ],
+    "correct": 0,
+    "correctFeedback": "Basic needs first in the model.",
+    "wrongFeedback": {
+      "1": "Self-actualization is top.",
+      "2": "It is motivational.",
+      "3": "Intelligence."
+    },
+    "page": 326,
+    "id": "c10-l1-06"
+  },
+  {
+    "chapter": 10,
+    "level": 2,
+    "section": "§10.1",
+    "question": "Yerkes–Dodson law describes:",
+    "options": [
+      "An inverted-U linking arousal and performance",
+      "Linear endless gains with arousal",
+      "Zero role for difficulty",
+      "Only hunger hormones"
+    ],
+    "correct": 0,
+    "correctFeedback": "Optimal arousal depends on task.",
+    "wrongFeedback": {
+      "1": "Not endless linear.",
+      "2": "Difficulty matters.",
+      "3": "Hunger separate."
+    },
+    "page": 325,
+    "id": "c10-l2-01"
+  },
+  {
+    "chapter": 10,
+    "level": 2,
+    "section": "§10.4",
+    "question": "Cannon–Bard theory proposes arousal and emotion are:",
+    "options": [
+      "Simultaneous",
+      "Strictly sequential always arousal-first",
+      "Impossible without language",
+      "Only learned via tokens"
+    ],
+    "correct": 0,
+    "correctFeedback": "Thalamic simultaneous view.",
+    "wrongFeedback": {
+      "1": "That is more James–Lange.",
+      "2": "Language not required by theory.",
+      "3": "Operant."
+    },
+    "page": 343,
+    "id": "c10-l2-02"
+  },
+  {
+    "chapter": 10,
+    "level": 2,
+    "section": "§10.2",
+    "question": "Set-point / settling ideas about weight emphasize:",
+    "options": [
+      "Regulatory resistance to lasting change",
+      "That calories never matter",
+      "That eating is only cultural",
+      "That hunger is a phoneme"
+    ],
+    "correct": 0,
+    "correctFeedback": "Body weight regulation themes.",
+    "wrongFeedback": {
+      "1": "Energy balance matters.",
+      "2": "Culture also matters but not only.",
+      "3": "Language."
+    },
+    "page": 330,
+    "id": "c10-l2-03"
+  },
+  {
+    "chapter": 10,
+    "level": 2,
+    "section": "§10.3",
+    "question": "Kinsey’s surveys highlighted:",
+    "options": [
+      "Diversity of human sexual behavior",
+      "That sexuality is binary only",
+      "That orientation equals identity always",
+      "That Masters–Johnson used only surveys"
+    ],
+    "correct": 0,
+    "correctFeedback": "Survey diversity findings.",
+    "wrongFeedback": {
+      "1": "Not strictly binary in his framing.",
+      "2": "Related but distinct.",
+      "3": "Masters–Johnson observed."
+    },
+    "page": 336,
+    "id": "c10-l2-04"
+  },
+  {
+    "chapter": 10,
+    "level": 2,
+    "section": "§10.4",
+    "question": "Cultural display rules regulate:",
+    "options": [
+      "How emotions are expressed",
+      "Absolute thresholds for light",
+      "Encoding into iconic memory",
+      "Job analyses"
+    ],
+    "correct": 0,
+    "correctFeedback": "Expression norms.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "Memory.",
+      "3": "I-O."
+    },
+    "page": 350,
+    "id": "c10-l2-05"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.1",
+    "question": "Studying for curiosity rather than grades is mainly:",
+    "options": [
+      "Intrinsic motivation in the vignette given these facts",
+      "Extrinsic only by definition in the vignette given these facts",
+      "Drive-reduction of thirst in the vignette given these facts",
+      "Facial feedback alone in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Curiosity = intrinsic.",
+    "wrongFeedback": {
+      "1": "Grades would be extrinsic.",
+      "2": "Thirst drive different.",
+      "3": "Emotion theory."
+    },
+    "page": 323,
+    "id": "c10-l3-01"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.1",
+    "question": "Feeling over-aroused before a simple task and underperforming fits:",
+    "options": [
+      "Yerkes–Dodson mismatch in the vignette given these facts",
+      "Flynn effect in the vignette given these facts now",
+      "Anterograde amnesia in the vignette given these facts",
+      "Authoritative parenting in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Arousal–performance inverted U.",
+    "wrongFeedback": {
+      "1": "IQ generations.",
+      "2": "Memory.",
+      "3": "Development."
+    },
+    "page": 325,
+    "id": "c10-l3-02"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.4",
+    "question": "Noticing heartbeat then concluding “I am afraid” matches:",
+    "options": [
+      "James–Lange sequencing in the vignette given these facts",
+      "Cannon simultaneous-only denial of arousal in the vignette",
+      "Purely unconscious Freudian id without body in the vignette",
+      "Availability heuristic for planes in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Body then feeling.",
+    "wrongFeedback": {
+      "1": "Cannon differs.",
+      "2": "Psychodynamic different.",
+      "3": "Judgment bias."
+    },
+    "page": 342,
+    "id": "c10-l3-03"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.4",
+    "question": "Same arousal labeled “excitement” vs “fear” depending on context fits:",
+    "options": [
+      "Schachter–Singer two-factor in the vignette",
+      "Absolute sensory threshold in the vignette given these facts",
+      "Proactive interference in the vignette given these facts",
+      "Secure attachment only in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Label shapes emotion.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "Memory.",
+      "3": "Development."
+    },
+    "page": 344,
+    "id": "c10-l3-04"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.1",
+    "question": "Self-efficacy is Bandura’s term for:",
+    "options": [
+      "Belief in one’s capability to succeed in the vignette now",
+      "A schedule of reinforcement in the vignette given these facts",
+      "A teratogen in the vignette given these facts now in the vignette",
+      "A DSM axis in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Capability belief motivates.",
+    "wrongFeedback": {
+      "1": "Operant.",
+      "2": "Prenatal.",
+      "3": "Disorders."
+    },
+    "page": 325,
+    "id": "c10-l3-05"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.2",
+    "question": "Ignoring satiety signals while bingeing despite distress relates to:",
+    "options": [
+      "Dysregulated eating patterns discussed in the chapter",
+      "Iconic memory overflow in the vignette given these facts",
+      "Phoneme disorders in the vignette given these facts now",
+      "Hawthorne productivity in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Eating disorder / dysregulation themes.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "Language.",
+      "3": "I-O."
+    },
+    "page": 332,
+    "id": "c10-l3-06"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.4",
+    "question": "Ekman’s work is most cited for:",
+    "options": [
+      "Cross-cultural facial emotion recognition themes now",
+      "Job analysis validity in the vignette given these facts now",
+      "Latent learning maps in the vignette given these facts now",
+      "SRRS life units in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Universal expression research.",
+    "wrongFeedback": {
+      "1": "I-O.",
+      "2": "Tolman.",
+      "3": "Stress scale."
+    },
+    "page": 348,
+    "id": "c10-l3-07"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.1",
+    "question": "Working hard mainly for a bonus is:",
+    "options": [
+      "Extrinsic motivation in the vignette given these facts now",
+      "Intrinsic only in the vignette given these facts now now",
+      "Object permanence in the vignette given these facts now now",
+      "Groupthink in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "External reward.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Development.",
+      "3": "Social."
+    },
+    "page": 323,
+    "id": "c10-l3-08"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.3",
+    "question": "Sexual orientation and gender identity are described as:",
+    "options": [
+      "Related but distinct in the vignette given these facts",
+      "Identical constructs always in the vignette given these facts",
+      "Unmeasurable in principle in the vignette given these facts",
+      "Types of heuristics in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Chapter distinguishes them.",
+    "wrongFeedback": {
+      "1": "Not identical.",
+      "2": "They are studied.",
+      "3": "Not heuristics."
+    },
+    "page": 340,
+    "id": "c10-l3-09"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.4",
+    "question": "Appraising a job interview as a threat vs challenge illustrates:",
+    "options": [
+      "Cognitive appraisal in emotion in the vignette",
+      "Pure James body-only with no thought in the vignette now",
+      "Sensory adaptation in the vignette given these facts now",
+      "Chunking in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Lazarus-style appraisal themes.",
+    "wrongFeedback": {
+      "1": "Appraisal theories include cognition.",
+      "2": "Sensation.",
+      "3": "Memory strategy."
+    },
+    "page": 345,
+    "id": "c10-l3-10"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.1",
+    "question": "Drive theory most directly ties behavior to:",
+    "options": [
+      "Reducing physiological need states in the vignette now now",
+      "Persuasion via peripheral cues in the vignette given these facts",
+      "Misinformation verbs in the vignette given these facts now",
+      "Big Five openness in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Drives push to restore balance.",
+    "wrongFeedback": {
+      "1": "Social.",
+      "2": "Memory.",
+      "3": "Personality."
+    },
+    "page": 324,
+    "id": "c10-l3-11"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.4",
+    "question": "Smiling then feeling slightly happier is discussed under:",
+    "options": [
+      "Facial feedback ideas in the vignette given these facts now",
+      "Retroactive interference in the vignette given these facts",
+      "Milgram proximity in the vignette given these facts now now",
+      "Flynn gains in the vignette given these facts now in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Face can feed emotion.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "Obedience.",
+      "3": "IQ."
+    },
+    "page": 349,
+    "id": "c10-l3-12"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.2",
+    "question": "Leptin and other signals are part of:",
+    "options": [
+      "Physiological hunger/satiety regulation",
+      "Projective testing in the vignette given these facts",
+      "Conformity lines in the vignette given these facts now",
+      "Conservation tasks in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biological eating regulation.",
+    "wrongFeedback": {
+      "1": "Personality.",
+      "2": "Social.",
+      "3": "Piaget."
+    },
+    "page": 329,
+    "id": "c10-l3-13"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.1",
+    "question": "Skipping meals to finish a painting for joy still shows:",
+    "options": [
+      "Intrinsic motives can override short-term drives in the vignette",
+      "That homeostasis never operates in the vignette now now now",
+      "That extrinsic pay is required in the vignette given these facts",
+      "That emotions lack appraisal in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Intrinsic goals can compete with drives.",
+    "wrongFeedback": {
+      "1": "Homeostasis still exists.",
+      "2": "Not required.",
+      "3": "Appraisal theories exist."
+    },
+    "page": 323,
+    "id": "c10-l3-14"
+  },
+  {
+    "chapter": 10,
+    "level": 3,
+    "section": "§10.4",
+    "question": "Cultural norms that discourage public crying are:",
+    "options": [
+      "Display rules in the vignette given these facts now now now",
+      "Algorithms in the vignette given these facts on the stated facts",
+      "Engrams in the vignette given these facts on the stated facts",
+      "Teratogens in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Rules for expression.",
+    "wrongFeedback": {
+      "1": "Problem solving.",
+      "2": "Memory.",
+      "3": "Prenatal."
+    },
+    "page": 350,
+    "id": "c10-l3-15"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "6.3+10.1",
+    "question": "Paying kids for reading may raise reading short-term yet undercut intrinsic interest—best framed as:",
+    "options": [
+      "Extrinsic rewards can interact with intrinsic motivation",
+      "Reinforcement never changes behavior in the vignette now",
+      "Self-efficacy is a UCS in the vignette given these facts",
+      "Homeostasis forbids incentives in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Overjustification / intrinsic–extrinsic interaction themes.",
+    "wrongFeedback": {
+      "1": "Reinforcement works.",
+      "2": "Self-efficacy is belief.",
+      "3": "Incentives used widely."
+    },
+    "id": "c10-l4-01"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "3.2+10.4",
+    "question": "Amygdala involvement in fear supports biological emotion bases while display rules show:",
+    "options": [
+      "Biology and culture jointly shape emotional life",
+      "Culture erases all physiology in the vignette given these facts",
+      "Amygdala stores phonemes in the vignette given these facts",
+      "Fear is only a heuristic in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Both levels matter.",
+    "wrongFeedback": {
+      "1": "Physiology remains.",
+      "2": "Language sounds different.",
+      "3": "Fear is emotion."
+    },
+    "id": "c10-l4-02"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "8.2+10.4",
+    "question": "Flashbulb memory vividness after emotional events links emotion arousal to:",
+    "options": [
+      "Memory encoding strength—not perfect accuracy in the vignette",
+      "Perfect indelible video memory in the vignette given these facts",
+      "Only semantic facts without emotion in the vignette now now",
+      "Extinction of all CRs in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Emotion tags memory; still reconstructive.",
+    "wrongFeedback": {
+      "1": "Not perfect.",
+      "2": "Emotion involved.",
+      "3": "Not extinction."
+    },
+    "id": "c10-l4-03"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "12.3+10.1",
+    "question": "Persuading with bonuses uses extrinsic motives; dissonance can change attitudes after unpaid advocacy. Contrast shows:",
+    "options": [
+      "Different social-cognitive routes can both move",
+      "Only bonuses ever work in the vignette given these facts",
+      "Dissonance requires sensory thresholds in the vignette now",
+      "Motivation forbids cognition in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Incentive vs dissonance paths.",
+    "wrongFeedback": {
+      "1": "Multiple routes.",
+      "2": "Unrelated.",
+      "3": "Cognition central to dissonance."
+    },
+    "id": "c10-l4-04"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "7.3+10.4",
+    "question": "Mislabeling arousal after caffeine as “anxiety” before a talk is two-factor-like and also a:",
+    "options": [
+      "Appraisal/attribution of bodily state in the vignette",
+      "Pure algorithm guaranteeing calm in the vignette now",
+      "Prototype of a bird in the vignette given these facts",
+      "Job analysis KSAO in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Labeling arousal = appraisal.",
+    "wrongFeedback": {
+      "1": "No guarantee.",
+      "2": "Concepts.",
+      "3": "I-O."
+    },
+    "id": "c10-l4-05"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "14.1+10.1",
+    "question": "Stress as threat appraisal overlaps motivation when people:",
+    "options": [
+      "Mobilize effort to cope with demanding goals in the vignette",
+      "Never show drive or emotion in the vignette given these facts",
+      "Only use projective tests in the vignette given these facts",
+      "Lose all homeostasis concepts in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Appraised demands energize coping.",
+    "wrongFeedback": {
+      "1": "They do.",
+      "2": "Assessment unrelated.",
+      "3": "Homeostasis remains relevant."
+    },
+    "id": "c10-l4-06"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "9.2+10.1",
+    "question": "Maslow’s growth needs resemble humanistic themes also seen in Rogers—both emphasize:",
+    "options": [
+      "Striving toward fuller functioning / actualization now",
+      "Only deficit drives forever in the vignette given these facts",
+      "Only operant punishment in the vignette given these facts",
+      "Only IQ stratification in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Humanistic growth motives.",
+    "wrongFeedback": {
+      "1": "More than deficits.",
+      "2": "Not only punishment.",
+      "3": "Not IQ."
+    },
+    "id": "c10-l4-07"
+  },
+  {
+    "chapter": 10,
+    "level": 4,
+    "section": "2.3+10.2",
+    "question": "An obesity intervention study without random assignment comparing volunteers to non-volunteers confounds:",
+    "options": [
+      "Motivation/selection with treatment effects in the vignette",
+      "Hunger hormones with phonemes in the vignette given these facts",
+      "Display rules with thresholds in the vignette given these facts",
+      "Attachment with g in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Volunteers differ at baseline.",
+    "wrongFeedback": {
+      "1": "Unrelated pairs.",
+      "2": "Unrelated.",
+      "3": "Unrelated."
+    },
+    "id": "c10-l4-08"
+  },
+  {
+    "chapter": 11,
+    "level": 1,
+    "section": "§11.1",
+    "question": "Personality refers to:",
+    "options": [
+      "Enduring traits and patterns of thinking, feeling, behaving",
+      "Only one-time moods",
+      "Only IQ scores",
+      "Only acute stressors"
+    ],
+    "correct": 0,
+    "correctFeedback": "Long-standing patterns.",
+    "wrongFeedback": {
+      "1": "Moods fluctuate.",
+      "2": "Intelligence.",
+      "3": "Stress."
+    },
+    "page": 360,
+    "id": "c11-l1-01"
+  },
+  {
+    "chapter": 11,
+    "level": 1,
+    "section": "§11.2",
+    "question": "In Freud’s model, the id operates on the:",
+    "options": [
+      "Pleasure principle",
+      "Reality principle only",
+      "Moral ideals only",
+      "Empirical method only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Id seeks immediate gratification.",
+    "wrongFeedback": {
+      "1": "Ego.",
+      "2": "Superego.",
+      "3": "Science method."
+    },
+    "page": 363,
+    "id": "c11-l1-02"
+  },
+  {
+    "chapter": 11,
+    "level": 1,
+    "section": "§11.2",
+    "question": "The ego operates on the:",
+    "options": [
+      "Reality principle",
+      "Pleasure principle alone",
+      "Collective unconscious only",
+      "Flynn effect"
+    ],
+    "correct": 0,
+    "correctFeedback": "Ego mediates reality.",
+    "wrongFeedback": {
+      "1": "Id.",
+      "2": "Jung.",
+      "3": "IQ."
+    },
+    "page": 363,
+    "id": "c11-l1-03"
+  },
+  {
+    "chapter": 11,
+    "level": 1,
+    "section": "§11.7",
+    "question": "The Big Five include openness, conscientiousness, extraversion, agreeableness, and:",
+    "options": [
+      "Neuroticism",
+      "Phonemes",
+      "Teratogens",
+      "Heuristics"
+    ],
+    "correct": 0,
+    "correctFeedback": "OCEAN.",
+    "wrongFeedback": {
+      "1": "Language.",
+      "2": "Prenatal.",
+      "3": "Thinking shortcuts."
+    },
+    "page": 380,
+    "id": "c11-l1-04"
+  },
+  {
+    "chapter": 11,
+    "level": 1,
+    "section": "§11.5",
+    "question": "Rogers emphasized:",
+    "options": [
+      "Unconditional positive regard and self-concept congruence",
+      "Only aversive conditioning",
+      "Only job analysis",
+      "Only SRRS scoring"
+    ],
+    "correct": 0,
+    "correctFeedback": "Humanistic core conditions/self.",
+    "wrongFeedback": {
+      "1": "Behavior therapy.",
+      "2": "I-O.",
+      "3": "Stress."
+    },
+    "page": 376,
+    "id": "c11-l1-05"
+  },
+  {
+    "chapter": 11,
+    "level": 1,
+    "section": "§11.9",
+    "question": "The MMPI is primarily a:",
+    "options": [
+      "Self-report personality inventory",
+      "Projective inkblot only",
+      "Sensory threshold test",
+      "Conservation task"
+    ],
+    "correct": 0,
+    "correctFeedback": "Structured inventory.",
+    "wrongFeedback": {
+      "1": "Rorschach is projective.",
+      "2": "Sensation.",
+      "3": "Piaget."
+    },
+    "page": 386,
+    "id": "c11-l1-06"
+  },
+  {
+    "chapter": 11,
+    "level": 2,
+    "section": "§11.3",
+    "question": "Adler emphasized:",
+    "options": [
+      "Inferiority feelings and striving",
+      "Collective archetypes only",
+      "Only trait neuroticsm scores",
+      "Only obedience voltage"
+    ],
+    "correct": 0,
+    "correctFeedback": "Individual psychology.",
+    "wrongFeedback": {
+      "1": "Jung.",
+      "2": "Big Five.",
+      "3": "Milgram."
+    },
+    "page": 368,
+    "id": "c11-l2-01"
+  },
+  {
+    "chapter": 11,
+    "level": 2,
+    "section": "§11.3",
+    "question": "Jung’s collective unconscious includes:",
+    "options": [
+      "Shared archetypal symbols",
+      "Only personal repressed memories",
+      "Only schedules of reinforcement",
+      "Only absolute thresholds"
+    ],
+    "correct": 0,
+    "correctFeedback": "Collective layer with archetypes.",
+    "wrongFeedback": {
+      "1": "Personal unconscious differs.",
+      "2": "Operant.",
+      "3": "Sensation."
+    },
+    "page": 369,
+    "id": "c11-l2-02"
+  },
+  {
+    "chapter": 11,
+    "level": 2,
+    "section": "§11.4",
+    "question": "Reciprocal determinism (Bandura) means:",
+    "options": [
+      "Person, behavior, and environment interact",
+      "Traits never change behavior",
+      "Environment is irrelevant",
+      "Cognition never matters"
+    ],
+    "correct": 0,
+    "correctFeedback": "Triadic interaction.",
+    "wrongFeedback": {
+      "1": "They interact.",
+      "2": "Environment matters.",
+      "3": "Cognition matters."
+    },
+    "page": 373,
+    "id": "c11-l2-03"
+  },
+  {
+    "chapter": 11,
+    "level": 2,
+    "section": "§11.4",
+    "question": "Locus of control refers to:",
+    "options": [
+      "Beliefs about whether outcomes are controlled internally or externally",
+      "A brain lobe only",
+      "A DSM cluster",
+      "A type of attachment"
+    ],
+    "correct": 0,
+    "correctFeedback": "Rotter’s expectancy construct.",
+    "wrongFeedback": {
+      "1": "Not a lobe name.",
+      "2": "Disorders.",
+      "3": "Development."
+    },
+    "page": 374,
+    "id": "c11-l2-04"
+  },
+  {
+    "chapter": 11,
+    "level": 2,
+    "section": "§11.9",
+    "question": "Projective tests present:",
+    "options": [
+      "Ambiguous stimuli for interpretation",
+      "Only true/false inventory items",
+      "Only reaction-time light flashes",
+      "Only job-task checklists"
+    ],
+    "correct": 0,
+    "correctFeedback": "Ambiguity invites projection.",
+    "wrongFeedback": {
+      "1": "Inventories differ.",
+      "2": "Sensation.",
+      "3": "I-O."
+    },
+    "page": 390,
+    "id": "c11-l2-05"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.2",
+    "question": "Forgetting an exam to avoid anxiety may illustrate a:",
+    "options": [
+      "Defense mechanism (e.g., repression themes) in the vignette",
+      "Secure attachment style in the vignette given these facts now",
+      "Flynn effect in the vignette given these facts now in the vignette",
+      "Algorithm in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Defenses manage anxiety.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "IQ.",
+      "3": "Problem solving."
+    },
+    "page": 365,
+    "id": "c11-l3-01"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.7",
+    "question": "Someone organized, dutiful, and goal-directed scores high on:",
+    "options": [
+      "Conscientiousness in the vignette given these facts now now",
+      "Neuroticism only by definition in the vignette given these facts",
+      "Openness to fantasy only in the vignette given these facts",
+      "Psychoticism as phonemes in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "C in OCEAN.",
+    "wrongFeedback": {
+      "1": "N is emotional instability.",
+      "2": "O is openness.",
+      "3": "Not phonemes."
+    },
+    "page": 380,
+    "id": "c11-l3-02"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.5",
+    "question": "Gap between ideal self and real self, per Rogers, can yield:",
+    "options": [
+      "Incongruence and distress in the vignette given these facts",
+      "Perfect homeostasis always in the vignette given these facts",
+      "Object permanence in the vignette given these facts now",
+      "Group polarization in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Incongruence theme.",
+    "wrongFeedback": {
+      "1": "Not automatic balance.",
+      "2": "Piaget.",
+      "3": "Social."
+    },
+    "page": 376,
+    "id": "c11-l3-03"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.4",
+    "question": "Believing effort determines grades shows a more:",
+    "options": [
+      "Internal locus of control in the vignette",
+      "External locus only in the vignette given these facts now",
+      "Projective delusion in the vignette given these facts now",
+      "Sensory adaptation in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Internal locus.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Not projective by default.",
+      "3": "Sensation."
+    },
+    "page": 374,
+    "id": "c11-l3-04"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.2",
+    "question": "Superego is most tied to:",
+    "options": [
+      "Internalized moral standards in the vignette",
+      "Immediate pleasure seeking only in the vignette now now",
+      "Only working memory buffers in the vignette given these facts",
+      "Only job strain in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Moral conscience-like structure.",
+    "wrongFeedback": {
+      "1": "Id.",
+      "2": "Memory.",
+      "3": "Stress."
+    },
+    "page": 363,
+    "id": "c11-l3-05"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.6",
+    "question": "Temperament research emphasizes:",
+    "options": [
+      "Early biologically based reactivity/self-regulation now",
+      "That personality is only culture in the vignette now now",
+      "That traits equal attitudes in the vignette given these facts",
+      "That Freud measured g in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biological beginnings.",
+    "wrongFeedback": {
+      "1": "Culture also shapes later.",
+      "2": "Attitudes social.",
+      "3": "Not IQ."
+    },
+    "page": 378,
+    "id": "c11-l3-06"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.8",
+    "question": "Collectivist cultures more often emphasize:",
+    "options": [
+      "Group harmony and roles in the vignette given these facts",
+      "Only personal uniqueness always in the vignette now",
+      "Only id drives in the vignette given these facts now",
+      "Only IQ ranking in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Collectivist framing.",
+    "wrongFeedback": {
+      "1": "More individualist.",
+      "2": "Psychodynamic.",
+      "3": "Intelligence."
+    },
+    "page": 384,
+    "id": "c11-l3-07"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.9",
+    "question": "Low test–retest on a personality scale threatens:",
+    "options": [
+      "Reliability in the vignette given these facts now now",
+      "The existence of phonemes in the vignette given these facts",
+      "Object permanence in the vignette given these facts now now",
+      "Hospice ethics only in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Unstable scores → reliability issue.",
+    "wrongFeedback": {
+      "1": "Language.",
+      "2": "Development.",
+      "3": "Therapy context."
+    },
+    "page": 388,
+    "id": "c11-l3-08"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.7",
+    "question": "Mischel’s critique questioned:",
+    "options": [
+      "Strong cross-situational trait consistency in the vignette",
+      "The existence of any behavior in the vignette given these facts",
+      "All self-reports forever in the vignette given these facts",
+      "Biology entirely in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Person–situation debate.",
+    "wrongFeedback": {
+      "1": "Behavior exists.",
+      "2": "Too strong.",
+      "3": "Biology studied."
+    },
+    "page": 382,
+    "id": "c11-l3-09"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.3",
+    "question": "Horney criticized Freud’s views on women and emphasized:",
+    "options": [
+      "Coping with anxiety via moving toward/against/away now",
+      "Only archetypal mandalas in the vignette given these facts",
+      "Only FI schedules in the vignette given these facts now",
+      "Only teratogens in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Horney’s coping styles.",
+    "wrongFeedback": {
+      "1": "Jung.",
+      "2": "Operant.",
+      "3": "Prenatal."
+    },
+    "page": 370,
+    "id": "c11-l3-10"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.5",
+    "question": "Maslow’s self-actualization overlaps humanistic personality by stressing:",
+    "options": [
+      "Growth toward realizing potential in the vignette now",
+      "Only deficit hunger forever in the vignette given these facts",
+      "Only obedience in the vignette given these facts now now",
+      "Only misinformation in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Growth motive.",
+    "wrongFeedback": {
+      "1": "More than deficits.",
+      "2": "Social.",
+      "3": "Memory."
+    },
+    "page": 376,
+    "id": "c11-l3-11"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.4",
+    "question": "High self-efficacy predicts greater:",
+    "options": [
+      "Persistence on challenging tasks in the vignette now",
+      "Guaranteed classical CRs in the vignette given these facts",
+      "Zero need for encoding in the vignette given these facts",
+      "Automatic groupthink in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Capability beliefs support effort.",
+    "wrongFeedback": {
+      "1": "Not classical by necessity.",
+      "2": "Memory still needed.",
+      "3": "Social bias."
+    },
+    "page": 373,
+    "id": "c11-l3-12"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.2",
+    "question": "Dream analysis in classical psychoanalysis aims to access:",
+    "options": [
+      "Unconscious content in the vignette given these facts now",
+      "Sensory thresholds in the vignette given these facts now",
+      "Job KSAOs in the vignette given these facts on the stated facts",
+      "Conservation skills in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Royal road themes.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "I-O.",
+      "3": "Piaget."
+    },
+    "page": 364,
+    "id": "c11-l3-13"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.7",
+    "question": "Low agreeableness with high antagonism fits low:",
+    "options": [
+      "Agreeableness in the vignette given these facts now now",
+      "Openness to aesthetics only in the vignette given these facts",
+      "Conscientiousness as IQ in the vignette given these facts",
+      "Neuroticism as a phoneme in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Agreeableness continuum.",
+    "wrongFeedback": {
+      "1": "Different trait.",
+      "2": "C ≠ IQ.",
+      "3": "N ≠ phoneme."
+    },
+    "page": 380,
+    "id": "c11-l3-14"
+  },
+  {
+    "chapter": 11,
+    "level": 3,
+    "section": "§11.9",
+    "question": "Rorschach inkblots are:",
+    "options": [
+      "Projective in the vignette given these facts",
+      "Forced-choice Big Five only in the vignette given these facts",
+      "Absolute threshold lights in the vignette given these facts",
+      "Strange Situation episodes in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Projective method.",
+    "wrongFeedback": {
+      "1": "Inventory.",
+      "2": "Sensation.",
+      "3": "Attachment."
+    },
+    "page": 390,
+    "id": "c11-l3-15"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "9.2+11.2",
+    "question": "Freud’s stages vs Piaget’s stages both are discontinuous models, but Freud emphasizes:",
+    "options": [
+      "Psychosexual conflict; Piaget emphasizes cognitive now",
+      "Identical mechanisms in the vignette given these facts here",
+      "Only social identity in the vignette given these facts",
+      "Only job strain in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Different domains of staging.",
+    "wrongFeedback": {
+      "1": "Not identical.",
+      "2": "Erikson/social identity different.",
+      "3": "I-O."
+    },
+    "id": "c11-l4-01"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "6.4+11.4",
+    "question": "Bandura’s reciprocal determinism unites observational learning with personality by stressing:",
+    "options": [
+      "Cognition-environment-behavior loops in the vignette",
+      "That modeling never occurs in the vignette given these facts",
+      "That traits are UCS–UCR bonds only in the vignette now",
+      "That self-efficacy is a teratogen in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Social-cognitive personality.",
+    "wrongFeedback": {
+      "1": "Modeling central.",
+      "2": "Too narrow.",
+      "3": "Not prenatal agent."
+    },
+    "id": "c11-l4-02"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "12.1+11.7",
+    "question": "FAE over-attributes others’ acts to traits; Mischel notes traits predict less than assumed. Together they caution:",
+    "options": [
+      "Simple dispositionism can overreach in the vignette now",
+      "That situations never matter in the vignette given these facts",
+      "That Big Five is meaningless in the vignette given these facts",
+      "That inventories equal projective truth in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Both curb naive trait power claims.",
+    "wrongFeedback": {
+      "1": "Situations matter.",
+      "2": "Big Five useful still.",
+      "3": "Different methods."
+    },
+    "id": "c11-l4-03"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "16.2+11.5",
+    "question": "Client-centered therapy operationalizes Rogers’s personality growth ideas via:",
+    "options": [
+      "Empathy, UPR, genuineness in the vignette given these facts",
+      "Aversive shock pairs only in the vignette given these facts",
+      "Milgram authority proximity in the vignette given these facts",
+      "Spearman g drills in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Therapeutic conditions.",
+    "wrongFeedback": {
+      "1": "Not aversives.",
+      "2": "Obedience.",
+      "3": "IQ."
+    },
+    "id": "c11-l4-04"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "8.3+11.2",
+    "question": "Freudian repression as motivated forgetting differs from ordinary interference because it posits:",
+    "options": [
+      "Defensive unconscious blocking in the vignette given these facts",
+      "Only retroactive Spanish-French overlap in the vignette now",
+      "Only encoding failure of names in the vignette given these facts",
+      "Only misinformation verbs in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Motivational defense claim.",
+    "wrongFeedback": {
+      "1": "Interference cognitive.",
+      "2": "Encoding failure different.",
+      "3": "Suggestibility different."
+    },
+    "id": "c11-l4-05"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "2.4+11.9",
+    "question": "Using projective tests for high-stakes hiring without validity evidence risks:",
+    "options": [
+      "Unfair, unreliable selection decisions in the vignette",
+      "Perfect predictive validity always in the vignette now",
+      "Automatic cultural fairness in the vignette given these facts",
+      "Zero ethical concern in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Need demonstrated psychometrics.",
+    "wrongFeedback": {
+      "1": "Validity not automatic.",
+      "2": "Bias risks.",
+      "3": "Ethics matter."
+    },
+    "id": "c11-l4-06"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "10.1+11.4",
+    "question": "Self-efficacy (personality/social-cog) boosts motivation persistence—best merge?",
+    "options": [
+      "Capability beliefs energize goal-directed effort",
+      "Self-efficacy is extrinsic pay only in the vignette now now",
+      "Motivation forbids cognition in the vignette given these facts",
+      "Locus of control is a phoneme in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Beliefs motivate.",
+    "wrongFeedback": {
+      "1": "Broader than pay.",
+      "2": "Cognition central.",
+      "3": "Not a sound unit."
+    },
+    "id": "c11-l4-07"
+  },
+  {
+    "chapter": 11,
+    "level": 4,
+    "section": "15.11+11.7",
+    "question": "Personality disorders involve inflexible maladaptive patterns; Big Five describe continuous traits. Distinction?",
+    "options": [
+      "Disorders imply clinical impairment; traits are dimensional",
+      "They are identical DSM codes in the vignette given these facts",
+      "Traits require hallucinations in the vignette given these facts",
+      "Clusters equal OCEAN letters exactly in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Clinical vs normal-range frameworks.",
+    "wrongFeedback": {
+      "1": "Not identical.",
+      "2": "Not psychosis requirement for traits.",
+      "3": "Not exact mapping."
+    },
+    "id": "c11-l4-08"
+  },
+  {
+    "chapter": 12,
+    "level": 1,
+    "section": "§12.1",
+    "question": "Social psychology studies how people:",
+    "options": [
+      "Affect one another’s thoughts, feelings, and behaviors",
+      "Only measure absolute thresholds",
+      "Only classify DSM disorders",
+      "Only run job analyses"
+    ],
+    "correct": 0,
+    "correctFeedback": "Social influence and social thought.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "Clinical.",
+      "3": "I-O."
+    },
+    "page": 400,
+    "id": "c12-l1-01"
+  },
+  {
+    "chapter": 12,
+    "level": 1,
+    "section": "§12.1",
+    "question": "Fundamental attribution error is overemphasizing:",
+    "options": [
+      "Dispositional factors for others’ behavior",
+      "Situational factors for others always",
+      "Only genetics of IQ",
+      "Only sensory noise"
+    ],
+    "correct": 0,
+    "correctFeedback": "Trait over-attribution to others.",
+    "wrongFeedback": {
+      "1": "Opposite bias pattern.",
+      "2": "Intelligence.",
+      "3": "Sensation."
+    },
+    "page": 402,
+    "id": "c12-l1-02"
+  },
+  {
+    "chapter": 12,
+    "level": 1,
+    "section": "§12.3",
+    "question": "Cognitive dissonance is discomfort from:",
+    "options": [
+      "Inconsistency among attitudes/behaviors",
+      "Perfect attitude-behavior match always",
+      "Iconic memory overflow",
+      "Conservation failure"
+    ],
+    "correct": 0,
+    "correctFeedback": "Festinger inconsistency.",
+    "wrongFeedback": {
+      "1": "Match reduces dissonance.",
+      "2": "Memory.",
+      "3": "Piaget."
+    },
+    "page": 410,
+    "id": "c12-l1-03"
+  },
+  {
+    "chapter": 12,
+    "level": 1,
+    "section": "§12.4",
+    "question": "Asch’s studies demonstrated:",
+    "options": [
+      "Conformity to group judgments",
+      "Obedience to shock orders only",
+      "Intrinsic hunger drives",
+      "Flashbulb accuracy"
+    ],
+    "correct": 0,
+    "correctFeedback": "Line judgment conformity.",
+    "wrongFeedback": {
+      "1": "Milgram.",
+      "2": "Motivation.",
+      "3": "Memory."
+    },
+    "page": 414,
+    "id": "c12-l1-04"
+  },
+  {
+    "chapter": 12,
+    "level": 1,
+    "section": "§12.4",
+    "question": "Milgram studied:",
+    "options": [
+      "Obedience to authority",
+      "Infant attachment styles",
+      "Phoneme acquisition",
+      "Big Five structure"
+    ],
+    "correct": 0,
+    "correctFeedback": "Shock obedience paradigm.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "Language.",
+      "3": "Personality."
+    },
+    "page": 416,
+    "id": "c12-l1-05"
+  },
+  {
+    "chapter": 12,
+    "level": 1,
+    "section": "§12.7",
+    "question": "Diffusion of responsibility helps explain the:",
+    "options": [
+      "Bystander effect",
+      "Flynn effect",
+      "GAS exhaustion only",
+      "Object permanence"
+    ],
+    "correct": 0,
+    "correctFeedback": "More people → less personal responsibility.",
+    "wrongFeedback": {
+      "1": "IQ.",
+      "2": "Stress.",
+      "3": "Piaget."
+    },
+    "page": 432,
+    "id": "c12-l1-06"
+  },
+  {
+    "chapter": 12,
+    "level": 2,
+    "section": "§12.1",
+    "question": "Actor–observer bias tends to explain our own acts with:",
+    "options": [
+      "Situations more than traits",
+      "Only traits never situations",
+      "Only heuristics",
+      "Only teratogens"
+    ],
+    "correct": 0,
+    "correctFeedback": "Situational self-explanations.",
+    "wrongFeedback": {
+      "1": "Opposite of typical pattern.",
+      "2": "Thinking.",
+      "3": "Prenatal."
+    },
+    "page": 403,
+    "id": "c12-l2-01"
+  },
+  {
+    "chapter": 12,
+    "level": 2,
+    "section": "§12.3",
+    "question": "Central route persuasion relies more on:",
+    "options": [
+      "Strong arguments and careful processing",
+      "Only peripheral cues like attractiveness",
+      "Only obedience proximity",
+      "Only token pay"
+    ],
+    "correct": 0,
+    "correctFeedback": "Elaboration of message quality.",
+    "wrongFeedback": {
+      "1": "Peripheral route.",
+      "2": "Milgram.",
+      "3": "Operant."
+    },
+    "page": 411,
+    "id": "c12-l2-02"
+  },
+  {
+    "chapter": 12,
+    "level": 2,
+    "section": "§12.4",
+    "question": "Groupthink involves:",
+    "options": [
+      "Consensus pressure harming decision quality",
+      "Improved critical evaluation always",
+      "Only altruism",
+      "Only sensory adaptation"
+    ],
+    "correct": 0,
+    "correctFeedback": "Faulty group decisions.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Helping.",
+      "3": "Sensation."
+    },
+    "page": 418,
+    "id": "c12-l2-03"
+  },
+  {
+    "chapter": 12,
+    "level": 2,
+    "section": "§12.5",
+    "question": "A stereotype is a:",
+    "options": [
+      "Belief about a group",
+      "Behavior of discrimination only",
+      "Emotion of prejudice only",
+      "Type of neuron"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cognitive belief component.",
+    "wrongFeedback": {
+      "1": "Discrimination is behavior.",
+      "2": "Prejudice often affective.",
+      "3": "Biology."
+    },
+    "page": 422,
+    "id": "c12-l2-04"
+  },
+  {
+    "chapter": 12,
+    "level": 2,
+    "section": "§12.6",
+    "question": "Hostile aggression aims mainly to:",
+    "options": [
+      "Cause pain/harm",
+      "Achieve a separate instrumental goal only",
+      "Increase homeostasis",
+      "Encode schemas"
+    ],
+    "correct": 0,
+    "correctFeedback": "Hostile = harm as end.",
+    "wrongFeedback": {
+      "1": "Instrumental is means.",
+      "2": "Motivation.",
+      "3": "Cognition."
+    },
+    "page": 428,
+    "id": "c12-l2-05"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.1",
+    "question": "Seeing a tripped peer as “clumsy” while blaming ice when you slip shows:",
+    "options": [
+      "Actor–observer / FAE patterns in the vignette given these facts",
+      "Secure attachment in the vignette given these facts now now",
+      "Elaborative rehearsal in the vignette given these facts now",
+      "Job strain in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Trait for other, situation for self.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "Memory.",
+      "3": "Stress."
+    },
+    "page": 403,
+    "id": "c12-l3-01"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.3",
+    "question": "After arguing a position for $1, attitude shifts more than for $20—classic:",
+    "options": [
+      "Insufficient justification / dissonance in the vignette",
+      "Misinformation effect in the vignette given these facts",
+      "Anterograde amnesia in the vignette given these facts",
+      "Yerkes peak only in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Festinger & Carlsmith theme.",
+    "wrongFeedback": {
+      "1": "Memory suggestibility.",
+      "2": "Memory loss.",
+      "3": "Arousal law."
+    },
+    "page": 410,
+    "id": "c12-l3-02"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.4",
+    "question": "Saying the wrong line length to match the group is:",
+    "options": [
+      "Normative/informational conformity in the vignette now",
+      "Intrinsic motivation in the vignette given these facts",
+      "Object permanence in the vignette given these facts now",
+      "Hospice care in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Asch conformity.",
+    "wrongFeedback": {
+      "1": "Motivation.",
+      "2": "Piaget.",
+      "3": "Dying care."
+    },
+    "page": 414,
+    "id": "c12-l3-03"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.4",
+    "question": "Administering supposed shocks because an experimenter said so is:",
+    "options": [
+      "Obedience in the vignette given these facts",
+      "Mere conformity without authority in the vignette now now",
+      "Prototype matching in the vignette given these facts now",
+      "Chunking in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Authority obedience.",
+    "wrongFeedback": {
+      "1": "Authority distinguishes.",
+      "2": "Concepts.",
+      "3": "Memory."
+    },
+    "page": 416,
+    "id": "c12-l3-04"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.7",
+    "question": "Not helping because “someone else will” illustrates:",
+    "options": [
+      "Diffusion of responsibility in the vignette given these facts",
+      "Proactive interference in the vignette given these facts now",
+      "Flynn effect in the vignette given these facts now in the vignette",
+      "Trait neuroticism alone in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Bystander mechanism.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "IQ.",
+      "3": "Personality."
+    },
+    "page": 432,
+    "id": "c12-l3-05"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.5",
+    "question": "Refusing to hire based on group membership is:",
+    "options": [
+      "Discrimination in the vignette given these facts now now",
+      "A stereotype belief only in the vignette given these facts",
+      "Only an attitude without behavior in the vignette now now",
+      "A phoneme in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biased behavior.",
+    "wrongFeedback": {
+      "1": "Stereotype is belief.",
+      "2": "Discrimination is action.",
+      "3": "Language."
+    },
+    "page": 423,
+    "id": "c12-l3-06"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.4",
+    "question": "After discussion, a mildly risky group becomes riskier—often:",
+    "options": [
+      "Group polarization in the vignette given these facts",
+      "Retrograde amnesia in the vignette given these facts",
+      "Sensory adaptation in the vignette given these facts",
+      "Conservation in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Polarization.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "Sensation.",
+      "3": "Piaget."
+    },
+    "page": 419,
+    "id": "c12-l3-07"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.2",
+    "question": "Guards’ cruelty in a prison simulation is often cited for:",
+    "options": [
+      "Power of social roles/norms (with debates) in the vignette",
+      "Proof roles never matter in the vignette given these facts",
+      "IQ causation in the vignette given these facts now",
+      "Teratogen effects in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Role power illustration (contested).",
+    "wrongFeedback": {
+      "1": "Roles matter in the claim.",
+      "2": "Not IQ.",
+      "3": "Prenatal."
+    },
+    "page": 406,
+    "id": "c12-l3-08"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.6",
+    "question": "Bullying to obtain lunch money is closer to:",
+    "options": [
+      "Instrumental aggression in the vignette given these facts",
+      "Hostile aggression only as end in the vignette given these facts",
+      "Intrinsic flow only in the vignette given these facts now",
+      "Semantic memory in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Means to a goal.",
+    "wrongFeedback": {
+      "1": "Hostile aims at harm itself.",
+      "2": "Motivation.",
+      "3": "Memory."
+    },
+    "page": 428,
+    "id": "c12-l3-09"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.3",
+    "question": "Buying a product because a celebrity looked cool (weak arguments) is more:",
+    "options": [
+      "Peripheral-route persuasion in the vignette given these facts",
+      "Central-route deep analysis in the vignette given these facts",
+      "Algorithmic proof in the vignette given these facts now",
+      "Anterograde encoding in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Peripheral cues.",
+    "wrongFeedback": {
+      "1": "Central needs strong arguments.",
+      "2": "Problem solving.",
+      "3": "Memory."
+    },
+    "page": 411,
+    "id": "c12-l3-10"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.5",
+    "question": "Scapegoating blames an out-group for:",
+    "options": [
+      "Frustration/problems in the vignette given these facts now",
+      "Secure base needs only in the vignette given these facts",
+      "Iconic traces in the vignette given these facts now now",
+      "Job KSAOs in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Displaced blame.",
+    "wrongFeedback": {
+      "1": "Attachment.",
+      "2": "Memory.",
+      "3": "I-O."
+    },
+    "page": 425,
+    "id": "c12-l3-11"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.7",
+    "question": "Helping with no obvious reward is labeled:",
+    "options": [
+      "Altruism in the vignette given these facts",
+      "Discrimination in the vignette given these facts now now",
+      "FAE in the vignette given these facts on the stated facts",
+      "GAS in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Prosocial without clear self-gain.",
+    "wrongFeedback": {
+      "1": "Bias behavior.",
+      "2": "Attribution.",
+      "3": "Stress."
+    },
+    "page": 430,
+    "id": "c12-l3-12"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.1",
+    "question": "Just-world thinking assumes:",
+    "options": [
+      "People get what they deserve in the vignette given these facts",
+      "Situations never matter in the vignette given these facts",
+      "Memory is perfect in the vignette given these facts now",
+      "Motivation is only extrinsic in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Belief in a just world.",
+    "wrongFeedback": {
+      "1": "Situations matter.",
+      "2": "Memory reconstructive.",
+      "3": "Intrinsic exists."
+    },
+    "page": 404,
+    "id": "c12-l3-13"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.4",
+    "question": "Social loafing is reduced effort when:",
+    "options": [
+      "Individual output is not identifiable in a group now",
+      "Working alone with clear metrics always in the vignette now",
+      "Encoding fails in the vignette given these facts now now",
+      "Display rules vanish in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Loafing in groups.",
+    "wrongFeedback": {
+      "1": "Opposite context.",
+      "2": "Memory.",
+      "3": "Emotion norms."
+    },
+    "page": 420,
+    "id": "c12-l3-14"
+  },
+  {
+    "chapter": 12,
+    "level": 3,
+    "section": "§12.5",
+    "question": "Self-fulfilling prophecy can make stereotypes:",
+    "options": [
+      "Appear confirmed via expectancy-driven behavior now",
+      "Impossible by definition in the vignette given these facts",
+      "Identical to phonemes in the vignette given these facts",
+      "A type of algorithm in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Expectancies shape outcomes.",
+    "wrongFeedback": {
+      "1": "They can confirm.",
+      "2": "Language.",
+      "3": "Problem solving."
+    },
+    "page": 424,
+    "id": "c12-l3-15"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "6.4+12.4",
+    "question": "Milgram obedience and Bandura modeling both show social influence, but differ because Milgram emphasizes:",
+    "options": [
+      "Authority commands; Bandura emphasizes observing models",
+      "Identical mechanisms always in the vignette given these facts",
+      "Only hunger drives in the vignette given these facts now",
+      "Only DSM clusters in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Authority vs observational routes.",
+    "wrongFeedback": {
+      "1": "Not identical.",
+      "2": "Motivation.",
+      "3": "Disorders."
+    },
+    "id": "c12-l4-01"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "2.4+12.4",
+    "question": "Modern ethics would scrutinize Milgram-style deception/stress because IRB aims to:",
+    "options": [
+      "Protect participants from undue harm in the vignette now",
+      "Maximize obedience rates in the vignette given these facts",
+      "Eliminate all social research in the vignette given these facts",
+      "Prove FAE in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Human subjects protections.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Research continues with oversight.",
+      "3": "Not FAE proof."
+    },
+    "id": "c12-l4-02"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "11.7+12.1",
+    "question": "FAE overuses traits; Big Five research still finds predictive patterns. Best reconciliation?",
+    "options": [
+      "Traits have some predictive power yet situational attribution",
+      "Traits never predict anything in the vignette given these facts",
+      "FAE disproves OCEAN in the vignette given these facts now",
+      "Situations forbid all dispositions in the vignette now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Both partial truths.",
+    "wrongFeedback": {
+      "1": "Traits predict modestly.",
+      "2": "OCEAN stands.",
+      "3": "Dispositions matter too."
+    },
+    "id": "c12-l4-03"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "8.3+12.7",
+    "question": "Bystanders may fail to help and later reconstruct the event with misinformation. Dual lesson?",
+    "options": [
+      "Social inhibition of helping + reconstructive memory",
+      "Helping is impossible in the vignette given these facts",
+      "Memory is a videotape in the vignette given these facts",
+      "Diffusion requires amnesia in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Social and memory processes co-occur.",
+    "wrongFeedback": {
+      "1": "Helping occurs often.",
+      "2": "Not videotape.",
+      "3": "Not required."
+    },
+    "id": "c12-l4-04"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "10.4+12.5",
+    "question": "Prejudice can include affective hatred plus cognitive stereotypes—emotion × social cognition.",
+    "options": [
+      "Yes—prejudice often blends affect and beliefs in the vignette",
+      "Prejudice is only a phoneme in the vignette given these facts",
+      "Stereotypes are UCS only in the vignette given these facts",
+      "Discrimination equals homeostasis in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Multi-component bias.",
+    "wrongFeedback": {
+      "1": "Not a sound.",
+      "2": "Not UCS.",
+      "3": "Not balance."
+    },
+    "id": "c12-l4-05"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "7.3+12.4",
+    "question": "Groupthink resembles confirmation bias at group scale by:",
+    "options": [
+      "Suppressing dissenting evidence search in the vignette",
+      "Guaranteeing algorithmic optimality in the vignette now",
+      "Increasing working memory slots in the vignette now now",
+      "Creating secure attachment in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Shared bias against dissent.",
+    "wrongFeedback": {
+      "1": "Harms quality.",
+      "2": "Memory capacity.",
+      "3": "Development."
+    },
+    "id": "c12-l4-06"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "14.4+12.7",
+    "question": "Social support reduces stress and also enables prosocial norms—link?",
+    "options": [
+      "Supportive ties aid coping and helping cultures in the vignette",
+      "Support always increases aggression in the vignette now",
+      "Stress forbids altruism in the vignette given these facts",
+      "Bystander effect requires GAS in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Relationships buffer and model help.",
+    "wrongFeedback": {
+      "1": "Not always aggression.",
+      "2": "Altruism persists.",
+      "3": "Not required."
+    },
+    "id": "c12-l4-07"
+  },
+  {
+    "chapter": 12,
+    "level": 4,
+    "section": "16.5+12.5",
+    "question": "Stigma about therapy resembles prejudice processes via:",
+    "options": [
+      "Negative stereotypes and discrimination against",
+      "Only sensory thresholds in the vignette given these facts",
+      "Only job analyses in the vignette given these facts now",
+      "Only conservation tasks in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stigma as social bias.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "I-O.",
+      "3": "Piaget."
+    },
+    "id": "c12-l4-08"
+  },
+  {
+    "chapter": 13,
+    "level": 1,
+    "section": "§13.1",
+    "question": "I-O psychology applies psychology to:",
+    "options": [
+      "Workplace behavior and systems",
+      "Only dream analysis",
+      "Only absolute thresholds",
+      "Only prenatal teratogens"
+    ],
+    "correct": 0,
+    "correctFeedback": "Industrial-organizational focus.",
+    "wrongFeedback": {
+      "1": "Therapy history.",
+      "2": "Sensation.",
+      "3": "Development."
+    },
+    "page": 446,
+    "id": "c13-l1-01"
+  },
+  {
+    "chapter": 13,
+    "level": 1,
+    "section": "§13.2",
+    "question": "Job analysis identifies:",
+    "options": [
+      "Tasks and/or KSAOs of a job",
+      "Only DSM symptoms",
+      "Only phoneme lists",
+      "Only Kübler-Ross stages"
+    ],
+    "correct": 0,
+    "correctFeedback": "Foundation for selection/training.",
+    "wrongFeedback": {
+      "1": "Clinical.",
+      "2": "Language.",
+      "3": "Grief."
+    },
+    "page": 454,
+    "id": "c13-l1-02"
+  },
+  {
+    "chapter": 13,
+    "level": 1,
+    "section": "§13.2",
+    "question": "Performance appraisal evaluates:",
+    "options": [
+      "Employee job performance",
+      "Infant attachment",
+      "Sensory adaptation",
+      "Heuristic biases only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Appraisal systems.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "Sensation.",
+      "3": "Cognition chapter."
+    },
+    "page": 460,
+    "id": "c13-l1-03"
+  },
+  {
+    "chapter": 13,
+    "level": 1,
+    "section": "§13.3",
+    "question": "Organizational psychology emphasizes:",
+    "options": [
+      "Social processes at work (satisfaction, leadership, culture)",
+      "Only machine gear ratios",
+      "Only iconic memory",
+      "Only g-factor testing"
+    ],
+    "correct": 0,
+    "correctFeedback": "Human/social side of work.",
+    "wrongFeedback": {
+      "1": "Engineering alone.",
+      "2": "Memory.",
+      "3": "Intelligence testing only."
+    },
+    "page": 464,
+    "id": "c13-l1-04"
+  },
+  {
+    "chapter": 13,
+    "level": 1,
+    "section": "§13.4",
+    "question": "Human factors / ergonomics aims to:",
+    "options": [
+      "Fit tools and environments to human capabilities",
+      "Fit humans forcibly to poorly designed machines only",
+      "Diagnose personality disorders",
+      "Measure conservation"
+    ],
+    "correct": 0,
+    "correctFeedback": "Design for humans.",
+    "wrongFeedback": {
+      "1": "Opposite ethos.",
+      "2": "Clinical.",
+      "3": "Piaget."
+    },
+    "page": 474,
+    "id": "c13-l1-05"
+  },
+  {
+    "chapter": 13,
+    "level": 1,
+    "section": "§13.1",
+    "question": "Hawthorne studies highlighted:",
+    "options": [
+      "Social/attentional factors in productivity narratives",
+      "That lighting is the only cause always",
+      "That selection tests are useless",
+      "That ethics boards forbid all research"
+    ],
+    "correct": 0,
+    "correctFeedback": "Social factors theme (with caveats).",
+    "wrongFeedback": {
+      "1": "Not only lighting.",
+      "2": "Selection still studied.",
+      "3": "Research continues."
+    },
+    "page": 450,
+    "id": "c13-l1-06"
+  },
+  {
+    "chapter": 13,
+    "level": 2,
+    "section": "§13.3",
+    "question": "Theory X managers tend to assume workers are:",
+    "options": [
+      "Lazy and need control",
+      "Intrinsically motivated always",
+      "Only secure-attached",
+      "Only high on openness"
+    ],
+    "correct": 0,
+    "correctFeedback": "McGregor X assumptions.",
+    "wrongFeedback": {
+      "1": "More Theory Y.",
+      "2": "Attachment.",
+      "3": "Personality."
+    },
+    "page": 468,
+    "id": "c13-l2-01"
+  },
+  {
+    "chapter": 13,
+    "level": 2,
+    "section": "§13.3",
+    "question": "Transformational leaders primarily:",
+    "options": [
+      "Inspire and develop followers toward change",
+      "Only exchange rewards for compliance",
+      "Only punish errors",
+      "Ignore culture"
+    ],
+    "correct": 0,
+    "correctFeedback": "Transformational themes.",
+    "wrongFeedback": {
+      "1": "Transactional exchange.",
+      "2": "Punishment-only weak.",
+      "3": "Culture matters."
+    },
+    "page": 469,
+    "id": "c13-l2-02"
+  },
+  {
+    "chapter": 13,
+    "level": 2,
+    "section": "§13.2",
+    "question": "Structured interviews generally improve:",
+    "options": [
+      "Reliability/validity versus casual chats",
+      "Guaranteed zero bias forever",
+      "Object permanence",
+      "Flashbulb accuracy"
+    ],
+    "correct": 0,
+    "correctFeedback": "Structure helps psychometrics.",
+    "wrongFeedback": {
+      "1": "Bias can remain.",
+      "2": "Development.",
+      "3": "Memory."
+    },
+    "page": 458,
+    "id": "c13-l2-03"
+  },
+  {
+    "chapter": 13,
+    "level": 2,
+    "section": "§13.3",
+    "question": "Quid pro quo harassment involves:",
+    "options": [
+      "Sexual favors tied to work rewards/threats",
+      "Only ergonomic chair height",
+      "Only group polarization",
+      "Only intrinsic flow"
+    ],
+    "correct": 0,
+    "correctFeedback": "Exchange harassment.",
+    "wrongFeedback": {
+      "1": "Human factors.",
+      "2": "Social.",
+      "3": "Motivation."
+    },
+    "page": 471,
+    "id": "c13-l2-04"
+  },
+  {
+    "chapter": 13,
+    "level": 2,
+    "section": "§13.3",
+    "question": "Job strain often pairs:",
+    "options": [
+      "High demands with low control",
+      "Low demands with high autonomy always",
+      "Only phoneme load",
+      "Only iconic overflow"
+    ],
+    "correct": 0,
+    "correctFeedback": "Demand–control stressor.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Language.",
+      "3": "Memory."
+    },
+    "page": 470,
+    "id": "c13-l2-05"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.2",
+    "question": "Writing task statements and required skills before hiring is:",
+    "options": [
+      "Job analysis in the vignette given these facts now in the vignette",
+      "Projective testing in the vignette given these facts in the vignette",
+      "Systematic desensitization in the vignette given these facts",
+      "Object permanence check in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Analyze the job first.",
+    "wrongFeedback": {
+      "1": "Personality.",
+      "2": "Therapy.",
+      "3": "Piaget."
+    },
+    "page": 454,
+    "id": "c13-l3-01"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.2",
+    "question": "Using a test that predicts job performance shows evidence of:",
+    "options": [
+      "Criterion-related validity themes in the vignette now",
+      "Pure face validity only in the vignette given these facts",
+      "Anterograde amnesia in the vignette given these facts",
+      "Display rules in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Predictive/criterion links.",
+    "wrongFeedback": {
+      "1": "More than face.",
+      "2": "Memory.",
+      "3": "Emotion."
+    },
+    "page": 457,
+    "id": "c13-l3-02"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "Employees feeling unfair pay show lower:",
+    "options": [
+      "Job satisfaction (often) in the vignette",
+      "Iconic duration in the vignette given these facts now now",
+      "Phoneme count in the vignette given these facts now now",
+      "Teratogen risk in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Pay equity ↔ satisfaction.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "Language.",
+      "3": "Prenatal."
+    },
+    "page": 466,
+    "id": "c13-l3-03"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "A leader who coaches vision and intellectual stimulation is more:",
+    "options": [
+      "Transformational in the vignette given these facts now",
+      "Pure Theory X punitive in the vignette given these facts",
+      "Only transactional paycheck in the vignette given these facts",
+      "Only ergonomic in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Transformational behaviors.",
+    "wrongFeedback": {
+      "1": "X punitive.",
+      "2": "Transactional narrower.",
+      "3": "Design."
+    },
+    "page": 469,
+    "id": "c13-l3-04"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.4",
+    "question": "Redesigning a control panel to reduce pilot error is:",
+    "options": [
+      "Human factors design in the vignette given these facts now",
+      "Cognitive dissonance induction in the vignette given these facts",
+      "Milgram proximity in the vignette given these facts now now",
+      "Kübler-Ross anger in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Ergonomics/HF.",
+    "wrongFeedback": {
+      "1": "Social.",
+      "2": "Obedience.",
+      "3": "Grief."
+    },
+    "page": 476,
+    "id": "c13-l3-05"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "Hostile work environment harassment includes:",
+    "options": [
+      "Offensive conduct creating abusive climate",
+      "Only ergonomic mismatch in the vignette given these facts",
+      "Only IQ cutoffs in the vignette given these facts now",
+      "Only secure bases in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Climate harassment.",
+    "wrongFeedback": {
+      "1": "HF.",
+      "2": "Selection.",
+      "3": "Attachment."
+    },
+    "page": 471,
+    "id": "c13-l3-06"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.1",
+    "question": "WWI/WWII testing needs historically accelerated:",
+    "options": [
+      "Industrial psychology growth in the vignette given these facts",
+      "Piaget’s stages discovery only in the vignette given these facts",
+      "DSM-5 publication in 1918 in the vignette given these facts",
+      "Flynn effect naming in 1800 in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Military selection spurred field.",
+    "wrongFeedback": {
+      "1": "Piaget separate.",
+      "2": "DSM later.",
+      "3": "Flynn later."
+    },
+    "page": 448,
+    "id": "c13-l3-07"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "Telework research weighs:",
+    "options": [
+      "Flexibility benefits vs isolation/boundary costs now",
+      "Only unconditional positive regard in the vignette now now",
+      "Only sensory thresholds in the vignette given these facts",
+      "Only conservation in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Remote work tradeoffs.",
+    "wrongFeedback": {
+      "1": "Therapy.",
+      "2": "Sensation.",
+      "3": "Piaget."
+    },
+    "page": 472,
+    "id": "c13-l3-08"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.2",
+    "question": "Training evaluation that checks on-the-job transfer assesses:",
+    "options": [
+      "Whether learning shows up in performance",
+      "Only trainee smiling in the vignette given these facts",
+      "Only engram size in the vignette given these facts now",
+      "Only groupthink in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Transfer of training.",
+    "wrongFeedback": {
+      "1": "Affect alone weak.",
+      "2": "Memory metaphor.",
+      "3": "Social."
+    },
+    "page": 459,
+    "id": "c13-l3-09"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "O*NET-style databases support:",
+    "options": [
+      "Job analysis / career information in the vignette now",
+      "Dream interpretation in the vignette given these facts",
+      "Absolute thresholds in the vignette given these facts",
+      "Hospice staging in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Job information systems.",
+    "wrongFeedback": {
+      "1": "Freud.",
+      "2": "Sensation.",
+      "3": "Dying."
+    },
+    "page": 455,
+    "id": "c13-l3-10"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.4",
+    "question": "Checklists that prevent surgical mistakes apply:",
+    "options": [
+      "Human factors error reduction in the vignette given these facts",
+      "FAE training only in the vignette given these facts now",
+      "Prototype birds in the vignette given these facts now now",
+      "Intrinsic art motivation only in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Error-proofing design/process.",
+    "wrongFeedback": {
+      "1": "Attribution.",
+      "2": "Concepts.",
+      "3": "Motivation."
+    },
+    "page": 477,
+    "id": "c13-l3-11"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.2",
+    "question": "Adverse impact in hiring raises:",
+    "options": [
+      "Fairness/legal selection concerns in the vignette now now",
+      "Proof tests are always valid in the vignette given these facts",
+      "That appraisal is impossible in the vignette given these facts",
+      "That culture is irrelevant in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "EEO/fairness issues.",
+    "wrongFeedback": {
+      "1": "Validity still needed.",
+      "2": "Appraisal exists.",
+      "3": "Culture matters."
+    },
+    "page": 456,
+    "id": "c13-l3-12"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "Organizational culture is shared:",
+    "options": [
+      "Values, norms, and practices in the vignette in the vignette",
+      "Only individual Big Five scores in the vignette now now here",
+      "Only UCS–CR maps in the vignette given these facts now",
+      "Only SRRS totals in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Collective meaning systems at work.",
+    "wrongFeedback": {
+      "1": "Personality individual.",
+      "2": "Conditioning.",
+      "3": "Stress events."
+    },
+    "page": 470,
+    "id": "c13-l3-13"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.1",
+    "question": "Industrial vs organizational split roughly maps to:",
+    "options": [
+      "Selection/appraisal vs social/motivational workplace topics",
+      "Only sensation vs perception in the vignette given these facts",
+      "Only id vs ego in the vignette given these facts now now",
+      "Only algorithms vs heuristics in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "I vs O emphases.",
+    "wrongFeedback": {
+      "1": "Sensation chapter.",
+      "2": "Freud.",
+      "3": "Cognition."
+    },
+    "page": 447,
+    "id": "c13-l3-14"
+  },
+  {
+    "chapter": 13,
+    "level": 3,
+    "section": "§13.3",
+    "question": "Burnout includes exhaustion and often:",
+    "options": [
+      "Cynicism and reduced efficacy themes in the vignette now",
+      "Improved conservation skills in the vignette given these facts",
+      "Higher iconic capacity in the vignette given these facts",
+      "Guaranteed altruism in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Burnout syndrome features.",
+    "wrongFeedback": {
+      "1": "Piaget.",
+      "2": "Memory.",
+      "3": "Helping not guaranteed."
+    },
+    "page": 467,
+    "id": "c13-l3-15"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "2.3+13.2",
+    "question": "A company claims a new interview “causes” better hires after comparing volunteers who opted in. Best critique?",
+    "options": [
+      "Self-selection confounds causal claims in the vignette now",
+      "Opt-in equals random assignment in the vignette now now",
+      "Job analysis forbids validity in the vignette given these facts",
+      "Hawthorne erases all bias in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Nonrandom volunteers differ.",
+    "wrongFeedback": {
+      "1": "Not random.",
+      "2": "Analysis enables selection design.",
+      "3": "Doesn’t erase bias."
+    },
+    "id": "c13-l4-01"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "12.3+13.3",
+    "question": "Leaders using inspirational appeals engage persuasion; dissonance may follow unpaid extra work. Both are:",
+    "options": [
+      "Attitude/behavior change mechanisms in organizations now",
+      "Proof culture is irrelevant in the vignette given these facts",
+      "Identical to ergonomics in the vignette given these facts",
+      "Types of teratogens in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Social influence at work.",
+    "wrongFeedback": {
+      "1": "Culture matters.",
+      "2": "Design different.",
+      "3": "Prenatal."
+    },
+    "id": "c13-l4-02"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "10.1+13.3",
+    "question": "Job characteristics that raise autonomy can boost intrinsic motivation—Hackman/Oldham-style link to:",
+    "options": [
+      "Motivation via meaningful work design in the vignette now",
+      "Only extrinsic pay forever in the vignette given these facts",
+      "Only James–Lange order in the vignette given these facts",
+      "Only FAE in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Design → motivation.",
+    "wrongFeedback": {
+      "1": "Intrinsic possible.",
+      "2": "Emotion theory.",
+      "3": "Attribution."
+    },
+    "id": "c13-l4-03"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "14.2+13.3",
+    "question": "Job strain (high demand/low control) is a workplace stressor predicting:",
+    "options": [
+      "Burnout and health risks in the vignette given these facts",
+      "Improved object permanence in the vignette given these facts",
+      "Higher phoneme inventory in the vignette given these facts",
+      "Automatic secure attachment in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Demand–control stress.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "Language.",
+      "3": "Attachment."
+    },
+    "id": "c13-l4-04"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "7.5+13.2",
+    "question": "Using poorly validated “brain teasers” for hiring fails I-O standards of:",
+    "options": [
+      "Demonstrated reliability/validity for the job in the vignette",
+      "Guaranteed adverse-impact freedom in the vignette now now",
+      "Perfect g measurement as legal shield in the vignette now",
+      "Ergonomic chair requirements in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Selection needs job-related validity.",
+    "wrongFeedback": {
+      "1": "Bias risks remain.",
+      "2": "g not automatic legal fix.",
+      "3": "HF separate."
+    },
+    "id": "c13-l4-05"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "11.7+13.2",
+    "question": "Conscientiousness often predicts performance; still, job analysis should confirm:",
+    "options": [
+      "Which traits/KSAOs matter for this role in the vignette",
+      "That all Big Five always matter equally in the vignette",
+      "That projective tests beat inventories in the vignette",
+      "That traits equal job tasks in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Local job relevance.",
+    "wrongFeedback": {
+      "1": "Not equal always.",
+      "2": "Inventories often stronger.",
+      "3": "Traits ≠ tasks."
+    },
+    "id": "c13-l4-06"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "16.2+13.3",
+    "question": "EAP counseling at work may use CBT for stress—bridges I-O wellness and therapy by:",
+    "options": [
+      "Applying clinical techniques in organizational contexts",
+      "Replacing all selection systems in the vignette now now",
+      "Proving Theory X in the vignette given these facts now",
+      "Measuring only iconic memory in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Workplace mental health services.",
+    "wrongFeedback": {
+      "1": "Selection remains.",
+      "2": "Not proof of X.",
+      "3": "Memory unrelated."
+    },
+    "id": "c13-l4-07"
+  },
+  {
+    "chapter": 13,
+    "level": 4,
+    "section": "5.1+13.4",
+    "question": "Signal detection ideas for alarms (hits/false alarms) inform ergonomic warning design—link sensation to HF.",
+    "options": [
+      "Yes—detectability tradeoffs guide interface design now",
+      "Thresholds forbid design in the vignette given these facts",
+      "HF ignores perception in the vignette given these facts",
+      "Alarms are phonemes only in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Perception informs design.",
+    "wrongFeedback": {
+      "1": "Design uses thresholds.",
+      "2": "HF uses perception.",
+      "3": "Not only phonemes."
+    },
+    "id": "c13-l4-08"
+  },
+  {
+    "chapter": 14,
+    "level": 1,
+    "section": "§14.1",
+    "question": "Stress involves appraising events as:",
+    "options": [
+      "Overwhelming or threatening to well-being",
+      "Always joyful challenges only",
+      "Only sensory thresholds",
+      "Only job KSAOs"
+    ],
+    "correct": 0,
+    "correctFeedback": "Appraisal-centered definition.",
+    "wrongFeedback": {
+      "1": "Not always positive.",
+      "2": "Sensation.",
+      "3": "I-O."
+    },
+    "page": 484,
+    "id": "c14-l1-01"
+  },
+  {
+    "chapter": 14,
+    "level": 1,
+    "section": "§14.1",
+    "question": "Fight-or-flight was described by:",
+    "options": [
+      "Walter Cannon",
+      "Jean Piaget",
+      "Solomon Asch",
+      "Alfred Binet"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cannon’s emergency response.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "Conformity.",
+      "3": "IQ."
+    },
+    "page": 486,
+    "id": "c14-l1-02"
+  },
+  {
+    "chapter": 14,
+    "level": 1,
+    "section": "§14.1",
+    "question": "Selye’s GAS stages are alarm, resistance, and:",
+    "options": [
+      "Exhaustion",
+      "Assimilation",
+      "Obedience",
+      "Chunking"
+    ],
+    "correct": 0,
+    "correctFeedback": "General Adaptation Syndrome.",
+    "wrongFeedback": {
+      "1": "Piaget.",
+      "2": "Milgram.",
+      "3": "Memory."
+    },
+    "page": 488,
+    "id": "c14-l1-03"
+  },
+  {
+    "chapter": 14,
+    "level": 1,
+    "section": "§14.2",
+    "question": "Daily hassles are:",
+    "options": [
+      "Minor frequent irritations",
+      "Only catastrophic traumas",
+      "Only prenatal teratogens",
+      "Only formal operations"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cumulative small stressors.",
+    "wrongFeedback": {
+      "1": "Trauma is bigger.",
+      "2": "Development.",
+      "3": "Piaget."
+    },
+    "page": 496,
+    "id": "c14-l1-04"
+  },
+  {
+    "chapter": 14,
+    "level": 1,
+    "section": "§14.4",
+    "question": "Problem-focused coping tries to:",
+    "options": [
+      "Change the stressor or situation",
+      "Only change feelings without acting on cause",
+      "Ignore all appraisal",
+      "Increase HPA endlessly"
+    ],
+    "correct": 0,
+    "correctFeedback": "Tackle the problem.",
+    "wrongFeedback": {
+      "1": "Emotion-focused.",
+      "2": "Appraisal central.",
+      "3": "Worsens strain."
+    },
+    "page": 512,
+    "id": "c14-l1-05"
+  },
+  {
+    "chapter": 14,
+    "level": 1,
+    "section": "§14.5",
+    "question": "Positive psychology focuses on:",
+    "options": [
+      "Human strengths and well-being",
+      "Only psychopathology lists",
+      "Only absolute thresholds",
+      "Only engrams"
+    ],
+    "correct": 0,
+    "correctFeedback": "Seligman-era emphasis.",
+    "wrongFeedback": {
+      "1": "Disorders chapter.",
+      "2": "Sensation.",
+      "3": "Memory."
+    },
+    "page": 518,
+    "id": "c14-l1-06"
+  },
+  {
+    "chapter": 14,
+    "level": 2,
+    "section": "§14.1",
+    "question": "The HPA axis culminates in release of:",
+    "options": [
+      "Stress hormones such as cortisol themes",
+      "Only dopamine for pleasure always",
+      "Only oxytocin for hunger",
+      "Only adrenaline never cortisol"
+    ],
+    "correct": 0,
+    "correctFeedback": "HPA → glucocorticoids.",
+    "wrongFeedback": {
+      "1": "Not only dopamine story.",
+      "2": "Hunger different.",
+      "3": "Catecholamines also in fight-flight but HPA→cortisol."
+    },
+    "page": 487,
+    "id": "c14-l2-01"
+  },
+  {
+    "chapter": 14,
+    "level": 2,
+    "section": "§14.2",
+    "question": "Holmes and Rahe’s SRRS scores:",
+    "options": [
+      "Life-change units linked to illness risk",
+      "Phoneme frequency",
+      "Attachment Q-sorts",
+      "Big Five facets only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Life events checklist.",
+    "wrongFeedback": {
+      "1": "Language.",
+      "2": "Development.",
+      "3": "Personality."
+    },
+    "page": 495,
+    "id": "c14-l2-02"
+  },
+  {
+    "chapter": 14,
+    "level": 2,
+    "section": "§14.3",
+    "question": "Type A research later emphasized health risk especially from:",
+    "options": [
+      "Hostility components",
+      "Openness to aesthetics",
+      "Agreeableness warmth only",
+      "Iconic memory span"
+    ],
+    "correct": 0,
+    "correctFeedback": "Hostility ↔ CVD themes.",
+    "wrongFeedback": {
+      "1": "Personality trait O.",
+      "2": "A is different.",
+      "3": "Memory."
+    },
+    "page": 504,
+    "id": "c14-l2-03"
+  },
+  {
+    "chapter": 14,
+    "level": 2,
+    "section": "§14.4",
+    "question": "Perceived control tends to:",
+    "options": [
+      "Buffer stress impacts",
+      "Always increase helplessness",
+      "Erase all coping",
+      "Create teratogens"
+    ],
+    "correct": 0,
+    "correctFeedback": "Control beliefs help.",
+    "wrongFeedback": {
+      "1": "Opposite of learned helplessness.",
+      "2": "Coping remains.",
+      "3": "Prenatal."
+    },
+    "page": 514,
+    "id": "c14-l2-04"
+  },
+  {
+    "chapter": 14,
+    "level": 2,
+    "section": "§14.5",
+    "question": "Flow refers to:",
+    "options": [
+      "Absorbed engagement in optimally challenging activity",
+      "GAS exhaustion only",
+      "FAE only",
+      "Job analysis only"
+    ],
+    "correct": 0,
+    "correctFeedback": "Csikszentmihalyi flow.",
+    "wrongFeedback": {
+      "1": "Stress stage.",
+      "2": "Social.",
+      "3": "I-O."
+    },
+    "page": 522,
+    "id": "c14-l2-05"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.1",
+    "question": "Heart racing before a speech as threat appraisal shows:",
+    "options": [
+      "Stress as process combining appraisal and arousal now",
+      "That stress is only a hormone name in the vignette now",
+      "Pure James emotion without stress in the vignette now",
+      "Object permanence in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Appraisal + physiology.",
+    "wrongFeedback": {
+      "1": "Broader process.",
+      "2": "Related but stress framing.",
+      "3": "Piaget."
+    },
+    "page": 485,
+    "id": "c14-l3-01"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.1",
+    "question": "After months of overload, getting sick during “vacation crash” fits:",
+    "options": [
+      "Exhaustion stage themes in the vignette",
+      "Sensorimotor stage in the vignette given these facts now",
+      "Central route only in the vignette given these facts now",
+      "Prototype matching in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Depleted resistance.",
+    "wrongFeedback": {
+      "1": "Piaget.",
+      "2": "Persuasion.",
+      "3": "Concepts."
+    },
+    "page": 489,
+    "id": "c14-l3-02"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.2",
+    "question": "Losing keys, traffic, and Wi-Fi drops accumulating stress are:",
+    "options": [
+      "Daily hassles in the vignette given these facts now",
+      "Only SRRS catastrophes in the vignette given these facts",
+      "Only flashbulb events in the vignette given these facts",
+      "Only obedience shocks in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Hassles add up.",
+    "wrongFeedback": {
+      "1": "Major events different.",
+      "2": "Memory.",
+      "3": "Milgram."
+    },
+    "page": 496,
+    "id": "c14-l3-03"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.2",
+    "question": "A job with huge demands and no say exemplifies:",
+    "options": [
+      "Job strain in the vignette given these facts",
+      "Secure attachment in the vignette given these facts now now",
+      "Elaborative rehearsal in the vignette given these facts now",
+      "Phoneme deletion in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Demand–control strain.",
+    "wrongFeedback": {
+      "1": "Development.",
+      "2": "Memory.",
+      "3": "Language."
+    },
+    "page": 498,
+    "id": "c14-l3-04"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.3",
+    "question": "Chronic stress impairing immune defenses relates to:",
+    "options": [
+      "Psychoneuroimmunology themes in the vignette",
+      "Conservation of volume in the vignette given these facts",
+      "Group polarization in the vignette given these facts now",
+      "Projective inkblots in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stress–immune links.",
+    "wrongFeedback": {
+      "1": "Piaget.",
+      "2": "Social.",
+      "3": "Personality assessment."
+    },
+    "page": 502,
+    "id": "c14-l3-05"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.4",
+    "question": "Venting feelings without changing a bad lease is more:",
+    "options": [
+      "Emotion-focused coping in the vignette",
+      "Problem-focused lease negotiation in the vignette now",
+      "Algorithmic proof in the vignette given these facts now",
+      "Job analysis in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Emotion regulation focus.",
+    "wrongFeedback": {
+      "1": "Problem-focused would change lease.",
+      "2": "Cognition.",
+      "3": "I-O."
+    },
+    "page": 513,
+    "id": "c14-l3-06"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.4",
+    "question": "Friends bringing meals after surgery provide:",
+    "options": [
+      "Social support in the vignette given these facts now now",
+      "Misinformation verbs in the vignette given these facts now",
+      "FAE in the vignette given these facts on the stated facts",
+      "Teratogens in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Support resources.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "Attribution.",
+      "3": "Prenatal."
+    },
+    "page": 515,
+    "id": "c14-l3-07"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.5",
+    "question": "Underestimating how you’ll adapt to a setback shows limits of:",
+    "options": [
+      "Affective forecasting in the vignette given these facts",
+      "Iconic storage in the vignette given these facts now",
+      "Object permanence in the vignette given these facts now",
+      "Structured interviews in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Forecasting happiness poorly.",
+    "wrongFeedback": {
+      "1": "Memory.",
+      "2": "Piaget.",
+      "3": "I-O."
+    },
+    "page": 520,
+    "id": "c14-l3-08"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.1",
+    "question": "Sympathetic activation in an emergency is:",
+    "options": [
+      "Fight-or-flight in the vignette given these facts now now",
+      "Formal operations in the vignette given these facts now",
+      "Central persuasion in the vignette given these facts now",
+      "Chunking in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cannon emergency pattern.",
+    "wrongFeedback": {
+      "1": "Piaget.",
+      "2": "Social.",
+      "3": "Memory."
+    },
+    "page": 486,
+    "id": "c14-l3-09"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.3",
+    "question": "Hypertension discussed as stress-linked illustrates:",
+    "options": [
+      "Psychophysiological disorder themes in the vignette now",
+      "Purely imaginary symptoms always in the vignette now",
+      "Only phoneme errors in the vignette given these facts",
+      "Only bystander apathy in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Body systems affected.",
+    "wrongFeedback": {
+      "1": "Real physiology.",
+      "2": "Language.",
+      "3": "Helping."
+    },
+    "page": 501,
+    "id": "c14-l3-10"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.4",
+    "question": "Meditation and exercise appear in the chapter as:",
+    "options": [
+      "Stress-reduction techniques in the vignette",
+      "Selection predictors only in the vignette given these facts",
+      "DSM criteria for mania in the vignette given these facts",
+      "Heuristics for representativeness in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Regulation strategies.",
+    "wrongFeedback": {
+      "1": "I-O.",
+      "2": "Disorders.",
+      "3": "Judgment."
+    },
+    "page": 516,
+    "id": "c14-l3-11"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.2",
+    "question": "PTSD-level trauma is an example of a:",
+    "options": [
+      "Severe/traumatic stressor in the vignette given these facts",
+      "Daily hassle only in the vignette given these facts now now",
+      "Mild life-change unit only in the vignette given these facts",
+      "Display rule in the vignette given these facts now in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Traumatic events as stressors.",
+    "wrongFeedback": {
+      "1": "Hassles smaller.",
+      "2": "SRRS includes various.",
+      "3": "Emotion norms."
+    },
+    "page": 494,
+    "id": "c14-l3-12"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.5",
+    "question": "Optimism in positive psychology is linked to:",
+    "options": [
+      "Better coping/health associations in research themes",
+      "Guaranteed immunity to all illness in the vignette now",
+      "Zero appraisal processes in the vignette given these facts",
+      "Mandatory Theory X in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Optimistic explanatory styles help.",
+    "wrongFeedback": {
+      "1": "Not absolute immunity.",
+      "2": "Appraisal remains.",
+      "3": "I-O theory."
+    },
+    "page": 524,
+    "id": "c14-l3-13"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.1",
+    "question": "Primary appraisal asks roughly:",
+    "options": [
+      "Is this a threat/challenge/harm? in the vignette now",
+      "What is my g score? in the vignette given these facts",
+      "What phoneme is that? in the vignette given these facts",
+      "Which schedule is FI? in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Initial evaluation.",
+    "wrongFeedback": {
+      "1": "IQ.",
+      "2": "Language.",
+      "3": "Operant."
+    },
+    "page": 485,
+    "id": "c14-l3-14"
+  },
+  {
+    "chapter": 14,
+    "level": 3,
+    "section": "§14.4",
+    "question": "Learned helplessness (Seligman) reduces coping when people learn:",
+    "options": [
+      "Outcomes seem uncontrollable in the vignette",
+      "That control is high in the vignette given these facts",
+      "That support always arrives in the vignette given these facts",
+      "That GAS has two stages in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Uncontrollability → passivity.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Not always.",
+      "3": "Three stages."
+    },
+    "page": 514,
+    "id": "c14-l3-15"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "3.2+14.1",
+    "question": "HPA cortisol and sympathetic catecholamines show biopsych of stress while appraisal shows:",
+    "options": [
+      "Mind–body integration in stress responses in the vignette",
+      "That cognition is irrelevant in the vignette given these facts",
+      "That neurons ignore stress in the vignette given these facts",
+      "That GAS is only social in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biological + cognitive.",
+    "wrongFeedback": {
+      "1": "Appraisal matters.",
+      "2": "Neural systems respond.",
+      "3": "GAS physiological."
+    },
+    "id": "c14-l4-01"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "10.4+14.1",
+    "question": "Labeling arousal as “threat” vs “challenge” is both emotion appraisal and stress appraisal—shared idea:",
+    "options": [
+      "Cognitive evaluation shapes experience and coping now",
+      "Arousal never needs labels in the vignette given these facts",
+      "James forbids appraisal in the vignette given these facts",
+      "Display rules erase HPA in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Appraisal shared.",
+    "wrongFeedback": {
+      "1": "Labels matter.",
+      "2": "James is one theory.",
+      "3": "Physiology remains."
+    },
+    "id": "c14-l4-02"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "12.7+14.4",
+    "question": "Social support buffering stress parallels prosocial ties that enable helping—both highlight:",
+    "options": [
+      "Relationships as resources in the vignette given these facts",
+      "That bystanders never help in the vignette given these facts",
+      "That support increases all illness in the vignette now",
+      "That diffusion requires cortisol in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Social resources.",
+    "wrongFeedback": {
+      "1": "Helping happens.",
+      "2": "Support often protective.",
+      "3": "Not required."
+    },
+    "id": "c14-l4-03"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "8.2+14.3",
+    "question": "Trauma-enhanced amygdala memory with later health costs shows:",
+    "options": [
+      "Emotional memory strength can co-occur with stress-related",
+      "Flashbulbs prevent all disease in the vignette given these facts",
+      "Misinformation heals CVD in the vignette given these facts",
+      "Encoding failure is GAS in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Memory and health pathways.",
+    "wrongFeedback": {
+      "1": "Not preventive.",
+      "2": "Not treatment.",
+      "3": "Different."
+    },
+    "id": "c14-l4-04"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "13.3+14.2",
+    "question": "Job strain research is shared ground for I-O and health psychology because:",
+    "options": [
+      "Work design affects stress and well-being in the vignette",
+      "Jobs never stress people in the vignette given these facts",
+      "Only ergonomics matters in the vignette given these facts",
+      "Only Theory X measures cortisol in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Workplace stressors.",
+    "wrongFeedback": {
+      "1": "They do.",
+      "2": "HF part of picture.",
+      "3": "Not only X."
+    },
+    "id": "c14-l4-05"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "7.3+14.4",
+    "question": "Under stress, availability of prior failures may bias coping choices—heuristic under load.",
+    "options": [
+      "Cognitive shortcuts worsen when control is taxed in the vignette",
+      "Heuristics require zero stress in the vignette given these facts",
+      "Algorithms forbid coping in the vignette given these facts",
+      "GAS has four stages in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stress + judgment biases.",
+    "wrongFeedback": {
+      "1": "Shortcuts common under load.",
+      "2": "Coping uses many tools.",
+      "3": "Three stages."
+    },
+    "id": "c14-l4-06"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "16.2+14.4",
+    "question": "CBT for stress targets appraisals and coping skills, linking therapy to health psych by:",
+    "options": [
+      "Changing thoughts/behaviors that maintain stress cycles",
+      "Using only aversive shock in the vignette given these facts",
+      "Measuring only g in the vignette given these facts now",
+      "Ignoring social support in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "CBT stress work.",
+    "wrongFeedback": {
+      "1": "Not primary tool.",
+      "2": "IQ.",
+      "3": "Support included often."
+    },
+    "id": "c14-l4-07"
+  },
+  {
+    "chapter": 14,
+    "level": 4,
+    "section": "2.3+14.2",
+    "question": "SRRS correlating with illness does not alone prove life change *causes* disease because:",
+    "options": [
+      "Third variables and recall bias can confound in the vignette",
+      "Correlation equals causation always in the vignette now",
+      "LCUs are experimental manipulations in the vignette now",
+      "Hassles are random assignment in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Correlational limits.",
+    "wrongFeedback": {
+      "1": "Not always.",
+      "2": "Not experiments by default.",
+      "3": "Not random."
+    },
+    "id": "c14-l4-08"
+  },
+  {
+    "chapter": 15,
+    "level": 1,
+    "section": "§15.1",
+    "question": "Psychological disorders involve significant disturbances with:",
+    "options": [
+      "Dysfunction and distress/impairment themes",
+      "Only unusual hobbies",
+      "Only high IQ",
+      "Only daily hassles"
+    ],
+    "correct": 0,
+    "correctFeedback": "APA-style definition elements.",
+    "wrongFeedback": {
+      "1": "Atypical alone insufficient.",
+      "2": "Intelligence.",
+      "3": "Stressors."
+    },
+    "page": 536,
+    "id": "c15-l1-01"
+  },
+  {
+    "chapter": 15,
+    "level": 1,
+    "section": "§15.2",
+    "question": "DSM-5 is used mainly to:",
+    "options": [
+      "Classify/diagnose mental disorders",
+      "Measure absolute thresholds",
+      "Run job analyses",
+      "Teach conservation"
+    ],
+    "correct": 0,
+    "correctFeedback": "Diagnostic manual.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "I-O.",
+      "3": "Piaget."
+    },
+    "page": 540,
+    "id": "c15-l1-02"
+  },
+  {
+    "chapter": 15,
+    "level": 1,
+    "section": "§15.4",
+    "question": "A specific phobia is:",
+    "options": [
+      "Marked fear of a specific object/situation",
+      "A personality Big Five score",
+      "A type of schedule",
+      "A leadership style"
+    ],
+    "correct": 0,
+    "correctFeedback": "Phobia category.",
+    "wrongFeedback": {
+      "1": "Personality.",
+      "2": "Operant.",
+      "3": "I-O."
+    },
+    "page": 546,
+    "id": "c15-l1-03"
+  },
+  {
+    "chapter": 15,
+    "level": 1,
+    "section": "§15.5",
+    "question": "Obsessions are:",
+    "options": [
+      "Intrusive unwanted thoughts",
+      "Compulsive ritual behaviors only",
+      "Only manic episodes",
+      "Only secure bases"
+    ],
+    "correct": 0,
+    "correctFeedback": "Thought intrusions.",
+    "wrongFeedback": {
+      "1": "Compulsions are acts.",
+      "2": "Mood.",
+      "3": "Attachment."
+    },
+    "page": 552,
+    "id": "c15-l1-04"
+  },
+  {
+    "chapter": 15,
+    "level": 1,
+    "section": "§15.7",
+    "question": "Major depressive disorder features persistent:",
+    "options": [
+      "Depressed mood and/or anhedonia among other symptoms",
+      "Only elevated manic energy",
+      "Only hallucinations by definition",
+      "Only phoneme errors"
+    ],
+    "correct": 0,
+    "correctFeedback": "MDD core.",
+    "wrongFeedback": {
+      "1": "Mania→bipolar.",
+      "2": "Psychosis not required.",
+      "3": "Language."
+    },
+    "page": 558,
+    "id": "c15-l1-05"
+  },
+  {
+    "chapter": 15,
+    "level": 1,
+    "section": "§15.8",
+    "question": "Positive symptoms of schizophrenia include:",
+    "options": [
+      "Hallucinations and delusions",
+      "Only flat affect",
+      "Only avolition",
+      "Only alogia"
+    ],
+    "correct": 0,
+    "correctFeedback": "Positive = added experiences.",
+    "wrongFeedback": {
+      "1": "Negative symptoms.",
+      "2": "Negative.",
+      "3": "Negative."
+    },
+    "page": 568,
+    "id": "c15-l1-06"
+  },
+  {
+    "chapter": 15,
+    "level": 2,
+    "section": "§15.3",
+    "question": "Diathesis–stress models propose:",
+    "options": [
+      "Vulnerability + stressor interactions",
+      "That genes are irrelevant",
+      "That stress never triggers",
+      "That DSM forbids biology"
+    ],
+    "correct": 0,
+    "correctFeedback": "Predisposition × stress.",
+    "wrongFeedback": {
+      "1": "Genes often part of diathesis.",
+      "2": "Stress can trigger.",
+      "3": "DSM includes bio."
+    },
+    "page": 543,
+    "id": "c15-l2-01"
+  },
+  {
+    "chapter": 15,
+    "level": 2,
+    "section": "§15.6",
+    "question": "PTSD follows:",
+    "options": [
+      "Exposure to trauma with intrusion/avoidance/arousal clusters",
+      "Only mild daily hassles",
+      "Only job interviews",
+      "Only conservation failure"
+    ],
+    "correct": 0,
+    "correctFeedback": "Trauma-related disorder.",
+    "wrongFeedback": {
+      "1": "Hassles smaller.",
+      "2": "I-O.",
+      "3": "Piaget."
+    },
+    "page": 556,
+    "id": "c15-l2-02"
+  },
+  {
+    "chapter": 15,
+    "level": 2,
+    "section": "§15.7",
+    "question": "Bipolar disorder involves:",
+    "options": [
+      "Depression plus mania/hypomania history",
+      "Only unipolar sadness forever",
+      "Only social anxiety",
+      "Only OCD rituals"
+    ],
+    "correct": 0,
+    "correctFeedback": "Mood elevation episodes.",
+    "wrongFeedback": {
+      "1": "Unipolar≠bipolar.",
+      "2": "Anxiety.",
+      "3": "OCD."
+    },
+    "page": 562,
+    "id": "c15-l2-03"
+  },
+  {
+    "chapter": 15,
+    "level": 2,
+    "section": "§15.8",
+    "question": "Negative symptoms include:",
+    "options": [
+      "Flat affect, avolition, alogia themes",
+      "Hallucinations only",
+      "Delusions only",
+      "Disorganized speech only as positive"
+    ],
+    "correct": 0,
+    "correctFeedback": "Deficit symptoms.",
+    "wrongFeedback": {
+      "1": "Those are positive.",
+      "2": "Positive.",
+      "3": "Disorganized often grouped positive/disorganized."
+    },
+    "page": 570,
+    "id": "c15-l2-04"
+  },
+  {
+    "chapter": 15,
+    "level": 2,
+    "section": "§15.11",
+    "question": "Borderline personality disorder features marked:",
+    "options": [
+      "Instability in relationships, self-image, affect",
+      "Only lifelong avoidance of all novelty",
+      "Only intellectual disability",
+      "Only specific phobia of dogs"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cluster B instability pattern.",
+    "wrongFeedback": {
+      "1": "Avoidant is Cluster C.",
+      "2": "Neurodevelopmental.",
+      "3": "Anxiety."
+    },
+    "page": 582,
+    "id": "c15-l2-05"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.1",
+    "question": "Hearing voices that impair work and reflect dysfunction meets disorder criteria more than:",
+    "options": [
+      "Harmless unusual fashion choices in the vignette now",
+      "Any atypical trait automatically in the vignette now",
+      "Any stressor automatically in the vignette given these facts",
+      "Any prototype mismatch in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Impairment/dysfunction needed.",
+    "wrongFeedback": {
+      "1": "Atypical≠disorder alone.",
+      "2": "Stress≠disorder alone.",
+      "3": "Concepts."
+    },
+    "page": 538,
+    "id": "c15-l3-01"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.2",
+    "question": "Having both anxiety and depression diagnoses illustrates:",
+    "options": [
+      "Comorbidity in the vignette given these facts now",
+      "Reliability of a light threshold in the vignette now",
+      "Object permanence in the vignette given these facts now",
+      "Job analysis in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Co-occurrence.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "Piaget.",
+      "3": "I-O."
+    },
+    "page": 541,
+    "id": "c15-l3-02"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.4",
+    "question": "Panic attacks with fear of future attacks and avoidance may indicate:",
+    "options": [
+      "Panic disorder themes in the vignette given these facts",
+      "Only MDD without anxiety in the vignette given these facts",
+      "Only ADHD inattention in the vignette given these facts",
+      "Only antisocial PD in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Panic disorder pattern.",
+    "wrongFeedback": {
+      "1": "Mood.",
+      "2": "Neurodevelopmental.",
+      "3": "Personality."
+    },
+    "page": 548,
+    "id": "c15-l3-03"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.5",
+    "question": "Handwashing for hours to neutralize contamination thoughts shows:",
+    "options": [
+      "Compulsions reducing obsession anxiety in the vignette",
+      "Positive schizophrenic symptoms in the vignette now",
+      "Manic goal pursuit in the vignette given these facts",
+      "Secure attachment in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "OCD cycle.",
+    "wrongFeedback": {
+      "1": "Psychosis.",
+      "2": "Bipolar.",
+      "3": "Development."
+    },
+    "page": 553,
+    "id": "c15-l3-04"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.6",
+    "question": "Nightmares and hypervigilance after assault fit:",
+    "options": [
+      "PTSD symptom clusters in the vignette",
+      "Flynn effect in the vignette given these facts now",
+      "Hawthorne effect in the vignette given these facts now",
+      "Mere exposure only in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Trauma sequelae.",
+    "wrongFeedback": {
+      "1": "IQ.",
+      "2": "I-O.",
+      "3": "Social liking."
+    },
+    "page": 556,
+    "id": "c15-l3-05"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.7",
+    "question": "Loss of interest in previously enjoyed activities is:",
+    "options": [
+      "Anhedonia in the vignette given these facts on the stated facts",
+      "A hallucination in the vignette given these facts now now now",
+      "A compulsion in the vignette given these facts now in the vignette",
+      "A phoneme in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Anhedonia in depression.",
+    "wrongFeedback": {
+      "1": "Psychosis.",
+      "2": "OCD.",
+      "3": "Language."
+    },
+    "page": 559,
+    "id": "c15-l3-06"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.8",
+    "question": "Believing the CIA implanted a chip despite clear evidence against is a:",
+    "options": [
+      "Delusion in the vignette given these facts on the stated facts",
+      "Hallucination of sound in the vignette given these facts now",
+      "Night terror only in the vignette given these facts now now",
+      "Daily hassle in the vignette given these facts now in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "Fixed false belief.",
+    "wrongFeedback": {
+      "1": "Hallucination is percept.",
+      "2": "Sleep.",
+      "3": "Stressor."
+    },
+    "page": 569,
+    "id": "c15-l3-07"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.8",
+    "question": "Hearing voices with no external source is a:",
+    "options": [
+      "Hallucination in the vignette given these facts now now now",
+      "Delusion of grandeur only in the vignette given these facts",
+      "Obsession only in the vignette given these facts now now",
+      "Stereotype in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "False perception.",
+    "wrongFeedback": {
+      "1": "Belief.",
+      "2": "OCD thought.",
+      "3": "Social belief."
+    },
+    "page": 569,
+    "id": "c15-l3-08"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.10",
+    "question": "Persistent inattention/hyperactivity across settings suggests:",
+    "options": [
+      "ADHD evaluation themes in the vignette given these facts",
+      "Only GAD worry in the vignette given these facts now now",
+      "Only specific phobia in the vignette given these facts",
+      "Only DID in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "ADHD.",
+    "wrongFeedback": {
+      "1": "Anxiety.",
+      "2": "Phobia.",
+      "3": "Dissociative."
+    },
+    "page": 574,
+    "id": "c15-l3-09"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.10",
+    "question": "Social communication deficits with restricted repetitive behaviors suggest:",
+    "options": [
+      "Autism spectrum themes in the vignette given these facts now",
+      "Only MDD in the vignette given these facts on the stated facts",
+      "Only panic in the vignette given these facts on the stated facts",
+      "Only Type A in the vignette given these facts now in the vignette"
+    ],
+    "correct": 0,
+    "correctFeedback": "ASD.",
+    "wrongFeedback": {
+      "1": "Mood.",
+      "2": "Anxiety.",
+      "3": "Stress pattern."
+    },
+    "page": 576,
+    "id": "c15-l3-10"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.9",
+    "question": "Gaps in autobiographical memory after trauma without medical amnesia may suggest:",
+    "options": [
+      "Dissociative amnesia themes in the vignette in the vignette",
+      "Anterograde hippocampal stroke only by definition now now",
+      "Iconic overflow in the vignette given these facts now now",
+      "Job burnout only in the vignette given these facts now here"
+    ],
+    "correct": 0,
+    "correctFeedback": "Dissociative memory gap.",
+    "wrongFeedback": {
+      "1": "Organic also possible clinically—chapter frames dissociative.",
+      "2": "Sensory.",
+      "3": "Stress."
+    },
+    "page": 572,
+    "id": "c15-l3-11"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.11",
+    "question": "Disregard for others’ rights with deceit/impulsivity fits:",
+    "options": [
+      "Antisocial personality disorder themes in the vignette",
+      "Avoidant PD in the vignette given these facts now",
+      "Dependent PD in the vignette given these facts now",
+      "Schizoid curiosity only in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "ASPD cluster B.",
+    "wrongFeedback": {
+      "1": "Cluster C.",
+      "2": "Cluster C.",
+      "3": "Cluster A-ish."
+    },
+    "page": 584,
+    "id": "c15-l3-12"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.3",
+    "question": "Blaming demons for psychosis reflects a:",
+    "options": [
+      "Supernatural historical perspective in the vignette now",
+      "Modern DSM biological-only view in the vignette now",
+      "Job analysis in the vignette given these facts now",
+      "Human factors checklist in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Historical supernatural model.",
+    "wrongFeedback": {
+      "1": "Modern multi-perspective.",
+      "2": "I-O.",
+      "3": "HF."
+    },
+    "page": 542,
+    "id": "c15-l3-13"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.7",
+    "question": "Cognitive theories of depression emphasize:",
+    "options": [
+      "Negative schemas/automatic thoughts in the vignette now",
+      "Only dopamine excess always in the vignette given these facts",
+      "Only token economies in the vignette given these facts",
+      "Only display rules in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Beck-style cognition.",
+    "wrongFeedback": {
+      "1": "Schizophrenia DA themes.",
+      "2": "Behavior therapy tool.",
+      "3": "Emotion norms."
+    },
+    "page": 560,
+    "id": "c15-l3-14"
+  },
+  {
+    "chapter": 15,
+    "level": 3,
+    "section": "§15.4",
+    "question": "GAD features:",
+    "options": [
+      "Excessive chronic worry hard to control in the vignette now",
+      "Only one discrete panic attack ever in the vignette now now",
+      "Only mania in the vignette given these facts on the stated facts",
+      "Only delusions in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Generalized anxiety.",
+    "wrongFeedback": {
+      "1": "Panic different.",
+      "2": "Bipolar.",
+      "3": "Psychosis."
+    },
+    "page": 550,
+    "id": "c15-l3-15"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "6.2+15.4",
+    "question": "Phobias can be acquired via classical pairing and maintained by avoidance (negative reinforcement)—best learning account?",
+    "options": [
+      "Two-factor / conditioning + operant avoidance themes now",
+      "Phobias forbid all learning principles in the vignette",
+      "Only algorithms create fear in the vignette given these facts",
+      "Only FAE creates phobias in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Acquire classically, maintain operantly.",
+    "wrongFeedback": {
+      "1": "Learning central.",
+      "2": "Not algorithms.",
+      "3": "Attribution different."
+    },
+    "id": "c15-l4-01"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "14.1+15.3",
+    "question": "Diathesis–stress for depression links vulnerability to stressful load—health psych overlap because:",
+    "options": [
+      "Stressors interact with predisposition to precipitate episodes",
+      "Stress never relates to mood in the vignette given these facts",
+      "GAS has two stages in the vignette given these facts now",
+      "Hassles equal delusions in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stress × vulnerability.",
+    "wrongFeedback": {
+      "1": "Strongly related.",
+      "2": "Three stages.",
+      "3": "Different."
+    },
+    "id": "c15-l4-02"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "11.7+15.11",
+    "question": "Personality disorders vs extreme Big Five: clinical PDs require:",
+    "options": [
+      "Inflexible patterns with impairment in the vignette now",
+      "That traits cannot be dimensional in the vignette now",
+      "That OCEAN is invalid in the vignette given these facts",
+      "That only projective tests diagnose in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Impairment/inflexibility threshold.",
+    "wrongFeedback": {
+      "1": "Traits dimensional.",
+      "2": "OCEAN useful.",
+      "3": "Multiple methods."
+    },
+    "id": "c15-l4-03"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "3.2+15.8",
+    "question": "Dopamine hypotheses of schizophrenia illustrate biopsych perspectives on:",
+    "options": [
+      "Neurochemical contributions to psychosis in the vignette",
+      "That biology is irrelevant in the vignette given these facts",
+      "That only parenting causes schizophrenia in the vignette",
+      "That hallucinations are phonemes in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biological models.",
+    "wrongFeedback": {
+      "1": "Biology studied.",
+      "2": "Multifactorial.",
+      "3": "Not sound units."
+    },
+    "id": "c15-l4-04"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "8.3+15.6",
+    "question": "PTSD intrusions are unwanted remembering (persistence) after trauma—memory pathology link.",
+    "options": [
+      "Yes—persistence of traumatic memories is central now",
+      "PTSD forbids memory in the vignette given these facts now",
+      "Intrusions are semantic capitals only in the vignette now",
+      "Avoidance is elaborative rehearsal in the vignette now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Intrusive memory.",
+    "wrongFeedback": {
+      "1": "Memory central.",
+      "2": "Not semantic capitals.",
+      "3": "Avoidance opposite of elaboration goal."
+    },
+    "id": "c15-l4-05"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "2.4+15.2",
+    "question": "Reliability of DSM diagnoses matters because inconsistent labels threaten:",
+    "options": [
+      "Clinical communication and research validity in the vignette",
+      "The existence of stress in the vignette given these facts",
+      "All coping in the vignette given these facts on the stated facts",
+      "Human factors design only in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Diagnostic reliability.",
+    "wrongFeedback": {
+      "1": "Stress exists.",
+      "2": "Coping exists.",
+      "3": "HF separate."
+    },
+    "id": "c15-l4-06"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "12.5+15.1",
+    "question": "Stigma uses stereotypes about “the mentally ill,” producing discrimination in housing/work—social psych applied.",
+    "options": [
+      "Prejudice/discrimination processes target diagnosed people",
+      "Stigma is a sensory threshold in the vignette given these facts",
+      "Stereotypes equal treatments in the vignette given these facts",
+      "Discrimination is a neuron in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Stigma as bias.",
+    "wrongFeedback": {
+      "1": "Not threshold.",
+      "2": "Not therapy itself.",
+      "3": "Not a cell."
+    },
+    "id": "c15-l4-07"
+  },
+  {
+    "chapter": 15,
+    "level": 4,
+    "section": "16.2+15.7",
+    "question": "CBT for depression targets negative automatic thoughts emphasized in cognitive models of MDD—tight coupling of:",
+    "options": [
+      "Disorder theory and treatment technique in the vignette",
+      "Only medication mechanisms in the vignette given these facts",
+      "Only GAS stages in the vignette given these facts now",
+      "Only job strain in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Theory–therapy link.",
+    "wrongFeedback": {
+      "1": "Meds also used.",
+      "2": "Stress.",
+      "3": "I-O."
+    },
+    "id": "c15-l4-08"
+  },
+  {
+    "chapter": 16,
+    "level": 1,
+    "section": "§16.1",
+    "question": "Deinstitutionalization moved care toward:",
+    "options": [
+      "Community-based treatment after asylum closures",
+      "Larger lifelong asylum stays only",
+      "Only dream analysis mandates",
+      "Only ergonomic redesign"
+    ],
+    "correct": 0,
+    "correctFeedback": "Community care movement.",
+    "wrongFeedback": {
+      "1": "Opposite of large asylums.",
+      "2": "One modality.",
+      "3": "I-O."
+    },
+    "page": 600,
+    "id": "c16-l1-01"
+  },
+  {
+    "chapter": 16,
+    "level": 1,
+    "section": "§16.2",
+    "question": "Psychotherapy uses:",
+    "options": [
+      "Psychological methods to help with distress/disorder",
+      "Only antibiotics",
+      "Only job analyses",
+      "Only absolute thresholds"
+    ],
+    "correct": 0,
+    "correctFeedback": "Talk/behavioral psychological treatment.",
+    "wrongFeedback": {
+      "1": "Biomedical other.",
+      "2": "I-O.",
+      "3": "Sensation."
+    },
+    "page": 602,
+    "id": "c16-l1-02"
+  },
+  {
+    "chapter": 16,
+    "level": 1,
+    "section": "§16.2",
+    "question": "Systematic desensitization pairs:",
+    "options": [
+      "Relaxation with graded exposure to feared cues",
+      "Only shock with all cues",
+      "Only free association",
+      "Only token removal"
+    ],
+    "correct": 0,
+    "correctFeedback": "Wolpe-style hierarchy + calm.",
+    "wrongFeedback": {
+      "1": "Aversive different.",
+      "2": "Psychoanalysis.",
+      "3": "Operant punishment."
+    },
+    "page": 606,
+    "id": "c16-l1-03"
+  },
+  {
+    "chapter": 16,
+    "level": 1,
+    "section": "§16.2",
+    "question": "CBT combines:",
+    "options": [
+      "Cognitive and behavioral techniques",
+      "Only dream interpretation",
+      "Only ECT always",
+      "Only group chanting"
+    ],
+    "correct": 0,
+    "correctFeedback": "Thoughts + behaviors.",
+    "wrongFeedback": {
+      "1": "Psychodynamic.",
+      "2": "Biomedical option.",
+      "3": "Not definition."
+    },
+    "page": 610,
+    "id": "c16-l1-04"
+  },
+  {
+    "chapter": 16,
+    "level": 1,
+    "section": "§16.2",
+    "question": "Client-centered therapy emphasizes:",
+    "options": [
+      "Empathy, UPR, genuineness",
+      "Aversive conditioning",
+      "Milgram-style orders",
+      "Job analysis forms"
+    ],
+    "correct": 0,
+    "correctFeedback": "Rogers conditions.",
+    "wrongFeedback": {
+      "1": "Behavior therapy.",
+      "2": "Obedience.",
+      "3": "I-O."
+    },
+    "page": 612,
+    "id": "c16-l1-05"
+  },
+  {
+    "chapter": 16,
+    "level": 1,
+    "section": "§16.3",
+    "question": "Group therapy involves:",
+    "options": [
+      "Multiple clients with therapist facilitation",
+      "Only one client always",
+      "Only medication management by definition",
+      "Only human factors"
+    ],
+    "correct": 0,
+    "correctFeedback": "Group modality.",
+    "wrongFeedback": {
+      "1": "Individual differs.",
+      "2": "Biomedical.",
+      "3": "HF."
+    },
+    "page": 616,
+    "id": "c16-l1-06"
+  },
+  {
+    "chapter": 16,
+    "level": 2,
+    "section": "§16.2",
+    "question": "Free association is a technique from:",
+    "options": [
+      "Psychoanalysis/psychodynamic traditions",
+      "Human factors checklists",
+      "Signal detection labs",
+      "Strange Situation"
+    ],
+    "correct": 0,
+    "correctFeedback": "Say whatever comes to mind.",
+    "wrongFeedback": {
+      "1": "I-O/HF.",
+      "2": "Sensation.",
+      "3": "Attachment."
+    },
+    "page": 603,
+    "id": "c16-l2-01"
+  },
+  {
+    "chapter": 16,
+    "level": 2,
+    "section": "§16.2",
+    "question": "A token economy applies:",
+    "options": [
+      "Operant reinforcement with tokens",
+      "Only classical CS–UCS pairing",
+      "Only free association",
+      "Only ECT"
+    ],
+    "correct": 0,
+    "correctFeedback": "Tokens → backup reinforcers.",
+    "wrongFeedback": {
+      "1": "Classical different.",
+      "2": "Psychodynamic.",
+      "3": "Biomedical."
+    },
+    "page": 608,
+    "id": "c16-l2-02"
+  },
+  {
+    "chapter": 16,
+    "level": 2,
+    "section": "§16.2",
+    "question": "Antidepressants, anxiolytics, antipsychotics are:",
+    "options": [
+      "Psychotropic medication classes",
+      "Types of heuristics",
+      "Attachment styles",
+      "Piaget stages"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biomedical pharmacotherapy.",
+    "wrongFeedback": {
+      "1": "Cognition.",
+      "2": "Development.",
+      "3": "Development."
+    },
+    "page": 613,
+    "id": "c16-l2-03"
+  },
+  {
+    "chapter": 16,
+    "level": 2,
+    "section": "§16.5",
+    "question": "Cultural competence in therapy means:",
+    "options": [
+      "Adapting understanding/skills to clients’ cultural contexts",
+      "Ignoring culture entirely",
+      "Using only one language script worldwide",
+      "Avoiding all assessment"
+    ],
+    "correct": 0,
+    "correctFeedback": "Culturally responsive practice.",
+    "wrongFeedback": {
+      "1": "Culture matters.",
+      "2": "Flexibility needed.",
+      "3": "Assessment used."
+    },
+    "page": 622,
+    "id": "c16-l2-04"
+  },
+  {
+    "chapter": 16,
+    "level": 2,
+    "section": "§16.1",
+    "question": "Dorothea Dix advocated for:",
+    "options": [
+      "More humane treatment of people with mental illness",
+      "Larger punishment asylums only",
+      "Banning all therapy",
+      "Measuring only g"
+    ],
+    "correct": 0,
+    "correctFeedback": "Reform advocacy.",
+    "wrongFeedback": {
+      "1": "Opposite.",
+      "2": "Therapy exists.",
+      "3": "IQ."
+    },
+    "page": 599,
+    "id": "c16-l2-05"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Gradual hierarchy of spider photos while relaxed is:",
+    "options": [
+      "Systematic desensitization in the vignette",
+      "Flooding without relaxation by definition in the vignette",
+      "Free association in the vignette given these facts now",
+      "Transactional leadership in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Graded + relaxation.",
+    "wrongFeedback": {
+      "1": "Flooding is intense exposure.",
+      "2": "Psychoanalysis.",
+      "3": "I-O."
+    },
+    "page": 606,
+    "id": "c16-l3-01"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Challenging “I’m worthless” thoughts and scheduling activity is typical:",
+    "options": [
+      "CBT in the vignette given these facts on the stated facts",
+      "Only psychoanalysis dream work in the vignette given these facts",
+      "Only ECT first-line always in the vignette given these facts",
+      "Only Theory X in the vignette given these facts now now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Cognitive + behavioral.",
+    "wrongFeedback": {
+      "1": "Psychodynamic.",
+      "2": "Somatic option.",
+      "3": "I-O."
+    },
+    "page": 610,
+    "id": "c16-l3-02"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Reflecting feelings without judgment exemplifies:",
+    "options": [
+      "Rogerian active listening / empathy in the vignette now",
+      "Aversive shock pairing in the vignette given these facts",
+      "Milgram prompts in the vignette given these facts now",
+      "SRRS scoring in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Client-centered skill.",
+    "wrongFeedback": {
+      "1": "Behavior therapy aversive.",
+      "2": "Obedience.",
+      "3": "Stress scale."
+    },
+    "page": 612,
+    "id": "c16-l3-03"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Transference involves clients:",
+    "options": [
+      "Redirecting feelings about others onto the therapist",
+      "Forgetting all dreams in the vignette given these facts",
+      "Only collecting tokens in the vignette given these facts",
+      "Only measuring thresholds in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Psychodynamic process.",
+    "wrongFeedback": {
+      "1": "Dreams analyzed differently.",
+      "2": "Operant.",
+      "3": "Sensation."
+    },
+    "page": 604,
+    "id": "c16-l3-04"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.3",
+    "question": "Family therapy treats problems as:",
+    "options": [
+      "Embedded in relational systems in the vignette given these facts",
+      "Only individual id conflicts always in the vignette now now",
+      "Only neuron lesions always in the vignette given these facts now",
+      "Only phoneme gaps in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Systems view.",
+    "wrongFeedback": {
+      "1": "Broader than id.",
+      "2": "Not only lesions.",
+      "3": "Language."
+    },
+    "page": 618,
+    "id": "c16-l3-05"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.4",
+    "question": "Comorbid substance use with depression often needs:",
+    "options": [
+      "Integrated treatment planning in the vignette",
+      "Ignoring one disorder in the vignette given these facts",
+      "Only ergonomic chairs in the vignette given these facts",
+      "Only conservation training in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Co-occurring disorders care.",
+    "wrongFeedback": {
+      "1": "Address both.",
+      "2": "HF.",
+      "3": "Piaget."
+    },
+    "page": 620,
+    "id": "c16-l3-06"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.5",
+    "question": "Stigma delaying help-seeking is a:",
+    "options": [
+      "Barrier to treatment utilization in the vignette now now",
+      "Proof therapy never works in the vignette given these facts",
+      "Type of absolute threshold in the vignette given these facts",
+      "Job KSAO in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Sociocultural barrier.",
+    "wrongFeedback": {
+      "1": "Therapy can help.",
+      "2": "Sensation.",
+      "3": "I-O."
+    },
+    "page": 624,
+    "id": "c16-l3-07"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "ECT is primarily considered for:",
+    "options": [
+      "Severe treatment-resistant depression themes",
+      "Mild specific phobia first-line in the vignette now now now",
+      "Everyday hassles in the vignette given these facts now",
+      "Job interviews in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Somatic option for severe cases.",
+    "wrongFeedback": {
+      "1": "Exposure better for phobia.",
+      "2": "Coping.",
+      "3": "I-O."
+    },
+    "page": 614,
+    "id": "c16-l3-08"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.1",
+    "question": "Short hospital stays with outpatient follow-up reflect:",
+    "options": [
+      "Modern acute care patterns post-asylum era in the vignette",
+      "Lifelong asylum norms of 1800s in the vignette given these facts",
+      "Only dream hospitals in the vignette given these facts now",
+      "Only human factors labs in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Contemporary system.",
+    "wrongFeedback": {
+      "1": "Historical asylums longer.",
+      "2": "Not.",
+      "3": "Not."
+    },
+    "page": 601,
+    "id": "c16-l3-09"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Exposure without relaxation rituals aiming to extinguish fear is closer to:",
+    "options": [
+      "Exposure/extinction-based behavior therapy in the vignette",
+      "Client-centered UPR only in the vignette given these facts",
+      "Job analysis in the vignette given these facts now",
+      "Flynn testing in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Exposure therapy.",
+    "wrongFeedback": {
+      "1": "Humanistic different.",
+      "2": "I-O.",
+      "3": "IQ."
+    },
+    "page": 607,
+    "id": "c16-l3-10"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Play therapy often helps children express issues via:",
+    "options": [
+      "Toys/play as communication medium in the vignette now now",
+      "Only adult free association on a couch in the vignette now",
+      "Only group polarization in the vignette given these facts",
+      "Only SRRS in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Child modality.",
+    "wrongFeedback": {
+      "1": "Adult psychoanalysis form.",
+      "2": "Social.",
+      "3": "Stress."
+    },
+    "page": 605,
+    "id": "c16-l3-11"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.5",
+    "question": "Insurance limits and few local clinicians are:",
+    "options": [
+      "Access barriers in the vignette given these facts now now",
+      "Therapeutic alliance skills in the vignette given these facts",
+      "Defense mechanisms in the vignette given these facts now",
+      "Prototypes in the vignette given these facts on the stated facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Structural access issues.",
+    "wrongFeedback": {
+      "1": "Process skills.",
+      "2": "Freud.",
+      "3": "Concepts."
+    },
+    "page": 623,
+    "id": "c16-l3-12"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.3",
+    "question": "Couples therapy focuses on:",
+    "options": [
+      "Relationship patterns and communication in the vignette now",
+      "Only individual phobias always in the vignette given these facts",
+      "Only medication side effects always in the vignette now now",
+      "Only sensory adaptation in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Dyadic modality.",
+    "wrongFeedback": {
+      "1": "Can be individual issues too but focus relational.",
+      "2": "Biomedical.",
+      "3": "Sensation."
+    },
+    "page": 617,
+    "id": "c16-l3-13"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.2",
+    "question": "Biomedical therapy includes:",
+    "options": [
+      "Medications and other somatic treatments in the vignette",
+      "Only cognitive restructuring in the vignette given these facts",
+      "Only UPR in the vignette given these facts on the stated facts",
+      "Only Asch lines in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Biological interventions.",
+    "wrongFeedback": {
+      "1": "CBT.",
+      "2": "Humanistic.",
+      "3": "Social."
+    },
+    "page": 613,
+    "id": "c16-l3-14"
+  },
+  {
+    "chapter": 16,
+    "level": 3,
+    "section": "§16.1",
+    "question": "Pinel’s reforms argued against:",
+    "options": [
+      "Cruel asylum practices toward humane care in the vignette",
+      "Mandatory CBT worldwide in 1790 in the vignette now",
+      "DSM-5 in the 1700s in the vignette given these facts",
+      "Hawthorne lighting laws in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Humane treatment history.",
+    "wrongFeedback": {
+      "1": "CBT later.",
+      "2": "DSM later.",
+      "3": "I-O later."
+    },
+    "page": 598,
+    "id": "c16-l3-15"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "6.2+16.2",
+    "question": "Exposure therapy applies extinction: CS without UCS—learning science to clinical fear.",
+    "options": [
+      "Yes—extinction principles underwrite exposure",
+      "Extinction forbids therapy in the vignette given these facts",
+      "CS must always equal UCS in therapy in the vignette now",
+      "Tokens are required for extinction in the vignette now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Clinical extinction.",
+    "wrongFeedback": {
+      "1": "Core tool.",
+      "2": "CS without UCS.",
+      "3": "Not required."
+    },
+    "id": "c16-l4-01"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "11.5+16.2",
+    "question": "Rogers’s personality theory and client-centered therapy share:",
+    "options": [
+      "Growth via accepting therapeutic climate in the vignette",
+      "Aversive punishment as necessary in the vignette now now",
+      "Obedience to authority as cure in the vignette given these facts",
+      "g-factor drills in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Theory–practice unity.",
+    "wrongFeedback": {
+      "1": "Not aversive core.",
+      "2": "Not Milgram.",
+      "3": "Not IQ."
+    },
+    "id": "c16-l4-02"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "15.7+16.2",
+    "question": "Cognitive therapy for depression targets the same negative thoughts cognitive models describe—illustrating:",
+    "options": [
+      "Assessment/formulation guiding intervention in the vignette",
+      "That meds forbid psychotherapy in the vignette given these facts",
+      "That DSM ignores cognition in the vignette given these facts",
+      "That anhedonia is a phoneme in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Linked formulation.",
+    "wrongFeedback": {
+      "1": "Combined care common.",
+      "2": "DSM includes cognitive symptoms.",
+      "3": "Not a sound."
+    },
+    "id": "c16-l4-03"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "12.5+16.5",
+    "question": "Reducing stigma is a sociocultural intervention that parallels prejudice reduction by:",
+    "options": [
+      "Changing stereotypes and discriminatory barriers to care",
+      "Measuring only thresholds in the vignette given these facts",
+      "Running only job analyses in the vignette given these facts",
+      "Teaching only conservation in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Anti-stigma as social change.",
+    "wrongFeedback": {
+      "1": "Sensation.",
+      "2": "I-O.",
+      "3": "Piaget."
+    },
+    "id": "c16-l4-04"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "14.4+16.2",
+    "question": "Teaching problem-focused coping in therapy overlaps health psych stress regulation with:",
+    "options": [
+      "Skill-building psychotherapies in the vignette",
+      "Only ECT mechanisms in the vignette given these facts now",
+      "Only GAS stage labels in the vignette given these facts now",
+      "Only FAE training in the vignette given these facts now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Coping skills treatment.",
+    "wrongFeedback": {
+      "1": "Somatic other.",
+      "2": "Labels alone weak.",
+      "3": "Attribution."
+    },
+    "id": "c16-l4-05"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "2.4+16.1",
+    "question": "Involuntary commitment raises ethics akin to research consent issues: balancing:",
+    "options": [
+      "Autonomy vs protection from harm in the vignette now",
+      "Maximizing deception in the vignette given these facts",
+      "Eliminating all care in the vignette given these facts",
+      "Ignoring capacity in the vignette given these facts now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Ethics of coercion vs care.",
+    "wrongFeedback": {
+      "1": "Opposite of ethics goal.",
+      "2": "Care needed.",
+      "3": "Capacity assessed."
+    },
+    "id": "c16-l4-06"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "8.3+16.2",
+    "question": "Trauma-focused therapies must handle memory reconstruction carefully because:",
+    "options": [
+      "Suggestibility can distort reports even as exposure helps fear",
+      "Memory is a perfect tape in the vignette given these facts now",
+      "Misinformation is required for cure in the vignette now",
+      "Extinction needs false memories in the vignette now now"
+    ],
+    "correct": 0,
+    "correctFeedback": "Therapeutic care with reconstructive memory.",
+    "wrongFeedback": {
+      "1": "Not perfect.",
+      "2": "Not required.",
+      "3": "Not the goal."
+    },
+    "id": "c16-l4-07"
+  },
+  {
+    "chapter": 16,
+    "level": 4,
+    "section": "13.3+16.5",
+    "question": "EAPs and workplace counseling sit at I-O × therapy utilization—addressing:",
+    "options": [
+      "Employee mental health access barriers/stigma at work",
+      "Only machine ergonomics in the vignette given these facts",
+      "Only selection validity in the vignette given these facts",
+      "Only Theory X punishment in the vignette given these facts"
+    ],
+    "correct": 0,
+    "correctFeedback": "Workplace mental health.",
+    "wrongFeedback": {
+      "1": "HF separate.",
+      "2": "Selection separate.",
+      "3": "Not only X."
+    },
+    "id": "c16-l4-08"
   }
 ];
