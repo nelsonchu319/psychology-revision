@@ -63,16 +63,16 @@ CONTENT: dict[int, str] = {}
 CONTENT[1] = section(
     concept_contrast_groups([
         ("Structuralism vs functionalism", [
-            ["Structuralism (Wundt/Titchener)", "Break conscious experience into elements via introspection", "Treating them as the same “first lab” story, or thinking structuralism = all of Wundt", "Listing the qualities of “the taste of coffee”"],
-            ["Functionalism (James)", "How mental processes help the organism adapt", "Collapsing it into “just evolutionary psychology today”", "Asking how liking coffee helps you stay alert for a morning class"],
+            ["Structuralism (Wundt/Titchener)", "Break conscious experience into elements via introspection", "Writing that Wundt’s whole program was “just structuralism,” or treating structuralism and functionalism as two names for the same lab method", "In a methods seminar you try to list every sensation in “the taste of iced coffee” (bitter, cold, sweet) instead of asking why you drink it before a 9 a.m. lecture"],
+            ["Functionalism (James)", "How mental processes help the organism adapt", "Assuming functionalism means “modern evolutionary psychology only,” so any adaptive story automatically counts as James", "You ask why craving coffee before a midterm is useful (alertness for studying) rather than cataloguing the drink’s flavor notes"],
         ]),
         ("Psychoanalytic vs behaviorism", [
-            ["Freud / psychoanalytic", "Unconscious drives, early conflict, clinical methods", "Assuming Freud “invented psychology”", "Interpreting a slip of the tongue as a hidden wish"],
-            ["Behaviorism (Watson/Skinner)", "Study observable behavior; mind often sidelined", "Thinking behaviorists deny that learning happens at all", "Training a study habit with rewards"],
+            ["Freud / psychoanalytic", "Unconscious drives, early conflict, clinical methods", "Claiming Freud founded psychology as a science, or that every psychology course is secretly Freudian", "You call a classmate “Mom” by accident and a friend insists it must mean a hidden wish about your mother"],
+            ["Behaviorism (Watson/Skinner)", "Study observable behavior; mind often sidelined", "Saying behaviorists claim people never learn or never think—when the real claim was to study observable behavior rigorously", "You earn a coffee stamp for every completed practice set and start opening the quiz app without being nagged"],
         ]),
         ("Correlation vs causation", [
-            ["Correlation", "Variables move together", "Saying “ice cream sales cause drowning” because both rise in summer", "People who sleep less report more stress (a link, not proof of cause)"],
-            ["Causation (experiment)", "Manipulating one variable produces change in another", "Treating any strong correlation as a causal law", "An experiment that restricts sleep and then measures stress"],
+            ["Correlation", "Variables move together", "Concluding ice cream “causes” drowning because both rise in summer (a third variable—heat—drives both)", "Your class survey shows students sleeping under 6 hours also report higher stress—linked scores, not proof sleep loss caused the stress"],
+            ["Causation (experiment)", "Manipulating one variable produces change in another", "Treating a large r as if it already proves “X makes Y happen” without manipulation/control", "Researchers randomly assign some students to a short-sleep night and then measure next-day stress ratings"],
         ]),
     ]),
     theory_table([
@@ -85,16 +85,16 @@ CONTENT[1] = section(
 CONTENT[2] = section(
     concept_contrast_groups([
         ("Independent vs dependent variable", [
-            ["Independent variable (IV)", "What the researcher manipulates", "Calling the measured score the IV, or listing every demographic as “the IV”", "Assigning some students to spaced study vs cramming"],
-            ["Dependent variable (DV)", "What is measured as the outcome", "Treating the DV as something the researcher “sets” rather than records", "Measuring exam score after the study-method assignment"],
+            ["Independent variable (IV)", "What the researcher manipulates", "Labeling the exam score as the IV, or calling age/gender “the IV” when nothing was manipulated", "You randomly assign classmates to spaced Anki reviews vs one long cram night"],
+            ["Dependent variable (DV)", "What is measured as the outcome", "Saying the researcher “sets the DV to 80%,” as if the outcome were dialed in rather than measured", "After the study-method assignment you record each person’s quiz percentage as the outcome"],
         ]),
         ("Reliability vs validity", [
-            ["Reliability", "Consistency of a measure", "Assuming a reliable test is automatically valid (a broken scale can be reliably wrong)", "A mood app gives the same score every morning"],
-            ["Validity", "Whether it measures what it claims", "Equating face appeal of a quiz with construct validity", "The same app tracks battery life, not mood (reliable but not valid)"],
+            ["Reliability", "Consistency of a measure", "Assuming “consistent scores” automatically mean the test measures the right construct (a bathroom scale stuck 3 kg high is reliably wrong)", "Your mood app shows 62 every morning for a week—even on days you felt fine—so it is consistent but suspicious"],
+            ["Validity", "Whether it measures what it claims", "Mistaking a quiz that “looks psychological” for construct validity", "The app’s “mood” number is actually phone battery %—stable day to day, but not measuring mood"],
         ]),
         ("Experimental vs correlational design", [
-            ["Experimental", "Manipulate IV, control, random assignment → causal claim", "Calling any study with numbers an “experiment”", "Randomly assigning a meditation app vs waitlist"],
-            ["Correlational", "Measure relationships without manipulation", "Treating a survey correlation as proof that X causes Y", "Seeing that meditators report less stress (link only)"],
+            ["Experimental", "Manipulate IV, control, random assignment → causal claim", "Calling any study with means and p-values an “experiment,” including pure surveys", "You randomly assign friends to a 10-minute meditation app or a waitlist, then compare stress ratings"],
+            ["Correlational", "Measure relationships without manipulation", "Reading a survey link (“meditators report less stress”) as proof meditation caused the lower stress", "People who already meditate also report less stress—compatible with many causal stories, not proof"],
         ]),
     ]),
     theory_table([
@@ -107,16 +107,16 @@ CONTENT[2] = section(
 CONTENT[3] = section(
     concept_contrast_groups([
         ("CNS vs PNS", [
-            ["CNS", "Brain + spinal cord", "Thinking the spinal cord is “peripheral”", "Spinal reflex when you touch a hot pan"],
-            ["PNS", "Nerves connecting CNS to body (somatic + autonomic)", "Thinking PNS excludes autonomic", "Tingling in your hand from a pinched nerve"],
+            ["CNS", "Brain + spinal cord", "Filing the spinal cord under PNS because it “isn’t the brain,” or thinking CNS = cortex only", "You jerk your hand off a hot pan before you “decide” to move—spinal reflex circuitry"],
+            ["PNS", "Nerves connecting CNS to body (somatic + autonomic)", "Thinking “peripheral” means only arm/leg sensory nerves and excluding autonomic pathways", "A pinched nerve in your wrist makes your fingers tingle while you type"],
         ]),
         ("Sympathetic vs parasympathetic", [
-            ["Sympathetic", "Mobilize (“fight-or-flight”)", "Believing only one autonomic branch is ever “on”", "Heart racing before a presentation"],
-            ["Parasympathetic", "Restore (“rest-and-digest”)", "Treating calm states as “no autonomic activity”", "Calming after a meal"],
+            ["Sympathetic", "Mobilize (“fight-or-flight”)", "Believing sympathetic and parasympathetic are a strict on/off light switch that never co-act", "Your heart pounds and palms sweat in the hallway before you present"],
+            ["Parasympathetic", "Restore (“rest-and-digest”)", "Treating feeling calm after lunch as “the autonomic system turned off” rather than parasympathetic dominance", "After a big lunch you feel drowsy and content as digestion ramps up"],
         ]),
         ("Agonist vs antagonist", [
-            ["Agonist", "Mimics or boosts a neurotransmitter’s effect", "Mixing up agonist with antagonist, or thinking agonist always = recreational drug", "A medication that boosts serotonin signaling (agonist-like)"],
-            ["Antagonist", "Blocks or dampens a neurotransmitter’s effect", "Assuming “blocker” means the synapse has no chemistry left", "A medication that blocks dopamine receptors"],
+            ["Agonist", "Mimics or boosts a neurotransmitter’s effect", "Swapping agonist/antagonist labels, or assuming “agonist” always means an illegal recreational drug", "A prescribed medication increases serotonin receptor activity in a depression treatment plan"],
+            ["Antagonist", "Blocks or dampens a neurotransmitter’s effect", "Thinking an antagonist “empties” the synapse of all chemistry rather than blocking/dampening receptor action", "An antipsychotic that blocks dopamine receptors reduces receptor activation despite dopamine still being released"],
         ]),
     ]),
     theory_table([
@@ -129,16 +129,16 @@ CONTENT[3] = section(
 CONTENT[4] = section(
     concept_contrast_groups([
         ("NREM vs REM", [
-            ["NREM stages (incl. slow-wave)", "Restorative; less vivid dreaming typically", "Thinking “deep sleep = REM”", "Hard to wake early in the night in deep NREM"],
-            ["REM", "Rapid eye movements, vivid dreaming, muscle atonia", "Believing dreaming only happens in REM", "Remembering a bizarre dream after a morning REM period"],
+            ["NREM stages (incl. slow-wave)", "Restorative; less vivid dreaming typically", "Calling the deepest, hardest-to-wake sleep “REM,” or assuming restorative sleep = dreaming sleep", "At 1 a.m. your roommate shakes you and you barely respond—classic deep NREM, not REM"],
+            ["REM", "Rapid eye movements, vivid dreaming, muscle atonia", "Believing dreams occur only in REM and never in NREM", "You wake from a morning alarm with a vivid bizarre dream after a REM-rich late sleep cycle"],
         ]),
         ("Circadian rhythm vs homeostatic sleep drive", [
-            ["Circadian rhythm", "~24 h clock (light-entrained)", "Blaming only “willpower” when the clock is misaligned", "Feeling relatively alert at 10 a.m. even after poor sleep (circadian peak)"],
-            ["Homeostatic sleep drive", "Pressure builds with time awake", "Ignoring sleep debt because you “feel fine” at the wrong clock time", "Crashing mid-afternoon when debt and the circadian dip combine"],
+            ["Circadian rhythm", "~24 h clock (light-entrained)", "Blaming only laziness/willpower for jet lag or night-shift fog when the light-entrained clock is misaligned", "After an all-nighter you still feel oddly functional at 10 a.m. class (circadian peak) until the afternoon crash"],
+            ["Homeostatic sleep drive", "Pressure builds with time awake", "Ignoring accumulated sleep debt because you feel OK at a circadian high, then being blindsided later", "After two short nights you feel fine at noon but collapse sleepy at 3 p.m. when debt meets the circadian dip"],
         ]),
         ("Physical vs psychological dependence", [
-            ["Physical dependence", "Tolerance / withdrawal body signs", "Assuming no physical withdrawal means “not addicted”", "Headache/irritability without morning coffee"],
-            ["Psychological dependence", "Craving; feeling you need it to cope", "Assuming psychological need is “just weak will” and therefore not serious", "Needing a drink to face social events"],
+            ["Physical dependence", "Tolerance / withdrawal body signs", "Assuming “no shakes/headache = not addicted,” ignoring craving and compulsive use", "Skip morning coffee and you get a pounding headache plus irritability by noon"],
+            ["Psychological dependence", "Craving; feeling you need it to cope", "Dismissing craving-based dependence as “just weak will,” so it doesn’t count as a real problem", "You feel you cannot walk into a party without a drink first, even with no withdrawal tremor"],
         ]),
     ]),
     theory_table([
@@ -151,16 +151,16 @@ CONTENT[4] = section(
 CONTENT[5] = section(
     concept_contrast_groups([
         ("Sensation vs perception", [
-            ["Sensation", "Sensory receptors detecting stimuli", "Using sensation and perception interchangeably in essays", "Photoreceptors registering light edges"],
-            ["Perception", "Organizing/interpreting that input into meaning", "Treating perception as raw sensory “recording” with no interpretation", "Recognizing your friend’s face in a crowd"],
+            ["Sensation", "Sensory receptors detecting stimuli", "Using sensation and perception as synonyms in an essay (“I sensed it was my friend” when you mean recognition)", "Retinal photoreceptors register a bright edge when a phone flashlight hits your eye"],
+            ["Perception", "Organizing/interpreting that input into meaning", "Treating perception as a perfect camera recording with no organization or expectation involved", "In a crowded MTR car you still pick out your friend’s face from posture and hair"],
         ]),
         ("Bottom-up vs top-down", [
-            ["Bottom-up", "Data-driven from sensory input", "Thinking beginners only use bottom-up", "Reading messy handwriting using letter shapes"],
-            ["Top-down", "Knowledge, expectations, context shape what you perceive", "Thinking experts only use top-down", "Knowing the topic of the note so you can fill gaps in messy handwriting"],
+            ["Bottom-up", "Data-driven from sensory input", "Claiming only novices use bottom-up processing, or that experts never look at the raw features", "Deciphering a messy lab note by inspecting each letter shape stroke by stroke"],
+            ["Top-down", "Knowledge, expectations, context shape what you perceive", "Claiming experts use only top-down guesses and ignore sensory data", "Because the worksheet title is “synaptic transmission,” you can fill gaps in the tutor’s messy handwriting"],
         ]),
         ("Absolute threshold vs difference threshold (JND)", [
-            ["Absolute threshold", "Minimum stimulus detected ~50% of the time", "Confusing “can I hear it at all?” with “did it get louder?”", "Noticing a faint phone buzz in a quiet room"],
-            ["Difference threshold (JND)", "Minimum change detected", "Treating any noticeable change as the absolute threshold", "Noticing the volume went up one notch"],
+            ["Absolute threshold", "Minimum stimulus detected ~50% of the time", "Mixing “can I detect it at all?” with “did the intensity change?” (that’s JND)", "In a silent library you barely notice your phone’s faint vibrate on the wooden desk"],
+            ["Difference threshold (JND)", "Minimum change detected", "Calling any just-noticeable loudness change the absolute threshold", "Streaming music: you catch that the volume went up one notch during a quiet song section"],
         ]),
     ]),
     theory_table([
@@ -173,16 +173,16 @@ CONTENT[5] = section(
 CONTENT[6] = section(
     concept_contrast_groups([
         ("Classical vs operant conditioning", [
-            ["Classical conditioning", "CS predicts US → CR", "Labeling every habit “Pavlov”", "Feeling anxious when you smell hospital disinfectant"],
-            ["Operant conditioning", "Behavior shaped by consequences", "Labeling every fear “Skinner”", "Studying more after praise"],
+            ["Classical conditioning", "CS predicts US → CR", "Labeling every habit or skill “Pavlovian,” including behaviors shaped by praise/grades (operant)", "Walking into a clinic and feeling anxious when you smell the disinfectant before any procedure"],
+            ["Operant conditioning", "Behavior shaped by consequences", "Calling every automatic fear “Skinnerian,” even when a CS–US pairing (classical) is the better fit", "After your tutor praises a completed problem set, you open the homework app sooner the next day"],
         ]),
         ("Reinforcement vs punishment", [
-            ["Reinforcement", "Increases behavior (positive = add; negative = remove aversive)", "Thinking “negative reinforcement = punishment”", "Buckling a seatbelt to stop the beep (negative reinforcement)"],
-            ["Punishment", "Decreases behavior (positive = add aversive; negative = remove valued)", "Assuming any unpleasant event is “positive punishment” without checking whether behavior drops", "A fine for speeding (positive punishment)"],
+            ["Reinforcement", "Increases behavior (positive = add; negative = remove aversive)", "Writing that negative reinforcement equals punishment (both “feel bad”), missing that reinforcement increases behavior", "You buckle up specifically to stop the car’s annoying seatbelt beep—behavior increases"],
+            ["Punishment", "Decreases behavior (positive = add aversive; negative = remove valued)", "Calling any unpleasant event “positive punishment” without checking that the target behavior actually decreases", "A speeding fine is added after you drive too fast; you speed less on that road afterward"],
         ]),
         ("Continuous vs partial reinforcement", [
-            ["Continuous", "Reinforce every response (fast acquisition)", "Assuming continuous is always best long-term", "A snack machine that always dispenses"],
-            ["Partial", "Reinforce some responses (slower extinction—esp. variable schedules)", "Assuming partial always means “weaker learning”", "A game that rewards unpredictably (harder to quit)"],
+            ["Continuous", "Reinforce every response (fast acquisition)", "Assuming reinforcing every response is always best long-term (it acquires fast but extinguishes fast)", "A vending machine that always drops snacks teaches quick approach—and quick quitting if it fails once"],
+            ["Partial", "Reinforce some responses (slower extinction—esp. variable schedules)", "Assuming partial reinforcement means weaker learning overall, ignoring extinction resistance", "A mobile game that gives loot on an unpredictable schedule keeps you tapping long after rewards thin out"],
         ]),
     ]),
     theory_table([
@@ -195,16 +195,16 @@ CONTENT[6] = section(
 CONTENT[7] = section(
     concept_contrast_groups([
         ("Fluid vs crystallized intelligence", [
-            ["Fluid intelligence", "Novel problem-solving, reasoning speed", "Thinking older adults lose “all intelligence,” ignoring crystallized strengths", "Solving a new puzzle app"],
-            ["Crystallized intelligence", "Accumulated knowledge/skills", "Treating trivia alone as the whole of intelligence", "Using vocabulary built over years"],
+            ["Fluid intelligence", "Novel problem-solving, reasoning speed", "Claiming older adults lose “all intelligence,” ignoring preserved/grown crystallized knowledge", "Your grandparent struggles with a brand-new logic puzzle app they’ve never seen"],
+            ["Crystallized intelligence", "Accumulated knowledge/skills", "Equating crystallized intelligence with trivia night facts alone, or calling it “not real intelligence”", "They instantly define obscure words on a crossword from decades of reading"],
         ]),
         ("Algorithm vs heuristic", [
-            ["Algorithm", "Step-by-step procedure guaranteeing a solution (if one exists)", "Calling every rule of thumb an algorithm", "Checking every aisle for soy sauce"],
-            ["Heuristic", "Mental shortcut; fast, sometimes biased", "Assuming heuristics are always irrational mistakes", "Going straight to “international foods” for soy sauce"],
+            ["Algorithm", "Step-by-step procedure guaranteeing a solution (if one exists)", "Calling every shortcut or rule of thumb an “algorithm” on an exam", "In a new supermarket you walk every aisle systematically until you find soy sauce"],
+            ["Heuristic", "Mental shortcut; fast, sometimes biased", "Assuming heuristics always equal irrational errors rather than useful shortcuts that can bias", "You go straight to “Asian foods” for soy sauce and usually succeed—fast, not guaranteed"],
         ]),
         ("Reliability vs validity (testing)", [
-            ["Reliability (of an IQ/achievement test)", "Score stability", "Equating a stable high score with “valid measure of worth”", "Retesting next week yields a similar score"],
-            ["Validity (of an IQ/achievement test)", "Predicts what it claims (e.g., academic performance)", "Treating predictive validity for school as validity for every life outcome", "The same test may still miss creative ability"],
+            ["Reliability (of an IQ/achievement test)", "Score stability", "Treating a stably high IQ score as proof the test validly measures personal worth or every talent", "You retake a practice aptitude test next week and land within a few points of last time"],
+            ["Validity (of an IQ/achievement test)", "Predicts what it claims (e.g., academic performance)", "Treating school-predictive validity as validity for creativity, morality, or “life success” overall", "A test that predicts GPA can still miss studio-art creativity or teamwork skill"],
         ]),
     ]),
     theory_table([
@@ -217,21 +217,21 @@ CONTENT[7] = section(
 CONTENT[8] = section(
     concept_contrast_groups([
         ("Encoding, storage, retrieval", [
-            ["Encoding", "Getting information into memory", "Blaming only “bad memory” when the issue was shallow encoding", "Never really attending to a name at a party"],
-            ["Storage", "Maintaining information over time", "Assuming once heard, information is permanently filed", "A well-learned address lasting for years"],
-            ["Retrieval", "Accessing stored information when needed", "Treating tip-of-the-tongue as proof the memory was never stored", "Knowing a name but blanking during introductions"],
+            ["Encoding", "Getting information into memory", "Blaming a “bad memory” when you never attended to the input (shallow/no encoding)", "At a loud party you smile, never repeat the name, and cannot recall it 30 seconds later"],
+            ["Storage", "Maintaining information over time", "Assuming anything briefly heard is permanently filed in LTM without rehearsal or meaning", "Your childhood home address stays available for years after dense, repeated use"],
+            ["Retrieval", "Accessing stored information when needed", "Treating tip-of-the-tongue blanking as proof the memory was never stored", "You know the actor’s name but blank during introductions—then it pops out in the lift later"],
         ]),
         ("Short-term/working vs long-term memory", [
-            ["Short-term / working memory", "Limited, active workspace", "Thinking rehearsal always moves info to LTM, or that STM = all conscious thought", "Holding a phone number while dialing"],
-            ["Long-term memory", "Vast, durable (with subtypes)", "Assuming LTM is a perfect video recording", "Remembering your childhood address"],
+            ["Short-term / working memory", "Limited, active workspace", "Assuming rehearsal always uploads to LTM, or that STM equals all of conscious thought", "You rehearse a phone number long enough to dial it, then it vanishes"],
+            ["Long-term memory", "Vast, durable (with subtypes)", "Assuming LTM is a perfect video file that never reconstructs or distorts", "You remember your childhood address, but the “memory” of a birthday party may blend years"],
         ]),
         ("Recall vs recognition", [
-            ["Recall", "Produce the information", "Assuming free recall is the only “real” memory test", "Writing an essay answer"],
-            ["Recognition", "Identify among options", "Assuming recognition always equals deeper learning", "Multiple-choice identification"],
+            ["Recall", "Produce the information", "Claiming only free recall “counts” as real memory and recognition is cheating", "A blank essay prompt forces you to produce the definition without options"],
+            ["Recognition", "Identify among options", "Assuming easy multiple-choice recognition proves deep mastery equal to recall", "You pick the correct term from four options but cannot explain it from scratch later"],
         ]),
         ("Proactive vs retroactive interference", [
-            ["Proactive interference", "Old learning disrupts new", "Mixing which direction “pro” points", "Old PIN blocking memory of the new one"],
-            ["Retroactive interference", "New learning disrupts old", "Mixing which direction “retro” points", "New semester locker combo crowding out last year’s"],
+            ["Proactive interference", "Old learning disrupts new", "Reversing proactive vs retroactive (forgetting which direction “pro/forward” points)", "Your old ATM PIN keeps popping up when you try to learn the new one"],
+            ["Retroactive interference", "New learning disrupts old", "Reversing retroactive vs proactive (forgetting that “retro” means new hurts old)", "This semester’s locker combo crowds out last year’s when a friend asks for the old one"],
         ]),
     ]),
     theory_table([
@@ -244,16 +244,16 @@ CONTENT[8] = section(
 CONTENT[9] = section(
     concept_contrast_groups([
         ("Nature vs nurture", [
-            ["Nature", "Genes / biology", "Treating the debate as either/or instead of interaction", "A child shows high activity level (temperament)"],
-            ["Nurture", "Experience / environment", "Assuming environment can rewrite any biological constraint overnight", "Parents channel that activity into sports"],
+            ["Nature", "Genes / biology", "Treating nature vs nurture as either/or—genes alone or environment alone—rather than interaction", "A toddler shows high activity level across babysitters (temperament signal)"],
+            ["Nurture", "Experience / environment", "Assuming environment can instantly rewrite any biological constraint with one intervention", "Parents channel that high activity into after-school football instead of forcing long still reading"],
         ]),
         ("Continuous vs discontinuous change", [
-            ["Continuous", "Gradual quantitative change", "Assuming all development must be stage theory", "Vocabulary growing week by week"],
-            ["Discontinuous", "Stage-like qualitative shifts", "Forcing every skill into rigid universal stages", "Piagetian shift in how conservation is understood (stage-like claim)"],
+            ["Continuous", "Gradual quantitative change", "Assuming every developmental change must be a Piaget-style stage jump", "A child’s vocabulary grows a little each week rather than overnight"],
+            ["Discontinuous", "Stage-like qualitative shifts", "Forcing every skill into the same rigid universal stages regardless of domain/culture", "A child who suddenly “gets” liquid conservation after failing the same task months earlier"],
         ]),
         ("Assimilation vs accommodation", [
-            ["Assimilation", "Fit new info into existing schema", "Using assimilation as a synonym for “any learning”", "Calling every flying animal a “bird”"],
-            ["Accommodation", "Change schema to fit new info", "Using accommodation as a synonym for “any learning”", "Creating a “bat” category after correction"],
+            ["Assimilation", "Fit new info into existing schema", "Using assimilation to mean “any learning,” including cases that require changing the schema", "A toddler calls a bat a “bird” because it flies—fitting new input into an old schema"],
+            ["Accommodation", "Change schema to fit new info", "Using accommodation as a synonym for any learning, including mere fitting-into-old-schema cases", "After correction, the child builds a separate “bat” category instead of forcing “bird”"],
         ]),
     ]),
     theory_table([
@@ -266,17 +266,17 @@ CONTENT[9] = section(
 CONTENT[10] = section(
     concept_contrast_groups([
         ("Drive vs incentive", [
-            ["Drive", "Internal push to reduce physiological need", "Explaining all eating as only “empty stomach”", "Eating because you’re hungry"],
-            ["Incentive", "External pull of a goal/reward", "Explaining all eating as only ads/menus", "Choosing dessert that looks amazing on the menu"],
+            ["Drive", "Internal push to reduce physiological need", "Explaining all eating as empty-stomach drive alone, ignoring taste ads and social cues", "You eat a plain rice bowl because you skipped lunch and feel stomach hunger"],
+            ["Incentive", "External pull of a goal/reward", "Explaining all eating as ads/menus alone, as if internal hunger never matters", "Already full, you still order the lava cake because the menu photo looks irresistible"],
         ]),
         ("Intrinsic vs extrinsic motivation", [
-            ["Intrinsic", "Activity valued for itself", "Assuming extrinsic always kills intrinsic (overjustification is conditional)", "Drawing for fun"],
-            ["Extrinsic", "For a separable outcome (grades, pay, praise)", "Treating every external reward as harmful", "Drawing only for a contest prize"],
+            ["Intrinsic", "Activity valued for itself", "Assuming any external reward always kills intrinsic motivation (overjustification is conditional)", "You sketch on the MTR purely because it feels good, with no contest or grade"],
+            ["Extrinsic", "For a separable outcome (grades, pay, praise)", "Treating every paycheck, grade, or prize as automatically harmful to motivation", "You only finish digital art when a contest cash prize is on the line"],
         ]),
         ("James–Lange vs Cannon–Bard vs Schachter–Singer", [
-            ["James–Lange", "Body response → felt emotion", "Memorizing the name without the causal order (body first)", "Noticing shaky hands then concluding “I’m anxious”"],
-            ["Cannon–Bard", "Simultaneous body response + feeling", "Collapsing it into James–Lange because both mention the body", "Heart races and fear are felt together as the threat appears"],
-            ["Schachter–Singer", "Arousal + cognitive label → emotion", "Ignoring the appraisal/label step", "Interpreting the same arousal as excitement at a concert"],
+            ["James–Lange", "Body response → felt emotion", "Memorizing the theorist name but reversing the order (feeling first, body second)", "You notice shaky hands and a racing heart, then conclude “I’m anxious”"],
+            ["Cannon–Bard", "Simultaneous body response + feeling", "Collapsing it into James–Lange just because both mention bodily arousal", "As a scooter swerves toward you, fear and a pounding heart seem to hit together"],
+            ["Schachter–Singer", "Arousal + cognitive label → emotion", "Ignoring the cognitive label/appraisal step and treating arousal alone as the full emotion", "Same sweaty arousal: at a concert you label it “excited,” before an exam “terrified”"],
         ]),
     ]),
     theory_table([
@@ -289,17 +289,17 @@ CONTENT[10] = section(
 CONTENT[11] = section(
     concept_contrast_groups([
         ("Id vs ego vs superego", [
-            ["Id", "Pleasure principle; immediate urges", "Treating every impulsive wish as the whole personality", "Wanting to skip class to binge shows"],
-            ["Ego", "Reality principle; mediates id and superego", "Treating “ego” as arrogance in the Freudian sense", "Making a compromise plan that still gets work done"],
-            ["Superego", "Ideals / conscience", "Equating conscience only with “being nice”", "Guilt about duty when you want to skip class"],
+            ["Id", "Pleasure principle; immediate urges", "Treating every impulsive wish as if it were the entire personality structure", "You want to skip the 8:30 lecture to binge a whole drama season immediately"],
+            ["Ego", "Reality principle; mediates id and superego", "Using everyday “ego” (=arrogance) as if it were Freud’s reality-principle mediator", "You compromise: watch one episode tonight, finish the reading, then more shows after"],
+            ["Superego", "Ideals / conscience", "Equating the Freudian superego only with “being nice,” ignoring harsh ideals/guilt", "Guilt hits hard when you want to skip class because “good students never skip”"],
         ]),
         ("Trait approaches vs situationism/interactionism", [
-            ["Trait approaches", "Stable dimensions (e.g., Big Five)", "Thinking traits mean people never change across settings", "Described as “introverted” on a questionnaire"],
-            ["Situationism / interactionism", "Behavior varies strongly by context; person × situation", "Claiming traits are meaningless because behavior varies", "The same person is talkative with close friends at dinner"],
+            ["Trait approaches", "Stable dimensions (e.g., Big Five)", "Thinking a trait score means the person never behaves differently across settings", "A questionnaire labels you “introverted,” yet you are lively at a close-friends dinner"],
+            ["Situationism / interactionism", "Behavior varies strongly by context; person × situation", "Claiming traits are meaningless just because behavior varies by context", "The same classmate is quiet in lecture but talkative with close friends at hotpot"],
         ]),
         ("Extraversion vs agreeableness (Big Five)", [
-            ["Extraversion", "Sociable, energetic", "Mixing “nice/outgoing” into one trait", "A chatty but competitive teammate"],
-            ["Agreeableness", "Cooperative, trusting (≠ extraversion)", "Ignoring Conscientiousness vs Openness when explaining “good classmate”", "A quiet but very kind teammate (lower E, higher A)"],
+            ["Extraversion", "Sociable, energetic", "Lumping “nice” and “outgoing” into one trait (mixing E with agreeableness)", "A chatty, energetic teammate who still argues hard for their own idea (high E, not high A)"],
+            ["Agreeableness", "Cooperative, trusting (≠ extraversion)", "Explaining every “good classmate” only with E/A and ignoring conscientiousness/openness", "A quiet teammate who always helps others debug code (lower E, higher A)"],
         ]),
     ]),
     theory_table([
@@ -312,16 +312,16 @@ CONTENT[11] = section(
 CONTENT[12] = section(
     concept_contrast_groups([
         ("Dispositional vs situational attribution", [
-            ["Dispositional attribution", "Explain behavior via traits", "Fundamental attribution error: overusing dispositions for others", "Calling a late classmate “lazy”"],
-            ["Situational attribution", "Explain via context/pressures", "Underusing situation when judging strangers, overusing it for ourselves", "Noticing the subway delay that made them late"],
+            ["Dispositional attribution", "Explain behavior via traits", "Jumping to “they’re lazy/rude” for others’ behavior (fundamental attribution error pattern)", "A classmate arrives late and you immediately think “lazy,” ignoring the typhoon MTR delay"],
+            ["Situational attribution", "Explain via context/pressures", "Underusing situation for strangers while overusing it to excuse ourselves (actor–observer pattern)", "You notice the signal fault SMS and attribute their lateness to the subway, not character"],
         ]),
         ("Conformity vs obedience", [
-            ["Conformity", "Match group norm/pressure (Asch-type)", "Using conformity and obedience as synonyms", "Laughing at a joke because everyone else did"],
-            ["Obedience", "Follow a direct authority order (Milgram-type)", "Treating peer pressure alone as obedience", "Following a manager’s unethical order"],
+            ["Conformity", "Match group norm/pressure (Asch-type)", "Using conformity and obedience as synonyms on exams", "You laugh at a weak joke because the whole tutorial group laughed first"],
+            ["Obedience", "Follow a direct authority order (Milgram-type)", "Calling peer fashion pressure “obedience” when no authority gave an order", "An intern follows a manager’s written order to alter a report despite feeling it’s wrong"],
         ]),
         ("Prejudice vs discrimination", [
-            ["Prejudice", "Attitude / affective bias", "Assuming no discrimination means no prejudice", "Negative feelings about a group"],
-            ["Discrimination", "Biased behavior / treatment", "Assuming prejudice always shows as overt discrimination", "Refusing to hire equally qualified applicants"],
+            ["Prejudice", "Attitude / affective bias", "Assuming that if hiring looks fair, prejudice cannot exist (attitude ≠ always overt act)", "Someone privately feels cold distrust toward a group while smiling politely in class"],
+            ["Discrimination", "Biased behavior / treatment", "Assuming prejudice always shows as loud, overt discrimination you can film", "Two equal CVs; only the one with a majority-sounding name gets the interview invite"],
         ]),
     ]),
     theory_table([
@@ -334,16 +334,16 @@ CONTENT[12] = section(
 CONTENT[13] = section(
     concept_contrast_groups([
         ("Job satisfaction vs organizational commitment", [
-            ["Job satisfaction", "Evaluative feelings about one’s job", "Assuming happy-with-tasks always means won’t quit", "Liking daily coding tasks"],
-            ["Organizational commitment", "Attachment / loyalty to the organization", "Assuming commitment always means liking the daily tasks", "Planning to leave for a better company brand/pay despite liking the work"],
+            ["Job satisfaction", "Evaluative feelings about one’s job", "Assuming liking daily tasks always means the person won’t quit the organization", "You love the coding puzzles each day but still watch other companies’ pay bands"],
+            ["Organizational commitment", "Attachment / loyalty to the organization", "Assuming high commitment always means loving the daily tasks themselves", "Someone stays loyal to the hospital brand yet finds charting tasks dull"],
         ]),
         ("Task vs contextual performance", [
-            ["Task performance", "Core job duties", "Rating only output and missing teamwork/citizenship", "Closing tickets efficiently"],
-            ["Contextual performance (citizenship)", "Helping, extra-role support", "Treating citizenship as optional fluff with no performance value", "Mentoring new hires without being asked"],
+            ["Task performance", "Core job duties", "Rating only ticket/output counts and missing helping/citizenship behavior", "A support agent closes tickets fast but never onboards new hires"],
+            ["Contextual performance (citizenship)", "Helping, extra-role support", "Treating citizenship as optional fluff that never belongs in performance reviews", "Without being asked, you mentor two new hires through their first deploy"],
         ]),
         ("Industrial vs organizational focus", [
-            ["Industrial", "Selection, training, job analysis, performance appraisal", "Thinking I-O is only “hiring tests”", "Designing a structured interview"],
-            ["Organizational", "Motivation, leadership, teams, culture, stress at work", "Ignoring org-side topics when studying workplace behavior", "Studying why a team distrusts a new manager"],
+            ["Industrial", "Selection, training, job analysis, performance appraisal", "Thinking industrial-organizational psychology is only “hiring IQ tests”", "You build a structured interview bank tied to a job analysis for analysts"],
+            ["Organizational", "Motivation, leadership, teams, culture, stress at work", "Ignoring leadership/teams/culture topics because “I-O is just selection”", "You study why a product team suddenly distrusts a newly hired manager"],
         ]),
     ]),
     theory_table([
@@ -356,16 +356,16 @@ CONTENT[13] = section(
 CONTENT[14] = section(
     concept_contrast_groups([
         ("Eustress vs distress", [
-            ["Eustress", "Challenging, motivating stress", "Thinking all stress is bad", "Nervous excitement before a match that sharpens focus"],
-            ["Distress", "Overwhelming, harmful stress", "Thinking eustress never costs energy", "Chronic overload with sleep loss"],
+            ["Eustress", "Challenging, motivating stress", "Writing that all stress is harmful, so pre-game nerves must be purely bad", "Nervous excitement before a football match that sharpens your first-half focus"],
+            ["Distress", "Overwhelming, harmful stress", "Thinking eustress never costs energy or that only trauma counts as distress", "Weeks of overload plus 4-hour nights leave you irritable and getting sick often"],
         ]),
         ("Primary vs secondary appraisal (Lazarus)", [
-            ["Primary appraisal", "Is it a threat / challenge / irrelevant?", "Skipping secondary appraisal and treating every stressor as equally damning", "Seeing a pop quiz as a threat"],
-            ["Secondary appraisal", "What coping resources do I have?", "Treating resources as irrelevant once something feels threatening", "Remembering you studied and can ask for clarification"],
+            ["Primary appraisal", "Is it a threat / challenge / irrelevant?", "Skipping secondary appraisal and treating every stressor as equally catastrophic", "A surprise pop quiz first feels like a threat (“I’m doomed”) before you check resources"],
+            ["Secondary appraisal", "What coping resources do I have?", "Once something feels threatening, ignoring whether you have coping resources", "You remember last night’s revision and that you can ask the tutor one clarifying question"],
         ]),
         ("Problem-focused vs emotion-focused coping", [
-            ["Problem-focused coping", "Change the stressor / situation", "Judging emotion-focused as always “avoidant/weak”", "Making a revision timetable"],
-            ["Emotion-focused coping", "Regulate feelings when the situation is less controllable", "Using only venting when a controllable problem still needs action", "Calling a friend to vent after a rejection you can’t undo"],
+            ["Problem-focused coping", "Change the stressor / situation", "Judging all emotion-focused coping as weak avoidance, even when the stressor isn’t controllable", "You build a revision timetable and email the lecturer about an unclear rubric"],
+            ["Emotion-focused coping", "Regulate feelings when the situation is less controllable", "Only venting when a controllable problem (e.g., messy notes) still needs a plan", "After a job rejection you can’t undo, you call a friend to vent and go for a walk"],
         ]),
     ]),
     theory_table([
@@ -378,16 +378,16 @@ CONTENT[14] = section(
 CONTENT[15] = section(
     concept_contrast_groups([
         ("Distress vs dysfunction", [
-            ["Distress", "Subjective suffering", "Pathologizing any unusual behavior without impairment/distress context", "Intense sadness after a breakup"],
-            ["Dysfunction", "Impairment in life domains (plus cultural deviance considerations)", "Treating every intense emotion as a disorder even with intact functioning", "Sadness that also stops you attending work/classes"],
+            ["Distress", "Subjective suffering", "Pathologizing any unusual behavior or intense feeling without asking about impairment/distress", "Intense sadness for days after a breakup—painful, but context matters for disorder labels"],
+            ["Dysfunction", "Impairment in life domains (plus cultural deviance considerations)", "Treating every intense emotion as a disorder even when work/relationships still function", "The same sadness also stops you attending lectures and answering messages for weeks"],
         ]),
         ("Fear vs anxiety", [
-            ["Fear", "Present-focused alarm to a specific threat", "Using fear/anxiety as perfect synonyms in clinical descriptions", "Jumping when a car nearly hits you"],
-            ["Anxiety", "Anticipatory apprehension about future threat", "Treating worry about the future as the same as panic in the moment", "Weeks of worry about “something going wrong”"],
+            ["Fear", "Present-focused alarm to a specific threat", "Using fear and anxiety as perfect synonyms in clinical write-ups", "You jump and freeze when a car nearly hits you in a crosswalk—present threat"],
+            ["Anxiety", "Anticipatory apprehension about future threat", "Treating weeks of future-oriented worry as identical to panic at a present threat", "For weeks you worry “something will go wrong” before an exam that hasn’t happened yet"],
         ]),
         ("Obsessions vs compulsions", [
-            ["Obsessions", "Intrusive unwanted thoughts / images / urges", "Calling any neat preference “OCD”", "Intrusive doubt you left the stove on"],
-            ["Compulsions", "Repetitive behaviors / mental acts aimed at reducing distress", "Treating any repeated habit as a compulsion", "Checking burners five times"],
+            ["Obsessions", "Intrusive unwanted thoughts / images / urges", "Calling any neat desk preference “OCD,” or confusing obsessions with enjoyably chosen hobbies", "An intrusive, unwanted doubt that you left the stove on ruins the start of a lecture"],
+            ["Compulsions", "Repetitive behaviors / mental acts aimed at reducing distress", "Treating any repeated habit (playlist on loop) as a clinical compulsion", "You leave the flat, walk back, and check the burners five times to cut the doubt"],
         ]),
     ]),
     theory_table([
@@ -400,16 +400,16 @@ CONTENT[15] = section(
 CONTENT[16] = section(
     concept_contrast_groups([
         ("Biomedical treatment vs psychotherapy", [
-            ["Biomedical", "Medication, ECT, other biological interventions", "Assuming medication replaces all need for skills/therapy", "An SSRI prescribed for major depression"],
-            ["Psychotherapy", "Talk / behavioral interventions with a clinician", "Assuming therapy alone is always enough for every severe disorder", "Weekly CBT skills practice"],
+            ["Biomedical", "Medication, ECT, other biological interventions", "Assuming a prescription replaces all need for skills practice or psychotherapy", "An SSRI is prescribed for major depression while CBT skills are still on the table"],
+            ["Psychotherapy", "Talk / behavioral interventions with a clinician", "Assuming talk therapy alone is always enough for every severe disorder", "Weekly CBT sessions with between-session thought records and exposure homework"],
         ]),
         ("CBT vs psychodynamic therapy", [
-            ["CBT", "Change thoughts/behaviors maintaining problems; structured / present-focused", "Thinking CBT ignores emotion", "Logging catastrophic thoughts before a presentation"],
-            ["Psychodynamic", "Explore unconscious patterns, insight, relationship themes", "Thinking psychodynamic means only Freudian couches", "Linking repeated people-pleasing to early relationships"],
+            ["CBT", "Change thoughts/behaviors maintaining problems; structured / present-focused", "Claiming CBT “ignores emotion” because it also targets thoughts and behaviors", "Before a presentation you log the thought “I’ll fail publicly” and rate the anxiety 0–100"],
+            ["Psychodynamic", "Explore unconscious patterns, insight, relationship themes", "Thinking psychodynamic therapy means only classic Freudian couches and dream books", "In therapy you link repeated people-pleasing at work to early caregiver patterns"],
         ]),
         ("Efficacy vs effectiveness", [
-            ["Efficacy", "Works under controlled trial conditions", "Treating a famous RCT as proof it will work identically in every clinic", "A university trial with strict inclusion criteria"],
-            ["Effectiveness", "Works in real-world routine care", "Ignoring that messy clinics differ from lab samples", "Outcomes in a busy community clinic"],
+            ["Efficacy", "Works under controlled trial conditions", "Treating one famous RCT as proof the treatment works identically in every busy clinic", "A university trial with strict inclusion criteria and trained research therapists"],
+            ["Effectiveness", "Works in real-world routine care", "Ignoring that comorbid, messy community clinics differ from screened lab samples", "The same protocol’s outcomes in a busy public community clinic with mixed caseloads"],
         ]),
     ]),
     theory_table([
