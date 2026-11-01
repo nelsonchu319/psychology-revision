@@ -1,4 +1,8 @@
-"""Shared nav for Ch 1–16."""
+"""Shared nav for Ch 1–16.
+
+Chapter page sections (in order): Key Notes (#notes), Further Depth (#depth),
+Must-know contrasts (#contrasts), Concept Map (#map), Practice (#practice).
+"""
 from __future__ import annotations
 import re
 from pathlib import Path

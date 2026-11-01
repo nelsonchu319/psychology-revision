@@ -718,3 +718,51 @@ button:hover, .btn:hover { background: #2e3f58; }
   margin-top: 0.75rem;
   font-weight: 600;
 }
+
+/* Must-know contrasts / theory-vs-evidence tables */
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  margin: 0.75rem 0 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg);
+}
+.contrast-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  min-width: 640px;
+}
+.contrast-table th,
+.contrast-table td {
+  padding: 0.7rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+  line-height: 1.45;
+}
+.contrast-table th {
+  background: var(--surface2);
+  color: var(--accent-hover);
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.contrast-table tbody tr:nth-child(even) td {
+  background: rgba(36, 48, 68, 0.35);
+}
+.contrast-table tbody tr:hover td {
+  background: rgba(91, 159, 212, 0.1);
+}
+.contrast-table td strong {
+  color: var(--text);
+}
+@media (max-width: 700px) {
+  .contrast-table { font-size: 0.82rem; min-width: 560px; }
+  .contrast-table th, .contrast-table td { padding: 0.55rem 0.55rem; }
+}
+
