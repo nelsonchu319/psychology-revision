@@ -728,6 +728,15 @@ button:hover, .btn:hover { background: #2e3f58; }
   border-radius: 10px;
   background: var(--bg);
 }
+.contrast-group {
+  margin: 1rem 0 0.45rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+}
+.contrast-group:first-of-type {
+  margin-top: 0.35rem;
+}
 .contrast-table {
   width: 100%;
   border-collapse: collapse;
@@ -742,7 +751,7 @@ button:hover, .btn:hover { background: #2e3f58; }
   border-bottom: 1px solid var(--border);
   line-height: 1.45;
 }
-.contrast-table th {
+.contrast-table thead th {
   background: var(--surface2);
   color: var(--accent-hover);
   font-weight: 600;
@@ -752,10 +761,26 @@ button:hover, .btn:hover { background: #2e3f58; }
   top: 0;
   z-index: 1;
 }
-.contrast-table tbody tr:nth-child(even) td {
+.contrast-table tbody th[scope="row"],
+.contrast-table td:first-child {
+  font-weight: 600;
+  color: var(--text);
+  background: rgba(36, 48, 68, 0.45);
+  min-width: 9.5rem;
+  position: sticky;
+  left: 0;
+  z-index: 1;
+}
+.contrast-table tbody tr:nth-child(even) td,
+.contrast-table tbody tr:nth-child(even) th[scope="row"] {
   background: rgba(36, 48, 68, 0.35);
 }
-.contrast-table tbody tr:hover td {
+.contrast-table tbody tr:nth-child(even) th[scope="row"],
+.contrast-table tbody tr:nth-child(even) td:first-child {
+  background: rgba(36, 48, 68, 0.55);
+}
+.contrast-table tbody tr:hover td,
+.contrast-table tbody tr:hover th[scope="row"] {
   background: rgba(91, 159, 212, 0.1);
 }
 .contrast-table td strong {

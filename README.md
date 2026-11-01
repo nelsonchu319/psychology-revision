@@ -26,7 +26,7 @@ Visit `http://localhost:8765/` — or open `index.html` via `file://` (relative 
 |--------|----------------|
 | Key Notes | Important OpenStax ideas with § / page cites (paraphrased) |
 | Further Depth | Outside journals/books with named citations |
-| Must-know contrasts | English contrast + theory-vs-evidence tables (common confusions & everyday examples) |
+| Must-know contrasts | English concept-row contrast groups + theory-vs-evidence tables (common confusions & everyday examples) |
 | Mind maps | Hub → branches → nodes + **SVG lines** (hub, within-branch, gold cross-links); click highlights connected edges |
 | Practice L1–L3 | Factual / theoretical / multi-beat application |
 | Practice L4 | Cross-topic (Ch 1→N) from Chapter 2 onward |
@@ -83,6 +83,6 @@ LICENSE             MIT (code) + OpenStax CC BY-NC-SA notice
 
 - **Key Notes** = important content that appears in Psychology 2e.  
 - **Further Theoretical Depth** = concepts from **other** journals/books, each with a citation—not a restatement of the textbook.
-- **Must-know contrasts** = English comparison tables (easy-to-confuse constructs + theory vs evidence) emphasizing common confusions and everyday examples.
+- **Must-know contrasts** = English comparison tables with **concept names as row headers** (grouped pairs/trios) plus theory vs evidence; emphasize common confusions and everyday examples.
 
 Page numbers follow the by-chapter PDF running headers used while building the site.
