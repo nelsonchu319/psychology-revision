@@ -784,9 +784,214 @@
     updateWrongBookBadges();
   }
 
+
+  function initTopicMultiSelect(cfg) {
+    var container = cfg.container;
+    if (!container) return;
+    var allItems = (cfg.items || window.PSYCH_TOPIC_MS || []).slice();
+    var TOPICS = [
+      { id: 1, label: "Foundations & Methods", chapters: "Ch 1–2", blurb: "History, perspectives, research methods, ethics, stats literacy." },
+      { id: 2, label: "Biology & Consciousness", chapters: "Ch 3–5", blurb: "Nervous system, sleep/drugs, sensation & perception." },
+      { id: 3, label: "Learning & Cognition", chapters: "Ch 6–8", blurb: "Conditioning, thinking, intelligence, memory." },
+      { id: 4, label: "Development, Motivation & Personality", chapters: "Ch 9–11", blurb: "Lifespan, emotion/motivation, personality." },
+      { id: 5, label: "Social, Health & Clinical", chapters: "Ch 12–16", blurb: "Social, I-O, stress/health, disorders, therapy." }
+    ];
+
+    var state = {
+      topic: null,
+      pool: [],
+      index: 0,
+      correct: 0,
+      answered: false,
+      selected: {}
+    };
+
+    function renderPicker() {
+      var cards = TOPICS.map(function (t) {
+        var n = allItems.filter(function (it) { return it.topic === t.id; }).length;
+        return (
+          '<button type="button" class="topic-card" data-topic="' + t.id + '">' +
+          '<div class="t-num">Topic ' + t.id + ' · ' + t.chapters + ' · ' + n + ' items</div>' +
+          '<h3>' + t.label + '</h3>' +
+          '<p>' + t.blurb + '</p>' +
+          '</button>'
+        );
+      }).join("");
+      container.innerHTML =
+        '<div class="topic-grid">' + cards + '</div>' +
+        '<p class="cmap-detail">Pick a topic to shuffle its multi-select set. Scoring: exact set match only.</p>';
+      container.querySelectorAll(".topic-card").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          startTopic(parseInt(btn.getAttribute("data-topic"), 10));
+        });
+      });
+    }
+
+    function startTopic(tid) {
+      state.topic = tid;
+      state.pool = shuffle(allItems.filter(function (it) { return it.topic === tid; }));
+      state.index = 0;
+      state.correct = 0;
+      state.answered = false;
+      state.selected = {};
+      renderShell();
+      renderItem();
+    }
+
+    function topicMeta(tid) {
+      for (var i = 0; i < TOPICS.length; i++) if (TOPICS[i].id === tid) return TOPICS[i];
+      return { label: "Topic " + tid, chapters: "" };
+    }
+
+    function renderShell() {
+      var meta = topicMeta(state.topic);
+      container.innerHTML =
+        '<div class="quiz-controls">' +
+        '<button type="button" class="btn-ghost" id="tms-back">← Topics</button>' +
+        '<button type="button" class="btn-primary" id="tms-reshuffle">Reshuffle</button>' +
+        '</div>' +
+        '<p class="meta"><strong>Topic ' + state.topic + ' · ' + escapeHtml(meta.label) +
+        '</strong> (' + escapeHtml(meta.chapters) + ') · Select all statements that apply · exact-set scoring</p>' +
+        '<div class="quiz-progress" id="tms-progress"></div>' +
+        '<div id="tms-body"></div>';
+      container.querySelector("#tms-back").addEventListener("click", renderPicker);
+      container.querySelector("#tms-reshuffle").addEventListener("click", function () {
+        startTopic(state.topic);
+      });
+    }
+
+    function updateProgress() {
+      var el = container.querySelector("#tms-progress");
+      if (!el) return;
+      if (!state.pool.length) {
+        el.textContent = "No items in this topic.";
+        return;
+      }
+      el.innerHTML =
+        "Item <span class=\"quiz-score\">" + (state.index + 1) + "</span> of " +
+        state.pool.length +
+        " · Exact matches: <span class=\"quiz-score\">" + state.correct + "</span>";
+    }
+
+    function letter(i) { return String.fromCharCode(65 + i); }
+
+    function renderItem() {
+      var body = container.querySelector("#tms-body");
+      updateProgress();
+      if (!state.pool.length) {
+        body.innerHTML = '<p class="cmap-detail">No multi-select items for this topic yet.</p>';
+        return;
+      }
+      if (state.index >= state.pool.length) {
+        body.innerHTML =
+          '<div class="feedback ok">' +
+          '<strong>Topic set complete.</strong> Exact matches: ' + state.correct +
+          " / " + state.pool.length +
+          '.</div>' +
+          '<p style="margin-top:1rem;">' +
+          '<button type="button" class="btn-primary" id="tms-again">Practice again</button> ' +
+          '<button type="button" class="btn-ghost" id="tms-home">Back to topics</button>' +
+          '</p>';
+        body.querySelector("#tms-again").addEventListener("click", function () {
+          startTopic(state.topic);
+        });
+        body.querySelector("#tms-home").addEventListener("click", renderPicker);
+        return;
+      }
+
+      var item = state.pool[state.index];
+      state.answered = false;
+      state.selected = {};
+      var stmts = item.statements.map(function (s, i) {
+        return (
+          '<label class="ms-statement" data-idx="' + i + '">' +
+          '<input type="checkbox" data-idx="' + i + '" />' +
+          '<span class="ms-letter">' + letter(i) + '.</span>' +
+          '<span class="ms-text">' + escapeHtml(s.text) + '</span>' +
+          '</label>'
+        );
+      }).join("");
+
+      body.innerHTML =
+        '<div class="ms-scenario">' + escapeHtml(item.scenario) + '</div>' +
+        '<div class="ms-statements">' + stmts + '</div>' +
+        '<p style="margin-top:1rem;">' +
+        '<button type="button" class="btn-primary" id="tms-check">Check exact set</button>' +
+        '</p>' +
+        '<div id="tms-feedback"></div>';
+
+      body.querySelectorAll(".ms-statement input").forEach(function (inp) {
+        inp.addEventListener("change", function () {
+          if (state.answered) return;
+          var idx = parseInt(inp.getAttribute("data-idx"), 10);
+          state.selected[idx] = inp.checked;
+          inp.closest(".ms-statement").classList.toggle("picked", inp.checked);
+        });
+      });
+      body.querySelector("#tms-check").addEventListener("click", function () {
+        gradeCurrent();
+      });
+    }
+
+    function gradeCurrent() {
+      if (state.answered) return;
+      state.answered = true;
+      var item = state.pool[state.index];
+      var body = container.querySelector("#tms-body");
+      var exact = true;
+      var explains = [];
+      item.statements.forEach(function (s, i) {
+        var sel = !!state.selected[i];
+        var should = !!s.correct;
+        var lab = body.querySelector('.ms-statement[data-idx="' + i + '"]');
+        lab.querySelector("input").disabled = true;
+        if (should && sel) {
+          lab.classList.add("mark-correct");
+        } else if (!should && sel) {
+          lab.classList.add("mark-wrong-sel");
+          exact = false;
+        } else if (should && !sel) {
+          lab.classList.add("mark-missed");
+          exact = false;
+        }
+        if (!should && !sel) {
+          /* correctly left unchecked */
+        }
+        explains.push(
+          '<div class="ms-explain"><strong>' + letter(i) +
+          (should ? " · should select" : " · should leave unchecked") +
+          ":</strong> " + escapeHtml(s.explain) + "</div>"
+        );
+      });
+      if (exact) state.correct += 1;
+      var fb = body.querySelector("#tms-feedback");
+      fb.innerHTML =
+        '<div class="feedback ' + (exact ? "ok" : "bad") + '">' +
+        (exact
+          ? "<strong>Exact match.</strong> You selected precisely the correct set."
+          : "<strong>Not an exact match.</strong> Green = correctly selected; amber = missed required; red = selected a false statement.") +
+        '</div>' +
+        '<div class="ms-scoreline">Running exact matches: ' + state.correct +
+        " / " + (state.index + 1) + "</div>" +
+        explains.join("") +
+        '<p style="margin-top:1rem;"><button type="button" class="btn-primary" id="tms-next">' +
+        (state.index + 1 >= state.pool.length ? "Finish" : "Next item") +
+        "</button></p>";
+      body.querySelector("#tms-check").disabled = true;
+      body.querySelector("#tms-next").addEventListener("click", function () {
+        state.index += 1;
+        renderItem();
+      });
+      updateProgress();
+    }
+
+    renderPicker();
+  }
+
   global.PsychRevision = {
     initConceptMap: initConceptMap,
     initQuiz: initQuiz,
+    initTopicMultiSelect: initTopicMultiSelect,
     initWrongBookPage: initWrongBookPage,
     shuffle: shuffle,
     loadWrongBook: loadWrongBook,

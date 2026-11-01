@@ -623,3 +623,98 @@ button:hover, .btn:hover { background: #2e3f58; }
   background: var(--surface2);
   color: var(--text);
 }
+
+/* Topic multi-select practice */
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.85rem;
+  margin: 1rem 0 1.5rem;
+}
+.topic-card {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+  cursor: pointer;
+  text-align: left;
+  color: var(--text);
+  width: 100%;
+  font: inherit;
+  transition: border-color 0.15s, background 0.15s;
+}
+.topic-card:hover, .topic-card.active {
+  border-color: var(--accent);
+  background: #1e3a55;
+}
+.topic-card .t-num {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  text-transform: uppercase;
+}
+.topic-card h3 {
+  font-size: 1.05rem;
+  margin: 0.35rem 0 0.4rem;
+}
+.topic-card p {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin: 0;
+}
+.ms-scenario {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.15rem;
+  margin: 0.85rem 0 1rem;
+  color: var(--text);
+  font-size: 0.98rem;
+  white-space: pre-wrap;
+}
+.ms-statements {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+.ms-statement {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+  background: var(--surface2);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  padding: 0.75rem 0.85rem;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+.ms-statement:hover { border-color: var(--accent); }
+.ms-statement input {
+  margin-top: 0.25rem;
+  accent-color: var(--accent);
+  width: 1.05rem;
+  height: 1.05rem;
+  flex-shrink: 0;
+}
+.ms-statement .ms-letter {
+  font-weight: 700;
+  color: var(--accent);
+  min-width: 1.2rem;
+}
+.ms-statement .ms-text { flex: 1; font-size: 0.92rem; }
+.ms-statement.picked { border-color: var(--accent); background: #1a3048; }
+.ms-statement.mark-correct { border-color: var(--success); background: rgba(61,186,122,0.12); }
+.ms-statement.mark-wrong-sel { border-color: var(--danger); background: rgba(224,112,112,0.12); }
+.ms-statement.mark-missed { border-color: var(--warning); background: rgba(224,176,80,0.12); }
+.ms-explain {
+  margin-top: 0.45rem;
+  font-size: 0.86rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+.ms-explain strong { color: var(--text); }
+.ms-scoreline {
+  margin-top: 0.75rem;
+  font-weight: 600;
+}

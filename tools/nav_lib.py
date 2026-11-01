@@ -25,7 +25,7 @@ CHAPTERS = [
 ]
 
 def nav_html(active: str, prefix: str) -> str:
-    """active: 'home'|'quiz'|'wrongbook'|'cN' """
+    """active: 'home'|'quiz'|'topics'|'wrongbook'|'cN' """
     lines = []
     def link(key, href, label):
         cls = ' class="active"' if active == key else ""
@@ -33,6 +33,7 @@ def nav_html(active: str, prefix: str) -> str:
     link("home", "index.html", "Home")
     for n, title, _ in CHAPTERS:
         link(f"c{n}", f"chapters/ch{n}.html", f"Ch {n}")
+    link("topics", "topics.html", "Topics")
     link("quiz", "quiz.html", "Random Quiz")
     wb_cls = ' class="active"' if active == "wrongbook" else ""
     lines.append(f'        <a{wb_cls} href="{prefix}wrongbook.html">錯題簿 <span class="wrongbook-badge" hidden></span></a>')
@@ -50,7 +51,7 @@ def replace_nav(html: str, active: str, prefix: str) -> str:
 
 def patch_all_nav():
     # root pages
-    for name, active in [("index.html","home"),("quiz.html","quiz"),("wrongbook.html","wrongbook")]:
+    for name, active in [("index.html","home"),("quiz.html","quiz"),("topics.html","topics"),("wrongbook.html","wrongbook")]:
         path = ROOT / name
         html = path.read_text(encoding="utf-8")
         path.write_text(replace_nav(html, active, ""), encoding="utf-8")

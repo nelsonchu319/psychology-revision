@@ -4,6 +4,13 @@ Static HTML/CSS/JS study hub for **OpenStax Psychology 2e**: paraphrased **Key N
 
 **Access for free at [openstax.org](https://openstax.org/details/books/psychology-2e).** Textbook material is **CC BY-NC-SA 4.0**. Site code is **MIT** (see `LICENSE`).
 
+
+## Topic Multi-Select
+
+Hard multi-chapter practice on [`topics.html`](topics.html). Five fixed topics (Ch 1–2, 3–5, 6–8, 9–11, 12–16). Each item is a long real-world vignette plus **exactly five** checkbox statements (0–5 may be correct). Scoring is **exact set match** only—no partial credit. Items are written to the hardened Level 4 bar (tempting near-misses, competing explanations).
+
+Data: `data/topic-multiselect.js` (`window.PSYCH_TOPIC_MS`). UI: `PsychRevision.initTopicMultiSelect`.
+
 ## Open locally
 
 ```bash

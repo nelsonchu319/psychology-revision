@@ -1,0 +1,609 @@
+{
+  "1": [
+    {
+      "scenario": "A wellness startup posts that customers who buy its $199 “neuro-optimization” subscription later report higher life satisfaction than non-buyers. The founder tells investors this proves the app *causes* well-being, citing a survey sent only to paying users (35% response) and a blogger who says psychology is “just common sense anyway.” An intern notes the company also runs a simultaneous sleep-coaching email for subscribers. A board member wants to A/B test a free vs paid group next quarter but refuses random assignment “because VIPs must get the paid tier.”",
+      "statements": [
+        {
+          "text": "The survey design can support a causal claim that the subscription improves life satisfaction because paying users are a naturally occurring treatment group.",
+          "correct": false,
+          "explain": "People who endorse this confuse a self-selected correlational comparison with an experiment. Without random assignment and controls, third variables (income, motivation, concurrent sleep coaching) remain."
+        },
+        {
+          "text": "Nonresponse among surveyed subscribers can bias the estimated association if happier users are more likely to reply.",
+          "correct": true,
+          "explain": "Selective responding is a classic survey threat: if satisfied customers answer more, the observed link inflates."
+        },
+        {
+          "text": "Running sleep-coaching emails only for subscribers introduces a confound that rivals the app itself as an explanation for any well-being difference.",
+          "correct": true,
+          "explain": "A concurrent intervention that covaries with membership blocks clean attribution to the app."
+        },
+        {
+          "text": "Refusing random assignment for VIP reasons preserves internal validity while still allowing a true experiment on causation.",
+          "correct": false,
+          "explain": "Blocking randomization for preferred customers reintroduces selection; that is not a true experiment’s internal-validity advantage."
+        },
+        {
+          "text": "If psychology were only common sense, contradictory “obvious” predictions would never appear and controlled methods would be unnecessary—but history shows intuitions often conflict, which is why research designs matter.",
+          "correct": true,
+          "explain": "Common-sense claims pull both ways; methods adjudicate. This statement correctly challenges the blogger’s dismissal."
+        }
+      ]
+    },
+    {
+      "scenario": "A school counselor reads that “all behavior is unconscious sexual conflict” and begins interpreting every student’s lateness as Freudian resistance. Meanwhile a classmate argues psychology isn’t a science because therapists use empathy. A research methods teacher asks the class to map perspectives and to design a study of whether a new attendance app reduces lateness, with some students proposing only testimonials from friends who already like the app.",
+      "statements": [
+        {
+          "text": "Contemporary psychology treats Freud’s claim as a complete, testable account that replaces behavioral, cognitive, and biological perspectives for school lateness.",
+          "correct": false,
+          "explain": "Freud is historical; modern psychology is multi-perspective. Unfalsifiable blanket sexual-conflict claims are not the standard explanatory toolkit for lateness."
+        },
+        {
+          "text": "Using empathy in therapy does not by itself remove psychology from science; scientific status hinges more on systematic observation, measurement, and testable claims in research.",
+          "correct": true,
+          "explain": "Clinical warmth and scientific methods address different goals; empathy ≠ anti-science."
+        },
+        {
+          "text": "Testimonials from students who already like the app are weak evidence for efficacy because of selection and expectancy biases.",
+          "correct": true,
+          "explain": "Friends who opted in are not a control comparison."
+        },
+        {
+          "text": "A stronger test would assign comparable students to app vs no-app (or alternative support) and track lateness with predefined measures.",
+          "correct": true,
+          "explain": "Randomized or otherwise controlled comparisons beat anecdotal endorsement."
+        },
+        {
+          "text": "Structuralism’s introspection method is the best modern tool for proving the attendance app causes fewer late arrivals.",
+          "correct": false,
+          "explain": "Introspection is historical and subjective; causal claims about apps need behavioral outcome designs, not structuralist introspection."
+        }
+      ]
+    },
+    {
+      "scenario": "City hall correlates neighborhood park acreage with lower self-reported stress and announces that building parks *causes* mental health gains. Critics note richer areas have more parks, better clinics, and less crime. A consultant proposes a longitudinal study following families who move, and an aide suggests photographing smiling park users as “qualitative proof.” Another aide wants to reverse the conclusion: stress causes people to avoid parks, so acreage is irrelevant.",
+      "statements": [
+        {
+          "text": "The cross-sectional acreage–stress correlation alone is enough for a causal policy claim that parks reduce stress.",
+          "correct": false,
+          "explain": "Correlation ≠ causation; wealth, clinics, and crime are plausible confounds."
+        },
+        {
+          "text": "Socioeconomic and healthcare differences across neighborhoods are credible third variables that can create a spurious park–stress association.",
+          "correct": true,
+          "explain": "Confounds threaten causal inference from ecological correlations."
+        },
+        {
+          "text": "A longitudinal design following movers can help by examining within-person change, though it still needs careful controls for why families move.",
+          "correct": true,
+          "explain": "Within-person change helps but selection into moving remains."
+        },
+        {
+          "text": "Photos of smiling visitors are sufficient experimental evidence that acreage causes population-level stress reduction.",
+          "correct": false,
+          "explain": "Selective images are not controlled outcome data."
+        },
+        {
+          "text": "Reverse causality (stress reducing park use) is conceptually possible and is one reason a simple correlation cannot settle directionality.",
+          "correct": true,
+          "explain": "Directionality ambiguity is a core correlational limit."
+        }
+      ]
+    },
+    {
+      "scenario": "A hospital IRBs a study comparing two brief anxiety workshops. Researchers plan deception about the study’s full hypothesis to reduce demand characteristics, with a planned debrief. One surgeon says deception is always unethical so the study must be canceled; a nurse says informed consent is unnecessary for staff participants; a resident wants to publish identifiable case vignettes without consent because “science needs stories.”",
+      "statements": [
+        {
+          "text": "IRB review and informed consent norms exist to protect participants even when the topic seems low-risk or participants are employees.",
+          "correct": true,
+          "explain": "Role as staff does not waive human-subjects protections."
+        },
+        {
+          "text": "Limited deception can be ethically considered when justified, minimized, and paired with prompt debriefing—but it is not a blank check.",
+          "correct": true,
+          "explain": "Ethics allows constrained deception with safeguards, not casual lying."
+        },
+        {
+          "text": "Because workshops teach coping, no consent or debrief is required under any research ethics framework.",
+          "correct": false,
+          "explain": "Teaching content doesn’t erase consent/debrief duties when collecting research data."
+        },
+        {
+          "text": "Publishing identifiable clinical stories without consent violates confidentiality/privacy expectations central to research ethics.",
+          "correct": true,
+          "explain": "Identifiable disclosure needs permission or robust de-identification."
+        },
+        {
+          "text": "Demand characteristics only occur in animal research, so deception about hypotheses is irrelevant in human workshop studies.",
+          "correct": false,
+          "explain": "Humans famously show demand characteristics; that’s often why limited deception is discussed."
+        }
+      ]
+    },
+    {
+      "scenario": "A podcast host says Wilhelm Wundt “invented therapy couches,” that functionalists only cared about dream symbols, and that the cognitive revolution made Skinner’s reinforcement obsolete for all applied behavior problems. A student fact-checks with OpenStax-style history: Wundt’s lab introspection, James/functionalism on purpose of mind, behaviorism’s observable learning, and cognition’s return to mental processes—without erasing reinforcement science.",
+      "statements": [
+        {
+          "text": "Wundt is better associated with early experimental psychology laboratories and introspection than with inventing psychoanalytic couches.",
+          "correct": true,
+          "explain": "Couch therapy tracks more with psychoanalytic clinical tradition, not Wundt’s lab project."
+        },
+        {
+          "text": "Functionalism emphasized functions of mind/behavior in adaptation more than exclusive focus on dream symbolism.",
+          "correct": true,
+          "explain": "Dream symbolism is not the functionalist core."
+        },
+        {
+          "text": "The cognitive revolution renewed scientific study of mental processes; it did not empirically abolish operant reinforcement as a useful analysis of many behaviors.",
+          "correct": true,
+          "explain": "Cognitive science complements rather than deletes behavioral principles in applied settings."
+        },
+        {
+          "text": "Skinnerian reinforcement has zero remaining relevance anywhere after cognitive psychology emerged.",
+          "correct": false,
+          "explain": "Applied behavior analysis and learning science still use reinforcement extensively."
+        },
+        {
+          "text": "Saying psychology has a single founder who also created all modern clinical methods is historically accurate.",
+          "correct": false,
+          "explain": "Psychology’s history is multi-threaded across labs, clinics, and schools of thought."
+        }
+      ]
+    },
+    {
+      "scenario": "An education NGO reports r = .45 between hours of tutoring and exam scores in a volunteer sample. Marketing claims each extra hour *raises* scores by a fixed amount causally. A statistician notes restriction of range (only motivated volunteers) and that tutors also provide snacks and encouragement. Someone proposes splitting volunteers by birth month as a “random” experiment.",
+      "statements": [
+        {
+          "text": "r = .45 shows a positive association but does not by itself prove each hour causally increments scores by a fixed amount.",
+          "correct": true,
+          "explain": "Correlation magnitude ≠ causal slope guarantee."
+        },
+        {
+          "text": "Volunteer-only samples can distort estimates via selection and restricted range relative to all students.",
+          "correct": true,
+          "explain": "Who enters the sample matters for generalizability and observed correlations."
+        },
+        {
+          "text": "Snacks and encouragement bundled with tutoring are potential confounds for attributing gains solely to instructional hours.",
+          "correct": true,
+          "explain": "Multiple elements covary with “tutoring hours.”"
+        },
+        {
+          "text": "Birth-month splitting of volunteers is genuine random assignment of the tutoring manipulation.",
+          "correct": false,
+          "explain": "Birth month doesn’t randomly assign the treatment; it’s not a randomized experiment of tutoring."
+        },
+        {
+          "text": "If r is positive, third variables are mathematically impossible.",
+          "correct": false,
+          "explain": "Confounds can produce positive r."
+        }
+      ]
+    },
+    {
+      "scenario": "A clinical team wants to know whether a new mindfulness audio reduces ICU nurse burnout. They propose: (A) a case study of one nurse’s diary, (B) a survey correlating minutes listened with burnout scores, (C) randomly assigning units to audio vs matched quiet break, measuring burnout with a validated scale. Budget allows only one primary design for a causal claim to the hospital board.",
+      "statements": [
+        {
+          "text": "If the board needs causal evidence about the audio’s effect, the randomized unit assignment (C) is the strongest of the three options listed.",
+          "correct": true,
+          "explain": "Manipulation + comparison is the experimental advantage."
+        },
+        {
+          "text": "A single diary case study (A) can vividly illustrate experience but cannot securely establish general causal efficacy for the workforce.",
+          "correct": true,
+          "explain": "Case studies are rich but limited for causal generalization."
+        },
+        {
+          "text": "The correlational survey (B) alone is equally strong as (C) for proving the audio causes burnout reduction.",
+          "correct": false,
+          "explain": "Correlation lacks the control of random assignment."
+        },
+        {
+          "text": "Validated outcome measures help with construct validity regardless of design, but they do not convert a correlation into an experiment.",
+          "correct": true,
+          "explain": "Good measurement ≠ causal design."
+        },
+        {
+          "text": "Quiet-break controls are useless because placebo and time-off effects never threaten wellness-intervention conclusions.",
+          "correct": false,
+          "explain": "Nonspecific break/rest effects are exactly why controls matter."
+        }
+      ]
+    },
+    {
+      "scenario": "During a methods debate, Student A says operational definitions make concepts too “narrow” so we should never define variables. Student B says experimenter bias and placebo effects only matter in drug trials, not psychology. Student C wants double-blind procedures for a study of praise type on puzzle persistence. The TA asks which claims survive scrutiny.",
+      "statements": [
+        {
+          "text": "Operational definitions specify how constructs are measured or manipulated so claims can be tested and replicated—even if they feel narrow.",
+          "correct": true,
+          "explain": "Operations make empirical debate possible."
+        },
+        {
+          "text": "Refusing to define variables at all protects scientific rigor better than imperfect operationalizations.",
+          "correct": false,
+          "explain": "Undefined variables cannot be systematically studied."
+        },
+        {
+          "text": "Experimenter expectancy and placebo-like expectancy effects can bias psychological studies, not only pharmacology.",
+          "correct": true,
+          "explain": "Expectancy threats are broad."
+        },
+        {
+          "text": "Double-blind designs can reduce some bias when neither participant nor interacting researcher knows condition assignment.",
+          "correct": true,
+          "explain": "That’s the double-blind logic Student C is reaching for."
+        },
+        {
+          "text": "If a study is about praise, expectancy effects are impossible because praise is not a pill.",
+          "correct": false,
+          "explain": "Social interventions still carry expectancy and demand risks."
+        }
+      ]
+    },
+    {
+      "scenario": "A journalist writes that a psychology lab’s failed replication means “the whole field is fake,” while quietly ignoring that the original effect was small, the new study was underpowered, and operational details differed. A scientist explains replication as a continuum and notes pre-registration and open data as reforms. The comments section claims peer review guarantees perpetual truth.",
+      "statements": [
+        {
+          "text": "A single failed replication can have many explanations (power, moderation, fidelity); it does not automatically license “whole field fake.”",
+          "correct": true,
+          "explain": "Replication is informative but not a binary field funeral."
+        },
+        {
+          "text": "Underpowered replications can miss real effects; power matters for interpreting nulls.",
+          "correct": true,
+          "explain": "Null results need design context."
+        },
+        {
+          "text": "Changed operational details can mean the replication tests a related but not identical claim.",
+          "correct": true,
+          "explain": "Conceptual vs direct replication distinctions matter."
+        },
+        {
+          "text": "Peer review guarantees that published findings remain true forever without further testing.",
+          "correct": false,
+          "explain": "Peer review is a filter, not eternal verification."
+        },
+        {
+          "text": "Open science practices like pre-registration can reduce some questionable research practices, though they don’t magically end all error.",
+          "correct": true,
+          "explain": "Reforms help; they aren’t omnipotent."
+        }
+      ]
+    },
+    {
+      "scenario": "A university requires every psych major to complete a methods module after students confuse independent/dependent variables on a midterm: they labeled “hours of sleep” as DV when researchers manipulated sleep opportunity and measured reaction time. Others called a naturalistic observation of cafeteria seating an experiment because “they watched carefully.”",
+      "statements": [
+        {
+          "text": "In the sleep study described, sleep opportunity is the independent variable and reaction time is a dependent variable.",
+          "correct": true,
+          "explain": "IV = manipulated; DV = measured outcome."
+        },
+        {
+          "text": "Careful observation alone turns naturalistic cafeteria watching into a true experiment with random assignment.",
+          "correct": false,
+          "explain": "Experiments require manipulation (typically) and control features—not merely careful looking."
+        },
+        {
+          "text": "Confusing IV/DV undermines students’ ability to interpret causal graphs and method sections.",
+          "correct": true,
+          "explain": "The labels encode design roles."
+        },
+        {
+          "text": "Naturalistic observation can be valuable for description even when it is not experimental.",
+          "correct": true,
+          "explain": "Descriptive methods have legitimate uses."
+        },
+        {
+          "text": "Dependent variables are always manipulated by the experimenter while independent variables are only measured.",
+          "correct": false,
+          "explain": "That reverses the standard IV/DV roles."
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "scenario": "After a concussion clinic visit, Maya hears three takes: (1) “neurons touch and electricity jumps like wires,” (2) “her mood dip is only hormones from the pituitary painting the cortex,” (3) “sleepiness means her RAS is offline so absolute thresholds for sound became photographic.” A biopsych tutor redraws synapse, action potential, endocrine slower messaging, and sensory threshold concepts.",
+      "statements": [
+        {
+          "text": "Neurons typically communicate across synapses via chemical neurotransmitters rather than literal cytoplasm-to-cytoplasm “wire touching” for every signal.",
+          "correct": true,
+          "explain": "Synaptic transmission is the standard textbook picture."
+        },
+        {
+          "text": "Endocrine signals can influence mood and arousal, but saying pituitary hormones alone “paint the cortex” as the sole concussion-mood mechanism oversimplifies neural injury and neurotransmitter systems.",
+          "correct": true,
+          "explain": "Hormones matter; monocausal pituitary-painting does not."
+        },
+        {
+          "text": "Sleepiness from brainstem arousal network disruption would more likely worsen detection of faint sounds, not create photographic sensory memory.",
+          "correct": true,
+          "explain": "Lower arousal ≠ unlimited sensory storage."
+        },
+        {
+          "text": "Absolute threshold refers to the minimum stimulus intensity detected some proportion of the time—not a concussion switch into perfect recording.",
+          "correct": true,
+          "explain": "Threshold ≠ photographic memory."
+        },
+        {
+          "text": "Action potentials grow stronger without limit as they travel axons, which is why concussion symptoms fade within milliseconds always.",
+          "correct": false,
+          "explain": "Action potentials are all-or-none-ish regenerations, not endlessly amplifying; concussion recovery isn’t millisecond-guaranteed."
+        }
+      ]
+    },
+    {
+      "scenario": "Night-shift workers drink espresso at 4 a.m., doomscroll bright phones in bed, and still feel “wired but tired.” One claims caffeine permanently stores adenosine receptors in REM only; another says bright light can’t affect circadian timing because vision is only cones for color. A colleague micro-sleeps at the wheel yet denies impairment.",
+      "statements": [
+        {
+          "text": "Caffeine’s alerting effects relate in part to adenosine antagonism; it does not “permanently store receptors in REM only” as a complete account.",
+          "correct": true,
+          "explain": "The REM-only permanent storage claim is garbled."
+        },
+        {
+          "text": "Bright light, especially at night, can shift circadian rhythms via non-image pathways as well as conscious vision—so “cones for color only” understates light’s biological timing role.",
+          "correct": true,
+          "explain": "Circadian photoreception isn’t just daytime color naming."
+        },
+        {
+          "text": "Micro-sleeps and sleep debt impair driving-relevant attention even when people subjectively deny impairment.",
+          "correct": true,
+          "explain": "Subjective confidence ≠ objective alertness."
+        },
+        {
+          "text": "REM rebound after deprivation means you can safely skip nightly sleep whenever espresso is available.",
+          "correct": false,
+          "explain": "Stimulants don’t erase sleep need or make deprivation safe."
+        },
+        {
+          "text": "Homeostatic sleep pressure and circadian timing jointly shape sleepiness—fighting both with light + caffeine has limits.",
+          "correct": true,
+          "explain": "Two-process intuition is on target."
+        }
+      ]
+    },
+    {
+      "scenario": "In a sensation lab, Ken detects a quiet tone more often when paid for hits (liberal criterion) and racks up false alarms. Lea says he “lowered his absolute threshold permanently.” Omar says Gestalt closure made the tone objectively louder. A TA introduces signal detection: d′ vs bias.",
+      "statements": [
+        {
+          "text": "Payoff-driven liberal criteria can raise hits and false alarms without necessarily changing sensitivity (d′).",
+          "correct": true,
+          "explain": "Bias ≠ sensitivity."
+        },
+        {
+          "text": "Lea’s claim that incentives permanently rewired absolute threshold as a sensory hardware constant mismarks a decision-criterion shift.",
+          "correct": true,
+          "explain": "Classic SDT teaching point."
+        },
+        {
+          "text": "Gestalt closure can organize perception of incomplete figures but does not literally increase the physical decibel level of the tone in the apparatus.",
+          "correct": true,
+          "explain": "Organization ≠ amplifier physics."
+        },
+        {
+          "text": "Signal detection theory is irrelevant to psychology because thresholds are always fixed intensities with zero false alarms by definition.",
+          "correct": false,
+          "explain": "SDT was developed precisely because false alarms and bias matter."
+        },
+        {
+          "text": "If Ken’s d′ is unchanged, calling his performance “better hearing” is misleading; he may simply be saying “yes” more.",
+          "correct": true,
+          "explain": "Liberal bias looks like more detections including false ones."
+        }
+      ]
+    },
+    {
+      "scenario": "A stroke survivor points toward moving lights he denies seeing (blindsight-like). A relative concludes “eyes are fine so consciousness is faking.” Another says neuromuscular junction dopamine explains conscious sight. A sensory neuroscience nurse distinguishes retina, visual cortex, and residual pathways.",
+      "statements": [
+        {
+          "text": "Intact eyes do not guarantee conscious visual report if cortical visual processing is damaged.",
+          "correct": true,
+          "explain": "Seeing involves brain pathways beyond the eyeball."
+        },
+        {
+          "text": "Blindsight-like dissociations show some visually guided behavior can occur without normal conscious seeing.",
+          "correct": true,
+          "explain": "That’s the phenomenon’s teaching value."
+        },
+        {
+          "text": "Dopamine at the neuromuscular junction explains conscious visual experience of lights.",
+          "correct": false,
+          "explain": "NMJ chemistry is about muscle activation, not visual awareness."
+        },
+        {
+          "text": "Primary visual cortex damage can disrupt conscious vision even when subcortical routes support limited responding.",
+          "correct": true,
+          "explain": "Rough clinical teaching model."
+        },
+        {
+          "text": "If someone denies seeing, all visually guided pointing must be fraudulent acting.",
+          "correct": false,
+          "explain": "Dissociations challenge that assumption."
+        }
+      ]
+    },
+    {
+      "scenario": "At a loud concert, Priya’s pupils and heart race (sympathetic), later she feels drained. A friend says sympathetic and parasympathetic branches always fire at maximum together. Another says only the central nervous system matters for stress, so peripheral nerves are irrelevant. Someone attributes her ear ringing solely to “top-down Gestalt” ignoring intense sound exposure.",
+      "statements": [
+        {
+          "text": "Sympathetic activation fits fight-or-flight style arousal during the concert; later recovery often involves parasympathetic rebalancing—not perpetual dual-max firing.",
+          "correct": true,
+          "explain": "ANS branches are often opposing/complementary, not locked at dual max."
+        },
+        {
+          "text": "The peripheral nervous system carries critical traffic; saying only CNS matters for stress responding is incomplete.",
+          "correct": true,
+          "explain": "PNS matters."
+        },
+        {
+          "text": "Intense sound exposure is a biologically plausible contributor to tinnitus-like ringing; dismissing it as pure Gestalt top-down is risky.",
+          "correct": true,
+          "explain": "Bottom-up damage/risk is real."
+        },
+        {
+          "text": "Sympathetic and parasympathetic systems are identical to the endocrine system’s glands and ducts.",
+          "correct": false,
+          "explain": "ANS ≠ endocrine, though they interact."
+        },
+        {
+          "text": "Bottom-up sensory intensity and top-down interpretation can jointly shape experience; extreme loudness still warrants hearing-health caution.",
+          "correct": true,
+          "explain": "Both levels matter; caution stands."
+        }
+      ]
+    },
+    {
+      "scenario": "A dorm debates psychoactive drugs: one student calls alcohol a stimulant because it makes shy people talkative; another says opioids and caffeine share identical receptor actions; a third claims hallucinogens only affect the spinal cord. Someone sleeping off a binge is told “you can’t have REM rebound later because alcohol improves sleep architecture.”",
+      "statements": [
+        {
+          "text": "Alcohol is generally classed as a depressant; talkativeness can reflect loosened inhibition, not stimulant classification.",
+          "correct": true,
+          "explain": "Behavioral disinhibition ≠ stimulant category."
+        },
+        {
+          "text": "Different drug classes act on different neurotransmitter systems; opioids and caffeine are not identical in receptor action.",
+          "correct": true,
+          "explain": "Lumping them erases pharmacology."
+        },
+        {
+          "text": "Hallucinogens primarily alter brain synaptic signaling related to perception/cognition—not “only spinal cord.”",
+          "correct": true,
+          "explain": "Spinal-only claim is wrong."
+        },
+        {
+          "text": "Alcohol often disrupts normal sleep architecture; rebound phenomena can appear as use patterns change—so “alcohol improves architecture, no rebound” is misleading.",
+          "correct": true,
+          "explain": "Sleep + alcohol myths are common."
+        },
+        {
+          "text": "Because alcohol increases social talk, it must raise dopamine at the neuromuscular junction to create vocabulary.",
+          "correct": false,
+          "explain": "NMJ story is irrelevant to intoxication’s social disinhibition."
+        }
+      ]
+    },
+    {
+      "scenario": "An artist with monocular depth cues in a painting fools viewers into depth; a critic says binocular disparity is required for any depth perception. Separately, a patient with conductive hearing loss struggles in noise; a classmate says place theory on the basilar membrane means hearing loss must be “only psychological.” A Gestalt demo of figure-ground flips; a student claims attention cannot affect perception.",
+      "statements": [
+        {
+          "text": "Monocular cues can support depth perception in paintings even without binocular disparity.",
+          "correct": true,
+          "explain": "Artists rely on monocular cues."
+        },
+        {
+          "text": "Binocular disparity is important in real scenes but not the sole possible depth cue.",
+          "correct": true,
+          "explain": "Multiple cue systems exist."
+        },
+        {
+          "text": "Conductive hearing problems are physical transmission issues—not “only psychological” because place theory exists.",
+          "correct": true,
+          "explain": "Place theory doesn’t psychologize conductive loss away."
+        },
+        {
+          "text": "Figure–ground organization illustrates constructive perception; attention can modulate what becomes figure.",
+          "correct": true,
+          "explain": "Selection shapes awareness."
+        },
+        {
+          "text": "Attention never influences perception; sensory receptors alone determine all organized experience without top-down factors.",
+          "correct": false,
+          "explain": "Top-down/attentional effects are well established."
+        }
+      ]
+    },
+    {
+      "scenario": "During hypnosis for procedural anxiety, a patient still reports pain but less distress. A skeptic says hypnosis equals stage mind-control that deletes nociceptors. A nurse frames dissociation and focused attention; an anesthesiologist notes hypnosis isn’t a substitute for indicated anesthesia in surgery. Meditation users nearby claim they stopped needing sleep.",
+      "statements": [
+        {
+          "text": "Clinical hypnosis accounts often emphasize focused attention/dissociation altering experience—not literal deletion of nociceptors.",
+          "correct": true,
+          "explain": "Experience modulation ≠ receptor erasure."
+        },
+        {
+          "text": "Stage show tropes of total mind-control poorly represent ethical clinical hypnosis practice.",
+          "correct": true,
+          "explain": "Popular myth vs clinical framing."
+        },
+        {
+          "text": "Hypnosis is not an automatic replacement for medically indicated anesthesia.",
+          "correct": true,
+          "explain": "Scope limits matter."
+        },
+        {
+          "text": "Meditation practice does not scientifically license never sleeping again.",
+          "correct": true,
+          "explain": "Sleep remains a biological need."
+        },
+        {
+          "text": "If distress drops under hypnosis, pain pathways and nervous system activity are proven completely offline forever.",
+          "correct": false,
+          "explain": "Reduced distress ≠ permanent pathway shutdown."
+        }
+      ]
+    },
+    {
+      "scenario": "A genetics article on heritability of sleep duration is misread as “genes 100% fix my insomnia, environment zero.” A twin-study student clarifies heritability is population variance, not personal destiny. Separately, a bio psych myth claims left-hemisphere people can’t feel emotion because amygdalae are only right-sided decorative tissue.",
+      "statements": [
+        {
+          "text": "Heritability estimates describe variance in a population/context—not a sealed personal percentage that zeroes environment.",
+          "correct": true,
+          "explain": "Standard heritability literacy."
+        },
+        {
+          "text": "Insomnia interventions targeting behavior/environment can still matter even when traits show heritability.",
+          "correct": true,
+          "explain": "Heritable ≠ unchangeable."
+        },
+        {
+          "text": "Emotion involves distributed neural systems; the “left-brained people have no amygdala emotion” story is a mythic oversimplification.",
+          "correct": true,
+          "explain": "Pop lateralization myths mislead."
+        },
+        {
+          "text": "If heritability is nonzero, environmental sleep hygiene is logically impossible to help anyone.",
+          "correct": false,
+          "explain": "False dichotomy."
+        },
+        {
+          "text": "Epigenetic and experiential factors can influence how genetic predispositions are expressed in health behaviors.",
+          "correct": true,
+          "explain": "Gene–environment interplay theme."
+        }
+      ]
+    },
+    {
+      "scenario": "Lab partners argue about rods/cones after leaving a bright lecture hall into a dark theater. One insists cones alone handle all night vision; another says dark adaptation is purely psychological expectancy. A third confuses transduction with perception, claiming the retina “understands Shakespearean metaphors.”",
+      "statements": [
+        {
+          "text": "Rods contribute heavily to vision in low light; cones dominate bright, detailed, color vision.",
+          "correct": true,
+          "explain": "Classic division of labor."
+        },
+        {
+          "text": "Dark adaptation has substantial peripheral physiological components (photopigment recovery, etc.), not expectancy alone.",
+          "correct": true,
+          "explain": "Not purely psychological wish."
+        },
+        {
+          "text": "Transduction converts physical stimulus energy into neural signals; it is not semantic literary comprehension in the retina.",
+          "correct": true,
+          "explain": "Keep levels of analysis straight."
+        },
+        {
+          "text": "Expectancy and attention can influence reports, but they don’t replace photoreceptor physiology in explaining dark adaptation curves.",
+          "correct": true,
+          "explain": "Both can matter; physiology is central here."
+        },
+        {
+          "text": "Cones exclusively mediate all scotopic night vision while rods only detect color hue.",
+          "correct": false,
+          "explain": "Reverses rod/cone roles."
+        }
+      ]
+    }
+  ],
+  "3": [],
+  "4": [],
+  "5": []
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Topic Multi-Select · Psych Revision</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="logo" href="index.html">Psych<span>Revision</span></a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="chapters/ch1.html">Ch 1</a>
+        <a href="chapters/ch2.html">Ch 2</a>
+        <a href="chapters/ch3.html">Ch 3</a>
+        <a href="chapters/ch4.html">Ch 4</a>
+        <a href="chapters/ch5.html">Ch 5</a>
+        <a href="chapters/ch6.html">Ch 6</a>
+        <a href="chapters/ch7.html">Ch 7</a>
+        <a href="chapters/ch8.html">Ch 8</a>
+        <a href="chapters/ch9.html">Ch 9</a>
+        <a href="chapters/ch10.html">Ch 10</a>
+        <a href="chapters/ch11.html">Ch 11</a>
+        <a href="chapters/ch12.html">Ch 12</a>
+        <a href="chapters/ch13.html">Ch 13</a>
+        <a href="chapters/ch14.html">Ch 14</a>
+        <a href="chapters/ch15.html">Ch 15</a>
+        <a href="chapters/ch16.html">Ch 16</a>
+        <a class="active" href="topics.html">Topics</a>
+        <a href="quiz.html">Random Quiz</a>
+        <a href="wrongbook.html">錯題簿 <span class="wrongbook-badge" hidden></span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>Topic Multi-Select</h1>
+      <p>
+        Hard, multi-chapter vignettes. Each item has <strong>exactly five statements</strong>.
+        Select <em>all</em> that apply (0–5 may be correct). You score only on an
+        <strong>exact set match</strong>—no partial credit.
+      </p>
+      <p class="meta">
+        Difficulty matches hardened Level 4: long real-world scenarios, competing explanations,
+        and tempting near-misses (reversed causality, classical/operant mix-ups, etc.).
+      </p>
+    </section>
+    <section class="section">
+      <h2>Choose a topic</h2>
+      <div id="topic-ms-root"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    OpenStax Psychology 2e (CC BY-NC-SA 4.0). Access for free at openstax.org · paraphrased revision materials
+  </footer>
+
+  <script src="data/topic-multiselect.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    PsychRevision.initTopicMultiSelect({
+      container: document.getElementById("topic-ms-root"),
+      items: window.PSYCH_TOPIC_MS
+    });
+  </script>
+</body>
+</html>
