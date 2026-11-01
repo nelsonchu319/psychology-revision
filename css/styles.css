@@ -707,13 +707,62 @@ button:hover, .btn:hover { background: #2e3f58; }
 .ms-statement.mark-correct { border-color: var(--success); background: rgba(61,186,122,0.12); }
 .ms-statement.mark-wrong-sel { border-color: var(--danger); background: rgba(224,112,112,0.12); }
 .ms-statement.mark-missed { border-color: var(--warning); background: rgba(224,176,80,0.12); }
-.ms-explain {
-  margin-top: 0.45rem;
-  font-size: 0.86rem;
-  color: var(--muted);
-  line-height: 1.5;
+.ms-statement.mark-ok-unchecked {
+  border-color: #5a7a94;
+  background: rgba(90, 122, 148, 0.10);
 }
-.ms-explain strong { color: var(--text); }
+.ms-statement.revealed {
+  cursor: default;
+  flex-wrap: wrap;
+}
+.ms-statement.revealed .ms-text {
+  flex: 1 1 calc(100% - 3.5rem);
+}
+.ms-explain-block {
+  flex: 1 1 100%;
+  margin: 0.65rem 0 0.1rem;
+  padding: 0.75rem 0.85rem;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.22);
+  border: 1px solid var(--border);
+}
+.ms-explain-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.75rem;
+  align-items: center;
+  margin-bottom: 0.45rem;
+}
+.ms-verdict {
+  font-weight: 700;
+  font-size: 0.86rem;
+  letter-spacing: 0.01em;
+}
+.ms-verdict-select { color: var(--success); }
+.ms-verdict-leave { color: #9ec5e8; }
+.ms-user-note {
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+}
+.ms-user-ok {
+  color: var(--success);
+  border-color: rgba(61,186,122,0.45);
+  background: rgba(61,186,122,0.12);
+}
+.ms-user-err {
+  color: var(--danger);
+  border-color: rgba(224,112,112,0.5);
+  background: rgba(224,112,112,0.12);
+}
+.ms-explain-body {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--text);
+}
 .ms-scoreline {
   margin-top: 0.75rem;
   font-weight: 600;

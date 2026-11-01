@@ -939,41 +939,57 @@
       var item = state.pool[state.index];
       var body = container.querySelector("#tms-body");
       var exact = true;
-      var explains = [];
       item.statements.forEach(function (s, i) {
         var sel = !!state.selected[i];
         var should = !!s.correct;
         var lab = body.querySelector('.ms-statement[data-idx="' + i + '"]');
         lab.querySelector("input").disabled = true;
+        lab.classList.add("revealed");
+
+        var userNote = "";
         if (should && sel) {
           lab.classList.add("mark-correct");
+          userNote = "You selected this";
         } else if (!should && sel) {
           lab.classList.add("mark-wrong-sel");
           exact = false;
+          userNote = "You selected this";
         } else if (should && !sel) {
           lab.classList.add("mark-missed");
           exact = false;
+          userNote = "You missed this";
+        } else {
+          lab.classList.add("mark-ok-unchecked");
+          userNote = "You left this unchecked";
         }
-        if (!should && !sel) {
-          /* correctly left unchecked */
-        }
-        explains.push(
-          '<div class="ms-explain"><strong>' + letter(i) +
-          (should ? " · should select" : " · should leave unchecked") +
-          ":</strong> " + escapeHtml(s.explain) + "</div>"
-        );
+
+        var verdict = should
+          ? "Correct to select"
+          : "Correct to leave unchecked";
+        var verdictClass = should ? "ms-verdict-select" : "ms-verdict-leave";
+        var userClass = (should === sel) ? "ms-user-ok" : "ms-user-err";
+
+        var block = document.createElement("div");
+        block.className = "ms-explain-block";
+        block.innerHTML =
+          '<div class="ms-explain-meta">' +
+          '<span class="ms-verdict ' + verdictClass + '">' + letter(i) +
+          " · " + verdict + "</span>" +
+          '<span class="ms-user-note ' + userClass + '">' + userNote + "</span>" +
+          "</div>" +
+          '<p class="ms-explain-body">' + escapeHtml(s.explain) + "</p>";
+        lab.appendChild(block);
       });
       if (exact) state.correct += 1;
       var fb = body.querySelector("#tms-feedback");
       fb.innerHTML =
         '<div class="feedback ' + (exact ? "ok" : "bad") + '">' +
         (exact
-          ? "<strong>Exact match.</strong> You selected precisely the correct set."
-          : "<strong>Not an exact match.</strong> Green = correctly selected; amber = missed required; red = selected a false statement.") +
+          ? "<strong>Exact match.</strong> You selected precisely the correct set. Full per-option explanations are under each statement above."
+          : "<strong>Not an exact match.</strong> Green = correctly selected; amber = missed required; red = wrongly selected; muted border = correctly left unchecked. Read every option’s explanation above.") +
         '</div>' +
         '<div class="ms-scoreline">Running exact matches: ' + state.correct +
         " / " + (state.index + 1) + "</div>" +
-        explains.join("") +
         '<p style="margin-top:1rem;"><button type="button" class="btn-primary" id="tms-next">' +
         (state.index + 1 >= state.pool.length ? "Finish" : "Next item") +
         "</button></p>";
