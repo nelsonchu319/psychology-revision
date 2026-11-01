@@ -165,7 +165,7 @@ CHAPTER_CONTENT[7] = dict(
       <p class="cite">Spearman, C. (1904). “General intelligence,” objectively determined and measured. <em>American Journal of Psychology, 15</em>(2), 201–292. <a href="https://doi.org/10.2307/1412107" target="_blank" rel="noopener">doi.org/10.2307/1412107</a></p>
 
       <p>Gardner’s multiple intelligences and Sternberg’s triarchic model challenge narrow IQ-only definitions—useful contrasts for exam essays.</p>
-      <p class="cite">Gardner, H. (1993). <em>Frames of Mind</em> (10th anniversary ed.). Basic Books. <a href="https://books.google.com/books?id=2Y1nQgAACAAJ" target="_blank" rel="noopener">Google Books</a>. Sternberg, R. J. (1985). <em>Beyond IQ: A Triarchic Theory of Human Intelligence</em>. Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511611476" target="_blank" rel="noopener">doi.org/10.1017/CBO9780511611476</a> (CUP; access may vary).</p>
+      <p class="cite">Gardner, H. (1993). <em>Frames of Mind</em> (10th anniversary ed.). Basic Books. <a href="https://books.google.com/books?id=wxj6npSaykgC" target="_blank" rel="noopener">Google Books</a>. Sternberg, R. J. (1985). <em>Beyond IQ: A Triarchic Theory of Human Intelligence</em>. Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511611476" target="_blank" rel="noopener">doi.org/10.1017/CBO9780511611476</a> (CUP; access may vary).</p>
       <p class="cite">Alternate Sternberg overview: Sternberg, R. J. (1984). Toward a triarchic theory of human intelligence. <em>Behavioral and Brain Sciences, 7</em>(2), 269–287. <a href="https://doi.org/10.1017/S0140525X00044629" target="_blank" rel="noopener">doi.org/10.1017/S0140525X00044629</a></p>
 
       <p>Chomsky’s nativist framing of language acquisition contrasts with pure reinforcement accounts of verbal behavior.</p>
@@ -497,7 +497,7 @@ CHAPTER_CONTENT[11] = dict(
       <p class="cite">McCrae, R. R., &amp; Costa, P. T., Jr. (1987). Validation of the five-factor model of personality across instruments and observers. <em>Journal of Personality and Social Psychology, 52</em>(1), 81–90. <a href="https://doi.org/10.1037/0022-3514.52.1.81" target="_blank" rel="noopener">doi.org/10.1037/0022-3514.52.1.81</a></p>
 
       <p>Mischel’s critique sparked the person–situation debate and later social-cognitive reconceptualizations of consistency.</p>
-      <p class="cite">Mischel, W. (1968). <em>Personality and assessment</em>. Wiley. <a href="https://books.google.com/books?id=1QZqAAAAMAAJ" target="_blank" rel="noopener">Google Books</a>. See also Mischel, W., &amp; Shoda, Y. (1995). A cognitive-affective system theory of personality. <em>Psychological Review, 102</em>(2), 246–268. <a href="https://doi.org/10.1037/0033-295X.102.2.246" target="_blank" rel="noopener">doi.org/10.1037/0033-295X.102.2.246</a></p>
+      <p class="cite">Mischel, W. (1968). <em>Personality and assessment</em>. Wiley. <a href="https://books.google.com/books?id=K9iSmMooJTcC" target="_blank" rel="noopener">Google Books</a>. See also Mischel, W., &amp; Shoda, Y. (1995). A cognitive-affective system theory of personality. <em>Psychological Review, 102</em>(2), 246–268. <a href="https://doi.org/10.1037/0033-295X.102.2.246" target="_blank" rel="noopener">doi.org/10.1037/0033-295X.102.2.246</a></p>
 
       <p>Rogers’s client-centered conditions (empathy, congruence, UPR) link personality growth to therapeutic climate.</p>
       <p class="cite">Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. <em>Journal of Consulting Psychology, 21</em>(2), 95–103. <a href="https://doi.org/10.1037/h0045357" target="_blank" rel="noopener">doi.org/10.1037/h0045357</a></p>
@@ -660,7 +660,7 @@ CHAPTER_CONTENT[13] = dict(
 ''',
  depth='''
       <p>The Hawthorne studies are often mythologized; modern readings stress careful interpretation of attention, norms, and methodology.</p>
-      <p class="cite">Mayo, E. (1933). <em>The human problems of an industrial civilization</em>. Macmillan. <a href="https://archive.org/details/humanproblemsofi00mayo" target="_blank" rel="noopener">archive.org</a>. Critical review: Olson, R., Verley, J., Santos, L., &amp; Salas, C. (2004). What we teach students about the Hawthorne studies. <em>The Industrial-Organizational Psychologist</em>. <a href="https://www.siop.org/wp-content/uploads/tip/july04/pdf/419_23to30.pdf" target="_blank" rel="noopener">SIOP PDF</a></p>
+      <p class="cite">Mayo, E. (1933). <em>The human problems of an industrial civilization</em>. Macmillan. <a href="https://archive.org/details/humanproblemsofi0000mayo" target="_blank" rel="noopener">archive.org</a>. Critical review: Olson, R., Verley, J., Santos, L., &amp; Salas, C. (2004). What we teach students about the Hawthorne studies. <em>The Industrial-Organizational Psychologist</em>. <a href="https://doi.org/10.1037/e578812011-002" target="_blank" rel="noopener">doi.org/10.1037/e578812011-002</a></p>
 
       <p>Hackman and Oldham’s job characteristics model links core job dimensions to critical psychological states and outcomes.</p>
       <p class="cite">Hackman, J. R., &amp; Oldham, G. R. (1976). Motivation through the design of work: Test of a theory. <em>Organizational Behavior and Human Performance, 16</em>(2), 250–279. <a href="https://doi.org/10.1016/0030-5073(76)90016-7" target="_blank" rel="noopener">doi.org/10.1016/0030-5073(76)90016-7</a></p>
@@ -743,7 +743,7 @@ CHAPTER_CONTENT[14] = dict(
       <p class="cite">Lazarus, R. S., &amp; Folkman, S. (1984). <em>Stress, appraisal, and coping</em>. Springer. <a href="https://books.google.com/books?id=i-ySQQuUpr8C" target="_blank" rel="noopener">Google Books</a></p>
 
       <p>Cohen and colleagues’ work links perceived stress and social ties to immune and illness outcomes.</p>
-      <p class="cite">Cohen, S., Tyrrell, D. A., &amp; Smith, A. P. (1991). Psychological stress and susceptibility to the common cold. <em>New England Journal of Medicine, 325</em>(9), 606–612. <a href="https://doi.org/10.1056/NEJM199108293250903" target="_blank" rel="noopener">doi.org/10.1056/NEJM199108293250903</a></p>
+      <p class="cite">Cohen, S., Tyrrell, D. A., &amp; Smith, A. P. (1991). Psychological stress and susceptibility to the common cold. <em>New England Journal of Medicine, 325</em>(9), 606–612. <a href="https://pubmed.ncbi.nlm.nih.gov/1713648/" target="_blank" rel="noopener">PubMed 1713648</a> (doi:10.1056/NEJM199108293250903)</p>
 
       <p>Seligman’s positive psychology agenda reframes health psychology toward strengths, optimism, and well-being—not only pathology.</p>
       <p class="cite">Seligman, M. E. P., &amp; Csikszentmihalyi, M. (2000). Positive psychology: An introduction. <em>American Psychologist, 55</em>(1), 5–14. <a href="https://doi.org/10.1037/0003-066X.55.1.5" target="_blank" rel="noopener">doi.org/10.1037/0003-066X.55.1.5</a></p>
@@ -823,7 +823,7 @@ CHAPTER_CONTENT[15] = dict(
       <p class="cite">Beck, A. T. (1967). <em>Depression: Clinical, experimental, and theoretical aspects</em>. Harper &amp; Row. <a href="https://books.google.com/books?id=11bJbTD7TaYC" target="_blank" rel="noopener">Google Books</a>. Article: Beck, A. T. (2008). The evolution of the cognitive model of depression. <em>American Journal of Psychiatry, 165</em>(8), 969–977. <a href="https://doi.org/10.1176/appi.ajp.2008.08050721" target="_blank" rel="noopener">doi.org/10.1176/appi.ajp.2008.08050721</a></p>
 
       <p>Gottesman and others’ behavioral-genetics summaries support diathesis–stress thinking for schizophrenia liability.</p>
-      <p class="cite">Gottesman, I. I. (1991). <em>Schizophrenia genesis: The origins of madness</em>. Freeman. <a href="https://books.google.com/books?id=5Qp-QgAACAAJ" target="_blank" rel="noopener">Google Books</a>. Review: Sullivan, P. F., Kendler, K. S., &amp; Neale, M. C. (2003). Schizophrenia as a complex trait. <em>Archives of General Psychiatry, 60</em>(12), 1187–1192. <a href="https://doi.org/10.1001/archpsyc.60.12.1187" target="_blank" rel="noopener">doi.org/10.1001/archpsyc.60.12.1187</a></p>
+      <p class="cite">Gottesman, I. I. (1991). <em>Schizophrenia genesis: The origins of madness</em>. Freeman. <a href="https://archive.org/details/schizophreniagen0000gott" target="_blank" rel="noopener">archive.org</a>. Review: Sullivan, P. F., Kendler, K. S., &amp; Neale, M. C. (2003). Schizophrenia as a complex trait. <em>Archives of General Psychiatry, 60</em>(12), 1187–1192. <a href="https://pubmed.ncbi.nlm.nih.gov/14662550/" target="_blank" rel="noopener">PubMed 14662550</a> (doi:10.1001/archpsyc.60.12.1187)</p>
 ''',
  edges=[
   ["dsm","comorbidity","cross"],["diathesis","stressor","cross"],["phobia","panic","cross"],
@@ -898,7 +898,7 @@ CHAPTER_CONTENT[16] = dict(
 ''',
  depth='''
       <p>Wolpe’s systematic desensitization is the classic counterconditioning package for phobias.</p>
-      <p class="cite">Wolpe, J. (1958). <em>Psychotherapy by reciprocal inhibition</em>. Stanford University Press. <a href="https://books.google.com/books?id=l1NrAAAAMAAJ" target="_blank" rel="noopener">Google Books</a>. Related: Wolpe, J. (1961). The systematic desensitization treatment of neuroses. <em>Journal of Nervous and Mental Disease, 132</em>, 189–203. <a href="https://doi.org/10.1097/00005053-196103000-00001" target="_blank" rel="noopener">doi.org/10.1097/00005053-196103000-00001</a></p>
+      <p class="cite">Wolpe, J. (1958). <em>Psychotherapy by reciprocal inhibition</em>. Stanford University Press. <a href="https://books.google.com/books?id=OPvaAAAAMAAJ" target="_blank" rel="noopener">Google Books</a>. Related: Wolpe, J. (1961). The systematic desensitization treatment of neuroses. <em>Journal of Nervous and Mental Disease, 132</em>, 189–203. <a href="https://doi.org/10.1097/00005053-196103000-00001" target="_blank" rel="noopener">doi.org/10.1097/00005053-196103000-00001</a></p>
 
       <p>Beck’s CBT manualized approach targets automatic thoughts, cognitive distortions, and behavioral experiments.</p>
       <p class="cite">Beck, A. T. (1979). <em>Cognitive therapy of depression</em>. Guilford Press. <a href="https://books.google.com/books?id=L09zDsyC8lUC" target="_blank" rel="noopener">Google Books</a></p>
