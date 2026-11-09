@@ -14,6 +14,7 @@
   --l2: #9b7bd4;
   --l3: #e09060;
   --l4: #4ecdc4;
+  --l5: #e07ab5;
   --radius: 12px;
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
   --mono: "SF Mono", Consolas, monospace;
@@ -388,6 +389,7 @@ button:hover, .btn:hover { background: #2e3f58; }
 .btn-l2 { border-color: var(--l2); }
 .btn-l3 { border-color: var(--l3); }
 .btn-l4 { border-color: var(--l4); }
+.btn-l5 { border-color: var(--l5); }
 .level-pills { display: flex; gap: 0.4rem; flex-wrap: wrap; }
 .level-pill {
   padding: 0.4rem 0.8rem;
@@ -402,6 +404,7 @@ button:hover, .btn:hover { background: #2e3f58; }
 .level-pill.active-l2 { border-color: var(--l2); color: var(--l2); background: rgba(155,123,212,0.12); }
 .level-pill.active-l3 { border-color: var(--l3); color: var(--l3); background: rgba(224,144,96,0.12); }
 .level-pill.active-l4 { border-color: var(--l4); color: var(--l4); background: rgba(78,205,196,0.12); }
+.level-pill.active-l5 { border-color: var(--l5); color: var(--l5); background: rgba(224,122,181,0.12); }
 
 .quiz-progress {
   font-size: 0.85rem;
@@ -439,6 +442,7 @@ button:hover, .btn:hover { background: #2e3f58; }
 .level-tag.l2 { background: rgba(155,123,212,0.2); color: var(--l2); }
 .level-tag.l3 { background: rgba(224,144,96,0.2); color: var(--l3); }
 .level-tag.l4 { background: rgba(78,205,196,0.2); color: var(--l4); }
+.level-tag.l5 { background: rgba(224,122,181,0.2); color: var(--l5); }
 
 .question-text {
   font-size: 1.05rem;

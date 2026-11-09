@@ -1,0 +1,3790 @@
+[
+  {
+    "id": "c1-l5-01",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.1",
+    "question": "A first-year student says: “Psychology isn’t a real science because people just talk about feelings, like philosophy.” Which reply best matches OpenStax’s framing of psychology?",
+    "options": [
+      "Psychology is scientific only when it uses brain scans.",
+      "Psychology uses scientific methods to study mind and behavior.",
+      "Psychology abandoned studying the mind after Freud.",
+      "Psychology is scientific because every claim is already proven true forever."
+    ],
+    "correct": 1,
+    "correctFeedback": "Modern psychology is defined by empirical methods applied to mind and behavior (§1.1).",
+    "wrongFeedback": {
+      "0": "Trap: confuses one tool (neuroimaging) with science itself—many valid methods exist without scans.",
+      "2": "Trap: erases cognitive/clinical work on mind; Freud did not end the scientific study of mental life.",
+      "3": "Trap: confuses science with permanent certainty; claims remain open to revision with evidence."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-02",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2",
+    "question": "Wundt’s Leipzig laboratory is historically important mainly because it:",
+    "options": [
+      "It proved unconscious sexual conflict drives all behavior in every case.",
+      "It showed that only animal behavior can ever be studied scientifically.",
+      "It helped found psychology as an experimental lab science with controlled introspection.",
+      "It invented random assignment of people to treatment conditions for experiments."
+    ],
+    "correct": 2,
+    "correctFeedback": "Wundt’s 1879 lab and trained introspection helped push psychology toward controlled observation; Titchener later developed structuralism further (§1.2).",
+    "wrongFeedback": {
+      "0": "Trap: attributes Freud’s psychoanalytic focus to Wundt’s lab project.",
+      "1": "Trap: extreme behaviorist caricature—Wundt studied human conscious experience.",
+      "3": "Trap: random assignment is a research-methods tool (Ch 2), not Wundt’s claim to fame."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-03",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2",
+    "question": "Two classmates taste the same iced coffee. Mei lists every sensation (cold, bitter, sweet). Jun asks why people drink it before 9 a.m. lectures. Whose question is closer to functionalism?",
+    "options": [
+      "Mei — cataloguing elements of experience is James’s method.",
+      "Jun — asking how a mental process helps adaptation fits functionalism.",
+      "Both equally — structuralism and functionalism are the same approach.",
+      "Neither — functionalism only means modern evolutionary psychology surveys."
+    ],
+    "correct": 1,
+    "correctFeedback": "Functionalism (James) asks what mental life is for; Mei’s inventory is nearer structuralist aims (§1.2).",
+    "wrongFeedback": {
+      "0": "Trap: swaps labels—element catalogues fit structuralism more than James’s functionalism.",
+      "2": "Trap: collapses a classic contrast students must keep separate.",
+      "3": "Trap: over-narrows “functional” to one modern specialty."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-04",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2",
+    "question": "A podcast claims: “If you forget a friend’s name, it secretly means you hate them—Freud proved it.” Best critique?",
+    "options": [
+      "Freud founded the Leipzig experimental laboratory, so the podcast claim is scientifically solid.",
+      "Freud was clinically influential, but unfalsifiable secret-meaning claims are not science’s standard.",
+      "Behaviorists agree every slip of the tongue reveals repressed hatred toward that friend.",
+      "Humanistic psychologists defined scientific proof as dream-symbol decoding of every forgetfulness."
+    ],
+    "correct": 1,
+    "correctFeedback": "Freud matters historically; blanket symbolic “proofs” are not how empirical psychology validates claims (§1.2).",
+    "wrongFeedback": {
+      "0": "Trap: misattributes founding laboratory science (Wundt) to Freud.",
+      "2": "Trap: invents behaviorist endorsement of Freudian slips.",
+      "3": "Trap: mislabels humanism; Rogers/Maslow did not define science as dream symbolism."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-05",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2",
+    "question": "A sports coach says players “see the whole play at once, not a list of separate pixels.” Which historical idea does this echo?",
+    "options": [
+      "Structuralism’s element-by-element inventory of consciousness",
+      "Classical conditioning of glandular reflexes",
+      "Gestalt emphasis that the whole percept can differ from the sum of parts",
+      "Radical behaviorism’s ban on discussing perception"
+    ],
+    "correct": 2,
+    "correctFeedback": "Gestalt: organization/wholes matter beyond isolated sensations (§1.2).",
+    "wrongFeedback": {
+      "0": "Trap: structuralism is the opposite impulse—break experience into elements.",
+      "1": "Trap: Pavlovian learning, not perceptual organization.",
+      "3": "Trap: overstates behaviorism and ignores the coach’s perceptual claim."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-06",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2–1.3",
+    "question": "A clinic posts: “We only study what people do, never thoughts—because thoughts aren’t scientific.” Which historical stance is this closest to, and what’s the later correction?",
+    "options": [
+      "Humanism; it was later replaced wholesale by phrenology as the science of mind.",
+      "Early behaviorism focused on observables; the cognitive revolution studied mind again.",
+      "Structuralism; it was later replaced wholesale by astrology in university labs.",
+      "Multicultural psychology; it later banned all experiments across the field."
+    ],
+    "correct": 1,
+    "correctFeedback": "Watson/Skinner-era behaviorism prioritized observables; cognitive approaches reopened rigorous study of mental processes (§1.2–1.3).",
+    "wrongFeedback": {
+      "0": "Trap: scrambles schools—humanism is not “behavior only,” and phrenology is not its successor.",
+      "2": "Trap: structuralism studied conscious elements, not a ban on thoughts; astrology is nonsense.",
+      "3": "Trap: invents a ban; multicultural psychology expands samples/context, not forbids experiments."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-07",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2 / diversity",
+    "question": "A research flyer recruits only students from one wealthy urban campus, then generalizes “human memory works like this worldwide.” Which Ch 1 concern is most directly raised?",
+    "options": [
+      "Introspection is always more valid than any controlled experiment can be.",
+      "Limited WEIRD samples threaten how far findings generalize across cultures.",
+      "Clinical psychologists are barred from doing any empirical research at all.",
+      "Random sampling is defined as identical to random assignment in every design."
+    ],
+    "correct": 1,
+    "correctFeedback": "Narrow samples limit external validity; diversity-of-samples concerns are central (§1.2 / contemporary issues).",
+    "wrongFeedback": {
+      "0": "Trap: false method hierarchy—introspection is not always superior.",
+      "2": "Trap: false career limit; clinicians can and do research.",
+      "3": "Trap: classic Ch 2 confusion (sampling ≠ assignment) dressed as the Ch 1 issue."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-08",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.3–1.4",
+    "question": "A university fair has booths. Which statements correctly match a contemporary field to a realistic task? (Select all that apply.)",
+    "options": [
+      "I-O psychologist: redesign hiring interviews for a company",
+      "Forensic psychologist: advise on jury selection / competence questions in a legal context",
+      "Biopsychologist: map how sleep deprivation alters neurotransmitter activity",
+      "Structuralist (as a mainstream 2020s career title): run the hospital’s only therapy ward",
+      "Health psychologist: design a worksite program to improve stress-related habits"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "A/B/C/E are standard applied/scientific roles; “structuralist therapist” is not a current career label (§1.3–1.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: I-O work commonly includes selection/interview redesign.",
+      "1": "Correct to select: forensic psychology intersects legal questions such as competence and jury issues.",
+      "2": "Correct to select: biopsychology links physiology (e.g., sleep, transmitters) to behavior.",
+      "3": "Trap: structuralism is a historical school, not a mainstream 2020s therapy-ward job title.",
+      "4": "Correct to select: health psychology targets stress-related habits and wellness programs."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-09",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.2",
+    "question": "Which claims about psychology’s history are accurate? (Select all that apply.)",
+    "options": [
+      "Before Wundt/James, mind questions were largely philosophical.",
+      "Skinner’s operant ideas are part of the behaviorist lineage emphasizing consequences of behavior.",
+      "Humanism (e.g., Rogers/Maslow) emphasized growth and potential as a pushback against gloomy/mechanistic views.",
+      "Cognitive psychology treats mental processes as illegitimate topics.",
+      "Freud’s clinical focus on the unconscious differs from Wundt’s laboratory project."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "D reverses the cognitive project—mind is the topic. A/B/C/E track OpenStax’s historical framing (§1.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: pre-lab mind questions lived mainly in philosophy.",
+      "1": "Correct to select: operant conditioning sits in the behaviorist lineage.",
+      "2": "Correct to select: humanism stressed growth/potential vs gloomier/mechanistic frames.",
+      "3": "Trap: common mix-up with behaviorism—cognitive psychology studies mental processes.",
+      "4": "Correct to select: Freud’s clinical unconscious project ≠ Wundt’s lab introspection program."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c1-l5-10",
+    "chapter": 1,
+    "level": 5,
+    "section": "§1.1–1.4",
+    "question": "A student study group makes these claims before a midterm. Which are methodologically or historically sound? (Select all that apply.)",
+    "options": [
+      "Psychology equals common sense, so experiments are optional.",
+      "A school of thought can be historically important yet still be limited or revised.",
+      "Saying a finding “makes sense” is not the same as having controlled evidence.",
+      "If two ideas are famous, they must be the same theory under different names.",
+      "Career paths in psychology include research and many applied specialties, not only couch therapy."
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Science revises; intuition ≠ evidence; careers are diverse (§1.1–1.4).",
+    "wrongFeedback": {
+      "0": "Trap: anti-science shortcut—common sense is not a substitute for controlled tests.",
+      "1": "Correct to select: historical importance ≠ immunity from limits or revision.",
+      "2": "Correct to select: “feels true” ≠ controlled evidence.",
+      "3": "Trap: collapses distinctions (e.g., structuralism vs functionalism) because both are famous.",
+      "4": "Correct to select: psychology careers span research and many applied specialties."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-01",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.1",
+    "question": "A blogger writes: “My uncle smoked and lived to 95, so smoking can’t be harmful.” Which research lesson best answers this?",
+    "options": [
+      "Anecdotes from relatives can overturn large bodies of controlled public-health evidence overnight.",
+      "Single cases are vivid but do not replace systematic population-level research on risks.",
+      "If one person survives an exposure, the IV must be unrelated to the DV in every study.",
+      "Archival research proves every personal longevity story is a causal demonstration of safety."
+    ],
+    "correct": 1,
+    "correctFeedback": "Research evaluates patterns beyond vivid anecdotes (§2.1).",
+    "wrongFeedback": {
+      "0": "Trap: treats a story as stronger than cumulative evidence.",
+      "2": "Trap: misuses IV/DV language for a non-experiment anecdote.",
+      "3": "Trap: archival methods don’t make every story causal."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-02",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.2",
+    "question": "A team watches toddlers on a playground through a one-way mirror and codes sharing without intervening. Best label?",
+    "options": [
+      "Laboratory experiment with random assignment",
+      "Naturalistic observation",
+      "Double-blind clinical trial",
+      "Survey with a random sample"
+    ],
+    "correct": 1,
+    "correctFeedback": "Behavior recorded in a real setting with minimal intervention is naturalistic observation (§2.2).",
+    "wrongFeedback": {
+      "0": "Trap: no manipulated IV or assignment here.",
+      "2": "Trap: no treatment blinding or clinical trial design.",
+      "3": "Trap: they are observing, not surveying."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-03",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.3",
+    "question": "Ice-cream sales and drowning rates rise together across months. A journalist claims ice cream causes drowning. Best critique?",
+    "options": [
+      "A correlation of r = +1 is enough by itself to prove ice cream causes drowning.",
+      "Third variables (e.g., heat) can explain both; correlation ≠ causation.",
+      "A negative correlation alone is what licenses strong causal conclusions.",
+      "Only survey research—not experiments—can establish that one variable causes another."
+    ],
+    "correct": 1,
+    "correctFeedback": "Directionality and third-variable problems block causal leaps from correlation (§2.3).",
+    "wrongFeedback": {
+      "0": "Trap: strength of r ≠ proof of cause.",
+      "2": "Trap: sign of r doesn’t unlock causation.",
+      "3": "Trap: experiments, not surveys, best support cause."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-04",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.3",
+    "question": "In a caffeine study, researchers randomly assign students to 0 mg vs 200 mg coffee, then measure exam scores. What are IV and DV?",
+    "options": [
+      "IV = exam scores; DV = caffeine dose",
+      "IV = caffeine dose; DV = exam scores",
+      "IV = random assignment; DV = coffee brand",
+      "IV and DV are the same variable measured twice"
+    ],
+    "correct": 1,
+    "correctFeedback": "IV is manipulated (dose); DV is measured outcome (scores) (§2.3).",
+    "wrongFeedback": {
+      "0": "Trap: swaps IV and DV.",
+      "2": "Trap: assignment is a design feature, not the IV; brand isn’t the measured outcome.",
+      "3": "Trap: collapses the IV/DV distinction."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-05",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.3",
+    "question": "A campus study emails every student but analyzes only those who reply. Then it randomly assigns responders to meditation vs waitlist. Which claim is safest?",
+    "options": [
+      "Random assignment of responders guarantees they represent all students worldwide.",
+      "Assignment aids causal comparison among responders; volunteer bias can still limit generalizability.",
+      "Random sampling and random assignment are the same procedure under different names.",
+      "Because assignment was random, informed consent can be skipped for this campus study."
+    ],
+    "correct": 1,
+    "correctFeedback": "Assignment aids internal causal comparison; sampling/nonresponse affects external validity (§2.3).",
+    "wrongFeedback": {
+      "0": "Trap: assignment ≠ representative sampling.",
+      "2": "Trap: classic sampling vs assignment confusion.",
+      "3": "Trap: ethics still require consent."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-06",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.4",
+    "question": "An IRB flags a memory study that shocks participants without warning or debriefing. Which ethical principle is most clearly violated?",
+    "options": [
+      "Paying participants is always unethical, so the study should be rejected for that alone.",
+      "Informed consent, risk minimization, and debriefing when deception or harm risks apply.",
+      "Ethical review is required only for animal research, never for adult human participants.",
+      "Correlation studies are exempt from IRB review because they never manipulate variables."
+    ],
+    "correct": 1,
+    "correctFeedback": "Human research ethics emphasize consent, risk limits, and debriefing (§2.4).",
+    "wrongFeedback": {
+      "0": "Trap: payment rules aren’t the core issue here.",
+      "2": "Trap: humans clearly need review.",
+      "3": "Trap: IRB scope isn’t limited to experiments alone."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-07",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.2–2.3",
+    "question": "Which design best supports a causal claim that a new study app improves quiz scores?",
+    "options": [
+      "Ask heavy app users whether they “feel smarter” after a week of casual use.",
+      "Correlate self-reported app hours with GPA across campus without assigning conditions.",
+      "Randomly assign app vs control, then compare quiz scores under controlled conditions.",
+      "Interview only the top 1% of enthusiastic app fans and treat them as the population."
+    ],
+    "correct": 2,
+    "correctFeedback": "Randomized controlled comparison is the standard path to causal inference (§2.3).",
+    "wrongFeedback": {
+      "0": "Trap: anecdotes/feelings ≠ controlled evidence.",
+      "1": "Trap: correlation without assignment.",
+      "3": "Trap: biased case selection."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-08",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.3",
+    "question": "Which statements correctly distinguish random sampling from random assignment? (Select all that apply.)",
+    "options": [
+      "Random sampling aims to help the sample represent a population.",
+      "Random assignment aims to balance groups so IV differences are more interpretable as causal.",
+      "If you randomly assign, you automatically have a random sample of the nation.",
+      "A study can have random assignment without having a random sample.",
+      "Random sampling alone is enough to prove that X causes Y."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Sampling → external representativeness; assignment → internal causal comparison (§2.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: sampling targets population representation.",
+      "1": "Correct to select: assignment supports causal group comparison.",
+      "2": "Trap: assignment does not create a national random sample.",
+      "3": "Correct to select: many lab experiments assign randomly within convenience samples.",
+      "4": "Trap: sampling ≠ causal proof."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-09",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.2–2.3",
+    "question": "A team reports r = −.45 between sleep hours and next-day irritability. Which interpretations are appropriate? (Select all that apply.)",
+    "options": [
+      "There is a moderate negative association in the data.",
+      "We can conclude sleep loss is the sole proven cause for every irritability spike.",
+      "A third variable (e.g., stress) might influence both sleep and irritability.",
+      "Negative r means the correlation is “fake” and should be ignored.",
+      "Directionality is still an open issue without an experiment."
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Report association strength/direction; remember third variables and directionality (§2.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: |r|~.45 is a moderate negative association.",
+      "1": "Trap: leaps to sole causation.",
+      "2": "Correct to select: third variables remain possible.",
+      "3": "Trap: negative ≠ fake.",
+      "4": "Correct to select: without experiment, causal direction stays uncertain."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c2-l5-10",
+    "chapter": 2,
+    "level": 5,
+    "section": "§2.4",
+    "question": "Which practices belong in ethical human research as framed in OpenStax Ch 2? (Select all that apply.)",
+    "options": [
+      "Informed consent when feasible",
+      "IRB review for human participants research",
+      "Debriefing after deception",
+      "Hiding all risks forever so people never refuse",
+      "Minimizing unnecessary harm"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Consent, review, debriefing, and harm minimization are core (§2.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: informed consent is foundational.",
+      "1": "Correct to select: IRB review protects participants.",
+      "2": "Correct to select: debrief after deception.",
+      "3": "Trap: concealing risks undermines consent.",
+      "4": "Correct to select: minimize unnecessary harm."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-01",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.2",
+    "question": "A neuron’s axon terminals release neurotransmitter into the synapse after an action potential. What happens next at a typical chemical synapse?",
+    "options": [
+      "The neurotransmitter becomes a permanent structural part of the receiving axon.",
+      "Transmitters bind postsynaptic receptors, then are cleared (reuptake/breakdown).",
+      "The myelin sheath digests the neurotransmitter as food.",
+      "Glial cells permanently erase the synapse after one firing."
+    ],
+    "correct": 1,
+    "correctFeedback": "Chemical transmission: release → receptor binding → clearance (§3.2).",
+    "wrongFeedback": {
+      "0": "Trap: transmitters are messengers, not permanent axon building blocks.",
+      "2": "Trap: myelin insulates axons; it doesn’t “eat” transmitters.",
+      "3": "Trap: synapses are not one-shot disposable by default."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-02",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.3",
+    "question": "During a sudden scare, heart rate rises and digestion slows. Which division is most active?",
+    "options": [
+      "Parasympathetic nervous system",
+      "Sympathetic nervous system",
+      "Somatic nervous system only, with no autonomic change",
+      "Only the enteric system with no spinal involvement"
+    ],
+    "correct": 1,
+    "correctFeedback": "Sympathetic branch mobilizes fight-or-flight responses (§3.3).",
+    "wrongFeedback": {
+      "0": "Trap: parasympathetic is rest-and-digest, opposite pattern.",
+      "2": "Trap: somatic is voluntary muscle; this is autonomic.",
+      "3": "Trap: over-narrows to enteric gut control."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-03",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.4",
+    "question": "A stroke damages a patient’s hippocampus-related circuitry. Which deficit is most expected?",
+    "options": [
+      "An inability to regulate heart rate with no other cognitive changes expected.",
+      "Severe new difficulty forming certain long-term declarative memories after the damage.",
+      "Complete loss of all spinal reflexes below the neck with no brain involvement needed.",
+      "A guaranteed increase in Broca’s fluent speech output after hippocampal injury alone."
+    ],
+    "correct": 1,
+    "correctFeedback": "Hippocampal systems are crucial for forming many long-term declarative memories (§3.4).",
+    "wrongFeedback": {
+      "0": "Trap: brainstem/autonomic structures more directly pace heart rate.",
+      "2": "Trap: spinal reflexes can survive cortical/hippocampal damage.",
+      "3": "Trap: Broca’s area is language production, not hippocampus."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-04",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.2",
+    "question": "A drug mimics a neurotransmitter at receptor sites, increasing receptor activation. Best label?",
+    "options": [
+      "Antagonist",
+      "Agonist",
+      "Myelin inhibitor",
+      "All-or-none threshold eraser"
+    ],
+    "correct": 1,
+    "correctFeedback": "Agonists facilitate/mimic transmitter action; antagonists block (§3.2).",
+    "wrongFeedback": {
+      "0": "Trap: antagonist is the blocker/opposer.",
+      "2": "Trap: invents a myelin role for the drug effect described.",
+      "3": "Trap: garbles action-potential terminology."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-05",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.3",
+    "question": "Which statement best distinguishes CNS from PNS?",
+    "options": [
+      "CNS = nerves in arms/legs only; PNS = brain only",
+      "CNS = brain and spinal cord; PNS = nerves linking CNS to the body.",
+      "PNS includes only the cortex; CNS includes only glands",
+      "They are identical labels for the endocrine system"
+    ],
+    "correct": 1,
+    "correctFeedback": "CNS = brain + spinal cord; PNS connects outward (§3.3).",
+    "wrongFeedback": {
+      "0": "Trap: reverses CNS/PNS.",
+      "2": "Trap: misassigns cortex/glands.",
+      "3": "Trap: confuses nervous with endocrine."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-06",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.5",
+    "question": "After a prolonged threat, cortisol remains elevated. Which system is most directly implicated?",
+    "options": [
+      "Only the somatic motor system contracting biceps",
+      "HPA-axis endocrine stress signaling with neural stress circuits.",
+      "Rods and cones in the retina exclusively",
+      "Broca’s area secreting cortisol into the synapse"
+    ],
+    "correct": 1,
+    "correctFeedback": "Endocrine HPA signaling (including cortisol) is central to prolonged stress physiology (§3.5 / stress links).",
+    "wrongFeedback": {
+      "0": "Trap: somatic muscle ≠ cortisol pathway.",
+      "2": "Trap: vision receptors aren’t the cortisol source.",
+      "3": "Trap: Broca’s is language cortex, not a cortisol gland."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-07",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.4",
+    "question": "A patient speaks fluently but with little meaning and poor comprehension after left-hemisphere damage. Which contrast is most relevant?",
+    "options": [
+      "Broca’s aphasia (production) vs Wernicke’s aphasia (comprehension/meaning)",
+      "Sympathetic vs parasympathetic pupil size only",
+      "Agonist vs antagonist at the neuromuscular junction only",
+      "Nature vs nurture of eye color"
+    ],
+    "correct": 0,
+    "correctFeedback": "Fluent but impaired-meaning speech with comprehension problems fits Wernicke-type patterns vs Broca’s nonfluent production issues (§3.4).",
+    "wrongFeedback": {
+      "1": "Trap: autonomic pupil contrast is unrelated to aphasia type.",
+      "2": "Trap: drug action labels don’t classify aphasias.",
+      "3": "Trap: genetics of eye color ≠ language localization."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-08",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.3",
+    "question": "Which statements about autonomic branches are accurate? (Select all that apply.)",
+    "options": [
+      "Sympathetic activity often supports fight-or-flight mobilization.",
+      "Parasympathetic activity often supports rest-and-digest functions.",
+      "The two branches always secrete identical hormones onto every organ.",
+      "Both are typically involuntary relative to writing your name on purpose.",
+      "“Sympathetic” means the system always creates sympathy/empathy feelings."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Sympathetic vs parasympathetic are complementary autonomic divisions (§3.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: sympathetic ≈ mobilization.",
+      "1": "Correct to select: parasympathetic ≈ rest/digest.",
+      "2": "Trap: they are not identical in action/chemistry everywhere.",
+      "3": "Correct to select: autonomic = largely involuntary vs voluntary somatic acts.",
+      "4": "Trap: folk meaning of “sympathetic” ≠ physiological label."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-09",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.2",
+    "question": "Which claims about neural communication are sound? (Select all that apply.)",
+    "options": [
+      "Action potentials are often described as all-or-none once threshold is reached.",
+      "Neurotransmitters cross the synaptic cleft to affect the next cell.",
+      "The resting potential is irrelevant; neurons never have polarity.",
+      "Reuptake can clear transmitter from the synapse.",
+      "Dendrites typically receive incoming signals."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Standard neuron physiology: threshold/all-or-none, synaptic transmission, clearance, dendritic input (§3.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: all-or-none framing at threshold.",
+      "1": "Correct to select: chemical transmission across cleft.",
+      "2": "Trap: resting potential/polarity are foundational.",
+      "3": "Correct to select: reuptake is a clearance route.",
+      "4": "Correct to select: dendrites receive."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c3-l5-10",
+    "chapter": 3,
+    "level": 5,
+    "section": "§3.4",
+    "question": "A case conference lists these brain–function pairings. Which are reasonable textbook-level matches? (Select all that apply.)",
+    "options": [
+      "Occipital lobe: vision",
+      "Frontal lobe: planning/movement-related functions (among others)",
+      "Cerebellum: balance/coordination support",
+      "Corpus callosum: hormone factory for cortisol only",
+      "Amygdala: involved in emotion-related processing"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Classic localization sketches; corpus callosum connects hemispheres, not a cortisol gland (§3.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: occipital ≈ vision.",
+      "1": "Correct to select: frontal ≈ planning/motor among other roles.",
+      "2": "Correct to select: cerebellum supports coordination.",
+      "3": "Trap: corpus callosum connects hemispheres; adrenal/HPA handles cortisol.",
+      "4": "Correct to select: amygdala–emotion links."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-01",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.1",
+    "question": "Consciousness in OpenStax is best framed as:",
+    "options": [
+      "Only Freudian repressed wishes",
+      "Awareness of internal and external stimuli",
+      "Identical to Stage 3 NREM exclusively",
+      "Impossible to discuss scientifically"
+    ],
+    "correct": 1,
+    "correctFeedback": "Consciousness = awareness of internal/external stimuli (§4.1).",
+    "wrongFeedback": {
+      "0": "Trap: narrows to one psychoanalytic idea.",
+      "2": "Trap: confuses a sleep stage with the whole concept.",
+      "3": "Trap: Ch 4 treats consciousness as a scientific topic."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-02",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.3",
+    "question": "REM sleep is most strongly associated with:",
+    "options": [
+      "Sleepwalking as the defining feature",
+      "Rapid eye movements, vivid dreaming likelihood, and muscle tone reduction",
+      "Only growth-hormone secretion with zero neural activity",
+      "Being identical to a coma"
+    ],
+    "correct": 1,
+    "correctFeedback": "REM: REMs, dream-rich mentation, and reduced muscle tone (§4.3).",
+    "wrongFeedback": {
+      "0": "Trap: sleepwalking is more tied to NREM issues.",
+      "2": "Trap: brain is highly active in REM.",
+      "3": "Trap: REM ≠ coma."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-03",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.4",
+    "question": "A student stops breathing repeatedly at night, gasps, and is sleepy by day. Most fitting concern?",
+    "options": [
+      "Narcolepsy cataplexy only",
+      "Sleep apnea",
+      "Night terrors as the sole diagnosis",
+      "Insomnia defined as too much REM"
+    ],
+    "correct": 1,
+    "correctFeedback": "Repeated breathing pauses with daytime sleepiness suggest sleep apnea (§4.4).",
+    "wrongFeedback": {
+      "0": "Trap: narcolepsy/cataplexy is a different pattern.",
+      "2": "Trap: night terrors ≠ apnea breathing stops.",
+      "3": "Trap: insomnia is difficulty sleeping, not “too much REM.”"
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-04",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.5",
+    "question": "Alcohol is classified primarily as a:",
+    "options": [
+      "Stimulant that always increases GABA blockade of inhibition",
+      "Depressant that can slow CNS activity",
+      "Opioid identical to heroin in every receptor effect",
+      "Hallucinogen that cannot produce dependence"
+    ],
+    "correct": 1,
+    "correctFeedback": "Alcohol is a depressant with CNS-slowing effects (§4.5).",
+    "wrongFeedback": {
+      "0": "Trap: alcohol is not a stimulant class drug.",
+      "2": "Trap: opioids are a different class though depressant-like risks overlap in some ways—not “identical.”",
+      "3": "Trap: wrong class; dependence risk exists."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-05",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.2",
+    "question": "Circadian rhythms are most closely tied to:",
+    "options": [
+      "A mandatory 28-day lunar exam cycle that IRBs require for every sleep study.",
+      "About-24-hour biological rhythms influenced by light and the SCN.",
+      "Only Stage 2 sleep spindles defining the entire circadian system by themselves.",
+      "Random assignment rules used in drug trials rather than biological timing systems."
+    ],
+    "correct": 1,
+    "correctFeedback": "Circadian ≈ ~24h rhythms; SCN/light are key (§4.2).",
+    "wrongFeedback": {
+      "0": "Trap: invents lunar IRB rule.",
+      "2": "Trap: spindles are a NREM feature, not the circadian definition.",
+      "3": "Trap: methods concept from Ch 2."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-06",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.5",
+    "question": "Tolerance means:",
+    "options": [
+      "Needing less drug over time for the same effect always",
+      "Needing more of a drug to get the effect once produced by a smaller dose",
+      "Zero risk of withdrawal",
+      "That physical dependence is impossible"
+    ],
+    "correct": 1,
+    "correctFeedback": "Tolerance: higher dose needed for prior effect (§4.5).",
+    "wrongFeedback": {
+      "0": "Trap: reverses tolerance.",
+      "2": "Trap: tolerance often pairs with dependence/withdrawal risks.",
+      "3": "Trap: false safety claim."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-07",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.3–4.4",
+    "question": "Which contrast is most accurate?",
+    "options": [
+      "REM behavior disorder: acting out dreams vs sleep apnea: breathing stops",
+      "Insomnia: excessive refreshing sleep every night",
+      "Narcolepsy: inability to enter REM ever",
+      "Night terrors: identical to lucid adult REM dreaming"
+    ],
+    "correct": 0,
+    "correctFeedback": "RBD involves dream enactment; apnea involves breathing interruption (§4.4).",
+    "wrongFeedback": {
+      "1": "Trap: insomnia is insufficient/poor sleep.",
+      "2": "Trap: narcolepsy often involves REM-related intrusion features, not “no REM ever.”",
+      "3": "Trap: night terrors ≠ lucid REM dreaming."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-08",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.3",
+    "question": "Which statements about sleep stages are reasonable? (Select all that apply.)",
+    "options": [
+      "NREM includes stages that progress toward deeper slow-wave sleep.",
+      "REM is associated with vivid dreaming more than deep NREM typically is.",
+      "A full night is usually one unbroken Stage 3 period with no cycling.",
+      "Sleep architecture involves cycling across the night.",
+      "EEG patterns help distinguish stages."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Sleep cycles through NREM/REM with distinctive EEG signatures (§4.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: NREM deepens across stages.",
+      "1": "Correct to select: REM–dream association.",
+      "2": "Trap: nights cycle; not one frozen Stage 3.",
+      "3": "Correct to select: cycling is normal.",
+      "4": "Correct to select: EEG defines stages."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-09",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.5",
+    "question": "Which drug-class matches are textbook-consistent? (Select all that apply.)",
+    "options": [
+      "Caffeine: stimulant",
+      "Nicotine: stimulant",
+      "Alcohol: depressant",
+      "LSD: typically discussed among hallucinogens",
+      "Alcohol: stimulant that cannot impair driving"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Standard classifications in §4.5; E is false.",
+    "wrongFeedback": {
+      "0": "Correct to select: caffeine stimulant.",
+      "1": "Correct to select: nicotine stimulant.",
+      "2": "Correct to select: alcohol depressant.",
+      "3": "Correct to select: LSD among hallucinogens.",
+      "4": "Trap: alcohol is depressant and can impair driving."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c4-l5-10",
+    "chapter": 4,
+    "level": 5,
+    "section": "§4.2–4.4",
+    "question": "A night-shift nurse has insomnia and microsleeps while driving home. Which claims are sound? (Select all that apply.)",
+    "options": [
+      "Circadian misalignment can impair alertness.",
+      "Sleep debt can increase accident risk.",
+      "Microsleeps are harmless proof of perfect adaptation.",
+      "Treating schedule/sleep problems matters for safety.",
+      "Only Freudian dream analysis can fix shift-work sleep loss."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Circadian disruption and sleep loss have safety consequences (§4.2–4.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: circadian misalignment hurts alertness.",
+      "1": "Correct to select: sleep debt raises risk.",
+      "2": "Trap: microsleeps are dangerous, not proof of adaptation.",
+      "3": "Correct to select: addressing sleep/schedule is safety-relevant.",
+      "4": "Trap: overclaims Freudian dream work as the only fix."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-01",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.1",
+    "question": "Sensation vs perception—best contrast?",
+    "options": [
+      "Sensation interprets meaning; perception is raw transduction only",
+      "Sensation detects/transduces; perception organizes and interprets.",
+      "They are identical terms for transduction",
+      "Perception occurs only in the spinal cord"
+    ],
+    "correct": 1,
+    "correctFeedback": "Sensation detects; perception organizes/interprets (§5.1).",
+    "wrongFeedback": {
+      "0": "Trap: swaps the definitions.",
+      "2": "Trap: collapses the distinction.",
+      "3": "Trap: perception involves brain organization, not “spinal only.”"
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-02",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.1",
+    "question": "Absolute threshold is best described as:",
+    "options": [
+      "The smallest detectable difference between two stimuli 50% of the time (classic definition of difference threshold)",
+      "Minimum stimulus energy to detect a stimulus about 50% of the time.",
+      "The point where top-down processing becomes impossible",
+      "Weber’s constant for every sense equally"
+    ],
+    "correct": 1,
+    "correctFeedback": "Absolute threshold ≈ min energy for detection ~50% of time (§5.1).",
+    "wrongFeedback": {
+      "0": "Trap: describes difference threshold/JND.",
+      "2": "Trap: invents a top-down cutoff.",
+      "3": "Trap: Weber’s law concerns difference thresholds, not one universal constant for all senses."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-03",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.1",
+    "question": "In a noisy café you still “hear” your name. Which idea fits best?",
+    "options": [
+      "Bottom-up processing only, with zero expectations",
+      "Top-down influences (expectations/attention) shaping awareness.",
+      "Absolute threshold means attention never matters",
+      "Transduction cannot occur for sound"
+    ],
+    "correct": 1,
+    "correctFeedback": "Cocktail-party-like effects highlight attention/top-down factors (§5.1).",
+    "wrongFeedback": {
+      "0": "Trap: ignores expectation/attention.",
+      "2": "Trap: thresholds don’t erase attention effects.",
+      "3": "Trap: hearing requires transduction."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-04",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.3",
+    "question": "After leaving a bright street, a cinema seems black then slowly becomes visible. Best concept?",
+    "options": [
+      "Sensory adaptation / dark adaptation processes in vision",
+      "Opponent-process theory of color only, with no intensity change",
+      "Frequency theory of pitch for light waves",
+      "Gate-control theory of pain for photons"
+    ],
+    "correct": 0,
+    "correctFeedback": "Eyes adjust after luminance change—dark adaptation (§5.3).",
+    "wrongFeedback": {
+      "1": "Trap: color opponent processes aren’t the main story for overall dark visibility.",
+      "2": "Trap: frequency theory is audition.",
+      "3": "Trap: gate control is pain."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-05",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.6",
+    "question": "You see five dots as a “face” rather than unrelated points. Closest Gestalt idea?",
+    "options": [
+      "Transduction of sound waves inside the cochlea explaining why the dots look like a face.",
+      "Perceptual organization principles (e.g., grouping/closure) beyond isolated elements.",
+      "Hitting absolute taste thresholds on the tongue before any visual grouping can occur.",
+      "Randomly assigning photoreceptors to facial features during a perception laboratory task."
+    ],
+    "correct": 1,
+    "correctFeedback": "Gestalt: whole organization exceeds isolated parts (§5.6).",
+    "wrongFeedback": {
+      "0": "Trap: hearing transduction.",
+      "2": "Trap: taste threshold.",
+      "3": "Trap: methods jargon."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-06",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.4",
+    "question": "Place theory of pitch primarily emphasizes:",
+    "options": [
+      "Which region of the basilar membrane is stimulated",
+      "Only the exact match of neural firing rate to low frequencies as the sole mechanism forever",
+      "That pitch is a pure top-down illusion with no cochlea",
+      "That loudness equals wavelength of light"
+    ],
+    "correct": 0,
+    "correctFeedback": "Place theory: different membrane places code different pitches (§5.4).",
+    "wrongFeedback": {
+      "1": "Trap: overstates frequency theory as exclusive/complete.",
+      "2": "Trap: denies cochlear mechanics.",
+      "3": "Trap: confuses audition with vision parameters."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-07",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.1",
+    "question": "Weber’s law is most about:",
+    "options": [
+      "Difference thresholds scaling with stimulus magnitude",
+      "Absolute threshold being identical for all people and senses",
+      "Why correlation equals causation in perception labs",
+      "Why rods detect only color hue"
+    ],
+    "correct": 0,
+    "correctFeedback": "Weber: JND is a proportion of stimulus magnitude (§5.1).",
+    "wrongFeedback": {
+      "1": "Trap: absolute thresholds vary; Weber concerns differences.",
+      "2": "Trap: methods fallacy.",
+      "3": "Trap: rods are low-light oriented; cones more for color."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-08",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.1",
+    "question": "Which statements correctly separate bottom-up and top-down processing? (Select all that apply.)",
+    "options": [
+      "Bottom-up builds from sensory input features.",
+      "Top-down uses knowledge, expectations, and context.",
+      "Top-down means the feet send all visual signals.",
+      "Reading messy handwriting using word knowledge is partly top-down.",
+      "They never interact in real perception."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Both contribute; context/knowledge guide interpretation (§5.1).",
+    "wrongFeedback": {
+      "0": "Correct to select: bottom-up from features.",
+      "1": "Correct to select: top-down from knowledge/expectation.",
+      "2": "Trap: folk reading of “top/down” as anatomy of feet.",
+      "3": "Correct to select: handwriting example is classic top-down aid.",
+      "4": "Trap: they interact constantly."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-09",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.3–5.4",
+    "question": "Which sensory matches are reasonable? (Select all that apply.)",
+    "options": [
+      "Rods: better in dim light than cones, poorer color detail",
+      "Cones: color and detail in brighter light",
+      "Cochlea: key for auditory transduction",
+      "Retina: visual photoreceptors",
+      "Taste buds: primary organ of hearing"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Standard receptor/organ matches (§5.3–5.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: rods/dim light.",
+      "1": "Correct to select: cones/color-detail.",
+      "2": "Correct to select: cochlea/hearing.",
+      "3": "Correct to select: retina/vision.",
+      "4": "Trap: taste ≠ hearing."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c5-l5-10",
+    "chapter": 5,
+    "level": 5,
+    "section": "§5.5–5.6",
+    "question": "A design team cites perception principles. Which claims are sound? (Select all that apply.)",
+    "options": [
+      "Gestalt grouping can make interfaces feel organized.",
+      "Vestibular cues contribute to balance/spatial orientation.",
+      "Pain has only one universal pathway with no modulation ever.",
+      "Figure–ground organization affects what stands out.",
+      "Perception is identical to the raw physical stimulus energy in every case."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Organization and vestibular function matter; pain can be modulated; perception ≠ raw energy copy (§5.5–5.6).",
+    "wrongFeedback": {
+      "0": "Correct to select: Gestalt aids organization.",
+      "1": "Correct to select: vestibular–balance.",
+      "2": "Trap: pain is modulable (e.g., gate-control ideas).",
+      "3": "Correct to select: figure–ground.",
+      "4": "Trap: perception is constructive/organized, not a perfect energy photocopy."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-01",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.2",
+    "question": "In Pavlovian terms, food is the US and salivation to food is the UR. After pairing, a bell elicits salivation. The bell is the:",
+    "options": [
+      "US",
+      "UR",
+      "CS",
+      "CR only before any pairing"
+    ],
+    "correct": 2,
+    "correctFeedback": "CS is the once-neutral cue that comes to elicit the CR (§6.2).",
+    "wrongFeedback": {
+      "0": "Trap: US is the biologically potent food.",
+      "1": "Trap: UR is the unlearned response to the US.",
+      "3": "Trap: before pairing the bell isn’t producing the CR yet; label for the cue is CS."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-02",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.3",
+    "question": "A teacher adds praise after on-time homework, and on-time rates rise. This is:",
+    "options": [
+      "Positive punishment",
+      "Positive reinforcement",
+      "Negative punishment",
+      "Negative reinforcement"
+    ],
+    "correct": 1,
+    "correctFeedback": "Add a pleasant stimulus → behavior increases = positive reinforcement (§6.3).",
+    "wrongFeedback": {
+      "0": "Trap: punishment decreases behavior; “positive” here means add, not “good.”",
+      "2": "Trap: negative punishment removes something liked to decrease behavior.",
+      "3": "Trap: negative reinforcement removes something aversive to increase behavior."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-03",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.3",
+    "question": "Removing a weekend privilege after cheating, and cheating drops. Best label?",
+    "options": [
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Negative punishment",
+      "Classical extinction of a US"
+    ],
+    "correct": 2,
+    "correctFeedback": "Remove valued stimulus → behavior decreases = negative punishment (§6.3).",
+    "wrongFeedback": {
+      "0": "Trap: reinforcement increases behavior.",
+      "1": "Trap: neg. reinforcement increases behavior by removing aversives.",
+      "3": "Trap: operant consequence ≠ classical US extinction."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-04",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.3",
+    "question": "A rat presses faster on a variable-ratio schedule than on a fixed-interval schedule. Classic takeaway?",
+    "options": [
+      "All reinforcement schedules produce identical pausing patterns on every task.",
+      "Schedules shape response rate/pattern; variable-ratio often yields high steady rates.",
+      "Punishment schedules are required before any form of learning can take place.",
+      "Classical conditioned responses ignore timing and schedules in every documented case."
+    ],
+    "correct": 1,
+    "correctFeedback": "Reinforcement schedules differentially shape rates/patterns (§6.3).",
+    "wrongFeedback": {
+      "0": "Trap: patterns differ (e.g., FI scallops).",
+      "2": "Trap: learning doesn’t require punishment.",
+      "3": "Trap: overbroad classical claim."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-05",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.2",
+    "question": "After extinction, a CR briefly returns when the CS appears again later. Term?",
+    "options": [
+      "Spontaneous recovery",
+      "Stimulus generalization only",
+      "Positive punishment",
+      "Latent learning of a cognitive map exclusively"
+    ],
+    "correct": 0,
+    "correctFeedback": "Spontaneous recovery: extinguished CR reappears after a rest (§6.2).",
+    "wrongFeedback": {
+      "1": "Trap: generalization is responding to similar stimuli.",
+      "2": "Trap: operant punishment label.",
+      "3": "Trap: Tolman latent learning is a different phenomenon."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-06",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.4",
+    "question": "A child learns a tennis serve by watching a coach, then later performs it. Bandura emphasizes:",
+    "options": [
+      "Only US–UR reflexes",
+      "Observational learning / modeling (attention, retention, reproduction, motivation)",
+      "That observation can never produce learning without reinforcement on every trial",
+      "Negative punishment of mirror neurons"
+    ],
+    "correct": 1,
+    "correctFeedback": "Observational learning via modeling processes (§6.4).",
+    "wrongFeedback": {
+      "0": "Trap: classical reflex language.",
+      "2": "Trap: Bandura showed learning can occur via observation, not only direct reinforcement each time.",
+      "3": "Trap: nonsense mash-up."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-07",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.3",
+    "question": "Escape from a loud buzzer by pressing a lever, and pressing increases. This is:",
+    "options": [
+      "Positive punishment",
+      "Negative reinforcement",
+      "Negative punishment",
+      "Classical conditioning of a US into a CS"
+    ],
+    "correct": 1,
+    "correctFeedback": "Remove aversive stimulus → behavior increases = negative reinforcement (§6.3).",
+    "wrongFeedback": {
+      "0": "Trap: punishment decreases behavior.",
+      "2": "Trap: removing liked things to decrease behavior.",
+      "3": "Trap: this is operant contingency, not converting US→CS labels."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-08",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.2–6.3",
+    "question": "Which distinctions are accurate? (Select all that apply.)",
+    "options": [
+      "Classical: CS predicts US; learning about stimulus contingencies.",
+      "Operant: consequences shape voluntary-like behavior rates.",
+      "Positive always means “morally good.”",
+      "Reinforcement increases behavior; punishment decreases it.",
+      "Extinction can occur when reinforcers or US pairings stop."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Keep classical vs operant and +/− as add/remove, not moral valence (§6.2–6.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: classical stimulus contingencies.",
+      "1": "Correct to select: operant consequences.",
+      "2": "Trap: “positive” = add stimulus.",
+      "3": "Correct to select: reinforcement↑ / punishment↓.",
+      "4": "Correct to select: extinction when maintaining events stop."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-09",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.3",
+    "question": "A coach wants fewer late arrivals. Which options correctly apply operant labels? (Select all that apply.)",
+    "options": [
+      "Add extra wind sprints after lateness → positive punishment if lateness drops",
+      "Remove a liked leadership role after lateness → negative punishment if lateness drops",
+      "Add praise after on-time arrival → positive reinforcement if on-time rises",
+      "Allow leaving early from a boring drill when on time → negative reinforcement if on-time rises",
+      "Any added stimulus is automatically reinforcement"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Define by add/remove and whether behavior increases/decreases (§6.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: add aversive → ↓ behavior = + punishment.",
+      "1": "Correct to select: remove liked → ↓ = − punishment.",
+      "2": "Correct to select: add liked → ↑ = + reinforcement.",
+      "3": "Correct to select: remove aversive → ↑ = − reinforcement.",
+      "4": "Trap: added stimuli can punish or reinforce depending on effect."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c6-l5-10",
+    "chapter": 6,
+    "level": 5,
+    "section": "§6.2",
+    "question": "Which classical-conditioning claims are sound? (Select all that apply.)",
+    "options": [
+      "Acquisition is learning the CS–US link.",
+      "Generalization: similar stimuli elicit CR.",
+      "Discrimination: responding differently to CS+ vs similar non-predictive cues.",
+      "The CR is always identical in strength to the UR forever.",
+      "Extinction: CS without US weakens CR."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Standard classical phenomena (§6.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: acquisition.",
+      "1": "Correct to select: generalization.",
+      "2": "Correct to select: discrimination.",
+      "3": "Trap: CR often differs from UR; not locked identical forever.",
+      "4": "Correct to select: extinction."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-01",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.1",
+    "question": "A concept is best described as:",
+    "options": [
+      "A single neuron’s resting membrane potential measured in millivolts.",
+      "A mental category grouping similar objects, events, ideas, or people.",
+      "An IRB informed-consent form required before any classroom demonstration.",
+      "A fixed-interval scallop pattern from an operant conditioning cumulative record."
+    ],
+    "correct": 1,
+    "correctFeedback": "Concepts organize experience into categories (§7.1).",
+    "wrongFeedback": {
+      "0": "Trap: biopsych term.",
+      "2": "Trap: ethics paperwork.",
+      "3": "Trap: operant schedule pattern."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-02",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.3",
+    "question": "Using a mental shortcut that is fast but sometimes biased is a:",
+    "options": [
+      "Algorithm guaranteeing a solution if one exists and steps are followed",
+      "Heuristic",
+      "Prototype identical to an algorithm",
+      "Phoneme"
+    ],
+    "correct": 1,
+    "correctFeedback": "Heuristics are quick strategies; algorithms are step-by-step procedures (§7.3).",
+    "wrongFeedback": {
+      "0": "Trap: describes algorithm, not heuristic.",
+      "2": "Trap: prototype is a typical category example.",
+      "3": "Trap: language sound unit."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-03",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.3",
+    "question": "Sticking to a known screwdriver method even when a coin would work better illustrates:",
+    "options": [
+      "Functional fixedness / mental set barriers",
+      "Confirmation that algorithms never fail",
+      "Availability heuristic about death rates only",
+      "Morpheme segmentation"
+    ],
+    "correct": 0,
+    "correctFeedback": "Functional fixedness/mental set block novel uses/approaches (§7.3).",
+    "wrongFeedback": {
+      "1": "Trap: algorithms can be inefficient; issue is fixation.",
+      "2": "Trap: wrong heuristic context.",
+      "3": "Trap: language morphology."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-04",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.4–7.5",
+    "question": "Spearman’s g emphasizes:",
+    "options": [
+      "Many completely unrelated intelligences with zero shared variance",
+      "A general intelligence factor contributing across cognitive tasks.",
+      "That IQ tests measure only shoe size",
+      "That creativity is identical to crystallized vocabulary only"
+    ],
+    "correct": 1,
+    "correctFeedback": "g = general factor across mental tests (§7.4–7.5).",
+    "wrongFeedback": {
+      "0": "Trap: opposite of g.",
+      "2": "Trap: absurd reduction.",
+      "3": "Trap: collapses creativity/crystallized distinctions."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-05",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.5",
+    "question": "A test yields very different scores week to week for the same person under similar conditions. Biggest concern?",
+    "options": [
+      "Reliability",
+      "Norming is automatically perfect",
+      "Standardization is irrelevant",
+      "Validity is guaranteed if items look serious"
+    ],
+    "correct": 0,
+    "correctFeedback": "Unstable scores threaten reliability (§7.5).",
+    "wrongFeedback": {
+      "1": "Trap: norms don’t fix instability.",
+      "2": "Trap: standardization matters.",
+      "3": "Trap: face seriousness ≠ validity; and reliability is the issue named."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-06",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.3",
+    "question": "Judging event likelihood by how easily examples come to mind is the:",
+    "options": [
+      "Representativeness heuristic",
+      "Availability heuristic",
+      "Anchoring on g only",
+      "Syntax"
+    ],
+    "correct": 1,
+    "correctFeedback": "Availability: ease of retrieval guides probability judgments (§7.3).",
+    "wrongFeedback": {
+      "0": "Trap: representativeness = similarity to a prototype/stereotype.",
+      "2": "Trap: mash-up.",
+      "3": "Trap: language structure."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-07",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.2",
+    "question": "Phonemes vs morphemes—best contrast?",
+    "options": [
+      "Phonemes are smallest meaning units; morphemes are sound units",
+      "Phonemes are basic sound units; morphemes are smallest meaning units",
+      "Both mean the same as semantics",
+      "Morphemes exist only in written Chinese"
+    ],
+    "correct": 1,
+    "correctFeedback": "Phoneme = sound; morpheme = meaning unit (§7.2).",
+    "wrongFeedback": {
+      "0": "Trap: swaps definitions.",
+      "2": "Trap: semantics is meaning system broader than these units.",
+      "3": "Trap: false language limit."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-08",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.3",
+    "question": "Which problem-solving claims are accurate? (Select all that apply.)",
+    "options": [
+      "Algorithms are step-by-step procedures.",
+      "Heuristics trade speed for occasional error.",
+      "Confirmation bias seeks supportive evidence and underweights disconfirming data.",
+      "Mental set always improves creativity in every case.",
+      "Insight feels sudden but still involves cognitive processing."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Standard problem-solving toolkit and biases (§7.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: algorithms.",
+      "1": "Correct to select: heuristics tradeoff.",
+      "2": "Correct to select: confirmation bias.",
+      "3": "Trap: mental set often blocks fresh approaches.",
+      "4": "Correct to select: insight is still cognitive."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-09",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.4–7.6",
+    "question": "Which intelligence statements are defensible in OpenStax framing? (Select all that apply.)",
+    "options": [
+      "IQ tests can be standardized and normed.",
+      "Nature and nurture both contribute to intelligence differences.",
+      "A single test score captures every human talent forever with zero error.",
+      "Fluid intelligence involves novel problem solving; crystallized involves acquired knowledge.",
+      "Stereotype threat can affect test performance contexts."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Measurement + heritability/environment + fluid/crystallized + social context (§7.5–7.6).",
+    "wrongFeedback": {
+      "0": "Correct to select: standardization/norms.",
+      "1": "Correct to select: nature and nurture.",
+      "2": "Trap: overclaims perfection/completeness.",
+      "3": "Correct to select: fluid vs crystallized.",
+      "4": "Correct to select: stereotype threat contexts."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c7-l5-10",
+    "chapter": 7,
+    "level": 5,
+    "section": "§7.1–7.2",
+    "question": "Which language/cognition matches are sound? (Select all that apply.)",
+    "options": [
+      "Syntax: rules for combining words",
+      "Semantics: meaning",
+      "Prototype: best/most typical example of a category",
+      "Grammar is only about polite manners at dinner",
+      "Concepts reduce the need to treat every object as wholly unique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Language structure + categorization basics (§7.1–7.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: syntax.",
+      "1": "Correct to select: semantics.",
+      "2": "Correct to select: prototype.",
+      "3": "Trap: linguistic grammar ≠ etiquette.",
+      "4": "Correct to select: concepts economize cognition."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-01",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.1",
+    "question": "Atkinson–Shiffrin-style flow emphasizes:",
+    "options": [
+      "Sensory → short-term/working → long-term memory stores",
+      "Only procedural memory with no encoding",
+      "That retrieval never fails if storage occurred",
+      "That echoic memory lasts for years unchanged"
+    ],
+    "correct": 0,
+    "correctFeedback": "Classic multi-store flow: sensory, short-term, long-term (§8.1).",
+    "wrongFeedback": {
+      "1": "Trap: ignores declarative stages/encoding.",
+      "2": "Trap: retrieval failures happen.",
+      "3": "Trap: sensory memory is brief."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-02",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.3",
+    "question": "You learn Spanish, then French; French vocabulary blocks recalling Spanish words. This is:",
+    "options": [
+      "Proactive interference",
+      "Retroactive interference",
+      "Anterograde encoding specificity only",
+      "Flashbulb perfection guarantee"
+    ],
+    "correct": 1,
+    "correctFeedback": "New learning disrupts old → retroactive interference (§8.3).",
+    "wrongFeedback": {
+      "0": "Trap: proactive = old blocks new.",
+      "2": "Trap: mash-up of other terms.",
+      "3": "Trap: flashbulb memories aren’t perfect."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-03",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.3",
+    "question": "Old locker combinations keep popping up when you try a new one. This is:",
+    "options": [
+      "Retroactive interference",
+      "Proactive interference",
+      "Retrograde amnesia for the future",
+      "Chunking failure only in iconic memory"
+    ],
+    "correct": 1,
+    "correctFeedback": "Old learning disrupts new → proactive interference (§8.3).",
+    "wrongFeedback": {
+      "0": "Trap: retroactive is new→old disruption.",
+      "2": "Trap: amnesia terms misuse.",
+      "3": "Trap: wrong system details."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-04",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.1",
+    "question": "Working memory is best framed as:",
+    "options": [
+      "Unlimited permanent storage of every life event without capacity limits.",
+      "A limited-capacity system for holding and manipulating information now.",
+      "A hippocampal store that records only motor skills and never facts or episodes.",
+      "A forgetting mechanism identical to proactive and retroactive interference labels."
+    ],
+    "correct": 1,
+    "correctFeedback": "Working memory: temporary storage + manipulation (§8.1).",
+    "wrongFeedback": {
+      "0": "Trap: describes long-term memory caricature.",
+      "2": "Trap: hippocampus/skills oversimplification.",
+      "3": "Trap: interference is a forgetting mechanism."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-05",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.3",
+    "question": "Anterograde amnesia primarily involves:",
+    "options": [
+      "Loss of memories formed long before an injury only",
+      "Difficulty forming new long-term memories after onset",
+      "Perfect encoding with zero retrieval cues needed",
+      "Only forgetting due to decay of iconic memory after 2 days"
+    ],
+    "correct": 1,
+    "correctFeedback": "Anterograde: impaired new LTM formation (§8.3).",
+    "wrongFeedback": {
+      "0": "Trap: that leans retrograde.",
+      "2": "Trap: false guarantee.",
+      "3": "Trap: iconic memory is milliseconds–seconds scale."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-06",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.4",
+    "question": "Elaborative rehearsal beats maintenance rehearsal for durable memory mainly because it:",
+    "options": [
+      "Repeats sound only without meaning",
+      "It links new information to meaning and existing knowledge.",
+      "Erases proactive interference automatically",
+      "Converts all memories into procedural skills"
+    ],
+    "correct": 1,
+    "correctFeedback": "Elaboration builds meaningful connections (§8.4).",
+    "wrongFeedback": {
+      "0": "Trap: that’s maintenance-ish shallow repetition.",
+      "2": "Trap: overclaim.",
+      "3": "Trap: false conversion claim."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-07",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.3",
+    "question": "Loftus-style misinformation effects show:",
+    "options": [
+      "Eyewitness memory is immune to suggestion",
+      "Post-event information can distort memory reports",
+      "Only sensory memory can be distorted",
+      "Chunking prevents all false memories"
+    ],
+    "correct": 1,
+    "correctFeedback": "Misleading post-event info can alter reports (§8.3).",
+    "wrongFeedback": {
+      "0": "Trap: opposite of findings.",
+      "2": "Trap: distortions hit long-term episodic reports.",
+      "3": "Trap: chunking ≠ false-memory vaccine."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-08",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.1",
+    "question": "Which encoding/storage claims are sound? (Select all that apply.)",
+    "options": [
+      "Encoding moves information into memory systems.",
+      "Storage retains encoded information over time.",
+      "Retrieval accesses stored information.",
+      "Failure can occur at encoding, storage, or retrieval.",
+      "If you once knew something, retrieval must succeed forever."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Encoding–storage–retrieval pipeline with multiple failure points (§8.1).",
+    "wrongFeedback": {
+      "0": "Correct to select: encoding.",
+      "1": "Correct to select: storage.",
+      "2": "Correct to select: retrieval.",
+      "3": "Correct to select: multi-stage failure.",
+      "4": "Trap: retrieval is fallible."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-09",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.3",
+    "question": "Which interference/amnesia statements are accurate? (Select all that apply.)",
+    "options": [
+      "Proactive: old → blocks new.",
+      "Retroactive: new → blocks old.",
+      "Retrograde amnesia: trouble with pre-onset memories.",
+      "Anterograde amnesia: trouble forming new LTMs.",
+      "Interference only happens for procedural riding skills, never words."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Classic interference and amnesia contrasts (§8.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: proactive.",
+      "1": "Correct to select: retroactive.",
+      "2": "Correct to select: retrograde.",
+      "3": "Correct to select: anterograde.",
+      "4": "Trap: verbal learning shows interference too."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c8-l5-10",
+    "chapter": 8,
+    "level": 5,
+    "section": "§8.2–8.4",
+    "question": "Which memory-enhancement / brain claims are reasonable? (Select all that apply.)",
+    "options": [
+      "Spacing practice often beats massed cramming for long-term retention.",
+      "Retrieval practice (testing) can strengthen learning.",
+      "Hippocampus is implicated in forming many declarative memories.",
+      "Mnemonics can organize encoding.",
+      "Sleep is irrelevant to memory consolidation discussions."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Evidence-based study strategies + hippocampal role (§8.2–8.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: spacing.",
+      "1": "Correct to select: testing effect.",
+      "2": "Correct to select: hippocampus/declarative.",
+      "3": "Correct to select: mnemonics.",
+      "4": "Trap: sleep–memory links are discussed in the text’s broader cognitive framing."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-01",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.1",
+    "question": "Lifespan development studies:",
+    "options": [
+      "Only prenatal weeks, then stops",
+      "Change and continuity across the human life course",
+      "Only college exam skills",
+      "Only evolutionary history of dinosaurs"
+    ],
+    "correct": 1,
+    "correctFeedback": "Development spans the life course (§9.1).",
+    "wrongFeedback": {
+      "0": "Trap: too narrow.",
+      "2": "Trap: overspecific.",
+      "3": "Trap: wrong field."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-02",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.2",
+    "question": "Piaget’s sensorimotor stage is marked by:",
+    "options": [
+      "Abstract hypothetical-deductive reasoning as the first skill",
+      "Learning through senses and motor actions; object permanence emerges",
+      "Identity vs role confusion exclusively",
+      "Formal operations from birth"
+    ],
+    "correct": 1,
+    "correctFeedback": "Sensorimotor: sensing/acting; object permanence develops (§9.2).",
+    "wrongFeedback": {
+      "0": "Trap: formal operations feature.",
+      "2": "Trap: Erikson adolescent crisis.",
+      "3": "Trap: formal ops are later."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-03",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.2",
+    "question": "A child fails conservation of liquid after a tall pour. Piaget would place them before:",
+    "options": [
+      "Sensorimotor reflexes only",
+      "Concrete operational mastery of conservation",
+      "Trust vs mistrust",
+      "Postconventional Kohlberg Stage 6 exclusively"
+    ],
+    "correct": 1,
+    "correctFeedback": "Conservation is a concrete-operational achievement (§9.2).",
+    "wrongFeedback": {
+      "0": "Trap: wrong stage marker.",
+      "2": "Trap: Erikson infancy crisis.",
+      "3": "Trap: moral reasoning stage leap."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-04",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.2",
+    "question": "Erikson’s adolescence crisis is primarily:",
+    "options": [
+      "Integrity vs despair",
+      "Identity vs role confusion",
+      "Industry vs inferiority in midlife only",
+      "Generativity vs stagnation in infancy"
+    ],
+    "correct": 1,
+    "correctFeedback": "Adolescence: identity vs role confusion (§9.2).",
+    "wrongFeedback": {
+      "0": "Trap: late adulthood.",
+      "2": "Trap: industry is childhood; midlife is generativity.",
+      "3": "Trap: swaps stages/ages."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-05",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.3",
+    "question": "Secure attachment in the Strange Situation is typically shown by:",
+    "options": [
+      "No distress and no seeking of caregiver ever",
+      "Distress at separation, comfort on reunion, caregiver as secure base.",
+      "Inconsolable anger with no recovery patterns studied",
+      "Avoidance as the definition of security"
+    ],
+    "correct": 1,
+    "correctFeedback": "Secure: upset then comforted; caregiver as secure base (§9.3).",
+    "wrongFeedback": {
+      "0": "Trap: more like avoidant extremes caricature.",
+      "2": "Trap: not the secure pattern.",
+      "3": "Trap: avoidance ≠ security."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-06",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.2",
+    "question": "Nature vs nurture in development is best framed as:",
+    "options": [
+      "Only genes matter",
+      "Only parenting scripts matter",
+      "Genes and environment interact across development",
+      "Development stops if either genes or environment exists"
+    ],
+    "correct": 2,
+    "correctFeedback": "Modern framing: interaction of biology and experience (§9.1–9.2).",
+    "wrongFeedback": {
+      "0": "Trap: nativist extreme.",
+      "1": "Trap: empiricist extreme.",
+      "3": "Trap: nonsense."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-07",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.4",
+    "question": "Kübler-Ross’s stages of dying are best treated as:",
+    "options": [
+      "A rigid universal ladder every dying person must climb in the same fixed order.",
+      "A descriptive model of common reactions, not a mandatory sequence for everyone.",
+      "Proof that grief is the same process as Piagetian formal operational reasoning.",
+      "An attachment-classification system based on Strange Situation reunion behavior."
+    ],
+    "correct": 1,
+    "correctFeedback": "Useful descriptive reactions—not a strict required sequence for everyone (§9.4).",
+    "wrongFeedback": {
+      "0": "Trap: over-rigid reading.",
+      "2": "Trap: category error.",
+      "3": "Trap: wrong construct."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-08",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.2",
+    "question": "Which Piaget stage matches are accurate? (Select all that apply.)",
+    "options": [
+      "Sensorimotor: object permanence developing",
+      "Preoperational: egocentrism/symbolic play common themes",
+      "Concrete operational: conservation",
+      "Formal operational: abstract/hypothetical reasoning",
+      "Formal operational: begins prenatally with rooting only"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Classic Piaget stage markers (§9.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: sensorimotor/object permanence.",
+      "1": "Correct to select: preoperational themes.",
+      "2": "Correct to select: concrete/conservation.",
+      "3": "Correct to select: formal/abstract.",
+      "4": "Trap: formal ops are adolescent/adult cognition, not prenatal reflexes."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-09",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.2–9.3",
+    "question": "Which developmental claims are sound? (Select all that apply.)",
+    "options": [
+      "Attachment patterns relate to caregiver responsiveness themes.",
+      "Teratogens can harm prenatal development.",
+      "Adolescence involves identity work in Erikson’s model.",
+      "Parenting style research discusses warmth and control dimensions.",
+      "Cognitive development is finished at birth with zero later change."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Prenatal risk, attachment, identity, parenting (§9.2–9.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: attachment–responsiveness.",
+      "1": "Correct to select: teratogens.",
+      "2": "Correct to select: adolescent identity.",
+      "3": "Correct to select: parenting dimensions.",
+      "4": "Trap: development continues."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c9-l5-10",
+    "chapter": 9,
+    "level": 5,
+    "section": "§9.1–9.2",
+    "question": "Which research-design ideas matter for development? (Select all that apply.)",
+    "options": [
+      "Longitudinal: same people over time",
+      "Cross-sectional: different ages at one time",
+      "Cohort effects can complicate cross-sectional age comparisons",
+      "Cross-sectional always proves within-person change",
+      "Continuous vs discontinuous change is a theoretical debate"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Designs and change debates in §9.1.",
+    "wrongFeedback": {
+      "0": "Correct to select: longitudinal.",
+      "1": "Correct to select: cross-sectional.",
+      "2": "Correct to select: cohort effects.",
+      "3": "Trap: cross-sectional doesn’t track within-person change.",
+      "4": "Correct to select: continuity debates."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-01",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.1",
+    "question": "Drive theory most emphasizes:",
+    "options": [
+      "Intrinsic curiosity only with no biology",
+      "Behavior pushing to reduce physiological unmet needs/tension",
+      "That incentives never matter",
+      "Maslow’s self-actualization as a stomach hormone"
+    ],
+    "correct": 1,
+    "correctFeedback": "Drives: reduce physiological tension/needs (§10.1).",
+    "wrongFeedback": {
+      "0": "Trap: ignores drive biology.",
+      "2": "Trap: incentives do matter in broader motivation.",
+      "3": "Trap: mash-up."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-02",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.1",
+    "question": "Intrinsic vs extrinsic motivation—best contrast?",
+    "options": [
+      "Intrinsic: for external rewards only; extrinsic: for inherent interest only",
+      "Intrinsic: inherent interest; extrinsic: separable outcomes/rewards.",
+      "They are identical to James–Lange emotion",
+      "Extrinsic always destroys all learning forever"
+    ],
+    "correct": 1,
+    "correctFeedback": "Intrinsic = inherent; extrinsic = external outcomes (§10.1).",
+    "wrongFeedback": {
+      "0": "Trap: swaps definitions.",
+      "2": "Trap: emotion theory confusion.",
+      "3": "Trap: overclaim about rewards."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-03",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.4",
+    "question": "James–Lange theory proposes emotions arise:",
+    "options": [
+      "Before any bodily change, purely as cognitive labels with no body",
+      "From perceiving bodily responses to emotion-eliciting events.",
+      "Only from Maslow’s hierarchy peaks",
+      "Only from Schachter’s two factors without arousal"
+    ],
+    "correct": 1,
+    "correctFeedback": "James–Lange: body response → felt emotion (§10.4).",
+    "wrongFeedback": {
+      "0": "Trap: more Cannon-ish / cognitive-first caricature.",
+      "2": "Trap: motivation hierarchy ≠ emotion sequence theory.",
+      "3": "Trap: two-factor needs arousal + label."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-04",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.4",
+    "question": "Schachter–Singer two-factor theory requires:",
+    "options": [
+      "Arousal plus cognitive label/appraisal",
+      "Facial feedback only with zero cognition",
+      "Drive reduction of thirst only",
+      "Yerkes–Dodson as a personality trait"
+    ],
+    "correct": 0,
+    "correctFeedback": "Two-factor: physiological arousal + cognitive interpretation (§10.4).",
+    "wrongFeedback": {
+      "1": "Trap: facial-feedback idea is different.",
+      "2": "Trap: hunger/thirst drive theory.",
+      "3": "Trap: arousal–performance function, not a trait label."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-05",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.1",
+    "question": "Yerkes–Dodson law most nearly says:",
+    "options": [
+      "Performance level is completely unrelated to arousal in every laboratory task.",
+      "Moderate arousal often aids peak performance; too little or too much can hurt.",
+      "Maximum panic always maximizes accuracy on complex problem-solving tasks.",
+      "Only extrinsic rewards can set arousal; intrinsic interest never changes it."
+    ],
+    "correct": 1,
+    "correctFeedback": "Inverted-U style arousal–performance relation (§10.1).",
+    "wrongFeedback": {
+      "0": "Trap: denies the relation.",
+      "2": "Trap: extreme arousal isn’t always best.",
+      "3": "Trap: over-narrows causes of arousal."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-06",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.2",
+    "question": "Set-point ideas about body weight suggest:",
+    "options": [
+      "Weight is infinitely plastic with no biological regulation talk",
+      "Biological regulatory mechanisms may defend a weight range",
+      "Hunger is only a cultural metaphor",
+      "Anorexia is identical to set-point theory success"
+    ],
+    "correct": 1,
+    "correctFeedback": "Set-point: regulatory defense of a weight range (§10.2).",
+    "wrongFeedback": {
+      "0": "Trap: ignores regulation.",
+      "2": "Trap: hunger has physiological bases.",
+      "3": "Trap: disorders ≠ proof the theory “succeeded.”"
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-07",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.4",
+    "question": "Cultural display rules primarily affect:",
+    "options": [
+      "Whether rods or cones fire in response to emotional faces in every culture.",
+      "When and how emotions are expressed as appropriate within a given culture.",
+      "Absolute auditory thresholds for detecting soft tones in a soundproof booth.",
+      "Random assignment rules used when running emotion experiments in the lab."
+    ],
+    "correct": 1,
+    "correctFeedback": "Display rules guide culturally appropriate expression (§10.4).",
+    "wrongFeedback": {
+      "0": "Trap: vision receptors.",
+      "2": "Trap: hearing thresholds.",
+      "3": "Trap: methods term."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-08",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.4",
+    "question": "Which emotion-theory statements are accurate? (Select all that apply.)",
+    "options": [
+      "James–Lange: body first, then emotion.",
+      "Cannon–Bard: bodily arousal and emotion experience more simultaneous/independent pathways framing.",
+      "Two-factor: arousal + label.",
+      "All theories deny any role for cognition forever.",
+      "Facial expressions have been studied as partly universal and partly culture-shaped."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Classic emotion theories + expression research (§10.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: James–Lange.",
+      "1": "Correct to select: Cannon–Bard framing.",
+      "2": "Correct to select: two-factor.",
+      "3": "Trap: two-factor centers cognition.",
+      "4": "Correct to select: universality + cultural shaping."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-09",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.1",
+    "question": "Which motivation claims fit the chapter? (Select all that apply.)",
+    "options": [
+      "Maslow proposed a hierarchy of needs.",
+      "Self-efficacy beliefs can influence motivation.",
+      "Incentives can pull behavior.",
+      "Drive reduction is the only modern account of all motivation.",
+      "Intrinsic motivation is doing something for inherent interest."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Hierarchy, efficacy, incentives, intrinsic (§10.1).",
+    "wrongFeedback": {
+      "0": "Correct to select: Maslow.",
+      "1": "Correct to select: self-efficacy.",
+      "2": "Correct to select: incentives.",
+      "3": "Trap: multiple theories coexist.",
+      "4": "Correct to select: intrinsic."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c10-l5-10",
+    "chapter": 10,
+    "level": 5,
+    "section": "§10.2–10.3",
+    "question": "Which statements are textbook-consistent? (Select all that apply.)",
+    "options": [
+      "Hunger involves physiological and psychological influences.",
+      "Sexual behavior/motivation is discussed as multiply determined.",
+      "Gender identity is the same construct as biological sex chromosomes in every sentence of the chapter.",
+      "Eating disorders involve serious health risks.",
+      "Metabolism and hormones can relate to energy regulation."
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Biopsychosocial complexity around hunger/sexuality; eating disorders are serious (§10.2–10.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: hunger multi-determined.",
+      "1": "Correct to select: sexuality multi-determined.",
+      "2": "Trap: chapter distinguishes related but not identical constructs.",
+      "3": "Correct to select: eating-disorder risks.",
+      "4": "Correct to select: metabolic/hormonal regulation."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-01",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.1",
+    "question": "Personality is best defined as:",
+    "options": [
+      "A single mood lasting about five minutes in one narrow situation.",
+      "Enduring traits and patterns guiding similar thought, feeling, and behavior.",
+      "Only Freudian slips counted as the whole of what personality means.",
+      "An IQ score treated as if it completely defined a person’s personality."
+    ],
+    "correct": 1,
+    "correctFeedback": "Personality: enduring characteristic patterns (§11.1).",
+    "wrongFeedback": {
+      "0": "Trap: transient state ≠ personality.",
+      "2": "Trap: too narrow.",
+      "3": "Trap: intelligence ≠ personality whole."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-02",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.2",
+    "question": "Freud’s id is primarily:",
+    "options": [
+      "The moral conscience",
+      "Pleasure-seeking unconscious drives",
+      "The reality-oriented mediator only",
+      "A Big Five trait"
+    ],
+    "correct": 1,
+    "correctFeedback": "Id: pleasure principle / unconscious drives (§11.2).",
+    "wrongFeedback": {
+      "0": "Trap: that is superego-ish.",
+      "2": "Trap: ego mediates reality.",
+      "3": "Trap: trait model, not Freud structure."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-03",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.4–11.5",
+    "question": "The Big Five trait openness most nearly involves:",
+    "options": [
+      "Orderliness and dutifulness only",
+      "Curiosity, imagination, and openness to experience",
+      "Sociability only",
+      "Emotional volatility only"
+    ],
+    "correct": 1,
+    "correctFeedback": "Openness: intellect/imagination/curiosity themes (§11.5ish Big Five).",
+    "wrongFeedback": {
+      "0": "Trap: conscientiousness.",
+      "2": "Trap: extraversion facet.",
+      "3": "Trap: neuroticism."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-04",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.3",
+    "question": "A behavioral genetic twin study finding higher MZ than DZ similarity for a trait most suggests:",
+    "options": [
+      "Genetic factors contribute nothing to measured personality trait differences.",
+      "Genetic factors contribute to individual differences (environment still matters).",
+      "Personality differences come only from parenting scripts with no genetic role.",
+      "Twin similarity proves projective inkblot scores equal Big Five inventories."
+    ],
+    "correct": 1,
+    "correctFeedback": "MZ>DZ similarity patterns support genetic influence alongside environment (§11.3).",
+    "wrongFeedback": {
+      "0": "Trap: opposite reading.",
+      "2": "Trap: denies genetics.",
+      "3": "Trap: methods ≠ definition."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-05",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.6",
+    "question": "Self-efficacy (Bandura) refers to:",
+    "options": [
+      "Belief in one’s capability to execute actions needed for desired outcomes.",
+      "Freud’s reaction formation applied to everyday goal setting and studying.",
+      "A projective inkblot score used as the definition of self-efficacy itself.",
+      "Maslow’s physiological needs treated as identical to Bandura’s self-efficacy."
+    ],
+    "correct": 0,
+    "correctFeedback": "Self-efficacy: perceived capability (§11.6 social-cognitive).",
+    "wrongFeedback": {
+      "1": "Trap: defense mechanism.",
+      "2": "Trap: assessment tool.",
+      "3": "Trap: wrong theory level."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-06",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.7",
+    "question": "Projective tests (e.g., Rorschach/TAT) mainly assume:",
+    "options": [
+      "People project unconscious material onto ambiguous stimuli",
+      "They are identical in reliability to all Big Five inventories always",
+      "They measure only reaction time",
+      "They replace the need for any ethics"
+    ],
+    "correct": 0,
+    "correctFeedback": "Projectives: ambiguous stimuli → projected content (§11.7/assessment).",
+    "wrongFeedback": {
+      "1": "Trap: reliability/validity debates exist; not automatic equality.",
+      "2": "Trap: not primarily RT tests.",
+      "3": "Trap: ethics still apply."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-07",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.2",
+    "question": "Defense mechanisms are:",
+    "options": [
+      "Conscious study strategies used only when preparing for an upcoming exam.",
+      "Unconscious strategies that reduce anxiety by distorting reality in some way.",
+      "Big Five agreeableness facets such as politeness and compassionate caring.",
+      "Operant reinforcement schedules that shape bar-pressing rates in a Skinner box."
+    ],
+    "correct": 1,
+    "correctFeedback": "Defenses: unconscious anxiety reduction via distortion (§11.2).",
+    "wrongFeedback": {
+      "0": "Trap: not merely conscious study tactics.",
+      "2": "Trap: trait taxonomy confusion.",
+      "3": "Trap: learning chapter."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-08",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.2–11.5",
+    "question": "Which personality approach matches are fair? (Select all that apply.)",
+    "options": [
+      "Psychodynamic: unconscious conflicts/early experience emphasis",
+      "Humanistic: growth, self-actualization, congruence themes",
+      "Trait: stable dimensions like Big Five",
+      "Social-cognitive: reciprocal interactions of person, behavior, environment",
+      "Trait theory claims personality changes every second with no stability"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Major perspectives in Ch 11.",
+    "wrongFeedback": {
+      "0": "Correct to select: psychodynamic.",
+      "1": "Correct to select: humanistic.",
+      "2": "Correct to select: trait.",
+      "3": "Correct to select: social-cognitive.",
+      "4": "Trap: traits assume relative stability."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-09",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.5",
+    "question": "Which Big Five labels are correct? (Select all that apply.)",
+    "options": [
+      "Conscientiousness: organized/responsible",
+      "Extraversion: outgoing/energetic",
+      "Agreeableness: cooperative/trusting",
+      "Neuroticism: emotional instability/anxiety vulnerability",
+      "Openness: preference for rigid routine with zero curiosity as the core definition"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "OCEAN traits (§11.5).",
+    "wrongFeedback": {
+      "0": "Correct to select: C.",
+      "1": "Correct to select: E.",
+      "2": "Correct to select: A.",
+      "3": "Correct to select: N.",
+      "4": "Trap: openness is curiosity/openness to experience, not rigid closedness."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c11-l5-10",
+    "chapter": 11,
+    "level": 5,
+    "section": "§11.6–11.7",
+    "question": "Which assessment claims are sound? (Select all that apply.)",
+    "options": [
+      "Self-report inventories are common for traits.",
+      "Reliability and validity matter for tests.",
+      "Cultural context can affect assessment interpretation.",
+      "A single projective response proves a DSM diagnosis alone.",
+      "Mischel sparked person–situation debate about cross-situational consistency."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Assessment quality + situationism debate (§11.6–11.7).",
+    "wrongFeedback": {
+      "0": "Correct to select: inventories.",
+      "1": "Correct to select: reliability/validity.",
+      "2": "Correct to select: culture.",
+      "3": "Trap: overclaim from one response.",
+      "4": "Correct to select: person–situation debate."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-01",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.1",
+    "question": "Social psychology most centrally studies:",
+    "options": [
+      "Neuron membrane potentials and action-potential thresholds exclusively.",
+      "How people think about, influence, and relate to one another in social contexts.",
+      "Only IQ psychometrics and standardization samples for intelligence testing.",
+      "Only sleep stages and circadian rhythms measured with overnight EEG records."
+    ],
+    "correct": 1,
+    "correctFeedback": "Social psych: thoughts, influence, relationships (§12.1).",
+    "wrongFeedback": {
+      "0": "Trap: biopsych.",
+      "2": "Trap: intelligence testing chapter.",
+      "3": "Trap: consciousness chapter."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-02",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.1",
+    "question": "Fundamental attribution error is:",
+    "options": [
+      "Overemphasizing situational causes for others’ behavior always",
+      "Over-weighting others’ dispositions while under-weighting situations.",
+      "Correctly balancing traits and situations every time",
+      "A type of classical CS"
+    ],
+    "correct": 1,
+    "correctFeedback": "FAE: over-disposition / under-situation for others (§12.1).",
+    "wrongFeedback": {
+      "0": "Trap: reverses FAE.",
+      "2": "Trap: FAE is a bias, not perfect balance.",
+      "3": "Trap: learning term."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-03",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.4",
+    "question": "Asch’s line studies primarily demonstrated:",
+    "options": [
+      "Obedience to harmful authority shocks",
+      "Conformity to a group’s wrong perceptual judgments",
+      "Bystander diffusion only",
+      "Cognitive dissonance from boring tasks"
+    ],
+    "correct": 1,
+    "correctFeedback": "Asch: conformity to incorrect group consensus (§12.4).",
+    "wrongFeedback": {
+      "0": "Trap: Milgram obedience.",
+      "2": "Trap: bystander research.",
+      "3": "Trap: Festinger dissonance paradigms."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-04",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.4",
+    "question": "Milgram’s obedience research most controversially showed:",
+    "options": [
+      "People never obey authority when orders conflict with personal morals.",
+      "Many delivered what they believed were severe shocks under authority pressure.",
+      "Participants conformed only to wrong line-length judgments in a group setting.",
+      "IRBs afterward banned every form of social psychology experiment permanently."
+    ],
+    "correct": 1,
+    "correctFeedback": "Milgram: high obedience to authority instructions (§12.4).",
+    "wrongFeedback": {
+      "0": "Trap: opposite finding.",
+      "2": "Trap: Asch paradigm.",
+      "3": "Trap: ethics reformed research; didn’t erase the field."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-05",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.3",
+    "question": "Cognitive dissonance is discomfort from:",
+    "options": [
+      "Holding inconsistent cognitions or behaviors, often motivating change to reduce discomfort.",
+      "Maintaining perfect consistency among attitudes and actions in every situation.",
+      "Responding only to peripheral advertising cues such as celebrity endorsements.",
+      "Achieving successful groupthink outcomes in highly cohesive decision-making teams."
+    ],
+    "correct": 0,
+    "correctFeedback": "Dissonance: inconsistency → aversive arousal → change (§12.3).",
+    "wrongFeedback": {
+      "1": "Trap: dissonance is about inconsistency.",
+      "2": "Trap: ELM route, different topic.",
+      "3": "Trap: groupthink is flawed cohesion."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-06",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.5",
+    "question": "Stereotype vs prejudice vs discrimination—best sketch?",
+    "options": [
+      "Stereotype: behavior; prejudice: belief; discrimination: feeling",
+      "Stereotype: cognitive belief; prejudice: attitude/affect; discrimination: behavior",
+      "All three are identical to obedience",
+      "Discrimination is only private thoughts"
+    ],
+    "correct": 1,
+    "correctFeedback": "Belief / attitude / behavior distinction (§12.5).",
+    "wrongFeedback": {
+      "0": "Trap: swaps components.",
+      "2": "Trap: collapses constructs.",
+      "3": "Trap: discrimination is behavior."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-07",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.7",
+    "question": "Diffusion of responsibility helps explain:",
+    "options": [
+      "Why larger bystander groups can reduce individual helping",
+      "Why FAE never occurs",
+      "Why Asch had no confederates",
+      "Why attitudes always predict behavior perfectly"
+    ],
+    "correct": 0,
+    "correctFeedback": "More people → each feels less responsible to help (§12.7).",
+    "wrongFeedback": {
+      "1": "Trap: unrelated.",
+      "2": "Trap: false history.",
+      "3": "Trap: attitude–behavior gap exists."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-08",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.4",
+    "question": "Which social-influence matches are correct? (Select all that apply.)",
+    "options": [
+      "Conformity: yielding to group pressure/norms",
+      "Compliance: agreeing to a direct request",
+      "Obedience: following orders from authority",
+      "Normative influence: desire for acceptance",
+      "Informational influence: believing the group knows better"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "All are standard distinctions (§12.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: conformity.",
+      "1": "Correct to select: compliance.",
+      "2": "Correct to select: obedience.",
+      "3": "Correct to select: normative.",
+      "4": "Correct to select: informational."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-09",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.1–12.3",
+    "question": "Which attribution/attitude claims are sound? (Select all that apply.)",
+    "options": [
+      "Situational attributions cite external factors.",
+      "Dispositional attributions cite internal traits.",
+      "Self-serving bias credits self for success, blames situation for failure (common pattern).",
+      "Central route persuasion uses deep message scrutiny.",
+      "Peripheral route means the audience always analyzes arguments carefully."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Attribution biases + ELM routes (§12.1–12.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: situational.",
+      "1": "Correct to select: dispositional.",
+      "2": "Correct to select: self-serving pattern.",
+      "3": "Correct to select: central route.",
+      "4": "Trap: peripheral uses cues, not deep scrutiny."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c12-l5-10",
+    "chapter": 12,
+    "level": 5,
+    "section": "§12.5–12.7",
+    "question": "Which intergroup/prosocial statements fit? (Select all that apply.)",
+    "options": [
+      "In-group bias favors one’s own group.",
+      "Scapegoating blames out-groups for problems.",
+      "Prosocial behavior aims to help others.",
+      "Altruism debates whether helping is ever unselfish.",
+      "Prejudice is identical to a neuron’s action potential."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Prejudice dynamics + helping (§12.5–12.7).",
+    "wrongFeedback": {
+      "0": "Correct to select: in-group bias.",
+      "1": "Correct to select: scapegoating.",
+      "2": "Correct to select: prosocial.",
+      "3": "Correct to select: altruism debates.",
+      "4": "Trap: category error."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-01",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.1",
+    "question": "I-O psychology primarily applies psychology to:",
+    "options": [
+      "Only childhood attachment classifications from the Strange Situation procedure.",
+      "Workplace behavior: selection, performance, and organizational life.",
+      "Only Freudian dream interpretation in executive coaching sessions at work.",
+      "Only clinical assessment of sleep apnea in occupational health clinics."
+    ],
+    "correct": 1,
+    "correctFeedback": "I-O: work/organizational applications (§13.1).",
+    "wrongFeedback": {
+      "0": "Trap: developmental.",
+      "2": "Trap: clinical/psychoanalytic caricature.",
+      "3": "Trap: health/sleep specialty."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-02",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.2",
+    "question": "Job analysis is used mainly to:",
+    "options": [
+      "Identify tasks and KSAOs for a job to guide selection and performance appraisal.",
+      "Measure REM cycles of employees as the main basis for promotion decisions.",
+      "Replace all performance feedback forever with a single automated ranking score.",
+      "Prove that a correlation between tenure and pay equals a causal hiring rule."
+    ],
+    "correct": 0,
+    "correctFeedback": "Job analysis → duties and requirements for HR systems (§13.2).",
+    "wrongFeedback": {
+      "1": "Trap: sleep measure.",
+      "2": "Trap: overclaim.",
+      "3": "Trap: methods fallacy."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-03",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.2",
+    "question": "Structured interviews typically improve selection by:",
+    "options": [
+      "Asking different random questions to each applicant with no scoring rubric",
+      "Job-related questions asked consistently with standardized scoring.",
+      "Ignoring job analysis",
+      "Selecting only by handshake firmness"
+    ],
+    "correct": 1,
+    "correctFeedback": "Structure + job relevance boost reliability/validity (§13.2).",
+    "wrongFeedback": {
+      "0": "Trap: that’s unstructured chaos.",
+      "2": "Trap: analysis informs content.",
+      "3": "Trap: weak cue."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-04",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.3",
+    "question": "Organizational commitment and job satisfaction research most often links to:",
+    "options": [
+      "Random unrelated moods that have no meaning for workplace outcomes at all.",
+      "Employee attitudes linked to retention, performance contexts, and well-being themes.",
+      "Only Freudian oral-stage fixation explaining every workplace conflict pattern.",
+      "Only retinal photoreceptor density predicting who stays in a job long term."
+    ],
+    "correct": 1,
+    "correctFeedback": "Attitudes at work relate to key organizational outcomes (§13.3).",
+    "wrongFeedback": {
+      "0": "Trap: denies relevance.",
+      "2": "Trap: wrong theory.",
+      "3": "Trap: vision biology."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-05",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.3",
+    "question": "Transactional vs transformational leadership—best sketch?",
+    "options": [
+      "Transactional: inspire via vision/charisma only; transformational: exchange rewards for performance only",
+      "Transactional = reward exchange; transformational = inspire/stimulate/consider.",
+      "They are identical to Theory X only",
+      "Leadership theories ban job analysis"
+    ],
+    "correct": 1,
+    "correctFeedback": "Transactional = exchange; transformational = inspire/stimulate/consider (§13.3).",
+    "wrongFeedback": {
+      "0": "Trap: swaps labels.",
+      "2": "Trap: Theory X/Y are separate motivation assumptions.",
+      "3": "Trap: nonsense."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-06",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.4",
+    "question": "Human factors / ergonomics focuses on:",
+    "options": [
+      "Designing tools and systems to fit human capabilities and reduce error risk.",
+      "Increasing work hours without redesigning tools, displays, or task structure.",
+      "Diagnosing schizophrenia using workplace attendance records as the main criterion.",
+      "Teaching phoneme discrimination to improve customer-service call pronunciation."
+    ],
+    "correct": 0,
+    "correctFeedback": "Human factors: fit design to humans (§13.4).",
+    "wrongFeedback": {
+      "1": "Trap: opposite of ergonomic aims.",
+      "2": "Trap: clinical disorders.",
+      "3": "Trap: language development."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-07",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.2",
+    "question": "A test used in hiring should primarily be:",
+    "options": [
+      "Unrelated to job tasks but entertaining enough to keep applicants engaged.",
+      "Reliable and valid for job-relevant KSAOs, with fairness considered in use.",
+      "Kept secret from any validation study so competitors cannot copy the items.",
+      "Based only on astrology charts matched to the job’s zodiac-related “fit.”"
+    ],
+    "correct": 1,
+    "correctFeedback": "Selection tools need reliability, validity, job relevance, fairness (§13.2).",
+    "wrongFeedback": {
+      "0": "Trap: lacks job relevance.",
+      "2": "Trap: validation matters.",
+      "3": "Trap: pseudoscience."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-08",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.1–13.2",
+    "question": "Which industrial psychology tasks fit? (Select all that apply.)",
+    "options": [
+      "Job analysis",
+      "Designing selection systems",
+      "Performance appraisal systems",
+      "Training needs assessment",
+      "Mapping only dream symbols of CEOs"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Core industrial side topics (§13.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: job analysis.",
+      "1": "Correct to select: selection.",
+      "2": "Correct to select: appraisal.",
+      "3": "Correct to select: training needs.",
+      "4": "Trap: not I-O industrial core."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-09",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.3",
+    "question": "Which organizational topics are chapter-consistent? (Select all that apply.)",
+    "options": [
+      "Motivation at work",
+      "Job satisfaction",
+      "Leadership styles",
+      "Teams and organizational culture themes",
+      "Only absolute sensory thresholds of keyboards"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Organizational psychology themes (§13.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: motivation.",
+      "1": "Correct to select: satisfaction.",
+      "2": "Correct to select: leadership.",
+      "3": "Correct to select: teams/culture.",
+      "4": "Trap: sensation chapter."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c13-l5-10",
+    "chapter": 13,
+    "level": 5,
+    "section": "§13.4",
+    "question": "Which human-factors claims are sound? (Select all that apply.)",
+    "options": [
+      "Poor design can increase human error.",
+      "Displays/controls should match human perceptual-motor limits.",
+      "Workplace safety benefits from ergonomic design.",
+      "Human factors ignores user cognition entirely.",
+      "Checklist/design interventions can reduce mistakes in complex systems."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "Ergonomics reduces error by fitting systems to people (§13.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: poor design → error.",
+      "1": "Correct to select: match human limits.",
+      "2": "Correct to select: safety.",
+      "3": "Trap: HF heavily uses cognition/perception.",
+      "4": "Correct to select: design/checklists help."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-01",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.1",
+    "question": "Lazarus’s cognitive appraisal view says stress depends heavily on:",
+    "options": [
+      "Only the objective event, never interpretation",
+      "How the person evaluates threat and coping resources.",
+      "Only Selye’s animal ulcers with no cognition",
+      "Only Type A speech rate"
+    ],
+    "correct": 1,
+    "correctFeedback": "Appraisal of threat/resources shapes stress (§14.1).",
+    "wrongFeedback": {
+      "0": "Trap: denies appraisal.",
+      "2": "Trap: GAS history ≠ full modern appraisal account.",
+      "3": "Trap: Type A is a related but different construct."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-02",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.1",
+    "question": "Selye’s General Adaptation Syndrome stages are:",
+    "options": [
+      "Alarm → resistance → exhaustion",
+      "Denial → anger → bargaining only",
+      "Encoding → storage → retrieval",
+      "Id → ego → superego"
+    ],
+    "correct": 0,
+    "correctFeedback": "GAS: alarm, resistance, exhaustion (§14.1).",
+    "wrongFeedback": {
+      "1": "Trap: Kübler-Ross.",
+      "2": "Trap: memory stages.",
+      "3": "Trap: Freud structures."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-03",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.2",
+    "question": "Daily hassles research suggests:",
+    "options": [
+      "Only major catastrophes—not everyday irritations—can create measurable stress.",
+      "Cumulative minor stressors can significantly affect well-being over time.",
+      "Daily hassles are identical to eustress and always improve performance.",
+      "Stressors cannot be social; only physical injuries count in stress research."
+    ],
+    "correct": 1,
+    "correctFeedback": "Hassles accumulate and matter (§14.2).",
+    "wrongFeedback": {
+      "0": "Trap: understates chronic minor stress.",
+      "2": "Trap: hassles aren’t automatically positive stress.",
+      "3": "Trap: many stressors are social."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-04",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.3",
+    "question": "Psychoneuroimmunology most directly links:",
+    "options": [
+      "Personality trait scores directly to shoe size in large survey samples.",
+      "Psychological stress processes to nervous-system and immune functioning.",
+      "Only operant reinforcement schedules to taste-bud density on the tongue.",
+      "Only IRB paperwork to circadian clock genes without stress physiology."
+    ],
+    "correct": 1,
+    "correctFeedback": "PNI: mind–nervous–immune interactions (§14.3).",
+    "wrongFeedback": {
+      "0": "Trap: nonsense.",
+      "2": "Trap: wrong systems.",
+      "3": "Trap: mash-up."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-05",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.4",
+    "question": "Problem-focused coping aims to:",
+    "options": [
+      "Change the emotional reaction only, never the problem",
+      "Acting to change the stressor or one’s relation to it.",
+      "Increase denial as the first gold-standard for all controllable problems",
+      "Eliminate the HPA axis surgically"
+    ],
+    "correct": 1,
+    "correctFeedback": "Problem-focused: act on the stressor/situation (§14.4).",
+    "wrongFeedback": {
+      "0": "Trap: that’s emotion-focused leaning.",
+      "2": "Trap: denial isn’t gold standard for controllable problems.",
+      "3": "Trap: absurd."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-06",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.3",
+    "question": "Type A behavior pattern historically emphasized:",
+    "options": [
+      "A relaxed, patient pace with little time urgency in daily work habits.",
+      "Competitive, hurried, hostile themes linked in research to heart-risk discussions.",
+      "High openness to experience with curiosity as the only defining feature.",
+      "Secure attachment in infancy treated as the definition of Type A adulthood."
+    ],
+    "correct": 1,
+    "correctFeedback": "Type A: competitive/time-urgent/hostile cluster (§14.3).",
+    "wrongFeedback": {
+      "0": "Trap: Type B-ish.",
+      "2": "Trap: Big Five openness.",
+      "3": "Trap: development/attachment."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-07",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.5",
+    "question": "Positive psychology (Seligman et al.) emphasizes:",
+    "options": [
+      "Only disorder catalogs and symptom checklists without studying strengths.",
+      "Strengths and well-being research alongside—not instead of—suffering research.",
+      "A rule that happiness is illegal to measure in psychological laboratories.",
+      "A claim that cognitive appraisal of threat never matters for stress outcomes."
+    ],
+    "correct": 1,
+    "correctFeedback": "Positive psych studies strengths/well-being (§14.5).",
+    "wrongFeedback": {
+      "0": "Trap: too clinical-narrow.",
+      "2": "Trap: nonsense.",
+      "3": "Trap: appraisal is central earlier in chapter."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-08",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.1–14.2",
+    "question": "Which stress concepts are accurate? (Select all that apply.)",
+    "options": [
+      "Primary appraisal: is it a threat/challenge?",
+      "Secondary appraisal: what can I do / what resources do I have?",
+      "Eustress can be beneficial/activating stress.",
+      "Distress is typically harmful/overwhelming stress.",
+      "Stressors are only physical injuries, never psychosocial."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Appraisal + eustress/distress (§14.1–14.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: primary appraisal.",
+      "1": "Correct to select: secondary appraisal.",
+      "2": "Correct to select: eustress.",
+      "3": "Correct to select: distress.",
+      "4": "Trap: many stressors are psychosocial."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-09",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.4",
+    "question": "Which coping/regulation claims fit? (Select all that apply.)",
+    "options": [
+      "Social support can buffer stress.",
+      "Exercise is often discussed as a stress-regulation aid.",
+      "Relaxation/meditation practices appear as regulation tools.",
+      "Emotion-focused coping can help when the stressor is not immediately controllable.",
+      "Perceived control is irrelevant to stress outcomes."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Support, lifestyle, and coping fit (§14.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: social support.",
+      "1": "Correct to select: exercise.",
+      "2": "Correct to select: relaxation/meditation.",
+      "3": "Correct to select: emotion-focused when control is low.",
+      "4": "Trap: control perceptions matter."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c14-l5-10",
+    "chapter": 14,
+    "level": 5,
+    "section": "§14.3–14.5",
+    "question": "Which health-psychology statements are sound? (Select all that apply.)",
+    "options": [
+      "Chronic stress can relate to health vulnerability.",
+      "Hostility components of Type A drew special heart-risk attention.",
+      "Happiness research examines factors linked to well-being.",
+      "Flow involves absorbed engagement in challenging activities.",
+      "Immune function is completely sealed off from psychological states."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Stress–health + well-being topics (§14.3–14.5).",
+    "wrongFeedback": {
+      "0": "Correct to select: chronic stress–health.",
+      "1": "Correct to select: hostility/heart risk.",
+      "2": "Correct to select: happiness research.",
+      "3": "Correct to select: flow.",
+      "4": "Trap: PNI argues linkage."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-01",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.1–15.2",
+    "question": "The DSM is primarily used to:",
+    "options": [
+      "Measure IQ only",
+      "Classify/diagnose mental disorders with criteria",
+      "Replace all psychotherapy",
+      "Prove causation for every disorder via correlation alone"
+    ],
+    "correct": 1,
+    "correctFeedback": "DSM: diagnostic classification system (§15.2).",
+    "wrongFeedback": {
+      "0": "Trap: testing chapter.",
+      "2": "Trap: diagnosis ≠ treatment replacement.",
+      "3": "Trap: methods fallacy."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-02",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.4",
+    "question": "Specific phobia involves:",
+    "options": [
+      "Excessive fear of a specific object/situation with avoidance",
+      "Only manic episodes",
+      "Only delusions of grandeur",
+      "Personality rigidity across all contexts as the sole feature"
+    ],
+    "correct": 0,
+    "correctFeedback": "Phobia: marked fear/avoidance of specific stimuli (§15.4).",
+    "wrongFeedback": {
+      "1": "Trap: bipolar mania.",
+      "2": "Trap: schizophrenia-related delusions.",
+      "3": "Trap: personality disorders broader."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-03",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.7",
+    "question": "Major depressive episode core features include:",
+    "options": [
+      "Only brief sadness lasting minutes with high mania",
+      "Persistent depressed mood and/or anhedonia with other key symptoms.",
+      "Always hallucinations by definition",
+      "Fear of heights exclusively"
+    ],
+    "correct": 1,
+    "correctFeedback": "Depression: enduring mood/anhedonia + accompanying symptoms (§15.7).",
+    "wrongFeedback": {
+      "0": "Trap: too brief / mixes mania.",
+      "2": "Trap: psychosis not required for MDD.",
+      "3": "Trap: phobia."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-04",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.8",
+    "question": "Schizophrenia is characterized especially by:",
+    "options": [
+      "Only chronic worry about many topics without psychotic features required.",
+      "Delusions/hallucinations and disorganization, often with negative symptoms.",
+      "Only alternating mania and depression defining the disorder by themselves.",
+      "Only intense fear of public speaking lasting a few minutes before a talk."
+    ],
+    "correct": 1,
+    "correctFeedback": "Schizophrenia: psychosis + disorganization + negative symptoms themes (§15.8).",
+    "wrongFeedback": {
+      "0": "Trap: GAD-ish.",
+      "2": "Trap: bipolar mood cycling.",
+      "3": "Trap: social anxiety/phobia."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-05",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.6",
+    "question": "PTSD requires:",
+    "options": [
+      "Trauma plus intrusion, avoidance, mood/cognition, and arousal symptoms over time.",
+      "Only one unpleasant dream with no other lasting symptom clusters afterward.",
+      "Manic spending sprees as the required core feature instead of trauma exposure.",
+      "Dissociative identity disorder required as a mandatory co-diagnosis for PTSD."
+    ],
+    "correct": 0,
+    "correctFeedback": "PTSD: trauma + symptom clusters over time (§15.6).",
+    "wrongFeedback": {
+      "1": "Trap: insufficient.",
+      "2": "Trap: bipolar feature.",
+      "3": "Trap: DID is separate."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-06",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.3",
+    "question": "Diathesis–stress models propose disorders emerge from:",
+    "options": [
+      "Vulnerability plus stressor interactions",
+      "Stress alone with zero vulnerability differences",
+      "Genes alone with zero environment",
+      "Only bad parenting myths with no biology"
+    ],
+    "correct": 0,
+    "correctFeedback": "Diathesis (predisposition) × stress (§15.3).",
+    "wrongFeedback": {
+      "1": "Trap: ignores diathesis.",
+      "2": "Trap: ignores stress/environment.",
+      "3": "Trap: incomplete and biased."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-07",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.11",
+    "question": "Antisocial personality disorder emphasizes:",
+    "options": [
+      "Excessive social anxiety and avoidance of evaluation in everyday groups.",
+      "Pervasive disregard for others’ rights with deceit and low remorse patterns.",
+      "Only obsessions without any compulsive rituals across many hours each day.",
+      "Only elevated mood lasting about one hour after receiving good news once."
+    ],
+    "correct": 1,
+    "correctFeedback": "ASPD: chronic antisocial pattern (§15.11).",
+    "wrongFeedback": {
+      "0": "Trap: social anxiety.",
+      "2": "Trap: OCD spectrum.",
+      "3": "Trap: mood episode caricature."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-08",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.4–15.6",
+    "question": "Which anxiety-related matches are correct? (Select all that apply.)",
+    "options": [
+      "Panic disorder: recurrent unexpected panic attacks + concern/change",
+      "GAD: persistent excessive worry across domains",
+      "OCD: obsessions and/or compulsions that are time-consuming/distressing",
+      "Specific phobia: marked fear of a circumscribed stimulus",
+      "PTSD: requires mania by definition"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Anxiety/OCD/trauma distinctions (§15.4–15.6).",
+    "wrongFeedback": {
+      "0": "Correct to select: panic.",
+      "1": "Correct to select: GAD.",
+      "2": "Correct to select: OCD.",
+      "3": "Correct to select: specific phobia.",
+      "4": "Trap: PTSD ≠ mania requirement."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-09",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.7–15.8",
+    "question": "Which mood/psychosis statements are sound? (Select all that apply.)",
+    "options": [
+      "Bipolar I involves manic episodes (depression often co-occurs in course).",
+      "Persistent depressive patterns differ from a single brief sad day.",
+      "Hallucinations are percepts without external stimulus.",
+      "Delusions are fixed false beliefs resistant to contrary evidence.",
+      "Negative symptoms of schizophrenia include flat affect/avolition themes."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "All align with chapter clinical descriptions.",
+    "wrongFeedback": {
+      "0": "Correct to select: bipolar mania.",
+      "1": "Correct to select: depression duration/severity matters.",
+      "2": "Correct to select: hallucinations.",
+      "3": "Correct to select: delusions.",
+      "4": "Correct to select: negative symptoms."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c15-l5-10",
+    "chapter": 15,
+    "level": 5,
+    "section": "§15.1–15.3",
+    "question": "Which classification/etiology claims fit OpenStax framing? (Select all that apply.)",
+    "options": [
+      "Disorders involve dysfunction, distress/disability themes—not mere uniqueness.",
+      "Comorbidity means co-occurrence of disorders.",
+      "Biological, psychological, and sociocultural factors can all contribute.",
+      "Labeling can carry stigma risks as well as communication benefits.",
+      "Hearing voices once while falling asleep always equals schizophrenia."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Definition, comorbidity, biopsychosocial, stigma (§15.1–15.3).",
+    "wrongFeedback": {
+      "0": "Correct to select: dysfunction/distress framing.",
+      "1": "Correct to select: comorbidity.",
+      "2": "Correct to select: biopsychosocial.",
+      "3": "Correct to select: stigma tradeoffs.",
+      "4": "Trap: hypnagogic experiences ≠ automatic diagnosis."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-01",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.1",
+    "question": "Historically, asylums often emphasized:",
+    "options": [
+      "Community outpatient CBT as the first universal standard",
+      "Custodial confinement more than modern evidence-based psychotherapy.",
+      "Only human factors ergonomics",
+      "Only positive psychology coaching"
+    ],
+    "correct": 1,
+    "correctFeedback": "Early institutional care was often custodial (§16.1).",
+    "wrongFeedback": {
+      "0": "Trap: modern therapy not historically first-line everywhere.",
+      "2": "Trap: I-O human factors.",
+      "3": "Trap: well-being coaching ≠ asylum history."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-02",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.2",
+    "question": "Cognitive therapy most directly targets:",
+    "options": [
+      "Only unconscious dream symbols",
+      "Maladaptive thoughts/beliefs that maintain distress",
+      "Only token economies without cognition",
+      "Only antipsychotic receptor blockade as talk therapy"
+    ],
+    "correct": 1,
+    "correctFeedback": "Cognitive therapy: change thinking patterns (§16.2).",
+    "wrongFeedback": {
+      "0": "Trap: psychoanalytic dream focus.",
+      "2": "Trap: pure behavioral contingency systems.",
+      "3": "Trap: biomedical drug action ≠ cognitive talk therapy."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-03",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.2",
+    "question": "Systematic desensitization is primarily a treatment for:",
+    "options": [
+      "Mania via sleep deprivation",
+      "Phobias/anxiety via gradual exposure paired with relaxation.",
+      "Schizophrenia negative symptoms via free association only",
+      "ASPD via inkblots"
+    ],
+    "correct": 1,
+    "correctFeedback": "Desensitization: graded exposure + relaxation for fear (§16.2).",
+    "wrongFeedback": {
+      "0": "Trap: wrong problem/method.",
+      "2": "Trap: wrong modality for that claim.",
+      "3": "Trap: projective ≠ ASPD cure."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-04",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.2",
+    "question": "SSRIs are examples of:",
+    "options": [
+      "Humanistic empty-chair techniques",
+      "Biomedical / psychopharmacological treatments",
+      "Asch conformity pressures",
+      "Job analysis tools"
+    ],
+    "correct": 1,
+    "correctFeedback": "Medications are biomedical treatments (§16.2).",
+    "wrongFeedback": {
+      "0": "Trap: Gestalt/humanistic technique family.",
+      "2": "Trap: social influence.",
+      "3": "Trap: I-O method."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-05",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.2",
+    "question": "Rogers’s client-centered therapy emphasizes:",
+    "options": [
+      "Unconditional positive regard, empathy, and genuineness",
+      "Aversive shock for all clients",
+      "Only challenging automatic thoughts with worksheets as the sole tool",
+      "Interpreter of latent dream content as mandatory"
+    ],
+    "correct": 0,
+    "correctFeedback": "Humanistic core conditions (§16.2).",
+    "wrongFeedback": {
+      "1": "Trap: not Rogers.",
+      "2": "Trap: more CBT.",
+      "3": "Trap: more psychoanalytic."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-06",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.3",
+    "question": "Group therapy’s distinctive potential benefit is:",
+    "options": [
+      "Guaranteed faster SSRI metabolism",
+      "Interpersonal learning/support among members with shared concerns",
+      "Elimination of confidentiality considerations",
+      "Replacement of all individual assessment"
+    ],
+    "correct": 1,
+    "correctFeedback": "Groups offer interpersonal learning and mutual support (§16.3).",
+    "wrongFeedback": {
+      "0": "Trap: pharmacology nonsense.",
+      "2": "Trap: confidentiality still matters.",
+      "3": "Trap: overclaim."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-07",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.5",
+    "question": "Barriers to treatment commonly include:",
+    "options": [
+      "Unlimited free access with zero stigma worldwide",
+      "Stigma, cost, access, and cultural mistrust.",
+      "Only too many therapists per block",
+      "IRBs forbidding all therapy"
+    ],
+    "correct": 1,
+    "correctFeedback": "Utilization barriers: stigma/cost/access/culture (§16.5).",
+    "wrongFeedback": {
+      "0": "Trap: unrealistic utopia.",
+      "2": "Trap: opposite of shortage/access issues.",
+      "3": "Trap: false."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-08",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.2",
+    "question": "Which therapy–target matches are reasonable? (Select all that apply.)",
+    "options": [
+      "CBT: thoughts, behaviors, and emotions interplay",
+      "Behavioral therapy: contingencies, exposure, skills",
+      "Psychodynamic: unconscious conflicts/patterns",
+      "Biomedical: medications/procedures",
+      "Humanistic: growth and therapeutic relationship conditions"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "type": "multi",
+    "correctFeedback": "All are standard modality sketches (§16.2).",
+    "wrongFeedback": {
+      "0": "Correct to select: CBT.",
+      "1": "Correct to select: behavioral.",
+      "2": "Correct to select: psychodynamic.",
+      "3": "Correct to select: biomedical.",
+      "4": "Correct to select: humanistic."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-09",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.2–16.4",
+    "question": "Which treatment claims are sound? (Select all that apply.)",
+    "options": [
+      "Evidence-based practice integrates research, clinical expertise, and client characteristics.",
+      "Exposure is central in many anxiety treatments.",
+      "Medication can be first-line or adjunct depending on disorder/guidelines.",
+      "Substance-use treatment may combine psychosocial and biomedical elements.",
+      "One session of any therapy cures every DSM disorder permanently."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "EBP + modality facts; E overclaims (§16.2–16.4).",
+    "wrongFeedback": {
+      "0": "Correct to select: EBP triad.",
+      "1": "Correct to select: exposure.",
+      "2": "Correct to select: meds role varies.",
+      "3": "Correct to select: combined SUD care.",
+      "4": "Trap: magical one-session cure myth."
+    },
+    "mode": "mock"
+  },
+  {
+    "id": "c16-l5-10",
+    "chapter": 16,
+    "level": 5,
+    "section": "§16.3–16.5",
+    "question": "Which sociocultural/utilization statements fit? (Select all that apply.)",
+    "options": [
+      "Family therapy treats the system, not only one identified patient in isolation.",
+      "Cultural competence matters for engagement and formulation.",
+      "Involuntary treatment raises ethical/legal tradeoffs.",
+      "Stigma can deter help-seeking.",
+      "Access barriers are purely imaginary in all communities."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "type": "multi",
+    "correctFeedback": "Modalities + sociocultural utilization (§16.3–16.5).",
+    "wrongFeedback": {
+      "0": "Correct to select: family systems focus.",
+      "1": "Correct to select: cultural competence.",
+      "2": "Correct to select: involuntary care dilemmas.",
+      "3": "Correct to select: stigma barrier.",
+      "4": "Trap: access barriers are real."
+    },
+    "mode": "mock"
+  }
+]

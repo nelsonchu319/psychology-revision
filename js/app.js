@@ -60,14 +60,31 @@
     return "c" + ch + "-l" + lv + "-" + Math.abs(hash).toString(36);
   }
 
+  function isMultiQuestion(q) {
+    return !!(q && (q.type === "multi" || Array.isArray(q.correct)));
+  }
+
+  function correctSet(q) {
+    if (!q) return [];
+    if (Array.isArray(q.correct)) return q.correct.slice().map(Number).sort(function (a, b) { return a - b; });
+    return [Number(q.correct)];
+  }
+
+  function setsEqual(a, b) {
+    if (!a || !b || a.length !== b.length) return false;
+    for (var i = 0; i < a.length; i++) if (Number(a[i]) !== Number(b[i])) return false;
+    return true;
+  }
+
   function recordWrongAnswer(q, chosen) {
     if (!q) return;
     var id = ensureQuestionId(q);
     var list = loadWrongBook().filter(function (e) {
       return e.id !== id;
     });
+    var multi = isMultiQuestion(q);
     var wf = null;
-    if (q.wrongFeedback) {
+    if (!multi && q.wrongFeedback) {
       wf =
         q.wrongFeedback[chosen] ||
         q.wrongFeedback[String(chosen)] ||
@@ -81,8 +98,10 @@
       page: q.page != null ? q.page : null,
       question: q.question,
       options: q.options.slice(),
-      correct: q.correct,
+      correct: multi ? correctSet(q) : q.correct,
       chosen: chosen,
+      type: multi ? "multi" : (q.type || "single"),
+      mode: q.mode || null,
       correctFeedback: q.correctFeedback || "",
       wrongFeedback: wf || "",
       wrongFeedbackMap: q.wrongFeedback || null,
@@ -318,7 +337,8 @@
       pool: [],
       index: 0,
       correct: 0,
-      answered: false
+      answered: false,
+      multiSelected: {}
     };
 
     var maxCh = 1;
@@ -369,10 +389,11 @@
         1: "Level 1 · Factual",
         2: "Level 2 · Theoretical",
         3: "Level 3 · Application",
-        4: "Level 4 · Cross-topic"
+        4: "Level 4 · Cross-topic",
+        5: "Level 5 · Mock"
       };
       var html = "";
-      for (var lv = 1; lv <= 4; lv++) {
+      for (var lv = 1; lv <= 5; lv++) {
         if (!hasLevel(lv)) continue;
         html +=
           '<button type="button" class="level-pill" data-level="' +
@@ -383,7 +404,7 @@
       }
       levelsEl.innerHTML = html;
       if (!hasLevel(state.level)) {
-        for (var tryLv = 1; tryLv <= 4; tryLv++) {
+        for (var tryLv = 1; tryLv <= 5; tryLv++) {
           if (hasLevel(tryLv)) {
             state.level = tryLv;
             break;
@@ -391,7 +412,7 @@
         }
       }
       levelsEl.querySelectorAll(".level-pill").forEach(function (b) {
-        b.classList.remove("active-l1", "active-l2", "active-l3", "active-l4");
+        b.classList.remove("active-l1", "active-l2", "active-l3", "active-l4", "active-l5");
         if (parseInt(b.getAttribute("data-level"), 10) === state.level) {
           b.classList.add("active-l" + state.level);
         }
@@ -405,7 +426,7 @@
       if (!btn) return;
       state.level = parseInt(btn.getAttribute("data-level"), 10);
       levelsEl.querySelectorAll(".level-pill").forEach(function (b) {
-        b.classList.remove("active-l1", "active-l2", "active-l3", "active-l4");
+        b.classList.remove("active-l1", "active-l2", "active-l3", "active-l4", "active-l5");
       });
       btn.classList.add("active-l" + state.level);
     });
@@ -484,32 +505,61 @@
       }
 
       state.answered = false;
+      state.multiSelected = {};
       var q = state.pool[state.index];
       updateProgress();
 
-      var opts = q.options
-        .map(function (opt, i) {
-          return (
-            '<button type="button" class="option-btn" data-idx="' +
-            i +
-            '"><span class="opt-letter">' +
-            letter(i) +
-            ".</span> " +
-            escapeHtml(opt) +
-            "</button>"
-          );
-        })
-        .join("");
+      var multi = isMultiQuestion(q);
+      var opts;
+      if (multi) {
+        opts = q.options
+          .map(function (opt, i) {
+            return (
+              '<label class="ms-statement qz-ms" data-idx="' +
+              i +
+              '">' +
+              '<input type="checkbox" data-idx="' +
+              i +
+              '" />' +
+              '<span class="ms-letter">' +
+              letter(i) +
+              ".</span>" +
+              '<span class="ms-text">' +
+              escapeHtml(opt) +
+              "</span>" +
+              "</label>"
+            );
+          })
+          .join("");
+      } else {
+        opts = q.options
+          .map(function (opt, i) {
+            return (
+              '<button type="button" class="option-btn" data-idx="' +
+              i +
+              '"><span class="opt-letter">' +
+              letter(i) +
+              ".</span> " +
+              escapeHtml(opt) +
+              "</button>"
+            );
+          })
+          .join("");
+      }
 
       bodyEl.innerHTML =
         '<div class="question-box">' +
         '<div class="q-meta">' +
         '<span class="level-tag l' +
         q.level +
-        '">Level ' +
-        q.level +
-        (q.level === 4 ? " · Cross" : "") +
+        '">' +
+        (q.level === 5
+          ? "Level 5 · Mock"
+          : q.level === 4
+            ? "Level 4 · Cross"
+            : "Level " + q.level) +
         "</span>" +
+        (multi ? '<span class="level-tag l5">Multi-select</span>' : "") +
         "<span>Chapter " +
         q.chapter +
         "</span>" +
@@ -517,21 +567,163 @@
         "</div>" +
         '<div class="question-text">' +
         escapeHtml(q.question) +
+        (multi
+          ? '<div class="cmap-detail" style="margin-top:0.4rem;font-weight:400">Select all that apply · exact-set scoring</div>'
+          : "") +
         "</div>" +
-        '<div class="options">' +
+        (multi ? '<div class="ms-statements">' : '<div class="options">') +
         opts +
         "</div>" +
+        (multi
+          ? '<div class="quiz-actions" id="qz-check-wrap"><button type="button" class="btn-primary" id="qz-check">Check exact set</button></div>'
+          : "") +
         '<div class="feedback" id="qz-fb"></div>' +
         '<div class="quiz-actions" id="qz-next-wrap" style="display:none">' +
         '<button type="button" class="btn-primary" id="qz-next">Next</button>' +
         "</div></div>";
 
-      bodyEl.querySelectorAll(".option-btn").forEach(function (btn) {
-        btn.addEventListener("click", function () {
-          if (state.answered) return;
-          onAnswer(q, parseInt(btn.getAttribute("data-idx"), 10), btn);
+      if (multi) {
+        bodyEl.querySelectorAll(".qz-ms input").forEach(function (inp) {
+          inp.addEventListener("change", function () {
+            if (state.answered) return;
+            var idx = parseInt(inp.getAttribute("data-idx"), 10);
+            state.multiSelected[idx] = inp.checked;
+            inp.closest(".ms-statement").classList.toggle("picked", inp.checked);
+          });
         });
+        bodyEl.querySelector("#qz-check").addEventListener("click", function () {
+          if (state.answered) return;
+          var chosen = [];
+          Object.keys(state.multiSelected).forEach(function (k) {
+            if (state.multiSelected[k]) chosen.push(parseInt(k, 10));
+          });
+          chosen.sort(function (a, b) { return a - b; });
+          onMultiAnswer(q, chosen);
+        });
+      } else {
+        bodyEl.querySelectorAll(".option-btn").forEach(function (btn) {
+          btn.addEventListener("click", function () {
+            if (state.answered) return;
+            onAnswer(q, parseInt(btn.getAttribute("data-idx"), 10), btn);
+          });
+        });
+      }
+    }
+
+    function pageRefHtml(q) {
+      return q.page
+        ? '<div class="page-ref">OpenStax Psychology 2e · p. ' +
+          escapeHtml(String(q.page)) +
+          (q.section ? " · " + escapeHtml(q.section) : "") +
+          "</div>"
+        : "";
+    }
+
+    function showNext() {
+      updateProgress();
+      var nextWrap = bodyEl.querySelector("#qz-next-wrap");
+      nextWrap.style.display = "flex";
+      bodyEl.querySelector("#qz-next").addEventListener("click", function () {
+        state.index++;
+        renderQuestion();
       });
+    }
+
+    function onMultiAnswer(q, chosen) {
+      state.answered = true;
+      var need = correctSet(q);
+      var exact = setsEqual(chosen, need);
+      var needSet = {};
+      need.forEach(function (i) { needSet[i] = true; });
+      var chosenSet = {};
+      chosen.forEach(function (i) { chosenSet[i] = true; });
+      var fb = bodyEl.querySelector("#qz-fb");
+      var trapLines = [];
+
+      q.options.forEach(function (opt, i) {
+        var lab = bodyEl.querySelector('.qz-ms[data-idx="' + i + '"]');
+        if (!lab) return;
+        var inp = lab.querySelector("input");
+        if (inp) inp.disabled = true;
+        lab.classList.add("revealed");
+        var should = !!needSet[i];
+        var sel = !!chosenSet[i];
+        var userNote = "";
+        if (should && sel) {
+          lab.classList.add("mark-correct");
+          userNote = "You selected this";
+        } else if (!should && sel) {
+          lab.classList.add("mark-wrong-sel");
+          userNote = "You selected this";
+        } else if (should && !sel) {
+          lab.classList.add("mark-missed");
+          userNote = "You missed this";
+        } else {
+          lab.classList.add("mark-ok-unchecked");
+          userNote = "You left this unchecked";
+        }
+        var verdict = should ? "Correct to select" : "Correct to leave unchecked";
+        var verdictClass = should ? "ms-verdict-select" : "ms-verdict-leave";
+        var userClass = should === sel ? "ms-user-ok" : "ms-user-err";
+        var expl =
+          (q.wrongFeedback && (q.wrongFeedback[i] || q.wrongFeedback[String(i)])) ||
+          (should
+            ? "This belongs in the correct set."
+            : "This is a trap option and should stay unchecked.");
+        var block = document.createElement("div");
+        block.className = "ms-explain-block";
+        block.innerHTML =
+          '<div class="ms-explain-meta">' +
+          '<span class="ms-verdict ' +
+          verdictClass +
+          '">' +
+          letter(i) +
+          " · " +
+          verdict +
+          "</span>" +
+          '<span class="ms-user-note ' +
+          userClass +
+          '">' +
+          userNote +
+          "</span>" +
+          "</div>" +
+          '<p class="ms-explain-body">' +
+          escapeHtml(expl) +
+          "</p>";
+        lab.appendChild(block);
+        trapLines.push(letter(i) + ": " + expl);
+      });
+
+      var checkWrap = bodyEl.querySelector("#qz-check-wrap");
+      if (checkWrap) checkWrap.style.display = "none";
+
+      if (exact) {
+        state.correct++;
+        fb.className = "feedback show ok";
+        fb.innerHTML =
+          '<div class="fb-title">Exact match</div><div>' +
+          escapeHtml(q.correctFeedback || "You selected precisely the correct set.") +
+          "</div>" +
+          pageRefHtml(q);
+        if (cfg.onCorrectRemoveWrong) {
+          removeWrongById(ensureQuestionId(q));
+        }
+      } else {
+        fb.className = "feedback show bad";
+        fb.innerHTML =
+          '<div class="fb-title">Not an exact match</div><div>' +
+          escapeHtml(
+            q.correctFeedback
+              ? q.correctFeedback
+              : "Green = correctly selected; amber = missed; red = wrongly selected; muted = correctly left unchecked."
+          ) +
+          "</div>" +
+          pageRefHtml(q);
+        if (!cfg.skipRecordWrong) {
+          recordWrongAnswer(q, chosen);
+        }
+      }
+      showNext();
     }
 
     function onAnswer(q, chosen, btn) {
@@ -546,18 +738,39 @@
       var fb = bodyEl.querySelector("#qz-fb");
       var isCorrect = chosen === q.correct;
 
+      // For Level 5 (and any SC with full wrongFeedback), show every option trap after answering
+      function allTrapHtml() {
+        if (!q.wrongFeedback) return "";
+        var lines = [];
+        for (var i = 0; i < q.options.length; i++) {
+          if (i === q.correct) continue;
+          var msg =
+            q.wrongFeedback[i] ||
+            q.wrongFeedback[String(i)] ||
+            null;
+          if (!msg) continue;
+          lines.push(
+            "<li><strong>" +
+              letter(i) +
+              " trap:</strong> " +
+              escapeHtml(msg) +
+              "</li>"
+          );
+        }
+        if (!lines.length) return "";
+        return (
+          '<ul class="trap-list" style="margin-top:0.65rem;padding-left:1.1rem">' +
+          lines.join("") +
+          "</ul>"
+        );
+      }
+
       if (isCorrect) {
         state.correct++;
         btn.classList.add("correct");
         fb.className = "feedback show ok";
         var okTitle = "Correct!";
         var okBody = q.correctFeedback || "Well done.";
-        var page = q.page
-          ? '<div class="page-ref">OpenStax Psychology 2e · p. ' +
-            escapeHtml(String(q.page)) +
-            (q.section ? " · " + escapeHtml(q.section) : "") +
-            "</div>"
-          : "";
         fb.innerHTML =
           '<div class="fb-title">' +
           okTitle +
@@ -565,7 +778,8 @@
           "<div>" +
           escapeHtml(okBody) +
           "</div>" +
-          page;
+          allTrapHtml() +
+          pageRefHtml(q);
         if (cfg.onCorrectRemoveWrong) {
           removeWrongById(ensureQuestionId(q));
         }
@@ -592,31 +806,20 @@
         var reinforce = q.correctFeedback
           ? " Correct idea: " + q.correctFeedback
           : " Correct answer: " + letter(q.correct) + ". " + q.options[q.correct];
-        var page2 = q.page
-          ? '<div class="page-ref">OpenStax Psychology 2e · p. ' +
-            escapeHtml(String(q.page)) +
-            (q.section ? " · " + escapeHtml(q.section) : "") +
-            "</div>"
-          : "";
         fb.innerHTML =
           '<div class="fb-title">Not quite</div><div>' +
           escapeHtml(wrongMsg) +
           '</div><div style="margin-top:0.5rem">' +
           escapeHtml(reinforce) +
           "</div>" +
-          page2;
+          allTrapHtml() +
+          pageRefHtml(q);
         if (!cfg.skipRecordWrong) {
           recordWrongAnswer(q, chosen);
         }
       }
 
-      updateProgress();
-      var nextWrap = bodyEl.querySelector("#qz-next-wrap");
-      nextWrap.style.display = "flex";
-      bodyEl.querySelector("#qz-next").addEventListener("click", function () {
-        state.index++;
-        renderQuestion();
-      });
+      showNext();
     }
 
     rebuildPool();
@@ -672,12 +875,20 @@
             '<div class="question-text">' +
             escapeHtml(e.question) +
             "</div>" +
-            '<p class="wrong-meta">你選了 <strong>' +
-            letter(e.chosen) +
-            "</strong> · 正確是 <strong>" +
-            letter(e.correct) +
-            "</strong>: " +
-            escapeHtml(e.options[e.correct] || "") +
+            '<p class="wrong-meta">' +
+            (Array.isArray(e.correct)
+              ? ("你選了 <strong>" +
+                 (Array.isArray(e.chosen) ? e.chosen.map(letter).join(", ") : letter(e.chosen)) +
+                 "</strong> · 正確集合 <strong>" +
+                 e.correct.map(letter).join(", ") +
+                 "</strong>" +
+                 (e.type === "multi" ? " (multi)" : ""))
+              : ("你選了 <strong>" +
+                 letter(e.chosen) +
+                 "</strong> · 正確是 <strong>" +
+                 letter(e.correct) +
+                 "</strong>: " +
+                 escapeHtml(e.options[e.correct] || ""))) +
             "</p>" +
             '<div class="quiz-actions">' +
             '<button type="button" class="btn-primary wb-practice" data-id="' +
@@ -702,6 +913,8 @@
         question: e.question,
         options: e.options,
         correct: e.correct,
+        type: e.type || (Array.isArray(e.correct) ? "multi" : undefined),
+        mode: e.mode || undefined,
         correctFeedback: e.correctFeedback,
         wrongFeedback: e.wrongFeedbackMap || undefined
       };

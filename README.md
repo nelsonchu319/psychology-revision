@@ -1,6 +1,6 @@
 # OpenStax Psychology 2e · Revision Site (Chapters 1–16)
 
-Static HTML/CSS/JS study hub for **OpenStax Psychology 2e**: paraphrased **Key Notes**, **Further Theoretical Depth** (external journals/books only), **SVG-linked mind maps**, leveled practice (**L1–L3**, **L4 cross-topic** from Ch 2), and a browser **Wrong Book / 錯題簿** (`localStorage`).
+Static HTML/CSS/JS study hub for **OpenStax Psychology 2e**: paraphrased **Key Notes**, **Further Theoretical Depth** (external journals/books only), **SVG-linked mind maps**, leveled practice (**L1–L3**, **L4 cross-topic** from Ch 2, **L5 Mock** exam-style SC+MS on Ch 1–16), and a browser **Wrong Book / 錯題簿** (`localStorage`).
 
 **Access for free at [openstax.org](https://openstax.org/details/books/psychology-2e).** Textbook material is **CC BY-NC-SA 4.0**. Site code is **MIT** (see `LICENSE`).
 
@@ -29,6 +29,7 @@ Visit `http://localhost:8765/` — or open `index.html` via `file://` (relative 
 | Must-know contrasts | English concept-row contrast groups + theory-vs-evidence tables (common confusions & everyday examples) |
 | Mind maps | Hub → branches → nodes + **SVG lines** (hub, within-branch, gold cross-links); click highlights connected edges |
 | Practice L1–L3 | Factual / theoretical / multi-beat application |
+| Practice L5 Mock | Exam-style traps · ~70% single (A–D) + ~30% multi (A–E, exact-set) |
 | Practice L4 | Cross-topic (Ch 1→N) from Chapter 2 onward |
 | Wrong Book | Saves wrong answers in `localStorage`; filter, re-practice, remove, clear |
 | Random Quiz | Shuffle across chapters 1–16 |
