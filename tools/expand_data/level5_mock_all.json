@@ -4,7 +4,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.1",
-    "question": "A first-year student says: “Psychology isn’t a real science because people just talk about feelings, like philosophy.” Which reply best matches OpenStax’s framing of psychology?",
+    "question": "During orientation week, first-year student Priya tells her roommate, “Psychology isn’t a real science—people just talk about feelings, like philosophy.” Her roommate wants a reply that matches how OpenStax frames modern psychology. Which reply is best?",
     "options": [
       "Psychology is scientific only when it uses brain scans.",
       "Psychology uses scientific methods to study mind and behavior.",
@@ -25,7 +25,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2",
-    "question": "Wundt’s Leipzig laboratory is historically important mainly because it:",
+    "question": "In a history-of-psychology seminar, Marcus argues that Freud’s couch therapy founded scientific psychology, while Aisha points to Wundt’s 1879 Leipzig laboratory instead. The TA asks why that laboratory is historically important. Wundt’s Leipzig laboratory is historically important mainly because it:",
     "options": [
       "It proved unconscious sexual conflict drives all behavior in every case.",
       "It showed that only animal behavior can ever be studied scientifically.",
@@ -46,7 +46,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2",
-    "question": "Two classmates taste the same iced coffee. Mei lists every sensation (cold, bitter, sweet). Jun asks why people drink it before 9 a.m. lectures. Whose question is closer to functionalism?",
+    "question": "Two classmates taste the same iced coffee after a morning lecture. Mei carefully lists every sensation she notices—cold, bitter, then sweet. Jun instead asks why so many students drink it before 9 a.m. classes. Whose question is closer to functionalism?",
     "options": [
       "Mei — cataloguing elements of experience is James’s method.",
       "Jun — asking how a mental process helps adaptation fits functionalism.",
@@ -67,7 +67,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2",
-    "question": "A podcast claims: “If you forget a friend’s name, it secretly means you hate them—Freud proved it.” Best critique?",
+    "question": "On a popular podcast, the host declares, “If you forget a friend’s name, it secretly means you hate them—Freud proved it.” A listener who just finished Chapter 1 wants the best critique of that claim. Best critique?",
     "options": [
       "Freud founded the Leipzig experimental laboratory, so the podcast claim is scientifically solid.",
       "Freud was clinically influential, but unfalsifiable secret-meaning claims are not science’s standard.",
@@ -88,7 +88,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2",
-    "question": "A sports coach says players “see the whole play at once, not a list of separate pixels.” Which historical idea does this echo?",
+    "question": "At halftime, Coach Rivera tells the team, “Don’t break the play into separate pixels—you have to see the whole pattern at once.” A sports-psychology student in the stands recognizes a historical idea. Which historical idea does this echo?",
     "options": [
       "Structuralism’s element-by-element inventory of consciousness",
       "Classical conditioning of glandular reflexes",
@@ -109,7 +109,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2–1.3",
-    "question": "A clinic posts: “We only study what people do, never thoughts—because thoughts aren’t scientific.” Which historical stance is this closest to, and what’s the later correction?",
+    "question": "A downtown clinic posts a banner: “We only study what people do, never thoughts—because thoughts aren’t scientific.” A visiting lecturer asks which historical stance that echoes and what later corrected it. Which historical stance is this closest to, and what’s the later correction?",
     "options": [
       "Humanism; it was later replaced wholesale by phrenology as the science of mind.",
       "Early behaviorism focused on observables; the cognitive revolution studied mind again.",
@@ -130,7 +130,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2 / diversity",
-    "question": "A research flyer recruits only students from one wealthy urban campus, then generalizes “human memory works like this worldwide.” Which Ch 1 concern is most directly raised?",
+    "question": "A memory lab flyer recruits only students from one wealthy urban campus, then the PI claims “human memory works like this worldwide.” A methods-savvy undergrad flags a Chapter 1 concern. Which Ch 1 concern is most directly raised?",
     "options": [
       "Introspection is always more valid than any controlled experiment can be.",
       "Limited WEIRD samples threaten how far findings generalize across cultures.",
@@ -151,7 +151,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.3–1.4",
-    "question": "A university fair has booths. Which statements correctly match a contemporary field to a realistic task? (Select all that apply.)",
+    "question": "At a university career fair, booths advertise psychology jobs. Students compare flyers: an I-O hire redesigning interviews, a forensic consultant advising on competence questions, a biopsych lab studying sleep and transmitters, and a booth titled “Structuralist Therapist—run our only hospital ward.” Which statements correctly match a contemporary field to a realistic task? (Select all that apply.)",
     "options": [
       "I-O psychologist: redesign hiring interviews for a company",
       "Forensic psychologist: advise on jury selection / competence questions in a legal context",
@@ -181,7 +181,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.2",
-    "question": "Which claims about psychology’s history are accurate? (Select all that apply.)",
+    "question": "In a history review circle, five students read aloud claims about Wundt, Skinner, humanism, cognitive psychology, and Freud versus laboratory psychology. Their tutor asks which claims about psychology’s history are accurate. Which claims about psychology’s history are accurate? (Select all that apply.)",
     "options": [
       "Before Wundt/James, mind questions were largely philosophical.",
       "Skinner’s operant ideas are part of the behaviorist lineage emphasizing consequences of behavior.",
@@ -211,7 +211,7 @@
     "chapter": 1,
     "level": 5,
     "section": "§1.1–1.4",
-    "question": "A student study group makes these claims before a midterm. Which are methodologically or historically sound? (Select all that apply.)",
+    "question": "Before a midterm, five students in a study group trade bold claims about what psychology is and how it works. Their tutor asks which claims are methodologically or historically sound. Which are methodologically or historically sound? (Select all that apply.)",
     "options": [
       "Psychology equals common sense, so experiments are optional.",
       "A school of thought can be historically important yet still be limited or revised.",
@@ -240,7 +240,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.1",
-    "question": "A blogger writes: “My uncle smoked and lived to 95, so smoking can’t be harmful.” Which research lesson best answers this?",
+    "question": "Blogger Ken posts a viral thread: “My uncle smoked a pack a day and lived to 95, so smoking can’t really be harmful—science is overrated.” A public-health classmate wants the research lesson that best answers Ken. Which research lesson best answers this?",
     "options": [
       "Anecdotes from relatives can overturn large bodies of controlled public-health evidence overnight.",
       "Single cases are vivid but do not replace systematic population-level research on risks.",
@@ -261,7 +261,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.2",
-    "question": "A team watches toddlers on a playground through a one-way mirror and codes sharing without intervening. Best label?",
+    "question": "Developmental researchers set up a one-way mirror beside a campus playground. They code how often toddlers share toys, without intervening or assigning kids to groups. A methods quiz asks for the best label of this approach. Best label?",
     "options": [
       "Laboratory experiment with random assignment",
       "Naturalistic observation",
@@ -282,7 +282,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.3",
-    "question": "Ice-cream sales and drowning rates rise together across months. A journalist claims ice cream causes drowning. Best critique?",
+    "question": "City data show ice-cream sales and drowning rates rising together each summer. Journalist Lena headlines, “Ice cream causes drowning—correlation proves it.” Which critique should her editor demand?",
     "options": [
       "A correlation of r = +1 is enough by itself to prove ice cream causes drowning.",
       "Third variables (e.g., heat) can explain both; correlation ≠ causation.",
@@ -303,7 +303,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.3",
-    "question": "In a caffeine study, researchers randomly assign students to 0 mg vs 200 mg coffee, then measure exam scores. What are IV and DV?",
+    "question": "Dr. Okonkwo’s lab randomly assigns volunteers to 0 mg or 200 mg of caffeine in coffee, then measures their scores on a timed exam. A student must identify the independent and dependent variables. What are IV and DV?",
     "options": [
       "IV = exam scores; DV = caffeine dose",
       "IV = caffeine dose; DV = exam scores",
@@ -324,7 +324,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.3",
-    "question": "A campus study emails every student but analyzes only those who reply. Then it randomly assigns responders to meditation vs waitlist. Which claim is safest?",
+    "question": "A campus wellness study emails every enrolled student but analyzes only those who reply. Responders are then randomly assigned to a meditation app or a waitlist. Which claim about this design is safest?",
     "options": [
       "Random assignment of responders guarantees they represent all students worldwide.",
       "Assignment aids causal comparison among responders; volunteer bias can still limit generalizability.",
@@ -345,7 +345,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.4",
-    "question": "An IRB flags a memory study that shocks participants without warning or debriefing. Which ethical principle is most clearly violated?",
+    "question": "An IRB flags a memory study that delivers unexpected electric shocks with no advance warning and no debriefing afterward. Reviewers ask which ethical principle is most clearly violated. Which ethical principle is most clearly violated?",
     "options": [
       "Paying participants is always unethical, so the study should be rejected for that alone.",
       "Informed consent, risk minimization, and debriefing when deception or harm risks apply.",
@@ -366,7 +366,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.2–2.3",
-    "question": "Which design best supports a causal claim that a new study app improves quiz scores?",
+    "question": "Startup EduBoost claims its study app “causes” higher quiz scores after posting before/after averages from volunteers who chose to download it. A skeptical professor asks which design would best support a causal claim. Which design best supports a causal claim that a new study app improves quiz scores?",
     "options": [
       "Ask heavy app users whether they “feel smarter” after a week of casual use.",
       "Correlate self-reported app hours with GPA across campus without assigning conditions.",
@@ -387,7 +387,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.3",
-    "question": "Which statements correctly distinguish random sampling from random assignment? (Select all that apply.)",
+    "question": "In lab section, twins Mina and Leo debate recruitment. Mina wants every dorm resident equally likely to enter the sample; Leo wants participants shuffled into treatment vs control after they arrive. Which statements correctly distinguish random sampling from random assignment? (Select all that apply.)",
     "options": [
       "Random sampling aims to help the sample represent a population.",
       "Random assignment aims to balance groups so IV differences are more interpretable as causal.",
@@ -416,7 +416,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.2–2.3",
-    "question": "A team reports r = −.45 between sleep hours and next-day irritability. Which interpretations are appropriate? (Select all that apply.)",
+    "question": "A sleep team reports r = −.45 between nightly sleep hours and next-day irritability ratings in first-year students, with no experiment yet. Which interpretations are appropriate? (Select all that apply.)",
     "options": [
       "There is a moderate negative association in the data.",
       "We can conclude sleep loss is the sole proven cause for every irritability spike.",
@@ -445,7 +445,7 @@
     "chapter": 2,
     "level": 5,
     "section": "§2.4",
-    "question": "Which practices belong in ethical human research as framed in OpenStax Ch 2? (Select all that apply.)",
+    "question": "An IRB training video walks new RAs through a planned memory experiment with deception. The facilitator asks which practices belong in ethical human research as framed in OpenStax Ch 2. Which practices belong? (Select all that apply.)",
     "options": [
       "Informed consent when feasible",
       "IRB review for human participants research",
@@ -475,7 +475,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.2",
-    "question": "A neuron’s axon terminals release neurotransmitter into the synapse after an action potential. What happens next at a typical chemical synapse?",
+    "question": "In a neuro lab demo, an action potential races down a motor neuron’s axon. At the terminals, vesicles spill neurotransmitter into the synaptic cleft toward a waiting dendrite. The instructor freezes the animation and asks what happens next at a typical chemical synapse. What happens next at a typical chemical synapse?",
     "options": [
       "The neurotransmitter becomes a permanent structural part of the receiving axon.",
       "Transmitters bind postsynaptic receptors, then are cleared (reuptake/breakdown).",
@@ -496,7 +496,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.3",
-    "question": "During a sudden scare, heart rate rises and digestion slows. Which division is most active?",
+    "question": "While walking home at night, Sam hears sudden footsteps behind him. His heart races, pupils widen, and digestion seems to pause as he spins around. Which autonomic division is most active in that moment?",
     "options": [
       "Parasympathetic nervous system",
       "Sympathetic nervous system",
@@ -517,7 +517,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.4",
-    "question": "A stroke damages a patient’s hippocampus-related circuitry. Which deficit is most expected?",
+    "question": "After a stroke that damages hippocampus-related circuitry, patient Elena can chat about childhood holidays but keeps asking the same new visitors’ names minutes after introductions. Which deficit is most expected?",
     "options": [
       "An inability to regulate heart rate with no other cognitive changes expected.",
       "Severe new difficulty forming certain long-term declarative memories after the damage.",
@@ -538,7 +538,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.2",
-    "question": "A drug mimics a neurotransmitter at receptor sites, increasing receptor activation. Best label?",
+    "question": "Pharmacologist Dr. Cho explains a new compound that sits on postsynaptic receptors and mimics a natural neurotransmitter, boosting receptor activation even when little transmitter is released. A student must label the drug’s action. Best label?",
     "options": [
       "Antagonist",
       "Agonist",
@@ -559,7 +559,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.3",
-    "question": "Which statement best distinguishes CNS from PNS?",
+    "question": "During rounds, an attending contrasts a spinal-cord injury with damage limited to a peripheral nerve in the arm. A junior student is asked which statement best distinguishes CNS from PNS. Which statement best distinguishes CNS from PNS?",
     "options": [
       "CNS = nerves in arms/legs only; PNS = brain only",
       "CNS = brain and spinal cord; PNS = nerves linking CNS to the body.",
@@ -622,7 +622,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.3",
-    "question": "Which statements about autonomic branches are accurate? (Select all that apply.)",
+    "question": "In a stress-physiology workshop, athletes track heart rate during a startle drill and then during cool-down yoga. The coach quizzes them on autonomic branches. Which statements about autonomic branches are accurate? (Select all that apply.)",
     "options": [
       "Sympathetic activity often supports fight-or-flight mobilization.",
       "Parasympathetic activity often supports rest-and-digest functions.",
@@ -681,7 +681,7 @@
     "chapter": 3,
     "level": 5,
     "section": "§3.4",
-    "question": "A case conference lists these brain–function pairings. Which are reasonable textbook-level matches? (Select all that apply.)",
+    "question": "At a case conference, clinicians pin sticky notes pairing brain areas with functions for a teaching case. The attending asks which pairings are reasonable at the OpenStax textbook level. Which are reasonable textbook-level matches? (Select all that apply.)",
     "options": [
       "Occipital lobe: vision",
       "Frontal lobe: planning/movement-related functions (among others)",
@@ -711,7 +711,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.1",
-    "question": "Consciousness in OpenStax is best framed as:",
+    "question": "In a late-night dorm debate, Rui says consciousness is “just being awake,” while Nora argues it includes awareness of internal and external stimuli across waking and altered states. They open OpenStax to settle it. Consciousness in OpenStax is best framed as:",
     "options": [
       "Only Freudian repressed wishes",
       "Awareness of internal and external stimuli",
@@ -732,7 +732,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.3",
-    "question": "REM sleep is most strongly associated with:",
+    "question": "Sleep tech Amir reviews an overnight polysomnogram: rapid eye movements, near-wake EEG patterns, and a dream report after the patient is awakened from that stage. Which claim about REM fits best?",
     "options": [
       "Sleepwalking as the defining feature",
       "Rapid eye movements, vivid dreaming likelihood, and muscle tone reduction",
@@ -753,7 +753,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.4",
-    "question": "A student stops breathing repeatedly at night, gasps, and is sleepy by day. Most fitting concern?",
+    "question": "Roommate Diego snores loudly, stops breathing for stretches of the night, gasps awake, and then dozes through morning classes. The campus clinic nurse suspects a sleep disorder. Most fitting concern?",
     "options": [
       "Narcolepsy cataplexy only",
       "Sleep apnea",
@@ -774,7 +774,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.5",
-    "question": "Alcohol is classified primarily as a:",
+    "question": "At a substance-use education fair, volunteers sort cards for alcohol, caffeine, and nicotine. A visitor asks how alcohol is primarily classified pharmacologically in the chapter. Alcohol is classified primarily as a:",
     "options": [
       "Stimulant that always increases GABA blockade of inhibition",
       "Depressant that can slow CNS activity",
@@ -795,7 +795,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.2",
-    "question": "Circadian rhythms are most closely tied to:",
+    "question": "Exchange student Hana flies from Hong Kong to New York and feels exhausted at local noon but wide awake at midnight for several days. Her professor links the jet lag to biological clocks. Circadian rhythms are most closely tied to:",
     "options": [
       "A mandatory 28-day lunar exam cycle that IRBs require for every sleep study.",
       "About-24-hour biological rhythms influenced by light and the SCN.",
@@ -858,7 +858,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.3",
-    "question": "Which statements about sleep stages are reasonable? (Select all that apply.)",
+    "question": "In a sleep-lab tutorial, students cycle a volunteer through EEG-defined stages and note muscle tone, eye movements, and dream reports. Which statements about sleep stages are reasonable? (Select all that apply.)",
     "options": [
       "NREM includes stages that progress toward deeper slow-wave sleep.",
       "REM is associated with vivid dreaming more than deep NREM typically is.",
@@ -918,7 +918,7 @@
     "chapter": 4,
     "level": 5,
     "section": "§4.2–4.4",
-    "question": "A night-shift nurse has insomnia and microsleeps while driving home. Which claims are sound? (Select all that apply.)",
+    "question": "Night-shift nurse Priya finishes a 12-hour ward rotation, fights insomnia at home, and later catches herself microsleeping at a red light on the drive home. Which claims about her situation are sound? (Select all that apply.)",
     "options": [
       "Circadian misalignment can impair alertness.",
       "Sleep debt can increase accident risk.",
@@ -947,7 +947,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.1",
-    "question": "Sensation vs perception—best contrast?",
+    "question": "In a museum gallery, light wavelengths hit visitors’ retinas (sensation), but only some people “see” a hidden animal in the same painting (perception). A docent asks for the best sensation–perception contrast. Sensation vs perception—best contrast?",
     "options": [
       "Sensation interprets meaning; perception is raw transduction only",
       "Sensation detects/transduces; perception organizes and interprets.",
@@ -968,7 +968,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.1",
-    "question": "Absolute threshold is best described as:",
+    "question": "Audiology student Kai plays ever-quieter tones until a participant first reports hearing the beep on half the trials. Kai is estimating a classic sensory limit. Absolute threshold is best described as:",
     "options": [
       "The smallest detectable difference between two stimuli 50% of the time (classic definition of difference threshold)",
       "Minimum stimulus energy to detect a stimulus about 50% of the time.",
@@ -989,7 +989,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.1",
-    "question": "In a noisy café you still “hear” your name. Which idea fits best?",
+    "question": "In a noisy café, Jordan does not notice the espresso machine or chatter—until someone across the room says Jordan’s name, which suddenly “cuts through.” Which idea fits best?",
     "options": [
       "Bottom-up processing only, with zero expectations",
       "Top-down influences (expectations/attention) shaping awareness.",
@@ -1010,7 +1010,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.3",
-    "question": "After leaving a bright street, a cinema seems black then slowly becomes visible. Best concept?",
+    "question": "After leaving a bright sunny street, Mei steps into a dark cinema and at first sees almost nothing; over a few minutes the seats and screen edges become visible. Best concept?",
     "options": [
       "Sensory adaptation / dark adaptation processes in vision",
       "Opponent-process theory of color only, with no intensity change",
@@ -1031,7 +1031,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.6",
-    "question": "You see five dots as a “face” rather than unrelated points. Closest Gestalt idea?",
+    "question": "Designer Luis arranges five black dots on a transit-poster mockup during a studio critique. Viewers instantly report a “face” rather than five unrelated points, and Luis asks which Gestalt idea that reflects. Closest Gestalt idea?",
     "options": [
       "Transduction of sound waves inside the cochlea explaining why the dots look like a face.",
       "Perceptual organization principles (e.g., grouping/closure) beyond isolated elements.",
@@ -1094,7 +1094,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.1",
-    "question": "Which statements correctly separate bottom-up and top-down processing? (Select all that apply.)",
+    "question": "A perception lab compares two tasks: reading blurry letters using only stimulus features, versus reading the same blur after being told the word will be food-related. Which statements correctly separate bottom-up and top-down processing? (Select all that apply.)",
     "options": [
       "Bottom-up builds from sensory input features.",
       "Top-down uses knowledge, expectations, and context.",
@@ -1153,7 +1153,7 @@
     "chapter": 5,
     "level": 5,
     "section": "§5.5–5.6",
-    "question": "A design team cites perception principles. Which claims are sound? (Select all that apply.)",
+    "question": "A UX design team cites Gestalt and depth cues while redesigning a transit app map. Their mentor asks which perception claims are sound. Which claims are sound? (Select all that apply.)",
     "options": [
       "Gestalt grouping can make interfaces feel organized.",
       "Vestibular cues contribute to balance/spatial orientation.",
@@ -1182,7 +1182,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.2",
-    "question": "In Pavlovian terms, food is the US and salivation to food is the UR. After pairing, a bell elicits salivation. The bell is the:",
+    "question": "In a classroom demo, Dr. Patel rings a bell just before placing food powder on a dog’s tongue. After several pairings, the bell alone elicits salivation. Students must label the salivation to the bell in Pavlovian terms. In Pavlovian terms, food is the US and salivation to food is the UR. After pairing, a bell elicits salivation. That salivation to the bell is the:",
     "options": [
       "US",
       "UR",
@@ -1203,7 +1203,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.3",
-    "question": "A teacher adds praise after on-time homework, and on-time rates rise. This is:",
+    "question": "Ms. Chen starts praising students the moment homework arrives on time; on-time submissions rise over the next two weeks. A learning chapter quiz asks for the operant label. This is:",
     "options": [
       "Positive punishment",
       "Positive reinforcement",
@@ -1224,7 +1224,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.3",
-    "question": "Removing a weekend privilege after cheating, and cheating drops. Best label?",
+    "question": "After catching a student cheating on a take-home quiz, Coach Rivera removes weekend stadium privileges. Cheating incidents then drop over the next month, and the assistants debate the operant label. Best operant label?",
     "options": [
       "Positive reinforcement",
       "Negative reinforcement",
@@ -1245,7 +1245,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.3",
-    "question": "A rat presses faster on a variable-ratio schedule than on a fixed-interval schedule. Classic takeaway?",
+    "question": "In an operant chamber, one rat earns pellets on a variable-ratio schedule and presses rapidly; another on a fixed-interval schedule shows the classic scallop and slower overall rate. Classic takeaway?",
     "options": [
       "All reinforcement schedules produce identical pausing patterns on every task.",
       "Schedules shape response rate/pattern; variable-ratio often yields high steady rates.",
@@ -1266,7 +1266,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.2",
-    "question": "After extinction, a CR briefly returns when the CS appears again later. Term?",
+    "question": "After weeks of presenting a tone without food, a dog’s salivation to the tone disappears. Days later the tone returns and a brief burst of salivation reappears. Term for that brief return?",
     "options": [
       "Spontaneous recovery",
       "Stimulus generalization only",
@@ -1329,7 +1329,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.2–6.3",
-    "question": "Which distinctions are accurate? (Select all that apply.)",
+    "question": "A study group sorts flashcards for classical vs operant examples from campus life (cafeteria smells, late fees, praise, exam anxiety). Which distinctions are accurate? (Select all that apply.)",
     "options": [
       "Classical: CS predicts US; learning about stimulus contingencies.",
       "Operant: consequences shape voluntary-like behavior rates.",
@@ -1389,7 +1389,7 @@
     "chapter": 6,
     "level": 5,
     "section": "§6.2",
-    "question": "Which classical-conditioning claims are sound? (Select all that apply.)",
+    "question": "Classical-conditioning review uses dentist-drill anxiety and cafeteria-nausea stories from classmates. Which classical-conditioning claims are sound? (Select all that apply.)",
     "options": [
       "Acquisition is learning the CS–US link.",
       "Generalization: similar stimuli elicit CR.",
@@ -1419,7 +1419,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.1",
-    "question": "A concept is best described as:",
+    "question": "While sorting library books, twin volunteers quickly group novels, textbooks, and comics without reading every page—using mental categories. Their methods TA asks what a concept is. A concept is best described as:",
     "options": [
       "A single neuron’s resting membrane potential measured in millivolts.",
       "A mental category grouping similar objects, events, ideas, or people.",
@@ -1440,7 +1440,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.3",
-    "question": "Using a mental shortcut that is fast but sometimes biased is a:",
+    "question": "Shopper Ava skips comparing nutrition labels and just grabs the brand she “feels” is healthiest because the choice is fast—even if sometimes biased. Using a mental shortcut that is fast but sometimes biased is a?",
     "options": [
       "Algorithm guaranteeing a solution if one exists and steps are followed",
       "Heuristic",
@@ -1461,7 +1461,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.3",
-    "question": "Sticking to a known screwdriver method even when a coin would work better illustrates:",
+    "question": "IKEA assembler Ben insists on using only the included screwdriver even though a coin in his pocket would turn the screws faster; he cannot “see” the coin as a tool. This illustrates?",
     "options": [
       "Functional fixedness / mental set barriers",
       "Confirmation that algorithms never fail",
@@ -1482,7 +1482,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.4–7.5",
-    "question": "Spearman’s g emphasizes:",
+    "question": "In a debate on intelligence theories, Priya cites Spearman’s idea of a general factor underlying performance across many cognitive tasks. Spearman’s g emphasizes?",
     "options": [
       "Many completely unrelated intelligences with zero shared variance",
       "A general intelligence factor contributing across cognitive tasks.",
@@ -1503,7 +1503,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.5",
-    "question": "A test yields very different scores week to week for the same person under similar conditions. Biggest concern?",
+    "question": "Counselor Dana re-administers the same aptitude test to a client under similar conditions a week later and gets wildly different scores. What does that pattern most clearly threaten?",
     "options": [
       "Reliability",
       "Norming is automatically perfect",
@@ -1566,7 +1566,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.3",
-    "question": "Which problem-solving claims are accurate? (Select all that apply.)",
+    "question": "A puzzle club tries algorithms, heuristics, and insight on escape-room locks, then reviews which problem-solving claims hold up. Which problem-solving claims are accurate? (Select all that apply.)",
     "options": [
       "Algorithms are step-by-step procedures.",
       "Heuristics trade speed for occasional error.",
@@ -1626,7 +1626,7 @@
     "chapter": 7,
     "level": 5,
     "section": "§7.1–7.2",
-    "question": "Which language/cognition matches are sound? (Select all that apply.)",
+    "question": "Linguistics TA Omar asks lab partners to map phonemes, morphemes, and syntax onto everyday speech errors. Which language/cognition matches are sound? (Select all that apply.)",
     "options": [
       "Syntax: rules for combining words",
       "Semantics: meaning",
@@ -1656,7 +1656,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.1",
-    "question": "Atkinson–Shiffrin-style flow emphasizes:",
+    "question": "In a memory workshop, students trace how a phone number moves from a brief sensory echo into short-term holding. With rehearsal, some of that material seems to reach longer-term storage—the classic multistore sketch. Atkinson–Shiffrin-style flow emphasizes which sequence?",
     "options": [
       "Sensory → short-term/working → long-term memory stores",
       "Only procedural memory with no encoding",
@@ -1677,7 +1677,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.3",
-    "question": "You learn Spanish, then French; French vocabulary blocks recalling Spanish words. This is:",
+    "question": "Exchange student Leah studied Spanish for a year, then intensively learned French last month. On a surprise Spanish quiz, French words keep blocking the Spanish vocabulary she needs. This is:",
     "options": [
       "Proactive interference",
       "Retroactive interference",
@@ -1698,7 +1698,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.3",
-    "question": "Old locker combinations keep popping up when you try a new one. This is:",
+    "question": "On the first day with a new gym locker, Theo keeps typing last year’s combination and getting locked out. He laughs that the old digits “won’t leave him alone” whenever he tries the new code. This interference pattern is which type?",
     "options": [
       "Retroactive interference",
       "Proactive interference",
@@ -1719,7 +1719,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.1",
-    "question": "Working memory is best framed as:",
+    "question": "During a timed exam, Mina juggles keeping the essay prompt in mind, retrieving lecture examples, and writing. She tells a friend afterward that it felt like a mental workspace under load, not a passive tape recorder. Working memory is best framed as which idea?",
     "options": [
       "Unlimited permanent storage of every life event without capacity limits.",
       "A limited-capacity system for holding and manipulating information now.",
@@ -1740,7 +1740,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.3",
-    "question": "Anterograde amnesia primarily involves:",
+    "question": "After hippocampal surgery, patient “H.M.-like” case notes show intact childhood stories but almost no ability to form lasting memories of new people met after the surgery. Anterograde amnesia primarily involves:",
     "options": [
       "Loss of memories formed long before an injury only",
       "Difficulty forming new long-term memories after onset",
@@ -1803,7 +1803,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.1",
-    "question": "Which encoding/storage claims are sound? (Select all that apply.)",
+    "question": "A study-skills peer mentor contrasts shallow repetition of definitions with linking ideas to personal examples. Which encoding/storage claims are sound? (Select all that apply.)",
     "options": [
       "Encoding moves information into memory systems.",
       "Storage retains encoded information over time.",
@@ -1863,7 +1863,7 @@
     "chapter": 8,
     "level": 5,
     "section": "§8.2–8.4",
-    "question": "Which memory-enhancement / brain claims are reasonable? (Select all that apply.)",
+    "question": "Peer tutors promote spacing, retrieval practice, sleep, mnemonics, and hippocampal role before finals week. Which memory-enhancement / brain claims are reasonable? (Select all that apply.)",
     "options": [
       "Spacing practice often beats massed cramming for long-term retention.",
       "Retrieval practice (testing) can strengthen learning.",
@@ -1893,7 +1893,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.1",
-    "question": "Lifespan development studies:",
+    "question": "At a family reunion, a developmental psychologist chats with a newborn cousin, a teen, and a grandparent. She notes both change and continuity from infancy through late life and asks students what the field studies. Lifespan development studies which span?",
     "options": [
       "Only prenatal weeks, then stops",
       "Change and continuity across the human life course",
@@ -1914,7 +1914,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.2",
-    "question": "Piaget’s sensorimotor stage is marked by:",
+    "question": "Infant-lab volunteer Maya watches a 6-month-old explore objects by mouthing and batting them. Object permanence is just emerging on peekaboo trials, and the supervisor asks for Piaget’s stage label. Piaget’s sensorimotor stage is marked by which features?",
     "options": [
       "Abstract hypothetical-deductive reasoning as the first skill",
       "Learning through senses and motor actions; object permanence emerges",
@@ -1935,7 +1935,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.2",
-    "question": "A child fails conservation of liquid after a tall pour. Piaget would place them before:",
+    "question": "Preschooler Noah watches juice poured from a short wide cup into a tall thin one. He insists the tall cup “has more juice,” failing conservation despite seeing the pour. Piaget would place him before which stage?",
     "options": [
       "Sensorimotor reflexes only",
       "Concrete operational mastery of conservation",
@@ -1956,7 +1956,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.2",
-    "question": "Erikson’s adolescence crisis is primarily:",
+    "question": "Teenager Sofia spends the year trying on peer groups, career ideas, and values. She keeps asking “Who am I?” after every club fair, which her counselor maps to Erikson. Erikson’s adolescence crisis is primarily which conflict?",
     "options": [
       "Integrity vs despair",
       "Identity vs role confusion",
@@ -1977,7 +1977,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.3",
-    "question": "Secure attachment in the Strange Situation is typically shown by:",
+    "question": "In the Strange Situation, baby Kai cries when the caregiver leaves the room. On return he seeks contact, calms quickly, and uses the caregiver as a secure base to explore again. Secure attachment in the Strange Situation is typically shown by which pattern?",
     "options": [
       "No distress and no seeking of caregiver ever",
       "Distress at separation, comfort on reunion, caregiver as secure base.",
@@ -2040,7 +2040,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.2",
-    "question": "Which Piaget stage matches are accurate? (Select all that apply.)",
+    "question": "A teaching assistant lays out four Piaget stage cards beside classroom vignettes (peekaboo, conservation fails, abstract ethics debates). Which Piaget stage matches are accurate? (Select all that apply.)",
     "options": [
       "Sensorimotor: object permanence developing",
       "Preoperational: egocentrism/symbolic play common themes",
@@ -2100,7 +2100,7 @@
     "chapter": 9,
     "level": 5,
     "section": "§9.1–9.2",
-    "question": "Which research-design ideas matter for development? (Select all that apply.)",
+    "question": "Methods day contrasts cross-sectional classroom snapshots with a longitudinal follow-up of the same kids. Which research-design ideas matter for development? (Select all that apply.)",
     "options": [
       "Longitudinal: same people over time",
       "Cross-sectional: different ages at one time",
@@ -2130,7 +2130,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.1",
-    "question": "Drive theory most emphasizes:",
+    "question": "After skipping lunch, Jordan feels a rising hunger drive and walks straight to the cafeteria. After eating, the uneasy tension eases, which the TA ties to drive-reduction ideas. Drive theory most emphasizes which process?",
     "options": [
       "Intrinsic curiosity only with no biology",
       "Behavior pushing to reduce physiological unmet needs/tension",
@@ -2151,7 +2151,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.1",
-    "question": "Intrinsic vs extrinsic motivation—best contrast?",
+    "question": "Art student Lila paints for hours because she loves the process; classmate Ben paints only when a cash prize is offered. Intrinsic vs extrinsic motivation—best contrast?",
     "options": [
       "Intrinsic: for external rewards only; extrinsic: for inherent interest only",
       "Intrinsic: inherent interest; extrinsic: separable outcomes/rewards.",
@@ -2172,7 +2172,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.4",
-    "question": "James–Lange theory proposes emotions arise:",
+    "question": "On a roller coaster, Priya notices her heart pounding and shaky hands, then labels the feeling “terror.” A classmate cites James–Lange. James–Lange theory proposes emotions arise:",
     "options": [
       "Before any bodily change, purely as cognitive labels with no body",
       "From perceiving bodily responses to emotion-eliciting events.",
@@ -2193,7 +2193,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.4",
-    "question": "Schachter–Singer two-factor theory requires:",
+    "question": "In a classic-style demo, two groups receive the same arousal injection. One group is told why they feel stirred; the other is not, and they interpret the feeling using room cues. Schachter–Singer two-factor theory requires which combination?",
     "options": [
       "Arousal plus cognitive label/appraisal",
       "Facial feedback only with zero cognition",
@@ -2214,7 +2214,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.1",
-    "question": "Yerkes–Dodson law most nearly says:",
+    "question": "Exam coach Dana tells anxious students that a little arousal can help on a moderate test. She warns that extreme panic can wreck performance—an inverted-U style claim. Yerkes–Dodson law most nearly says which relationship?",
     "options": [
       "Performance level is completely unrelated to arousal in every laboratory task.",
       "Moderate arousal often aids peak performance; too little or too much can hurt.",
@@ -2277,7 +2277,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.4",
-    "question": "Which emotion-theory statements are accurate? (Select all that apply.)",
+    "question": "Emotion seminar students map James–Lange, Cannon–Bard, and two-factor accounts onto the same scare-film clip. Which emotion-theory statements are accurate? (Select all that apply.)",
     "options": [
       "James–Lange: body first, then emotion.",
       "Cannon–Bard: bodily arousal and emotion experience more simultaneous/independent pathways framing.",
@@ -2337,7 +2337,7 @@
     "chapter": 10,
     "level": 5,
     "section": "§10.2–10.3",
-    "question": "Which statements are textbook-consistent? (Select all that apply.)",
+    "question": "Hunger, belonging, and sexual-motivation stations wrap the chapter with short textbook checks. Facilitators ask which claims stay consistent with OpenStax. Which statements are textbook-consistent? (Select all that apply.)",
     "options": [
       "Hunger involves physiological and psychological influences.",
       "Sexual behavior/motivation is discussed as multiply determined.",
@@ -2367,7 +2367,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.1",
-    "question": "Personality is best defined as:",
+    "question": "Across seminars, clubs, and part-time jobs, friends notice that Ava stays organized, curious, and calm. Those patterns seem consistent over time and situations, which their personality unit calls a trait profile. Personality is best defined as which kind of pattern?",
     "options": [
       "A single mood lasting about five minutes in one narrow situation.",
       "Enduring traits and patterns guiding similar thought, feeling, and behavior.",
@@ -2388,7 +2388,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.2",
-    "question": "Freud’s id is primarily:",
+    "question": "In a personality lecture, the instructor role-plays an impulsive urge to grab a classmate’s dessert. The bit is delivered as “it wants what it wants now,” then the class must label the Freudian structure. Freud’s id is primarily which idea?",
     "options": [
       "The moral conscience",
       "Pleasure-seeking unconscious drives",
@@ -2409,7 +2409,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.4–11.5",
-    "question": "The Big Five trait openness most nearly involves:",
+    "question": "Roommate quizzes describe Sam as loving new cuisines, abstract art, and unusual ideas. Sam also prefers not to stick to rigid routines, which the inventory flags as a Big Five dimension. The Big Five trait openness most nearly involves which tendencies?",
     "options": [
       "Orderliness and dutifulness only",
       "Curiosity, imagination, and openness to experience",
@@ -2430,7 +2430,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.3",
-    "question": "A behavioral genetic twin study finding higher MZ than DZ similarity for a trait most suggests:",
+    "question": "A twin registry finds identical (MZ) twins more alike on a personality trait than fraternal (DZ) twins. Both types were reared in similar homes, so the gap is used to discuss heritability. Higher MZ than DZ similarity for a trait most suggests which conclusion?",
     "options": [
       "Genetic factors contribute nothing to measured personality trait differences.",
       "Genetic factors contribute to individual differences (environment still matters).",
@@ -2451,7 +2451,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.6",
-    "question": "Self-efficacy (Bandura) refers to:",
+    "question": "Before a public speech, Jordan says, “I believe I can handle the Q&A even if I’m nervous,” and practices. The coach labels that belief Bandura’s self-efficacy rather than raw vanity. Self-efficacy (Bandura) refers to which belief?",
     "options": [
       "Belief in one’s capability to execute actions needed for desired outcomes.",
       "Freud’s reaction formation applied to everyday goal setting and studying.",
@@ -2514,7 +2514,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.2–11.5",
-    "question": "Which personality approach matches are fair? (Select all that apply.)",
+    "question": "A review sheet contrasts psychodynamic, trait, humanistic, and social-cognitive portraits of the same client. Which personality approach matches are fair? (Select all that apply.)",
     "options": [
       "Psychodynamic: unconscious conflicts/early experience emphasis",
       "Humanistic: growth, self-actualization, congruence themes",
@@ -2574,7 +2574,7 @@
     "chapter": 11,
     "level": 5,
     "section": "§11.6–11.7",
-    "question": "Which assessment claims are sound? (Select all that apply.)",
+    "question": "Clinic trainees compare MMPI-style inventories with projective methods and reliability concerns. Which assessment claims are sound? (Select all that apply.)",
     "options": [
       "Self-report inventories are common for traits.",
       "Reliability and validity matter for tests.",
@@ -2604,7 +2604,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.1",
-    "question": "Social psychology most centrally studies:",
+    "question": "After a group project meltdown, classmates blame “personality flaws,” norms, and peer pressure. Their TA notes that social psychology focuses on how people think about, influence, and relate to others. Social psychology most centrally studies:",
     "options": [
       "Neuron membrane potentials and action-potential thresholds exclusively.",
       "How people think about, influence, and relate to one another in social contexts.",
@@ -2625,7 +2625,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.1",
-    "question": "Fundamental attribution error is:",
+    "question": "When a driver cuts her off, Mina thinks “what a rude person,” ignoring a possible emergency rush. Her social-psych friend calls out the overweighting of disposition over situation. Fundamental attribution error is which bias?",
     "options": [
       "Overemphasizing situational causes for others’ behavior always",
       "Over-weighting others’ dispositions while under-weighting situations.",
@@ -2646,7 +2646,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.4",
-    "question": "Asch’s line studies primarily demonstrated:",
+    "question": "In a recreation of Asch’s setup, Omar hears several confederates give the wrong line-length answer. Before his turn he feels clear pressure to match the group despite seeing the correct line. Asch’s line studies primarily demonstrated which effect?",
     "options": [
       "Obedience to harmful authority shocks",
       "Conformity to a group’s wrong perceptual judgments",
@@ -2667,7 +2667,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.4",
-    "question": "Milgram’s obedience research most controversially showed:",
+    "question": "Documentary night shows participants continuing to deliver what they believe are painful shocks. An experimenter in a lab coat insists they continue, and many obey farther than expected. Milgram’s obedience research most controversially showed which finding?",
     "options": [
       "People never obey authority when orders conflict with personal morals.",
       "Many delivered what they believed were severe shocks under authority pressure.",
@@ -2688,7 +2688,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.3",
-    "question": "Cognitive dissonance is discomfort from:",
+    "question": "Eco-club member Riley publicly argues for zero waste but keeps buying single-use bottles. The mismatch creates unease, and Riley later changes either the habit or the attitude. Cognitive dissonance is discomfort from which conflict?",
     "options": [
       "Holding inconsistent cognitions or behaviors, often motivating change to reduce discomfort.",
       "Maintaining perfect consistency among attitudes and actions in every situation.",
@@ -2751,7 +2751,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.4",
-    "question": "Which social-influence matches are correct? (Select all that apply.)",
+    "question": "A social-influence unit pairs conformity, compliance, and obedience examples from dorm life and lab classics. Which social-influence matches are correct? (Select all that apply.)",
     "options": [
       "Conformity: yielding to group pressure/norms",
       "Compliance: agreeing to a direct request",
@@ -2812,7 +2812,7 @@
     "chapter": 12,
     "level": 5,
     "section": "§12.5–12.7",
-    "question": "Which intergroup/prosocial statements fit? (Select all that apply.)",
+    "question": "After a campus bias workshop, students discuss stereotypes, prejudice, discrimination, and bystander effects using recent hallway incidents. Which intergroup/prosocial statements fit? (Select all that apply.)",
     "options": [
       "In-group bias favors one’s own group.",
       "Scapegoating blames out-groups for problems.",
@@ -2842,7 +2842,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.1",
-    "question": "I-O psychology primarily applies psychology to:",
+    "question": "A consulting firm hires Dr. Nguyen to improve hiring, training, and team climate at a logistics company—classic applied workplace psychology. I-O psychology primarily applies psychology to:",
     "options": [
       "Only childhood attachment classifications from the Strange Situation procedure.",
       "Workplace behavior: selection, performance, and organizational life.",
@@ -2863,7 +2863,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.2",
-    "question": "Job analysis is used mainly to:",
+    "question": "Before rewriting a job ad, HR analyst Chris shadows warehouse leads and lists tasks and KSAOs. The write-up documents what “successful performance” requires for selection and training. Job analysis is used mainly to do which task?",
     "options": [
       "Identify tasks and KSAOs for a job to guide selection and performance appraisal.",
       "Measure REM cycles of employees as the main basis for promotion decisions.",
@@ -2884,7 +2884,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.2",
-    "question": "Structured interviews typically improve selection by:",
+    "question": "Two firms hire for the same role: Firm A uses unstructured chats; Firm B uses the same scored questions. Candidates notice Firm B feels more consistent from interview to interview. Structured interviews typically improve selection by which mechanism?",
     "options": [
       "Asking different random questions to each applicant with no scoring rubric",
       "Job-related questions asked consistently with standardized scoring.",
@@ -2905,7 +2905,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.3",
-    "question": "Organizational commitment and job satisfaction research most often links to:",
+    "question": "Annual survey data at a hospital link higher job satisfaction and organizational commitment to lower quit rates. Nurse managers discuss how those attitudes relate to retention. Organizational commitment and job satisfaction research most often links to which outcomes?",
     "options": [
       "Random unrelated moods that have no meaning for workplace outcomes at all.",
       "Employee attitudes linked to retention, performance contexts, and well-being themes.",
@@ -2926,7 +2926,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.3",
-    "question": "Transactional vs transformational leadership—best sketch?",
+    "question": "Manager Adele trades rewards for meeting quotas in a transactional style. Manager Bao inspires a shared vision and challenges staff to grow in a transformational style. Transactional vs transformational leadership—which sketch is best?",
     "options": [
       "Transactional: inspire via vision/charisma only; transformational: exchange rewards for performance only",
       "Transactional = reward exchange; transformational = inspire/stimulate/consider.",
@@ -2989,7 +2989,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.1–13.2",
-    "question": "Which industrial psychology tasks fit? (Select all that apply.)",
+    "question": "An I-O intern’s checklist covers job analysis, selection validation, and training needs assessment before a plant expansion. Which industrial psychology tasks fit? (Select all that apply.)",
     "options": [
       "Job analysis",
       "Designing selection systems",
@@ -3049,7 +3049,7 @@
     "chapter": 13,
     "level": 5,
     "section": "§13.4",
-    "question": "Which human-factors claims are sound? (Select all that apply.)",
+    "question": "Safety walk-through lists display design, workload, and accident prevention as human-factors goals. Which human-factors claims are sound? (Select all that apply.)",
     "options": [
       "Poor design can increase human error.",
       "Displays/controls should match human perceptual-motor limits.",
@@ -3079,7 +3079,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.1",
-    "question": "Lazarus’s cognitive appraisal view says stress depends heavily on:",
+    "question": "Two students get the same midterm grade. One appraises it as a disaster they cannot handle; the other sees it as tough but manageable with a new plan—and they report very different stress. Lazarus’s cognitive appraisal view says stress depends heavily on which process?",
     "options": [
       "Only the objective event, never interpretation",
       "How the person evaluates threat and coping resources.",
@@ -3100,7 +3100,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.1",
-    "question": "Selye’s General Adaptation Syndrome stages are:",
+    "question": "A stress lecture walks through lab animals (and human analogies) under prolonged threat. The pattern moves through alarm, resistance, and eventual exhaustion—Selye’s sketch. Selye’s General Adaptation Syndrome stages are which sequence?",
     "options": [
       "Alarm → resistance → exhaustion",
       "Denial → anger → bargaining only",
@@ -3121,7 +3121,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.2",
-    "question": "Daily hassles research suggests:",
+    "question": "Office worker Theo lists tiny chronic irritants—late trains, inbox pileups, noisy neighbors. He notices they wear him down as much as rare big crises do. Daily hassles research suggests which claim?",
     "options": [
       "Only major catastrophes—not everyday irritations—can create measurable stress.",
       "Cumulative minor stressors can significantly affect well-being over time.",
@@ -3142,7 +3142,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.3",
-    "question": "Psychoneuroimmunology most directly links:",
+    "question": "A health-psych seminar links chronic stress hormones to changes in immune markers in caregivers. Students are asked what interdisciplinary field most directly studies that bridge. Psychoneuroimmunology most directly links which domains?",
     "options": [
       "Personality trait scores directly to shoe size in large survey samples.",
       "Psychological stress processes to nervous-system and immune functioning.",
@@ -3163,7 +3163,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.4",
-    "question": "Problem-focused coping aims to:",
+    "question": "Before finals, Maya makes a revision timetable and emails professors about deadlines. She is changing the stressor itself rather than only venting feelings. Problem-focused coping aims to do which thing?",
     "options": [
       "Change the emotional reaction only, never the problem",
       "Acting to change the stressor or one’s relation to it.",
@@ -3226,7 +3226,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.1–14.2",
-    "question": "Which stress concepts are accurate? (Select all that apply.)",
+    "question": "Stress unit students map primary/secondary appraisal, GAS stages, and hassles onto a shared “exam week” story. Which stress concepts are accurate? (Select all that apply.)",
     "options": [
       "Primary appraisal: is it a threat/challenge?",
       "Secondary appraisal: what can I do / what resources do I have?",
@@ -3286,7 +3286,7 @@
     "chapter": 14,
     "level": 5,
     "section": "§14.3–14.5",
-    "question": "Which health-psychology statements are sound? (Select all that apply.)",
+    "question": "Health-psych fair covers stress–illness links, coping, and positive psychology booths. Which health-psychology statements are sound? (Select all that apply.)",
     "options": [
       "Chronic stress can relate to health vulnerability.",
       "Hostility components of Type A drew special heart-risk attention.",
@@ -3316,7 +3316,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.1–15.2",
-    "question": "The DSM is primarily used to:",
+    "question": "In clinic intake, a psychiatrist opens a manual to match symptom clusters to standardized labels. The goal is clearer communication and research—not a full childhood explanation by itself. The DSM is primarily used to do which task?",
     "options": [
       "Measure IQ only",
       "Classify/diagnose mental disorders with criteria",
@@ -3337,7 +3337,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.4",
-    "question": "Specific phobia involves:",
+    "question": "Client Ana plans her whole day around avoiding bridges after a panic-like episode on one. She knows the fear is excessive yet feels unable to ride across. Specific phobia involves which pattern?",
     "options": [
       "Excessive fear of a specific object/situation with avoidance",
       "Only manic episodes",
@@ -3358,7 +3358,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.7",
-    "question": "Major depressive episode core features include:",
+    "question": "For three weeks, Jordan has pervasive low mood, loss of interest in soccer, sleep change, and worthless thoughts. Classes are impaired, and the intake team checks major depressive episode features. Major depressive episode core features include which signs?",
     "options": [
       "Only brief sadness lasting minutes with high mania",
       "Persistent depressed mood and/or anhedonia with other key symptoms.",
@@ -3379,7 +3379,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.8",
-    "question": "Schizophrenia is characterized especially by:",
+    "question": "Family members bring Leo to emergency care after weeks of hearing voices commenting on his actions. He firmly believes a neighbor controls his thoughts, and self-care has declined. Schizophrenia is characterized especially by which features?",
     "options": [
       "Only chronic worry about many topics without psychotic features required.",
       "Delusions/hallucinations and disorganization, often with negative symptoms.",
@@ -3400,7 +3400,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.6",
-    "question": "PTSD requires:",
+    "question": "Months after a serious car crash, Priya has intrusive memories, avoidance of driving, and hypervigilance. Negative mood changes stay tied to that trauma in follow-up sessions. PTSD requires which elements?",
     "options": [
       "Trauma plus intrusion, avoidance, mood/cognition, and arousal symptoms over time.",
       "Only one unpleasant dream with no other lasting symptom clusters afterward.",
@@ -3463,7 +3463,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.4–15.6",
-    "question": "Which anxiety-related matches are correct? (Select all that apply.)",
+    "question": "Anxiety-disorders workshop stations cover phobia, panic, GAD, and OCD with short client sketches. Teams must mark which disorder–feature matches are correct. Which anxiety-related matches are correct? (Select all that apply.)",
     "options": [
       "Panic disorder: recurrent unexpected panic attacks + concern/change",
       "GAD: persistent excessive worry across domains",
@@ -3524,7 +3524,7 @@
     "chapter": 15,
     "level": 5,
     "section": "§15.1–15.3",
-    "question": "Which classification/etiology claims fit OpenStax framing? (Select all that apply.)",
+    "question": "A case formulation seminar debates DSM labeling, stigma, and diathesis–stress using one intake file. Which classification/etiology claims fit OpenStax framing? (Select all that apply.)",
     "options": [
       "Disorders involve dysfunction, distress/disability themes—not mere uniqueness.",
       "Comorbidity means co-occurrence of disorders.",
@@ -3554,7 +3554,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.1",
-    "question": "Historically, asylums often emphasized:",
+    "question": "A history module shows nineteenth-century asylum images focused on custody and isolation. Community recovery is barely visible, prompting discussion of what those institutions emphasized. Historically, asylums often emphasized which priorities?",
     "options": [
       "Community outpatient CBT as the first universal standard",
       "Custodial confinement more than modern evidence-based psychotherapy.",
@@ -3575,7 +3575,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.2",
-    "question": "Cognitive therapy most directly targets:",
+    "question": "Therapist Kim helps a client catch “I’m a total failure” thoughts after a B grade. They test the evidence together and generate more balanced alternatives. Cognitive therapy most directly targets which processes?",
     "options": [
       "Only unconscious dream symbols",
       "Maladaptive thoughts/beliefs that maintain distress",
@@ -3596,7 +3596,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.2",
-    "question": "Systematic desensitization is primarily a treatment for:",
+    "question": "For bridge phobia, a clinician pairs gradual imaginal then in vivo exposure with relaxation. The protocol is presented as systematic desensitization in supervision. Systematic desensitization is primarily a treatment for which problems?",
     "options": [
       "Mania via sleep deprivation",
       "Phobias/anxiety via gradual exposure paired with relaxation.",
@@ -3617,7 +3617,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.2",
-    "question": "SSRIs are examples of:",
+    "question": "A psychiatrist discusses first-line meds that increase serotonin availability for a client with depression. The client asks what drug class those pills belong to in the textbook. SSRIs are examples of which category?",
     "options": [
       "Humanistic empty-chair techniques",
       "Biomedical / psychopharmacological treatments",
@@ -3638,7 +3638,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.2",
-    "question": "Rogers’s client-centered therapy emphasizes:",
+    "question": "In a recorded session, Dr. Hale offers unconditional positive regard, empathy, and genuineness. The client leads topics while the therapist stays non-directive—Rogers’s approach. Rogers’s client-centered therapy emphasizes which conditions?",
     "options": [
       "Unconditional positive regard, empathy, and genuineness",
       "Aversive shock for all clients",
@@ -3701,7 +3701,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.2",
-    "question": "Which therapy–target matches are reasonable? (Select all that apply.)",
+    "question": "A treatment-planning meeting matches CBT, exposure, SSRIs, and humanistic stance to different presenting problems. Which therapy–target matches are reasonable? (Select all that apply.)",
     "options": [
       "CBT: thoughts, behaviors, and emotions interplay",
       "Behavioral therapy: contingencies, exposure, skills",
@@ -3762,7 +3762,7 @@
     "chapter": 16,
     "level": 5,
     "section": "§16.3–16.5",
-    "question": "Which sociocultural/utilization statements fit? (Select all that apply.)",
+    "question": "A community mental-health panel discusses family therapy, cultural competence, involuntary care, and stigma. Students must select which utilization statements fit the chapter. Which sociocultural/utilization statements fit? (Select all that apply.)",
     "options": [
       "Family therapy treats the system, not only one identified patient in isolation.",
       "Cultural competence matters for engagement and formulation.",
