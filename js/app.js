@@ -377,9 +377,10 @@
 
     function hasLevel(level) {
       var ch = chapterForLevelCheck();
+      var lv = Number(level);
       return allQ.some(function (q) {
-        if (q.level !== level) return false;
-        if (ch != null && q.chapter !== ch) return false;
+        if (Number(q.level) !== lv) return false;
+        if (ch != null && Number(q.chapter) !== Number(ch)) return false;
         return true;
       });
     }
@@ -445,10 +446,10 @@
 
     function rebuildPool() {
       var filtered = allQ.filter(function (q) {
-        if (q.level !== state.level) return false;
-        if (state.chapter !== "all" && q.chapter !== parseInt(state.chapter, 10))
+        if (Number(q.level) !== Number(state.level)) return false;
+        if (state.chapter !== "all" && Number(q.chapter) !== parseInt(state.chapter, 10))
           return false;
-        if (cfg.chapterFilter != null && q.chapter !== cfg.chapterFilter)
+        if (cfg.chapterFilter != null && Number(q.chapter) !== Number(cfg.chapterFilter))
           return false;
         return true;
       });
